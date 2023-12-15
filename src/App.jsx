@@ -3,7 +3,7 @@ import all from "./assets/data/all.json";
 
 function Category(props) {
   return (
-    <div id={props.id} className="card">
+    <div id={props.id} className="card" onClick={handleClick}>
       <div className="cat-header">
         <div>{props.id}</div>
         <div>{props.name}</div>
@@ -12,8 +12,8 @@ function Category(props) {
   );
 }
 
-function handleClick(e,id) {
-  console.log(c.currentTarget,id);
+function handleClick(e) {
+  console.log(e.currentTarget,e.currentTarget.getAttribute('id'));
 }
 
 function App() {
@@ -23,9 +23,7 @@ function App() {
   for (var i = 0; i < categories.length; i++) {
     elems[i] = <Category id={categories[i].id} name={categories[i].name} />;
   }
-  document.querySelectorAll('.card').forEach(function f(c){
-    c.addEventListener("click",handleClick(c,c.id))
-  });
+
   return <div className="cats">{elems}</div>;
 }
 
