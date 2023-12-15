@@ -1,0 +1,812 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "i": 1,
+      "positionIndex": 1,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "مرحبا",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 4,
+      "time": null
+    },
+    {
+      "id": 2,
+      "i": 7,
+      "positionIndex": 7,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "الأسرة",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 3,
+      "i": 5,
+      "positionIndex": 5,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "‫البلدان واللغات‬",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 4,
+      "i": 14,
+      "positionIndex": 14,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "الرومانسية",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 5,
+      "i": 8,
+      "positionIndex": 8,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "الطعام والمشروبات",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 6,
+      "i": 15,
+      "positionIndex": 15,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "الطقس",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 7,
+      "i": 11,
+      "positionIndex": 11,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "السفر",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 8,
+      "i": 19,
+      "positionIndex": 19,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "‫أنشطة العطلات‬",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 9,
+      "i": 34,
+      "positionIndex": 34,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "‫الإعداد للسفر‬",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 10,
+      "i": 20,
+      "positionIndex": 20,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "‫المواصلات العامة",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 11,
+      "i": 16,
+      "positionIndex": 16,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "الحيوانات",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 12,
+      "i": 30,
+      "positionIndex": 30,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "الترفيه",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 13,
+      "i": 23,
+      "positionIndex": 23,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "‫التسوق‬",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 14,
+      "i": 13,
+      "positionIndex": 13,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "‫فى البيت‬",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 15,
+      "i": 10,
+      "positionIndex": 10,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "قواعد 1",
+      "countLesson": 6,
+      "countDialogue": 0,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 16,
+      "i": 31,
+      "positionIndex": 31,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "قواعد 2",
+      "countLesson": 6,
+      "countDialogue": 0,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 17,
+      "i": 39,
+      "positionIndex": 39,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "قواعد 3",
+      "countLesson": 6,
+      "countDialogue": 0,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 22,
+      "i": 3,
+      "positionIndex": 3,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "المفردات الأساسية",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 23,
+      "i": 12,
+      "positionIndex": 12,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "المدرسة",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 24,
+      "i": 21,
+      "positionIndex": 21,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "‫الرياضة‬",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 25,
+      "i": 22,
+      "positionIndex": 22,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "مقدمات",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 26,
+      "i": 29,
+      "positionIndex": 29,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "في المطار",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 27,
+      "i": 36,
+      "positionIndex": 36,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "في الطائرة",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 28,
+      "i": 17,
+      "positionIndex": 17,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "الفندق|الحجز",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 29,
+      "i": 18,
+      "positionIndex": 18,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "الفندق|في الغرفه",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 30,
+      "i": 24,
+      "positionIndex": 24,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "مطعم 1‬",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 31,
+      "i": 25,
+      "positionIndex": 25,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "مطعم 2‬",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 34,
+      "i": 27,
+      "positionIndex": 27,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "‫زيارة المدينة‬",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 35,
+      "i": 32,
+      "positionIndex": 32,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "مصرف",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 36,
+      "i": 40,
+      "positionIndex": 40,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "التجارة",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 37,
+      "i": 26,
+      "positionIndex": 26,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "الترفيه",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 38,
+      "i": 28,
+      "positionIndex": 28,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "!النجده",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 39,
+      "i": 37,
+      "positionIndex": 37,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "الطواريء",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 40,
+      "i": 33,
+      "positionIndex": 33,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "‫عند الطبيب‬",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 1,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 88,
+      "i": 6,
+      "positionIndex": 6,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "الأشياء والأرقام",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 0,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 89,
+      "i": 9,
+      "positionIndex": 9,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "الوقت والتقويم",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 0,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 90,
+      "i": 35,
+      "positionIndex": 35,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "وضع الخطط",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 0,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    },
+    {
+      "id": 91,
+      "i": 38,
+      "positionIndex": 38,
+      "customIndex": null,
+      "progressType": 1,
+      "uiModifiers": {
+        "learningUnitNamesAndIndex": true,
+        "vocabularyRecapSubtitle": true
+      },
+      "modifiers": null,
+      "name": "تجارب الماضي",
+      "countLesson": 6,
+      "countDialogue": 1,
+      "countVocabulary": 1,
+      "countOxfordTest": 0,
+      "countReviewLesson": 0,
+      "disabled": false,
+      "countDone": 0,
+      "time": null
+    }
+  ],
+  "category-bot": {
+    "id": 1,
+    "countTotal": "8",
+    "countDone": 0,
+    "countFree": "1"
+  },
+  "category-periodic": {
+    "id": 1,
+    "todayDone": false
+  }
+}

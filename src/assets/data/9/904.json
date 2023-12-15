@@ -1,0 +1,4434 @@
+{
+  "lesson": {
+    "id": 904,
+    "index": 4,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 9,
+    "categoryID": 9,
+    "name": "رحلة شتوية",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 24,
+    "countWords": 13,
+    "countPhrases": 6,
+    "countDone": 0,
+    "quizzes": [
+      654470, 654471, 654472, 654473, 654474, 654475, 654476, 654477, 654478,
+      654479, 654480, 654481, 654482, 654483, 654484, 654485, 654486, 654487,
+      654488, 654489, 654490, 654491, 654492, 654493
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 654470,
+      "lesson": 904,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 24349,
+      "alternates": [14160],
+      "sols": [
+        {
+          "key": "8zaNxARftVyYGcA-clTvsbGaKQLeAkgc",
+          "audio_updated_at": 1688291281,
+          "text": "يتزلج على الجليد"
+        },
+        {
+          "key": "9aY0qExyOEOlBg2A66KCL6cP5KdiORst",
+          "audio_updated_at": 1639519893,
+          "text": "يتزلج"
+        }
+      ],
+      "alts": [
+        {
+          "key": "8zaNxARftVyYGcA-clTvsbGaKQLeAkgc",
+          "audio_updated_at": 1688291281,
+          "text": "to ice-skate",
+          "phonetic": "",
+          "image": "RaZ7sSUtAHWDhwszezOQTQWz_YZ-vl07",
+          "image_updated_at": 1689159254
+        },
+        {
+          "key": "9aY0qExyOEOlBg2A66KCL6cP5KdiORst",
+          "audio_updated_at": 1639519893,
+          "image": "58Zhy8apIHKNCZU5ALcs_Rd-MbTbNahn",
+          "image_updated_at": 1689158972,
+          "text": "to ski",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654471,
+      "lesson": 904,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 17943,
+      "alternates": [23965],
+      "sols": [
+        {
+          "key": "qBAfXLalfhhlWLd9SvpD0UkB1o6yI6n7",
+          "audio_updated_at": 1688290852,
+          "text": "رياضة"
+        },
+        {
+          "key": "8eqEBkYBVwRbilTZI-FRONiTnEOdRXOa",
+          "audio_updated_at": 1543437852,
+          "text": "شتاء"
+        }
+      ],
+      "alts": [
+        {
+          "key": "qBAfXLalfhhlWLd9SvpD0UkB1o6yI6n7",
+          "audio_updated_at": 1688290852,
+          "image": "ySh5KkNyYrb14_-pU8gPKqZbkYvunB8n",
+          "image_updated_at": 1689159227,
+          "text": "sport",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "8eqEBkYBVwRbilTZI-FRONiTnEOdRXOa",
+          "audio_updated_at": 1543437852,
+          "text": "winter",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "N185TOWmPXOKaQ9BxRmnLibwuyorC9C3",
+          "image_updated_at": 1689159095
+        }
+      ]
+    },
+    {
+      "id": 654472,
+      "lesson": 904,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 24350,
+      "alternates": [17943],
+      "tokens": [
+        {
+          "key": "twFZ0BzQ8bc",
+          "text": "sports.",
+          "raw": { "text": "sports", "location": 14, "length": 6 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t5VVlaLkxfU",
+          "text": "this",
+          "raw": { "text": "this", "location": 16, "length": 4 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tsaaj7bBZ_R",
+          "text": "I",
+          "raw": { "text": "I", "location": 11, "length": 1 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tegtHMSwJTC",
+          "text": "do",
+          "raw": { "text": "do", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tEA6M0rjSHa",
+          "text": "What",
+          "raw": { "text": "What", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tkRe84Rhkaj",
+          "text": "like",
+          "raw": { "text": "like", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "t4crIm-08Ay",
+          "text": "could",
+          "raw": { "text": "could", "location": 5, "length": 5 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tnpHUT_ns8b",
+          "text": "winter?",
+          "raw": { "text": "winter", "location": 21, "length": 6 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "?", "location": 27, "length": 1 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tEA6M0rjSHa",
+        "t4crIm-08Ay",
+        "tsaaj7bBZ_R",
+        "tegtHMSwJTC",
+        "t5VVlaLkxfU",
+        "tnpHUT_ns8b"
+      ],
+      "completeToken": "tnpHUT_ns8b",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "nJ7Pky2pZBkLsrwyzBMNUptHdbma8Qfz",
+          "audio_updated_at": 1688291282,
+          "text": "ماذا أستطيع أن أفعل هذا الشتاء؟",
+          "dictionary": [
+            {
+              "raw": "ماذا",
+              "translations": [
+                { "type": "dictionary", "text": "What", "phonetic": "What" }
+              ]
+            },
+            {
+              "raw": "أستطيع",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "أفعل",
+              "translations": [
+                { "type": "dictionary", "text": "I do", "phonetic": "I do" }
+              ]
+            },
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "this", "phonetic": "this" }
+              ]
+            },
+            {
+              "raw": "الشتاء",
+              "translations": [
+                { "type": "dictionary", "text": "winter", "phonetic": "winter" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "ماذا", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أستطيع", "location": 5, "length": 6 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 12, "length": 2 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "أفعل", "location": 15, "length": 4 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            },
+            {
+              "raw": { "text": "هذا", "location": 20, "length": 3 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            },
+            {
+              "raw": { "text": "الشتاء", "location": 24, "length": 6 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "؟", "location": 30, "length": 1 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "nJ7Pky2pZBkLsrwyzBMNUptHdbma8Qfz",
+          "audio_updated_at": 1688291282,
+          "text": "What could I do this winter?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654473,
+      "lesson": 904,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 17199,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tgI1qSuf2xt",
+          "text": "تحب",
+          "raw": { "text": "تحب", "location": 5, "length": 3 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "t4jxFk2A8Ly",
+          "text": "ما",
+          "raw": { "text": "ما", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tc170QiKRAs",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 9, "length": 2 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tWckRsiJjiL",
+          "text": "ماذا",
+          "raw": { "text": "ماذا", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tAJKTkHMYV8",
+          "text": "كتابك",
+          "raw": { "text": "كتابك", "location": 3, "length": 5 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tZm6NI8tyca",
+          "text": "تفعل؟",
+          "raw": { "text": "تفعل", "location": 12, "length": 4 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "؟", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tmrK4MqhqOV",
+          "text": "المفضل؟",
+          "raw": { "text": "المفضل", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "؟", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tWckRsiJjiL", "tgI1qSuf2xt", "tc170QiKRAs", "tZm6NI8tyca"],
+      "sols": [
+        {
+          "key": "RvnIBduVZwicFtoVxyoBlRD2tuz4qoV8",
+          "audio_updated_at": 1543439454,
+          "text": "What do you like to do?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "What",
+              "translations": [
+                { "type": "dictionary", "text": "ماذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "do",
+              "translations": [
+                { "type": "dictionary", "text": "تفعل", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "you",
+              "translations": [
+                { "type": "dictionary", "text": "أن", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "like",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to like",
+                    "m": "يعجب",
+                    "phonetic": "to like"
+                  },
+                  "id": 55,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "CZ11KLNIIQz1-wQ050pStug_G6gnw76v",
+                          "text": "I like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438281
+                        },
+                        "m": { "text": "أنا أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438282
+                        },
+                        "m": { "text": "أنت تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "8pa24QiVNcHXrWq1YIY-9mmS66wqDarm",
+                          "text": "He likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438283
+                        },
+                        "m": { "text": "هو يعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_",
+                          "text": "She likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438285
+                        },
+                        "m": { "text": "هي تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f",
+                          "text": "We like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438287
+                        },
+                        "m": { "text": "نحن نعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "lvDR6EetmqeHLFLndSaB8uhBtftJSpHp",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547854
+                        },
+                        "m": { "text": "أنتم تعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB",
+                          "text": "They like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438289
+                        },
+                        "m": { "text": "هم يعجبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN",
+                          "text": "I liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547856
+                        },
+                        "m": { "text": "أنا أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "fw72VYXGPg6eiRTJmMzdswfCheHwivGm",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547857
+                        },
+                        "m": { "text": "أنت أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "yTwI6DTT4suslTuf_q6FGLikaKxg5-_2",
+                          "text": "He liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547858
+                        },
+                        "m": { "text": "هو أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "V28glyoN5Q99QV_JtoJpkkPxNiFosIa6",
+                          "text": "She liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547859
+                        },
+                        "m": { "text": "هي أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ciFdGkCIocX27--2HnmHtAG0BTB--L7j",
+                          "text": "We liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547861
+                        },
+                        "m": { "text": "نحن أعجبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547862
+                        },
+                        "m": { "text": "أنتم أعجبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI",
+                          "text": "They liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547863
+                        },
+                        "m": { "text": "هم أعجبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV",
+                          "text": "I will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547865
+                        },
+                        "m": { "text": "أنا سأعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547866
+                        },
+                        "m": { "text": "أنت ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5",
+                          "text": "He will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547867
+                        },
+                        "m": { "text": "هو سيعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK",
+                          "text": "She will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547868
+                        },
+                        "m": { "text": "هي ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r",
+                          "text": "We will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547870
+                        },
+                        "m": { "text": "نحن سنعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547871
+                        },
+                        "m": { "text": "أنتم ستعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC",
+                          "text": "They will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547872
+                        },
+                        "m": { "text": "هم سيعجبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "do",
+              "translations": [
+                { "type": "dictionary", "text": "تفعل", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "What", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "do", "location": 5, "length": 2 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "you", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "like", "location": 12, "length": 4 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "to", "location": 17, "length": 2 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            },
+            {
+              "raw": { "text": "do", "location": 20, "length": 2 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": "?", "location": 22, "length": 1 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "RvnIBduVZwicFtoVxyoBlRD2tuz4qoV8",
+          "audio_updated_at": 1543439454,
+          "text": "ماذا تحب أن تفعل؟"
+        }
+      ]
+    },
+    {
+      "id": 654474,
+      "lesson": 904,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23965,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "thEirkVOxqo",
+          "text": "Do",
+          "raw": { "text": "Do", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tBLfvJXXLB7",
+          "text": "see",
+          "raw": { "text": "see", "location": 15, "length": 3 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "t8ACb4xLnxA",
+          "text": "you",
+          "raw": { "text": "you", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tmqrxncxGDU",
+          "text": "a",
+          "raw": { "text": "a", "location": 19, "length": 1 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tQpRIq7u_Dw",
+          "text": "to",
+          "raw": { "text": "to", "location": 12, "length": 2 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tuaIqPLGaT2",
+          "text": "want",
+          "raw": { "text": "want", "location": 7, "length": 4 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tBGZ8Phbhfy",
+          "text": "sport",
+          "raw": { "text": "sport", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tZGEsPNxQ3v",
+          "text": "football",
+          "raw": { "text": "football", "location": 21, "length": 8 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "", "location": 29, "length": 0 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tBGZ8Phbhfy"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "qBAfXLalfhhlWLd9SvpD0UkB1o6yI6n7",
+          "audio_updated_at": 1688290852,
+          "text": "رياضة",
+          "dictionary": [
+            {
+              "raw": "رياضة",
+              "translations": [
+                { "type": "dictionary", "text": "sport", "phonetic": "sport" }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "رياضة", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "qBAfXLalfhhlWLd9SvpD0UkB1o6yI6n7",
+          "audio_updated_at": 1688290852,
+          "text": "sport",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654475,
+      "lesson": 904,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 24351,
+      "alternates": [23965, 17943],
+      "tokens": [
+        {
+          "key": "tuEeurCVbGK",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t3JeJ1x_ASC",
+          "text": "winter",
+          "raw": { "text": "winter", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tyz9x1yK9oo",
+          "text": "home.",
+          "raw": { "text": "home", "location": 12, "length": 4 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": ".", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tTz3JlXhY74",
+          "text": "sports.",
+          "raw": { "text": "sports", "location": 14, "length": 6 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tU-EvLfIt_i",
+          "text": "work",
+          "raw": { "text": "work", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "t9IjIUbU9CK",
+          "text": "from",
+          "raw": { "text": "from", "location": 7, "length": 4 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "txfItAjFzY4",
+          "text": "like",
+          "raw": { "text": "like", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tuEeurCVbGK", "txfItAjFzY4", "t3JeJ1x_ASC", "tTz3JlXhY74"],
+      "completeToken": "tTz3JlXhY74",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "cGp2QEZrt0FEuOBfuO1HgRYDoO1re-IM",
+          "audio_updated_at": 1688291284,
+          "text": "أنا أحب رياضات الشتاء.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحب",
+              "translations": [
+                { "type": "dictionary", "text": "like", "phonetic": "like" },
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "رياضات",
+              "translations": [
+                { "type": "dictionary", "text": "sports", "phonetic": "sports" }
+              ]
+            },
+            {
+              "raw": "الشتاء",
+              "translations": [
+                { "type": "dictionary", "text": "winter", "phonetic": "winter" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحب", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "رياضات", "location": 8, "length": 6 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "الشتاء", "location": 15, "length": 6 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "cGp2QEZrt0FEuOBfuO1HgRYDoO1re-IM",
+          "audio_updated_at": 1688291284,
+          "text": "I like winter sports.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654476,
+      "lesson": 904,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 24349,
+      "alternates": [14160, 17943, 23965],
+      "sols": [
+        {
+          "key": "8zaNxARftVyYGcA-clTvsbGaKQLeAkgc",
+          "audio_updated_at": 1688291281,
+          "text": "يتزلج على الجليد"
+        },
+        { "key": "9aY0qExyOEOlBg2A66KCL6cP5KdiORst", "text": "يتزلج" },
+        { "key": "qBAfXLalfhhlWLd9SvpD0UkB1o6yI6n7", "text": "رياضة" },
+        { "key": "8eqEBkYBVwRbilTZI-FRONiTnEOdRXOa", "text": "شتاء" }
+      ],
+      "alts": [
+        {
+          "key": "8zaNxARftVyYGcA-clTvsbGaKQLeAkgc",
+          "audio_updated_at": 1688291281,
+          "text": "to ice-skate",
+          "phonetic": "",
+          "image": "RaZ7sSUtAHWDhwszezOQTQWz_YZ-vl07",
+          "image_updated_at": 1689159254
+        },
+        {
+          "key": "9aY0qExyOEOlBg2A66KCL6cP5KdiORst",
+          "audio_updated_at": 1639519893,
+          "text": "to ski",
+          "phonetic": "",
+          "image": "58Zhy8apIHKNCZU5ALcs_Rd-MbTbNahn",
+          "image_updated_at": 1689158972
+        },
+        {
+          "key": "qBAfXLalfhhlWLd9SvpD0UkB1o6yI6n7",
+          "audio_updated_at": 1688290852,
+          "text": "sport",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "ySh5KkNyYrb14_-pU8gPKqZbkYvunB8n",
+          "image_updated_at": 1689159227
+        },
+        {
+          "key": "8eqEBkYBVwRbilTZI-FRONiTnEOdRXOa",
+          "audio_updated_at": 1543437852,
+          "text": "winter",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "N185TOWmPXOKaQ9BxRmnLibwuyorC9C3",
+          "image_updated_at": 1689159095
+        }
+      ]
+    },
+    {
+      "id": 654477,
+      "lesson": 904,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 24352,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tNDwfL72Yr9",
+          "text": "الجليد.",
+          "raw": { "text": "الجليد", "location": 21, "length": 6 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": ".", "location": 27, "length": 1 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "tHZzgJ7lH5u",
+          "text": "تستطيع",
+          "raw": { "text": "تستطيع", "location": 3, "length": 6 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tp57vIAlXjF",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 8, "length": 2 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tWtAJw5B28w",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tthiaIrnr1M",
+          "text": "أتزلج",
+          "raw": { "text": "أتزلج", "location": 11, "length": 5 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tY0KhTTmCaO",
+          "text": "على",
+          "raw": { "text": "على", "location": 17, "length": 3 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "tLdvlIH77Ai",
+          "text": "أحب",
+          "raw": { "text": "أحب", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tts3jY-4GyM",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tts3jY-4GyM",
+        "tLdvlIH77Ai",
+        "tp57vIAlXjF",
+        "tthiaIrnr1M",
+        "tY0KhTTmCaO",
+        "tNDwfL72Yr9"
+      ],
+      "sols": [
+        {
+          "key": "TblA0mk1o1QltgXXbJuJv-zeeQVVKnsp",
+          "audio_updated_at": 1688291285,
+          "text": "I like to ice-skate.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "like",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to like",
+                    "m": "يعجب",
+                    "phonetic": "to like"
+                  },
+                  "id": 55,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "CZ11KLNIIQz1-wQ050pStug_G6gnw76v",
+                          "text": "I like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438281
+                        },
+                        "m": { "text": "أنا أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438282
+                        },
+                        "m": { "text": "أنت تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "8pa24QiVNcHXrWq1YIY-9mmS66wqDarm",
+                          "text": "He likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438283
+                        },
+                        "m": { "text": "هو يعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_",
+                          "text": "She likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438285
+                        },
+                        "m": { "text": "هي تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f",
+                          "text": "We like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438287
+                        },
+                        "m": { "text": "نحن نعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "lvDR6EetmqeHLFLndSaB8uhBtftJSpHp",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547854
+                        },
+                        "m": { "text": "أنتم تعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB",
+                          "text": "They like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438289
+                        },
+                        "m": { "text": "هم يعجبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN",
+                          "text": "I liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547856
+                        },
+                        "m": { "text": "أنا أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "fw72VYXGPg6eiRTJmMzdswfCheHwivGm",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547857
+                        },
+                        "m": { "text": "أنت أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "yTwI6DTT4suslTuf_q6FGLikaKxg5-_2",
+                          "text": "He liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547858
+                        },
+                        "m": { "text": "هو أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "V28glyoN5Q99QV_JtoJpkkPxNiFosIa6",
+                          "text": "She liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547859
+                        },
+                        "m": { "text": "هي أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ciFdGkCIocX27--2HnmHtAG0BTB--L7j",
+                          "text": "We liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547861
+                        },
+                        "m": { "text": "نحن أعجبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547862
+                        },
+                        "m": { "text": "أنتم أعجبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI",
+                          "text": "They liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547863
+                        },
+                        "m": { "text": "هم أعجبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV",
+                          "text": "I will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547865
+                        },
+                        "m": { "text": "أنا سأعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547866
+                        },
+                        "m": { "text": "أنت ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5",
+                          "text": "He will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547867
+                        },
+                        "m": { "text": "هو سيعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK",
+                          "text": "She will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547868
+                        },
+                        "m": { "text": "هي ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r",
+                          "text": "We will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547870
+                        },
+                        "m": { "text": "نحن سنعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547871
+                        },
+                        "m": { "text": "أنتم ستعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC",
+                          "text": "They will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547872
+                        },
+                        "m": { "text": "هم سيعجبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "to",
+              "translations": [
+                { "type": "dictionary", "text": "على", "phonetic": null }
+              ]
+            },
+            { "raw": "ice-skate", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "like", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "to", "location": 7, "length": 2 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "ice-skate", "location": 10, "length": 9 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "TblA0mk1o1QltgXXbJuJv-zeeQVVKnsp",
+          "audio_updated_at": 1688291285,
+          "text": "أنا أحب أن أتزلج على الجليد."
+        }
+      ]
+    },
+    {
+      "id": 654478,
+      "lesson": 904,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24354,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tqBXsNEpH9e",
+          "text": "You",
+          "raw": { "text": "You", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tHMh0PZU6NY",
+          "text": "pyjamas",
+          "raw": { "text": "pyjamas", "location": 0, "length": 7 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t2GrUh4FuJF",
+          "text": "ice-skate.",
+          "raw": { "text": "ice-skate", "location": 10, "length": 9 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tzvclEpTjIy",
+          "text": "could",
+          "raw": { "text": "could", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tqBXsNEpH9e", "tzvclEpTjIy", "t2GrUh4FuJF"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "FA-erAn0VVtS-HSib0z3gzFac35WLeaF",
+          "audio_updated_at": 1688291287,
+          "text": "أنت تستطيع أن تتزلج على الجليد.",
+          "dictionary": [
+            {
+              "raw": "أنت",
+              "translations": [
+                { "type": "dictionary", "text": "You", "phonetic": "You" }
+              ]
+            },
+            {
+              "raw": "تستطيع",
+              "translations": [
+                { "type": "dictionary", "text": "could", "phonetic": "could" }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            { "raw": "تتزلج", "translations": [] },
+            { "raw": "على", "translations": [] },
+            {
+              "raw": "الجليد",
+              "translations": [
+                { "type": "dictionary", "text": "ice", "phonetic": "ice" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنت", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "تتزلج", "location": 14, "length": 5 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "على", "location": 20, "length": 3 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            },
+            {
+              "raw": { "text": "الجليد", "location": 24, "length": 6 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": ".", "location": 30, "length": 1 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "FA-erAn0VVtS-HSib0z3gzFac35WLeaF",
+          "audio_updated_at": 1688291287,
+          "text": "You could ice-skate.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654479,
+      "lesson": 904,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 14160,
+      "alternates": [17943, 24349, 23965],
+      "sols": [
+        {
+          "key": "9aY0qExyOEOlBg2A66KCL6cP5KdiORst",
+          "audio_updated_at": 1639519893,
+          "text": "يتزلج"
+        },
+        {
+          "key": "8zaNxARftVyYGcA-clTvsbGaKQLeAkgc",
+          "text": "يتزلج على الجليد"
+        },
+        { "key": "qBAfXLalfhhlWLd9SvpD0UkB1o6yI6n7", "text": "رياضة" },
+        { "key": "8eqEBkYBVwRbilTZI-FRONiTnEOdRXOa", "text": "شتاء" }
+      ],
+      "alts": [
+        {
+          "key": "9aY0qExyOEOlBg2A66KCL6cP5KdiORst",
+          "audio_updated_at": 1639519893,
+          "text": "to ski",
+          "phonetic": "",
+          "image": "58Zhy8apIHKNCZU5ALcs_Rd-MbTbNahn",
+          "image_updated_at": 1689158972
+        },
+        {
+          "key": "8zaNxARftVyYGcA-clTvsbGaKQLeAkgc",
+          "audio_updated_at": 1688291281,
+          "text": "to ice-skate",
+          "phonetic": "",
+          "image": "RaZ7sSUtAHWDhwszezOQTQWz_YZ-vl07",
+          "image_updated_at": 1689159254
+        },
+        {
+          "key": "qBAfXLalfhhlWLd9SvpD0UkB1o6yI6n7",
+          "audio_updated_at": 1688290852,
+          "text": "sport",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "ySh5KkNyYrb14_-pU8gPKqZbkYvunB8n",
+          "image_updated_at": 1689159227
+        },
+        {
+          "key": "8eqEBkYBVwRbilTZI-FRONiTnEOdRXOa",
+          "audio_updated_at": 1543437852,
+          "text": "winter",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "N185TOWmPXOKaQ9BxRmnLibwuyorC9C3",
+          "image_updated_at": 1689159095
+        }
+      ]
+    },
+    {
+      "id": 654480,
+      "lesson": 904,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 24353,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tRiGM0hR7je",
+          "text": "لا",
+          "raw": { "text": "لا", "location": 4, "length": 2 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "twftXguxfuv",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 13, "length": 3 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "twBGKfHAQxE",
+          "text": "تتزلج.",
+          "raw": { "text": "تتزلج", "location": 14, "length": 5 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tDfd_T0iJOY",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tEhvinx0FQp",
+          "text": "أنت",
+          "raw": { "text": "أنت", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tl595zZAAAL",
+          "text": "تستطيع",
+          "raw": { "text": "تستطيع", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tvTo9q-AYvL",
+          "text": "أحتاج",
+          "raw": { "text": "أحتاج", "location": 7, "length": 5 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "txsvE9jEKN6",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 11, "length": 2 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tEhvinx0FQp", "tl595zZAAAL", "txsvE9jEKN6", "twBGKfHAQxE"],
+      "sols": [
+        {
+          "key": "h6x9ELbjivgBgG08jS2643w96XiLnDth",
+          "audio_updated_at": 1688291286,
+          "text": "You could ski.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "You",
+              "translations": [
+                { "type": "dictionary", "text": "أنت", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "could",
+              "translations": [
+                { "type": "dictionary", "text": "تستطيع", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "ski",
+              "translations": [
+                { "type": "dictionary", "text": "تتزلج", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "You", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "could", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "ski", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 13, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "h6x9ELbjivgBgG08jS2643w96XiLnDth",
+          "audio_updated_at": 1688291286,
+          "text": "أنت تستطيع أن تتزلج."
+        }
+      ]
+    },
+    {
+      "id": 654481,
+      "lesson": 904,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 17943,
+      "alternates": [],
+      "tokens": [
+        { "key": "t68N0dc9_Vs", "text": "w", "group": 0 },
+        { "key": "tn5EO_t60b7", "text": "e", "group": 0 },
+        { "key": "tnJdXJ3HAJt", "text": "i", "group": 0 },
+        { "key": "tjumSw6EHix", "text": "t", "group": 0 },
+        { "key": "tDbLp_7gY5b", "text": "r", "group": 0 },
+        { "key": "thO5wdWC-TV", "text": "n", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t68N0dc9_Vs",
+        "tnJdXJ3HAJt",
+        "thO5wdWC-TV",
+        "tjumSw6EHix",
+        "tn5EO_t60b7",
+        "tDbLp_7gY5b"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "8eqEBkYBVwRbilTZI-FRONiTnEOdRXOa",
+          "audio_updated_at": 1543437852,
+          "text": "شتاء",
+          "dictionary": [
+            {
+              "raw": "شتاء",
+              "translations": [
+                { "type": "dictionary", "text": "winter", "phonetic": "winter" }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "شتاء", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "8eqEBkYBVwRbilTZI-FRONiTnEOdRXOa",
+          "audio_updated_at": 1543437852,
+          "text_tokens": [
+            {
+              "raw": { "text": "winter", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "winter",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "N185TOWmPXOKaQ9BxRmnLibwuyorC9C3",
+          "image_updated_at": 1689159095
+        }
+      ]
+    },
+    {
+      "id": 654482,
+      "lesson": 904,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 24350,
+      "alternates": [17943],
+      "tokens": [
+        { "key": "tSnpJuj83PZ", "text": " ", "specialChar": true },
+        { "key": "tMy9AyPz_q-", "text": "i", "group": 5 },
+        { "key": "td4m2y3Yz60", "text": "r", "group": 5 },
+        { "key": "t7LrWQ-MrC6", "text": "t", "group": 5 },
+        { "key": "tZrBFvqo_V6", "text": "?", "specialChar": true },
+        { "key": "tCxIUZ2lu86", "text": "n", "group": 5 },
+        { "key": "txc3xwqiaXQ", "text": "e", "group": 5 },
+        { "key": "tRmM2YYt6Gi", "text": "w", "group": 5 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tSnpJuj83PZ",
+        "tRmM2YYt6Gi",
+        "tMy9AyPz_q-",
+        "tCxIUZ2lu86",
+        "t7LrWQ-MrC6",
+        "txc3xwqiaXQ",
+        "td4m2y3Yz60",
+        "tZrBFvqo_V6"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "nJ7Pky2pZBkLsrwyzBMNUptHdbma8Qfz",
+          "audio_updated_at": 1688291282,
+          "text": "ماذا أستطيع أن أفعل هذا الشتاء؟",
+          "dictionary": [
+            {
+              "raw": "ماذا",
+              "translations": [
+                { "type": "dictionary", "text": "What", "phonetic": "What" }
+              ]
+            },
+            {
+              "raw": "أستطيع",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "أفعل",
+              "translations": [
+                { "type": "dictionary", "text": "I do", "phonetic": "I do" }
+              ]
+            },
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "this", "phonetic": "this" }
+              ]
+            },
+            {
+              "raw": "الشتاء",
+              "translations": [
+                { "type": "dictionary", "text": "winter", "phonetic": "winter" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "ماذا", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أستطيع", "location": 5, "length": 6 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 12, "length": 2 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "أفعل", "location": 15, "length": 4 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            },
+            {
+              "raw": { "text": "هذا", "location": 20, "length": 3 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            },
+            {
+              "raw": { "text": "الشتاء", "location": 24, "length": 6 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "؟", "location": 30, "length": 1 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "nJ7Pky2pZBkLsrwyzBMNUptHdbma8Qfz",
+          "audio_updated_at": 1688291282,
+          "text_tokens": [
+            {
+              "raw": { "text": "What", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "could", "location": 5, "length": 5 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "I", "location": 11, "length": 1 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "do", "location": 13, "length": 2 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "this", "location": 16, "length": 4 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "winter", "location": 21, "length": 6 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "?", "location": 27, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "What could I do this winter?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654483,
+      "lesson": 904,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 17199,
+      "alternates": [24350, 24351],
+      "sols": [
+        {
+          "key": "RvnIBduVZwicFtoVxyoBlRD2tuz4qoV8",
+          "audio_updated_at": 1543439454,
+          "text": "ماذا تحب أن تفعل؟",
+          "dictionary": [
+            {
+              "raw": "ماذا",
+              "translations": [
+                { "type": "dictionary", "text": "What", "phonetic": "What" }
+              ]
+            },
+            {
+              "raw": "تحب",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "تفعل",
+              "translations": [
+                { "type": "dictionary", "text": "do", "phonetic": "do" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "ماذا", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تحب", "location": 5, "length": 3 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 9, "length": 2 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "تفعل", "location": 12, "length": 4 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "؟", "location": 16, "length": 1 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "nJ7Pky2pZBkLsrwyzBMNUptHdbma8Qfz",
+          "text": "ماذا أستطيع أن أفعل هذا الشتاء؟"
+        },
+        {
+          "key": "cGp2QEZrt0FEuOBfuO1HgRYDoO1re-IM",
+          "text": "أنا أحب رياضات الشتاء."
+        }
+      ],
+      "alts": [
+        {
+          "key": "RvnIBduVZwicFtoVxyoBlRD2tuz4qoV8",
+          "audio_updated_at": 1543439454,
+          "text": "What do you like to do?",
+          "phonetic": ""
+        },
+        {
+          "key": "nJ7Pky2pZBkLsrwyzBMNUptHdbma8Qfz",
+          "audio_updated_at": 1688291282,
+          "text": "What could I do this winter?",
+          "phonetic": ""
+        },
+        {
+          "key": "cGp2QEZrt0FEuOBfuO1HgRYDoO1re-IM",
+          "audio_updated_at": 1688291284,
+          "text": "I like winter sports.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654484,
+      "lesson": 904,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 24351,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tLZvQMgX6Ut",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tqzSK9dX9Dh",
+          "text": "تعيرني",
+          "raw": { "text": "تعيرني", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tXgbsBL3RWW",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tHK_t6O5Dzz",
+          "text": "أحب",
+          "raw": { "text": "أحب", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tTo6mrZP9sm",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t3_kwCuQdJU",
+          "text": "الشتاء.",
+          "raw": { "text": "الشتاء", "location": 15, "length": 6 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": ".", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "t1UUEHHW-KA",
+          "text": "رياضات",
+          "raw": { "text": "رياضات", "location": 8, "length": 6 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "t1cUo2awfkv",
+          "text": "تستطيع",
+          "raw": { "text": "تستطيع", "location": 3, "length": 6 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tTo6mrZP9sm", "tHK_t6O5Dzz", "t1UUEHHW-KA", "t3_kwCuQdJU"],
+      "sols": [
+        {
+          "key": "cGp2QEZrt0FEuOBfuO1HgRYDoO1re-IM",
+          "audio_updated_at": 1688291284,
+          "text": "I like winter sports.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "like",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to like",
+                    "m": "يعجب",
+                    "phonetic": "to like"
+                  },
+                  "id": 55,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "CZ11KLNIIQz1-wQ050pStug_G6gnw76v",
+                          "text": "I like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438281
+                        },
+                        "m": { "text": "أنا أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438282
+                        },
+                        "m": { "text": "أنت تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "8pa24QiVNcHXrWq1YIY-9mmS66wqDarm",
+                          "text": "He likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438283
+                        },
+                        "m": { "text": "هو يعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_",
+                          "text": "She likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438285
+                        },
+                        "m": { "text": "هي تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f",
+                          "text": "We like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438287
+                        },
+                        "m": { "text": "نحن نعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "lvDR6EetmqeHLFLndSaB8uhBtftJSpHp",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547854
+                        },
+                        "m": { "text": "أنتم تعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB",
+                          "text": "They like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438289
+                        },
+                        "m": { "text": "هم يعجبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN",
+                          "text": "I liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547856
+                        },
+                        "m": { "text": "أنا أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "fw72VYXGPg6eiRTJmMzdswfCheHwivGm",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547857
+                        },
+                        "m": { "text": "أنت أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "yTwI6DTT4suslTuf_q6FGLikaKxg5-_2",
+                          "text": "He liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547858
+                        },
+                        "m": { "text": "هو أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "V28glyoN5Q99QV_JtoJpkkPxNiFosIa6",
+                          "text": "She liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547859
+                        },
+                        "m": { "text": "هي أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ciFdGkCIocX27--2HnmHtAG0BTB--L7j",
+                          "text": "We liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547861
+                        },
+                        "m": { "text": "نحن أعجبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547862
+                        },
+                        "m": { "text": "أنتم أعجبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI",
+                          "text": "They liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547863
+                        },
+                        "m": { "text": "هم أعجبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV",
+                          "text": "I will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547865
+                        },
+                        "m": { "text": "أنا سأعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547866
+                        },
+                        "m": { "text": "أنت ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5",
+                          "text": "He will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547867
+                        },
+                        "m": { "text": "هو سيعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK",
+                          "text": "She will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547868
+                        },
+                        "m": { "text": "هي ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r",
+                          "text": "We will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547870
+                        },
+                        "m": { "text": "نحن سنعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547871
+                        },
+                        "m": { "text": "أنتم ستعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC",
+                          "text": "They will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547872
+                        },
+                        "m": { "text": "هم سيعجبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "winter",
+              "translations": [
+                { "type": "dictionary", "text": "الشتاء", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "sports",
+              "translations": [
+                { "type": "dictionary", "text": "رياضات", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "like", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "winter", "location": 7, "length": 6 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "sports", "location": 14, "length": 6 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "cGp2QEZrt0FEuOBfuO1HgRYDoO1re-IM",
+          "audio_updated_at": 1688291284,
+          "text": "أنا أحب رياضات الشتاء."
+        }
+      ]
+    },
+    {
+      "id": 654485,
+      "lesson": 904,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24352,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tXkCpoZJD-r",
+          "text": "ice-skate.",
+          "raw": { "text": "ice-skate", "location": 10, "length": 9 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tfprbIJzc1T",
+          "text": "Can",
+          "raw": { "text": "Can", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tYwMHh8VEN1",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t_33fw3-wQM",
+          "text": "lend",
+          "raw": { "text": "lend", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tv5wqKLnw1t",
+          "text": "me",
+          "raw": { "text": "me", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "trIR1y-WDLL",
+          "text": "to",
+          "raw": { "text": "to", "location": 7, "length": 2 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tLcBg9IdFNh",
+          "text": "you",
+          "raw": { "text": "you", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tnFiGY8YxOn",
+          "text": "like",
+          "raw": { "text": "like", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tYwMHh8VEN1", "tnFiGY8YxOn", "trIR1y-WDLL", "tXkCpoZJD-r"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "TblA0mk1o1QltgXXbJuJv-zeeQVVKnsp",
+          "audio_updated_at": 1688291285,
+          "text": "أنا أحب أن أتزلج على الجليد.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحب",
+              "translations": [
+                { "type": "dictionary", "text": "like", "phonetic": "like" },
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "أتزلج",
+              "translations": [
+                { "type": "dictionary", "text": "skate", "phonetic": "skate" }
+              ]
+            },
+            { "raw": "على", "translations": [] },
+            {
+              "raw": "الجليد",
+              "translations": [
+                { "type": "dictionary", "text": "ice", "phonetic": "ice" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحب", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 8, "length": 2 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "أتزلج", "location": 11, "length": 5 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "على", "location": 17, "length": 3 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            },
+            {
+              "raw": { "text": "الجليد", "location": 21, "length": 6 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": ".", "location": 27, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "TblA0mk1o1QltgXXbJuJv-zeeQVVKnsp",
+          "audio_updated_at": 1688291285,
+          "text": "I like to ice-skate.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654486,
+      "lesson": 904,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 24354,
+      "alternates": [24352, 24351],
+      "sols": [
+        {
+          "key": "FA-erAn0VVtS-HSib0z3gzFac35WLeaF",
+          "audio_updated_at": 1688291287,
+          "text": "You could ice-skate.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "You",
+              "translations": [
+                { "type": "dictionary", "text": "أنت", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "could",
+              "translations": [
+                { "type": "dictionary", "text": "تستطيع", "phonetic": null }
+              ]
+            },
+            { "raw": "ice-skate", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "You", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "could", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "ice-skate", "location": 10, "length": 9 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "cGp2QEZrt0FEuOBfuO1HgRYDoO1re-IM",
+          "text": "I like winter sports.",
+          "phonetic": ""
+        },
+        {
+          "key": "TblA0mk1o1QltgXXbJuJv-zeeQVVKnsp",
+          "text": "I like to ice-skate.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "FA-erAn0VVtS-HSib0z3gzFac35WLeaF",
+          "audio_updated_at": 1688291287,
+          "text": "أنت تستطيع أن تتزلج على الجليد."
+        },
+        {
+          "key": "cGp2QEZrt0FEuOBfuO1HgRYDoO1re-IM",
+          "audio_updated_at": 1688291284,
+          "text": "أنا أحب رياضات الشتاء."
+        },
+        {
+          "key": "TblA0mk1o1QltgXXbJuJv-zeeQVVKnsp",
+          "audio_updated_at": 1688291285,
+          "text": "أنا أحب أن أتزلج على الجليد."
+        }
+      ]
+    },
+    {
+      "id": 654487,
+      "lesson": 904,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24353,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t1RsveGbLBw",
+          "text": "You",
+          "raw": { "text": "You", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tGdOhF5O885",
+          "text": "ski.",
+          "raw": { "text": "ski", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t9_mBL-PuRa",
+          "text": "could",
+          "raw": { "text": "could", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tP3A9DHKE62",
+          "text": "ice-skate.",
+          "raw": { "text": "ice-skate", "location": 10, "length": 9 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t1RsveGbLBw", "t9_mBL-PuRa", "tGdOhF5O885"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "h6x9ELbjivgBgG08jS2643w96XiLnDth",
+          "audio_updated_at": 1688291286,
+          "text": "أنت تستطيع أن تتزلج.",
+          "dictionary": [
+            {
+              "raw": "أنت",
+              "translations": [
+                { "type": "dictionary", "text": "You", "phonetic": "You" }
+              ]
+            },
+            {
+              "raw": "تستطيع",
+              "translations": [
+                { "type": "dictionary", "text": "could", "phonetic": "could" }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "تتزلج",
+              "translations": [
+                { "type": "dictionary", "text": "ski", "phonetic": "ski" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنت", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "تتزلج", "location": 14, "length": 5 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "h6x9ELbjivgBgG08jS2643w96XiLnDth",
+          "audio_updated_at": 1688291286,
+          "text": "You could ski.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654488,
+      "lesson": 904,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 24350,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tYQkb1YETqB",
+          "text": "الشتاء؟",
+          "raw": { "text": "الشتاء", "location": 24, "length": 6 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "؟", "location": 30, "length": 1 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tsEgzmukCMD",
+          "text": "أحتاج",
+          "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tG5UAj1gN-y",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 12, "length": 2 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tQBBdoRy3Gx",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tYg_mjTSYW2",
+          "text": "هذا",
+          "raw": { "text": "هذا", "location": 20, "length": 3 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "tE8AFnYAoJt",
+          "text": "أستطيع",
+          "raw": { "text": "أستطيع", "location": 5, "length": 6 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tXbnbU1q-jH",
+          "text": "أفعل",
+          "raw": { "text": "أفعل", "location": 15, "length": 4 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tIBxinocOn-",
+          "text": "ماذا",
+          "raw": { "text": "ماذا", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tIBxinocOn-",
+        "tE8AFnYAoJt",
+        "tG5UAj1gN-y",
+        "tXbnbU1q-jH",
+        "tYg_mjTSYW2",
+        "tYQkb1YETqB"
+      ],
+      "sols": [
+        {
+          "key": "nJ7Pky2pZBkLsrwyzBMNUptHdbma8Qfz",
+          "audio_updated_at": 1688291282,
+          "text": "What could I do this winter?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "What",
+              "translations": [
+                { "type": "dictionary", "text": "ماذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "could",
+              "translations": [
+                { "type": "dictionary", "text": "أستطيع", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أن", "phonetic": null }
+              ]
+            },
+            { "raw": "do", "translations": [] },
+            {
+              "raw": "this",
+              "translations": [
+                { "type": "dictionary", "text": "هذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "winter",
+              "translations": [
+                { "type": "dictionary", "text": "الشتاء", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "What", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "could", "location": 5, "length": 5 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "I", "location": 11, "length": 1 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "do", "location": 13, "length": 2 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "this", "location": 16, "length": 4 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "winter", "location": 21, "length": 6 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "?", "location": 27, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "nJ7Pky2pZBkLsrwyzBMNUptHdbma8Qfz",
+          "audio_updated_at": 1688291282,
+          "text": "ماذا أستطيع أن أفعل هذا الشتاء؟"
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "tCyrgvdbV17",
+            "text": "ماذا",
+            "raw": { "text": "ماذا", "location": 0, "length": 4 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 4, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tMwLDXfM_xu",
+            "text": "تستطيع",
+            "raw": { "text": "تستطيع", "location": 3, "length": 6 },
+            "prefix": { "text": "", "location": 3, "length": 0 },
+            "suffix": { "text": "", "location": 9, "length": 0 },
+            "linker": { "text": " ", "location": 2, "length": 1 }
+          },
+          {
+            "key": "tTBepKS_0q1",
+            "text": "أن",
+            "raw": { "text": "أن", "location": 12, "length": 2 },
+            "prefix": { "text": "", "location": 12, "length": 0 },
+            "suffix": { "text": "", "location": 14, "length": 0 },
+            "linker": { "text": " ", "location": 11, "length": 1 }
+          },
+          {
+            "key": "tyY02JQgvs8",
+            "text": "هل",
+            "raw": { "text": "هل", "location": 0, "length": 2 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 2, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "t558iXd9Yne",
+            "text": "أستطيع",
+            "raw": { "text": "أستطيع", "location": 5, "length": 6 },
+            "prefix": { "text": "", "location": 5, "length": 0 },
+            "suffix": { "text": "", "location": 11, "length": 0 },
+            "linker": { "text": " ", "location": 4, "length": 1 }
+          },
+          {
+            "key": "tzhy75JtH1s",
+            "text": "الشتاء؟",
+            "raw": { "text": "الشتاء", "location": 24, "length": 6 },
+            "prefix": { "text": "", "location": 24, "length": 0 },
+            "suffix": { "text": "؟", "location": 30, "length": 1 },
+            "linker": { "text": " ", "location": 23, "length": 1 }
+          },
+          {
+            "key": "thEEFRwYXqw",
+            "text": "هذا",
+            "raw": { "text": "هذا", "location": 20, "length": 3 },
+            "prefix": { "text": "", "location": 20, "length": 0 },
+            "suffix": { "text": "", "location": 23, "length": 0 },
+            "linker": { "text": " ", "location": 19, "length": 1 }
+          },
+          {
+            "key": "tbBHHF2lTjx",
+            "text": "أفعل",
+            "raw": { "text": "أفعل", "location": 15, "length": 4 },
+            "prefix": { "text": "", "location": 15, "length": 0 },
+            "suffix": { "text": "", "location": 19, "length": 0 },
+            "linker": { "text": " ", "location": 14, "length": 1 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": [
+          "tCyrgvdbV17",
+          "t558iXd9Yne",
+          "tTBepKS_0q1",
+          "tbBHHF2lTjx",
+          "thEEFRwYXqw",
+          "tzhy75JtH1s"
+        ],
+        "sols": [
+          {
+            "key": "nJ7Pky2pZBkLsrwyzBMNUptHdbma8Qfz",
+            "audio_updated_at": 1688291282,
+            "text": "What could I do this winter?",
+            "phonetic": "",
+            "dictionary": [
+              {
+                "raw": "What",
+                "translations": [
+                  { "type": "dictionary", "text": "ماذا", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "could",
+                "translations": [
+                  { "type": "dictionary", "text": "أستطيع", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "I",
+                "translations": [
+                  { "type": "dictionary", "text": "أن", "phonetic": null }
+                ]
+              },
+              { "raw": "do", "translations": [] },
+              {
+                "raw": "this",
+                "translations": [
+                  { "type": "dictionary", "text": "هذا", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "winter",
+                "translations": [
+                  { "type": "dictionary", "text": "الشتاء", "phonetic": null }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "What", "location": 0, "length": 4 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 4, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "could", "location": 5, "length": 5 },
+                "prefix": { "text": "", "location": 5, "length": 0 },
+                "suffix": { "text": "", "location": 10, "length": 0 },
+                "linker": { "text": " ", "location": 4, "length": 1 }
+              },
+              {
+                "raw": { "text": "I", "location": 11, "length": 1 },
+                "prefix": { "text": "", "location": 11, "length": 0 },
+                "suffix": { "text": "", "location": 12, "length": 0 },
+                "linker": { "text": " ", "location": 10, "length": 1 }
+              },
+              {
+                "raw": { "text": "do", "location": 13, "length": 2 },
+                "prefix": { "text": "", "location": 13, "length": 0 },
+                "suffix": { "text": "", "location": 15, "length": 0 },
+                "linker": { "text": " ", "location": 12, "length": 1 }
+              },
+              {
+                "raw": { "text": "this", "location": 16, "length": 4 },
+                "prefix": { "text": "", "location": 16, "length": 0 },
+                "suffix": { "text": "", "location": 20, "length": 0 },
+                "linker": { "text": " ", "location": 15, "length": 1 }
+              },
+              {
+                "raw": { "text": "winter", "location": 21, "length": 6 },
+                "prefix": { "text": "", "location": 21, "length": 0 },
+                "suffix": { "text": "?", "location": 27, "length": 1 },
+                "linker": { "text": " ", "location": 20, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "nJ7Pky2pZBkLsrwyzBMNUptHdbma8Qfz",
+            "audio_updated_at": 1688291282,
+            "text": "ماذا أستطيع أن أفعل هذا الشتاء؟"
+          }
+        ]
+      }
+    },
+    {
+      "id": 654489,
+      "lesson": 904,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 17199,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tXmFagsYZIS",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 9, "length": 2 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tNVtCCdWPQ7",
+          "text": "تحب",
+          "raw": { "text": "تحب", "location": 5, "length": 3 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tXHYMdKoA24",
+          "text": "تفعل؟",
+          "raw": { "text": "تفعل", "location": 12, "length": 4 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "؟", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tgYv59DxDVP",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 1, "length": 3 },
+          "prefix": { "text": "", "location": 1, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 1, "length": 0 }
+        },
+        {
+          "key": "tCnnNLOgNyU",
+          "text": "من",
+          "raw": { "text": "من", "location": 5, "length": 2 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "trxmi1oAbbo",
+          "text": "بازل",
+          "raw": { "text": "بازل", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tKgcSf-qDg4",
+          "text": "ماذا",
+          "raw": { "text": "ماذا", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tKgcSf-qDg4", "tNVtCCdWPQ7", "tXmFagsYZIS", "tXHYMdKoA24"],
+      "sols": [
+        {
+          "key": "RvnIBduVZwicFtoVxyoBlRD2tuz4qoV8",
+          "audio_updated_at": 1543439454,
+          "text": "What do you like to do?",
+          "phonetic": ""
+        },
+        {
+          "key": "RvnIBduVZwicFtoVxyoBlRD2tuz4qoV8",
+          "audio_updated_at": 1543439454,
+          "text": "ماذا تحب أن تفعل؟"
+        }
+      ]
+    },
+    {
+      "id": 654490,
+      "lesson": 904,
+      "type": "T2",
+      "modifiers": 60,
+      "wordID": 24351,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "cGp2QEZrt0FEuOBfuO1HgRYDoO1re-IM",
+          "audio_updated_at": 1688291284,
+          "text": "I like winter sports.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "like",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to like",
+                    "m": "يعجب",
+                    "phonetic": "to like"
+                  },
+                  "id": 55,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "CZ11KLNIIQz1-wQ050pStug_G6gnw76v",
+                          "text": "I like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438281
+                        },
+                        "m": { "text": "أنا أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438282
+                        },
+                        "m": { "text": "أنت تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "8pa24QiVNcHXrWq1YIY-9mmS66wqDarm",
+                          "text": "He likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438283
+                        },
+                        "m": { "text": "هو يعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_",
+                          "text": "She likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438285
+                        },
+                        "m": { "text": "هي تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f",
+                          "text": "We like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438287
+                        },
+                        "m": { "text": "نحن نعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "lvDR6EetmqeHLFLndSaB8uhBtftJSpHp",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547854
+                        },
+                        "m": { "text": "أنتم تعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB",
+                          "text": "They like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438289
+                        },
+                        "m": { "text": "هم يعجبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN",
+                          "text": "I liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547856
+                        },
+                        "m": { "text": "أنا أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "fw72VYXGPg6eiRTJmMzdswfCheHwivGm",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547857
+                        },
+                        "m": { "text": "أنت أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "yTwI6DTT4suslTuf_q6FGLikaKxg5-_2",
+                          "text": "He liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547858
+                        },
+                        "m": { "text": "هو أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "V28glyoN5Q99QV_JtoJpkkPxNiFosIa6",
+                          "text": "She liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547859
+                        },
+                        "m": { "text": "هي أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ciFdGkCIocX27--2HnmHtAG0BTB--L7j",
+                          "text": "We liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547861
+                        },
+                        "m": { "text": "نحن أعجبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547862
+                        },
+                        "m": { "text": "أنتم أعجبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI",
+                          "text": "They liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547863
+                        },
+                        "m": { "text": "هم أعجبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV",
+                          "text": "I will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547865
+                        },
+                        "m": { "text": "أنا سأعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547866
+                        },
+                        "m": { "text": "أنت ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5",
+                          "text": "He will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547867
+                        },
+                        "m": { "text": "هو سيعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK",
+                          "text": "She will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547868
+                        },
+                        "m": { "text": "هي ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r",
+                          "text": "We will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547870
+                        },
+                        "m": { "text": "نحن سنعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547871
+                        },
+                        "m": { "text": "أنتم ستعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC",
+                          "text": "They will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547872
+                        },
+                        "m": { "text": "هم سيعجبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "winter",
+              "translations": [
+                { "type": "dictionary", "text": "الشتاء", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "sports",
+              "translations": [
+                { "type": "dictionary", "text": "رياضات", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "like", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "winter", "location": 7, "length": 6 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "sports", "location": 14, "length": 6 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "cGp2QEZrt0FEuOBfuO1HgRYDoO1re-IM",
+          "audio_updated_at": 1688291284,
+          "text": "أنا أحب رياضات الشتاء."
+        }
+      ]
+    },
+    {
+      "id": 654491,
+      "lesson": 904,
+      "type": "T2b",
+      "modifiers": 92,
+      "wordID": 24352,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "TblA0mk1o1QltgXXbJuJv-zeeQVVKnsp",
+          "audio_updated_at": 1688291285,
+          "text": "أنا أحب أن أتزلج على الجليد.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحب",
+              "translations": [
+                { "type": "dictionary", "text": "like", "phonetic": "like" },
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "أتزلج",
+              "translations": [
+                { "type": "dictionary", "text": "skate", "phonetic": "skate" }
+              ]
+            },
+            { "raw": "على", "translations": [] },
+            {
+              "raw": "الجليد",
+              "translations": [
+                { "type": "dictionary", "text": "ice", "phonetic": "ice" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحب", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 8, "length": 2 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "أتزلج", "location": 11, "length": 5 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "على", "location": 17, "length": 3 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            },
+            {
+              "raw": { "text": "الجليد", "location": 21, "length": 6 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": ".", "location": 27, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "TblA0mk1o1QltgXXbJuJv-zeeQVVKnsp",
+          "audio_updated_at": 1688291285,
+          "text": "I like to ice-skate.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654492,
+      "lesson": 904,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 24354,
+      "alternates": [24353, 24352],
+      "sols": [
+        {
+          "key": "FA-erAn0VVtS-HSib0z3gzFac35WLeaF",
+          "audio_updated_at": 1688291287,
+          "text": "أنت تستطيع أن تتزلج على الجليد.",
+          "dictionary": [
+            {
+              "raw": "أنت",
+              "translations": [
+                { "type": "dictionary", "text": "You", "phonetic": "You" }
+              ]
+            },
+            {
+              "raw": "تستطيع",
+              "translations": [
+                { "type": "dictionary", "text": "could", "phonetic": "could" }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            { "raw": "تتزلج", "translations": [] },
+            { "raw": "على", "translations": [] },
+            {
+              "raw": "الجليد",
+              "translations": [
+                { "type": "dictionary", "text": "ice", "phonetic": "ice" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنت", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "تتزلج", "location": 14, "length": 5 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "على", "location": 20, "length": 3 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            },
+            {
+              "raw": { "text": "الجليد", "location": 24, "length": 6 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": ".", "location": 30, "length": 1 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "h6x9ELbjivgBgG08jS2643w96XiLnDth",
+          "text": "أنت تستطيع أن تتزلج."
+        },
+        {
+          "key": "TblA0mk1o1QltgXXbJuJv-zeeQVVKnsp",
+          "text": "أنا أحب أن أتزلج على الجليد."
+        }
+      ],
+      "alts": [
+        {
+          "key": "FA-erAn0VVtS-HSib0z3gzFac35WLeaF",
+          "audio_updated_at": 1688291287,
+          "text": "You could ice-skate.",
+          "phonetic": ""
+        },
+        {
+          "key": "h6x9ELbjivgBgG08jS2643w96XiLnDth",
+          "audio_updated_at": 1688291286,
+          "text": "You could ski.",
+          "phonetic": ""
+        },
+        {
+          "key": "TblA0mk1o1QltgXXbJuJv-zeeQVVKnsp",
+          "audio_updated_at": 1688291285,
+          "text": "I like to ice-skate.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654493,
+      "lesson": 904,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 24353,
+      "alternates": [24351, 24354],
+      "sols": [
+        {
+          "key": "h6x9ELbjivgBgG08jS2643w96XiLnDth",
+          "audio_updated_at": 1688291286,
+          "text": "You could ski.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "You",
+              "translations": [
+                { "type": "dictionary", "text": "أنت", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "could",
+              "translations": [
+                { "type": "dictionary", "text": "تستطيع", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "ski",
+              "translations": [
+                { "type": "dictionary", "text": "تتزلج", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "You", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "could", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "ski", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 13, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "FA-erAn0VVtS-HSib0z3gzFac35WLeaF",
+          "text": "You could ice-skate.",
+          "phonetic": ""
+        },
+        {
+          "key": "cGp2QEZrt0FEuOBfuO1HgRYDoO1re-IM",
+          "text": "I like winter sports.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "h6x9ELbjivgBgG08jS2643w96XiLnDth",
+          "audio_updated_at": 1688291286,
+          "text": "أنت تستطيع أن تتزلج."
+        },
+        {
+          "key": "FA-erAn0VVtS-HSib0z3gzFac35WLeaF",
+          "audio_updated_at": 1688291287,
+          "text": "أنت تستطيع أن تتزلج على الجليد."
+        },
+        {
+          "key": "cGp2QEZrt0FEuOBfuO1HgRYDoO1re-IM",
+          "audio_updated_at": 1688291284,
+          "text": "أنا أحب رياضات الشتاء."
+        }
+      ]
+    }
+  ]
+}

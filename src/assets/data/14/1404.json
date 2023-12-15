@@ -1,0 +1,4081 @@
+{
+  "lesson": {
+    "id": 1404,
+    "index": 4,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 14,
+    "categoryID": 14,
+    "name": "غرف البيت",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 22,
+    "countWords": 11,
+    "countPhrases": 6,
+    "countDone": 0,
+    "quizzes": [
+      646596, 646597, 646598, 646599, 646600, 646601, 646602, 646603, 646604,
+      646605, 646606, 646607, 646608, 646609, 646610, 646611, 646612, 646613,
+      646614, 646615, 646616, 646617
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 646596,
+      "lesson": 1404,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 16284,
+      "alternates": [23902, 23862, 16247],
+      "sols": [
+        {
+          "key": "O-g2V_8ZqZU47mWHmMZegEsuUW1IBYW4",
+          "audio_updated_at": 1543437089,
+          "text": "غرفة نوم"
+        },
+        {
+          "key": "2acBg1m6-T4-TApfw5SBmDtNGRmMimiz",
+          "audio_updated_at": 1688290781,
+          "text": "غرفة معيشة"
+        },
+        {
+          "key": "4BpOlCjZ3OeLhr7DtW5s3cZf3PFrYE3G",
+          "audio_updated_at": 1543437105,
+          "text": "مطبخ"
+        },
+        {
+          "key": "3T46Pnfn4B9n-YDnlB7Bnm3PaFF_GyBT",
+          "audio_updated_at": 1688290736,
+          "text": "حمام"
+        }
+      ],
+      "alts": [
+        {
+          "key": "O-g2V_8ZqZU47mWHmMZegEsuUW1IBYW4",
+          "audio_updated_at": 1543437089,
+          "image": "gNRdahU92Uop9oGseaV8VfOOVLasloFq",
+          "image_updated_at": 1689158989,
+          "text": "bedroom",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "2acBg1m6-T4-TApfw5SBmDtNGRmMimiz",
+          "audio_updated_at": 1688290781,
+          "image": "S1_kdp_jbvQgPnS0auFrwuw-gka99SVQ",
+          "image_updated_at": 1689159221,
+          "text": "living room",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "4BpOlCjZ3OeLhr7DtW5s3cZf3PFrYE3G",
+          "audio_updated_at": 1543437105,
+          "text": "kitchen",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "ROn3zYJHEvk2YK90-xaMiKe11UDR0Frl",
+          "image_updated_at": 1689158996
+        },
+        {
+          "key": "3T46Pnfn4B9n-YDnlB7Bnm3PaFF_GyBT",
+          "audio_updated_at": 1688290736,
+          "image": "9RuvWLOygx4NIt7SQS9Y_uk4ZQ2w691i",
+          "image_updated_at": 1689159218,
+          "text": "bathroom",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 646597,
+      "lesson": 1404,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 23903,
+      "alternates": [16284],
+      "tokens": [
+        {
+          "key": "tkircRcpQ3O",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tZE5aKRJjVU",
+          "text": "kitchen?",
+          "raw": { "text": "kitchen", "location": 13, "length": 7 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "?", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tDQrpj5MiaR",
+          "text": "is",
+          "raw": { "text": "is", "location": 6, "length": 2 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tEfUAi7Xbwt",
+          "text": "wood",
+          "raw": { "text": "wood", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tGXIaI4Usvw",
+          "text": "the",
+          "raw": { "text": "the", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tkircRcpQ3O", "tDQrpj5MiaR", "tGXIaI4Usvw", "tZE5aKRJjVU"],
+      "completeToken": "tZE5aKRJjVU",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "xe1LbqrfdwUH6IynHi9SdG2vk3y9uX3-",
+          "audio_updated_at": 1688290782,
+          "text": "أين المطبخ؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            {
+              "raw": "المطبخ",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the kitchen",
+                  "phonetic": "the kitchen"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "المطبخ", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "؟", "location": 10, "length": 1 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "xe1LbqrfdwUH6IynHi9SdG2vk3y9uX3-",
+          "audio_updated_at": 1688290782,
+          "text": "Where is the kitchen?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 646598,
+      "lesson": 1404,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 16356,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t1y6zIFrstd",
+          "text": "النوافذ",
+          "raw": { "text": "النوافذ", "location": 0, "length": 7 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t4SPrd1NSlF",
+          "text": "مغلقة.",
+          "raw": { "text": "مغلقة", "location": 8, "length": 5 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "t7w-hzRTYzc",
+          "text": "هناك.",
+          "raw": { "text": "هناك", "location": 7, "length": 4 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 11, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tdYBBxIA3LQ",
+          "text": "المطبخ",
+          "raw": { "text": "المطبخ", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tdYBBxIA3LQ", "t7w-hzRTYzc"],
+      "sols": [
+        {
+          "key": "EGuqsoM74z99LdaDII8jZXxLqNwmH6pT",
+          "audio_updated_at": 1593554147,
+          "text": "The kitchen is there.",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "The", "translations": [] },
+            {
+              "raw": "kitchen",
+              "translations": [
+                { "type": "dictionary", "text": "المطبخ", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "there",
+              "translations": [
+                { "type": "dictionary", "text": "هناك", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "The", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "kitchen", "location": 4, "length": 7 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "is", "location": 12, "length": 2 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "there", "location": 15, "length": 5 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "EGuqsoM74z99LdaDII8jZXxLqNwmH6pT",
+          "audio_updated_at": 1593554147,
+          "text": "المطبخ هناك."
+        }
+      ]
+    },
+    {
+      "id": 646599,
+      "lesson": 1404,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 16247,
+      "alternates": [23862],
+      "sols": [
+        {
+          "key": "3T46Pnfn4B9n-YDnlB7Bnm3PaFF_GyBT",
+          "audio_updated_at": 1688290736,
+          "text": "حمام"
+        },
+        {
+          "key": "O-g2V_8ZqZU47mWHmMZegEsuUW1IBYW4",
+          "audio_updated_at": 1543437089,
+          "text": "غرفة نوم"
+        }
+      ],
+      "alts": [
+        {
+          "key": "3T46Pnfn4B9n-YDnlB7Bnm3PaFF_GyBT",
+          "audio_updated_at": 1688290736,
+          "image": "9RuvWLOygx4NIt7SQS9Y_uk4ZQ2w691i",
+          "image_updated_at": 1689159218,
+          "text": "bathroom",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "O-g2V_8ZqZU47mWHmMZegEsuUW1IBYW4",
+          "audio_updated_at": 1543437089,
+          "text": "bedroom",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "gNRdahU92Uop9oGseaV8VfOOVLasloFq",
+          "image_updated_at": 1689158989
+        }
+      ]
+    },
+    {
+      "id": 646600,
+      "lesson": 1404,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 16351,
+      "alternates": [16247],
+      "tokens": [
+        {
+          "key": "tCcVZ4btQhZ",
+          "text": "windows",
+          "raw": { "text": "windows", "location": 4, "length": 7 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t4gS-RGMrdz",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tJXrwpJs1Db",
+          "text": "there.",
+          "raw": { "text": "there", "location": 15, "length": 5 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": ".", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "ta3TC_sduKo",
+          "text": "is",
+          "raw": { "text": "is", "location": 12, "length": 2 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tj5DWO8DwDv",
+          "text": "dirty.",
+          "raw": { "text": "dirty", "location": 16, "length": 5 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": ".", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "taQV-KZTClh",
+          "text": "bedroom",
+          "raw": { "text": "bedroom", "location": 4, "length": 7 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "txdBvTiEb9t",
+          "text": "are",
+          "raw": { "text": "are", "location": 12, "length": 3 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t4gS-RGMrdz", "taQV-KZTClh", "ta3TC_sduKo", "tJXrwpJs1Db"],
+      "completeToken": "taQV-KZTClh",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "nVz5RU5g90F9JqrTdvfCyOhTeCyxo8IJ",
+          "audio_updated_at": 1593554153,
+          "text": "غرفة النوم هناك.",
+          "dictionary": [
+            { "raw": "غرفة", "translations": [] },
+            { "raw": "النوم", "translations": [] },
+            {
+              "raw": "هناك",
+              "translations": [
+                { "type": "dictionary", "text": "The", "phonetic": "The" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "غرفة", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "النوم", "location": 5, "length": 5 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "هناك", "location": 11, "length": 4 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "nVz5RU5g90F9JqrTdvfCyOhTeCyxo8IJ",
+          "audio_updated_at": 1593554153,
+          "text": "The bedroom is there.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 646601,
+      "lesson": 1404,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 23904,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tbkY1y9B0vY",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t-lGCTxqwML",
+          "text": "المعيشة",
+          "raw": { "text": "المعيشة", "location": 5, "length": 7 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "t0zqMSvFDrm",
+          "text": "غرفة",
+          "raw": { "text": "غرفة", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tjNqOLvC0YA",
+          "text": "المطبخ.",
+          "raw": { "text": "المطبخ", "location": 19, "length": 6 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": ".", "location": 25, "length": 1 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tdlNzn6TrMr",
+          "text": "بجانب",
+          "raw": { "text": "بجانب", "location": 13, "length": 5 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "t8BwN8IpqLC",
+          "text": "الحمام؟",
+          "raw": { "text": "الحمام", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "؟", "location": 10, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tbkY1y9B0vY", "t8BwN8IpqLC"],
+      "sols": [
+        {
+          "key": "1REV0qlkK_hJ1MlCsnODl5HDWjKR6e5e",
+          "audio_updated_at": 1688290783,
+          "text": "Where is the bathroom?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "bathroom",
+              "translations": [
+                { "type": "dictionary", "text": "الحمام", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "bathroom", "location": 13, "length": 8 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "?", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "1REV0qlkK_hJ1MlCsnODl5HDWjKR6e5e",
+          "audio_updated_at": 1688290783,
+          "text": "أين الحمام؟"
+        }
+      ]
+    },
+    {
+      "id": 646602,
+      "lesson": 1404,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23905,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tNKXl9x8PPS",
+          "text": "bathroom",
+          "raw": { "text": "bathroom", "location": 4, "length": 8 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tamlu4D1xOM",
+          "text": "living",
+          "raw": { "text": "living", "location": 28, "length": 6 },
+          "prefix": { "text": "", "location": 28, "length": 0 },
+          "suffix": { "text": "", "location": 34, "length": 0 },
+          "linker": { "text": " ", "location": 27, "length": 1 }
+        },
+        {
+          "key": "tm3PqAQZXQl",
+          "text": "next",
+          "raw": { "text": "next", "location": 16, "length": 4 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tlfvOqL-D8M",
+          "text": "room.",
+          "raw": { "text": "room", "location": 35, "length": 4 },
+          "prefix": { "text": "", "location": 35, "length": 0 },
+          "suffix": { "text": ".", "location": 39, "length": 1 },
+          "linker": { "text": " ", "location": 34, "length": 1 }
+        },
+        {
+          "key": "tDXG20HMPWX",
+          "text": "is",
+          "raw": { "text": "is", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tjVM7h0ZkCH",
+          "text": "the",
+          "raw": { "text": "the", "location": 24, "length": 3 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "", "location": 27, "length": 0 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "t1QojleAAeP",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tRIF-B0eLcz",
+          "text": "to",
+          "raw": { "text": "to", "location": 21, "length": 2 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t1QojleAAeP",
+        "tNKXl9x8PPS",
+        "tDXG20HMPWX",
+        "tm3PqAQZXQl",
+        "tRIF-B0eLcz",
+        "tjVM7h0ZkCH",
+        "tamlu4D1xOM",
+        "tlfvOqL-D8M"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "0h71y2nEmlGpgs5xfPsXOsAO2WxcT4Nk",
+          "audio_updated_at": 1688290784,
+          "text": "الحمام بجانب غرفة المعيشة.",
+          "dictionary": [
+            {
+              "raw": "الحمام",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "The bathroom",
+                  "phonetic": "The bathroom"
+                }
+              ]
+            },
+            {
+              "raw": "بجانب",
+              "translations": [
+                { "type": "dictionary", "text": "next", "phonetic": "next" }
+              ]
+            },
+            {
+              "raw": "غرفة",
+              "translations": [
+                { "type": "dictionary", "text": "room", "phonetic": "room" }
+              ]
+            },
+            {
+              "raw": "المعيشة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the living",
+                  "phonetic": "the living"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "الحمام", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "بجانب", "location": 7, "length": 5 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "غرفة", "location": 13, "length": 4 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "المعيشة", "location": 18, "length": 7 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": ".", "location": 25, "length": 1 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "0h71y2nEmlGpgs5xfPsXOsAO2WxcT4Nk",
+          "audio_updated_at": 1688290784,
+          "text": "The bathroom is next to the living room.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 646603,
+      "lesson": 1404,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 23902,
+      "alternates": [16284, 23862, 16247],
+      "sols": [
+        {
+          "key": "2acBg1m6-T4-TApfw5SBmDtNGRmMimiz",
+          "audio_updated_at": 1688290781,
+          "text": "غرفة معيشة"
+        },
+        { "key": "3T46Pnfn4B9n-YDnlB7Bnm3PaFF_GyBT", "text": "حمام" },
+        { "key": "O-g2V_8ZqZU47mWHmMZegEsuUW1IBYW4", "text": "غرفة نوم" },
+        { "key": "4BpOlCjZ3OeLhr7DtW5s3cZf3PFrYE3G", "text": "مطبخ" }
+      ],
+      "alts": [
+        {
+          "key": "2acBg1m6-T4-TApfw5SBmDtNGRmMimiz",
+          "audio_updated_at": 1688290781,
+          "text": "living room",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "S1_kdp_jbvQgPnS0auFrwuw-gka99SVQ",
+          "image_updated_at": 1689159221
+        },
+        {
+          "key": "3T46Pnfn4B9n-YDnlB7Bnm3PaFF_GyBT",
+          "audio_updated_at": 1688290736,
+          "text": "bathroom",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "9RuvWLOygx4NIt7SQS9Y_uk4ZQ2w691i",
+          "image_updated_at": 1689159218
+        },
+        {
+          "key": "O-g2V_8ZqZU47mWHmMZegEsuUW1IBYW4",
+          "audio_updated_at": 1543437089,
+          "text": "bedroom",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "gNRdahU92Uop9oGseaV8VfOOVLasloFq",
+          "image_updated_at": 1689158989
+        },
+        {
+          "key": "4BpOlCjZ3OeLhr7DtW5s3cZf3PFrYE3G",
+          "audio_updated_at": 1543437105,
+          "text": "kitchen",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "ROn3zYJHEvk2YK90-xaMiKe11UDR0Frl",
+          "image_updated_at": 1689158996
+        }
+      ]
+    },
+    {
+      "id": 646604,
+      "lesson": 1404,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 23906,
+      "alternates": [16284, 23902],
+      "tokens": [
+        {
+          "key": "tv6KRlz6jP0",
+          "text": "is",
+          "raw": { "text": "is", "location": 16, "length": 2 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "t8ryGd9ecrm",
+          "text": "next",
+          "raw": { "text": "next", "location": 19, "length": 4 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "t09t5BVB-97",
+          "text": "the",
+          "raw": { "text": "the", "location": 27, "length": 3 },
+          "prefix": { "text": "", "location": 27, "length": 0 },
+          "suffix": { "text": "", "location": 30, "length": 0 },
+          "linker": { "text": " ", "location": 26, "length": 1 }
+        },
+        {
+          "key": "tzJEz8ljVX2",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tnKHMIlKCIL",
+          "text": "living",
+          "raw": { "text": "living", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tWfumu4PjPM",
+          "text": "kitchen.",
+          "raw": { "text": "kitchen", "location": 31, "length": 7 },
+          "prefix": { "text": "", "location": 31, "length": 0 },
+          "suffix": { "text": ".", "location": 38, "length": 1 },
+          "linker": { "text": " ", "location": 30, "length": 1 }
+        },
+        {
+          "key": "tLirUuZn-Sr",
+          "text": "to",
+          "raw": { "text": "to", "location": 24, "length": 2 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "", "location": 26, "length": 0 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tQEu9avucRk",
+          "text": "room",
+          "raw": { "text": "room", "location": 11, "length": 4 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tzJEz8ljVX2",
+        "tnKHMIlKCIL",
+        "tQEu9avucRk",
+        "tv6KRlz6jP0",
+        "t8ryGd9ecrm",
+        "tLirUuZn-Sr",
+        "t09t5BVB-97",
+        "tWfumu4PjPM"
+      ],
+      "completeToken": "tWfumu4PjPM",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "9O4_5mb5oSYkQEcd505lyVY2ef3Da_hF",
+          "audio_updated_at": 1688290785,
+          "text": "غرفة المعيشة بجانب المطبخ.",
+          "dictionary": [
+            {
+              "raw": "غرفة",
+              "translations": [
+                { "type": "dictionary", "text": "room", "phonetic": "room" }
+              ]
+            },
+            {
+              "raw": "المعيشة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "The living",
+                  "phonetic": "The living"
+                }
+              ]
+            },
+            {
+              "raw": "بجانب",
+              "translations": [
+                { "type": "dictionary", "text": "next", "phonetic": "next" }
+              ]
+            },
+            {
+              "raw": "المطبخ",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the kitchen",
+                  "phonetic": "the kitchen"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "غرفة", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "المعيشة", "location": 5, "length": 7 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "بجانب", "location": 13, "length": 5 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "المطبخ", "location": 19, "length": 6 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": ".", "location": 25, "length": 1 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "9O4_5mb5oSYkQEcd505lyVY2ef3Da_hF",
+          "audio_updated_at": 1688290785,
+          "text": "The living room is next to the kitchen.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 646605,
+      "lesson": 1404,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 16284,
+      "alternates": [],
+      "tokens": [
+        { "key": "tMzpITnP3gv", "text": "e", "group": 0 },
+        { "key": "tdS84jld6YO", "text": "t", "group": 0 },
+        { "key": "tPMCYhovF0V", "text": "h", "group": 0 },
+        { "key": "t-UmXp59oVa", "text": "c", "group": 0 },
+        { "key": "tymLRk6tnAy", "text": "k", "group": 0 },
+        { "key": "tyRVH9P674_", "text": "i", "group": 0 },
+        { "key": "tGGSTAa5Brw", "text": "n", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tymLRk6tnAy",
+        "tyRVH9P674_",
+        "tdS84jld6YO",
+        "t-UmXp59oVa",
+        "tPMCYhovF0V",
+        "tMzpITnP3gv",
+        "tGGSTAa5Brw"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "4BpOlCjZ3OeLhr7DtW5s3cZf3PFrYE3G",
+          "audio_updated_at": 1543437105,
+          "text": "مطبخ",
+          "dictionary": [
+            {
+              "raw": "مطبخ",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "kitchen",
+                  "phonetic": "kitchen"
+                }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "مطبخ", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "4BpOlCjZ3OeLhr7DtW5s3cZf3PFrYE3G",
+          "audio_updated_at": 1543437105,
+          "text_tokens": [
+            {
+              "raw": { "text": "kitchen", "location": 0, "length": 7 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "kitchen",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "ROn3zYJHEvk2YK90-xaMiKe11UDR0Frl",
+          "image_updated_at": 1689158996
+        }
+      ]
+    },
+    {
+      "id": 646606,
+      "lesson": 1404,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 23903,
+      "alternates": [16284],
+      "tokens": [
+        { "key": "tsfT6EVnUxI", "text": "t", "group": 3 },
+        { "key": "tWkD_BalNdc", "text": "k", "group": 3 },
+        { "key": "t4ymnMs6QUn", "text": "i", "group": 3 },
+        { "key": "tSfntRrKxxi", "text": "n", "group": 3 },
+        { "key": "tlXGyt_4P8u", "text": "c", "group": 3 },
+        { "key": "tqmQ1XqdTEm", "text": "?", "specialChar": true },
+        { "key": "tcC2hyD7ThR", "text": "h", "group": 3 },
+        { "key": "txkpCwDQi0p", "text": "e", "group": 3 },
+        { "key": "tvSUtZjn1Q3", "text": " ", "specialChar": true }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tvSUtZjn1Q3",
+        "tWkD_BalNdc",
+        "t4ymnMs6QUn",
+        "tsfT6EVnUxI",
+        "tlXGyt_4P8u",
+        "tcC2hyD7ThR",
+        "txkpCwDQi0p",
+        "tSfntRrKxxi",
+        "tqmQ1XqdTEm"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "xe1LbqrfdwUH6IynHi9SdG2vk3y9uX3-",
+          "audio_updated_at": 1688290782,
+          "text": "أين المطبخ؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            {
+              "raw": "المطبخ",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the kitchen",
+                  "phonetic": "the kitchen"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "المطبخ", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "؟", "location": 10, "length": 1 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "xe1LbqrfdwUH6IynHi9SdG2vk3y9uX3-",
+          "audio_updated_at": 1688290782,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "kitchen", "location": 13, "length": 7 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "?", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "Where is the kitchen?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 646607,
+      "lesson": 1404,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 16356,
+      "alternates": [23903, 16351],
+      "sols": [
+        {
+          "key": "EGuqsoM74z99LdaDII8jZXxLqNwmH6pT",
+          "audio_updated_at": 1593554147,
+          "text": "المطبخ هناك.",
+          "dictionary": [
+            {
+              "raw": "المطبخ",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "The kitchen",
+                  "phonetic": "The kitchen"
+                }
+              ]
+            },
+            {
+              "raw": "هناك",
+              "translations": [
+                { "type": "dictionary", "text": "The", "phonetic": "The" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "المطبخ", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هناك", "location": 7, "length": 4 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 11, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ]
+        },
+        { "key": "xe1LbqrfdwUH6IynHi9SdG2vk3y9uX3-", "text": "أين المطبخ؟" },
+        {
+          "key": "nVz5RU5g90F9JqrTdvfCyOhTeCyxo8IJ",
+          "text": "غرفة النوم هناك."
+        }
+      ],
+      "alts": [
+        {
+          "key": "EGuqsoM74z99LdaDII8jZXxLqNwmH6pT",
+          "audio_updated_at": 1593554147,
+          "text": "The kitchen is there.",
+          "phonetic": ""
+        },
+        {
+          "key": "xe1LbqrfdwUH6IynHi9SdG2vk3y9uX3-",
+          "audio_updated_at": 1688290782,
+          "text": "Where is the kitchen?",
+          "phonetic": ""
+        },
+        {
+          "key": "nVz5RU5g90F9JqrTdvfCyOhTeCyxo8IJ",
+          "audio_updated_at": 1593554153,
+          "text": "The bedroom is there.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 646608,
+      "lesson": 1404,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 16351,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tVFmLZV_mUh",
+          "text": "هناك.",
+          "raw": { "text": "هناك", "location": 11, "length": 4 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "teg9fLeB4U1",
+          "text": "النوم",
+          "raw": { "text": "النوم", "location": 5, "length": 5 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tXB9GmSeKJi",
+          "text": "غرفة",
+          "raw": { "text": "غرفة", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "taipI7jfufj",
+          "text": "الأرضية",
+          "raw": { "text": "الأرضية", "location": 0, "length": 7 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tpxPh9FIktr",
+          "text": "رطبة.",
+          "raw": { "text": "رطبة", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 12, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tXB9GmSeKJi", "teg9fLeB4U1", "tVFmLZV_mUh"],
+      "sols": [
+        {
+          "key": "nVz5RU5g90F9JqrTdvfCyOhTeCyxo8IJ",
+          "audio_updated_at": 1593554153,
+          "text": "The bedroom is there.",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "The", "translations": [] },
+            {
+              "raw": "bedroom",
+              "translations": [
+                { "type": "dictionary", "text": "غرفة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "there",
+              "translations": [
+                { "type": "dictionary", "text": "هناك", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "The", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "bedroom", "location": 4, "length": 7 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "is", "location": 12, "length": 2 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "there", "location": 15, "length": 5 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "nVz5RU5g90F9JqrTdvfCyOhTeCyxo8IJ",
+          "audio_updated_at": 1593554153,
+          "text": "غرفة النوم هناك."
+        }
+      ]
+    },
+    {
+      "id": 646609,
+      "lesson": 1404,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23904,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t0XPbZxkZD-",
+          "text": "to",
+          "raw": { "text": "to", "location": 24, "length": 2 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "", "location": 26, "length": 0 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tnWYEax_187",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t_X3y7CKeJR",
+          "text": "the",
+          "raw": { "text": "the", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tDJCBwF6BNW",
+          "text": "next",
+          "raw": { "text": "next", "location": 19, "length": 4 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tHsnumAf75J",
+          "text": "bathroom?",
+          "raw": { "text": "bathroom", "location": 13, "length": 8 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "?", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tuWoJymjjvt",
+          "text": "is",
+          "raw": { "text": "is", "location": 6, "length": 2 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tdLmS7mE7rX",
+          "text": "room",
+          "raw": { "text": "room", "location": 11, "length": 4 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "taeb57VPESM",
+          "text": "living",
+          "raw": { "text": "living", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tnWYEax_187", "tuWoJymjjvt", "t_X3y7CKeJR", "tHsnumAf75J"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "1REV0qlkK_hJ1MlCsnODl5HDWjKR6e5e",
+          "audio_updated_at": 1688290783,
+          "text": "أين الحمام؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            {
+              "raw": "الحمام",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the bathroom",
+                  "phonetic": "the bathroom"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "الحمام", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "؟", "location": 10, "length": 1 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "1REV0qlkK_hJ1MlCsnODl5HDWjKR6e5e",
+          "audio_updated_at": 1688290783,
+          "text": "Where is the bathroom?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 646610,
+      "lesson": 1404,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 23905,
+      "alternates": [23904, 16351],
+      "sols": [
+        {
+          "key": "0h71y2nEmlGpgs5xfPsXOsAO2WxcT4Nk",
+          "audio_updated_at": 1688290784,
+          "text": "The bathroom is next to the living room.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "The", "translations": [] },
+            {
+              "raw": "bathroom",
+              "translations": [
+                { "type": "dictionary", "text": "الحمام", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "next",
+              "translations": [
+                { "type": "dictionary", "text": "بجانب", "phonetic": null }
+              ]
+            },
+            { "raw": "to", "translations": [] },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "living",
+              "translations": [
+                { "type": "dictionary", "text": "المعيشة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "room",
+              "translations": [
+                { "type": "dictionary", "text": "غرفة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "The", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "bathroom", "location": 4, "length": 8 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "is", "location": 13, "length": 2 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "next", "location": 16, "length": 4 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "to", "location": 21, "length": 2 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 24, "length": 3 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "", "location": 27, "length": 0 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            },
+            {
+              "raw": { "text": "living", "location": 28, "length": 6 },
+              "prefix": { "text": "", "location": 28, "length": 0 },
+              "suffix": { "text": "", "location": 34, "length": 0 },
+              "linker": { "text": " ", "location": 27, "length": 1 }
+            },
+            {
+              "raw": { "text": "room", "location": 35, "length": 4 },
+              "prefix": { "text": "", "location": 35, "length": 0 },
+              "suffix": { "text": ".", "location": 39, "length": 1 },
+              "linker": { "text": " ", "location": 34, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "nVz5RU5g90F9JqrTdvfCyOhTeCyxo8IJ",
+          "text": "The bedroom is there.",
+          "phonetic": ""
+        },
+        {
+          "key": "1REV0qlkK_hJ1MlCsnODl5HDWjKR6e5e",
+          "text": "Where is the bathroom?",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "0h71y2nEmlGpgs5xfPsXOsAO2WxcT4Nk",
+          "audio_updated_at": 1688290784,
+          "text": "الحمام بجانب غرفة المعيشة."
+        },
+        {
+          "key": "nVz5RU5g90F9JqrTdvfCyOhTeCyxo8IJ",
+          "audio_updated_at": 1593554153,
+          "text": "غرفة النوم هناك."
+        },
+        {
+          "key": "1REV0qlkK_hJ1MlCsnODl5HDWjKR6e5e",
+          "audio_updated_at": 1688290783,
+          "text": "أين الحمام؟"
+        }
+      ]
+    },
+    {
+      "id": 646611,
+      "lesson": 1404,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23906,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tCpRhBbFbcn",
+          "text": "to",
+          "raw": { "text": "to", "location": 24, "length": 2 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "", "location": 26, "length": 0 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tzHElbycWx5",
+          "text": "living",
+          "raw": { "text": "living", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t1s5ArdYPiA",
+          "text": "is",
+          "raw": { "text": "is", "location": 16, "length": 2 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tnAk8p2OLXP",
+          "text": "kitchen.",
+          "raw": { "text": "kitchen", "location": 31, "length": 7 },
+          "prefix": { "text": "", "location": 31, "length": 0 },
+          "suffix": { "text": ".", "location": 38, "length": 1 },
+          "linker": { "text": " ", "location": 30, "length": 1 }
+        },
+        {
+          "key": "tqYR1V1ZmtT",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tIwYfSkFHUL",
+          "text": "room",
+          "raw": { "text": "room", "location": 11, "length": 4 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tH9BNtDQsRx",
+          "text": "next",
+          "raw": { "text": "next", "location": 19, "length": 4 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tTZxneAvnHK",
+          "text": "the",
+          "raw": { "text": "the", "location": 27, "length": 3 },
+          "prefix": { "text": "", "location": 27, "length": 0 },
+          "suffix": { "text": "", "location": 30, "length": 0 },
+          "linker": { "text": " ", "location": 26, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tqYR1V1ZmtT",
+        "tzHElbycWx5",
+        "tIwYfSkFHUL",
+        "t1s5ArdYPiA",
+        "tH9BNtDQsRx",
+        "tCpRhBbFbcn",
+        "tTZxneAvnHK",
+        "tnAk8p2OLXP"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "9O4_5mb5oSYkQEcd505lyVY2ef3Da_hF",
+          "audio_updated_at": 1688290785,
+          "text": "غرفة المعيشة بجانب المطبخ.",
+          "dictionary": [
+            {
+              "raw": "غرفة",
+              "translations": [
+                { "type": "dictionary", "text": "room", "phonetic": "room" }
+              ]
+            },
+            {
+              "raw": "المعيشة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "The living",
+                  "phonetic": "The living"
+                }
+              ]
+            },
+            {
+              "raw": "بجانب",
+              "translations": [
+                { "type": "dictionary", "text": "next", "phonetic": "next" }
+              ]
+            },
+            {
+              "raw": "المطبخ",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the kitchen",
+                  "phonetic": "the kitchen"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "غرفة", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "المعيشة", "location": 5, "length": 7 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "بجانب", "location": 13, "length": 5 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "المطبخ", "location": 19, "length": 6 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": ".", "location": 25, "length": 1 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "9O4_5mb5oSYkQEcd505lyVY2ef3Da_hF",
+          "audio_updated_at": 1688290785,
+          "text": "The living room is next to the kitchen.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 646612,
+      "lesson": 1404,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 23903,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t8yMKXGckZo",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tmEmBdPe59R",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tkKEKCFdHA4",
+          "text": "السطح؟",
+          "raw": { "text": "السطح", "location": 15, "length": 5 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "؟", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tCPbueDgZDh",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 7, "length": 2 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tLIvHPRyTGj",
+          "text": "نصلح",
+          "raw": { "text": "نصلح", "location": 10, "length": 4 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tgZCoSJ2gsh",
+          "text": "يجب",
+          "raw": { "text": "يجب", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tWUgeOsUJD9",
+          "text": "المطبخ؟",
+          "raw": { "text": "المطبخ", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "؟", "location": 10, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tmEmBdPe59R", "tWUgeOsUJD9"],
+      "sols": [
+        {
+          "key": "xe1LbqrfdwUH6IynHi9SdG2vk3y9uX3-",
+          "audio_updated_at": 1688290782,
+          "text": "Where is the kitchen?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "kitchen",
+              "translations": [
+                { "type": "dictionary", "text": "المطبخ", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "kitchen", "location": 13, "length": 7 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "?", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "xe1LbqrfdwUH6IynHi9SdG2vk3y9uX3-",
+          "audio_updated_at": 1688290782,
+          "text": "أين المطبخ؟"
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "tL3yRH-9w-n",
+            "text": "الجدران.",
+            "raw": { "text": "الجدران", "location": 16, "length": 7 },
+            "prefix": { "text": "", "location": 16, "length": 0 },
+            "suffix": { "text": ".", "location": 23, "length": 1 },
+            "linker": { "text": " ", "location": 15, "length": 1 }
+          },
+          {
+            "key": "tyaNSAP9E3L",
+            "text": "يجب",
+            "raw": { "text": "يجب", "location": 4, "length": 3 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 7, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "t062xFRkeam",
+            "text": "المطبخ؟",
+            "raw": { "text": "المطبخ", "location": 4, "length": 6 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "؟", "location": 10, "length": 1 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "tC7AqGfQw3p",
+            "text": "أن",
+            "raw": { "text": "أن", "location": 8, "length": 2 },
+            "prefix": { "text": "", "location": 8, "length": 0 },
+            "suffix": { "text": "", "location": 10, "length": 0 },
+            "linker": { "text": " ", "location": 7, "length": 1 }
+          },
+          {
+            "key": "td1ck_QFcJq",
+            "text": "أين",
+            "raw": { "text": "أين", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "t9tfEhNcJ6Z",
+            "text": "نطلي",
+            "raw": { "text": "نطلي", "location": 11, "length": 4 },
+            "prefix": { "text": "", "location": 11, "length": 0 },
+            "suffix": { "text": "", "location": 15, "length": 0 },
+            "linker": { "text": " ", "location": 10, "length": 1 }
+          },
+          {
+            "key": "tVhkiGawxkL",
+            "text": "نحن",
+            "raw": { "text": "نحن", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": ["td1ck_QFcJq", "t062xFRkeam"],
+        "sols": [
+          {
+            "key": "xe1LbqrfdwUH6IynHi9SdG2vk3y9uX3-",
+            "audio_updated_at": 1688290782,
+            "text": "Where is the kitchen?",
+            "phonetic": "",
+            "dictionary": [
+              {
+                "raw": "Where",
+                "translations": [
+                  { "type": "dictionary", "text": "أين", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "is",
+                "translations": [
+                  {
+                    "type": "verb",
+                    "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                    "id": 6,
+                    "tenseNames": {
+                      "pr": "الحاضر",
+                      "pa": "ماضي",
+                      "fu": "مستقبل"
+                    },
+                    "conj": {
+                      "pr": [
+                        {
+                          "t": {
+                            "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                            "text": "I am",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437947
+                          },
+                          "m": { "text": "أنا أكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                            "text": "You are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437948
+                          },
+                          "m": { "text": "أنت تكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                            "text": "He is",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437949
+                          },
+                          "m": { "text": "هو يكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                            "text": "She is",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437951
+                          },
+                          "m": { "text": "هي تكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                            "text": "We are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437953
+                          },
+                          "m": { "text": "نحن نكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                            "text": "You are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437954
+                          },
+                          "m": { "text": "أنتم تكونون" }
+                        },
+                        {
+                          "t": {
+                            "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                            "text": "They are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437956
+                          },
+                          "m": { "text": "هم يكونون" }
+                        }
+                      ],
+                      "pa": [
+                        {
+                          "t": {
+                            "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                            "text": "I was",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437957
+                          },
+                          "m": { "text": "أنا كنت" }
+                        },
+                        {
+                          "t": {
+                            "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                            "text": "You were",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437958
+                          },
+                          "m": { "text": "أنت كنت" }
+                        },
+                        {
+                          "t": {
+                            "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                            "text": "He was",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437960
+                          },
+                          "m": { "text": "هو كان" }
+                        },
+                        {
+                          "t": {
+                            "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                            "text": "She was",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546648
+                          },
+                          "m": { "text": "هي كانت" }
+                        },
+                        {
+                          "t": {
+                            "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                            "text": "We were",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437961
+                          },
+                          "m": { "text": "نحن كنا" }
+                        },
+                        {
+                          "t": {
+                            "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                            "text": "You were",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546651
+                          },
+                          "m": { "text": "أنتم كنتم" }
+                        },
+                        {
+                          "t": {
+                            "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                            "text": "They were",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437962
+                          },
+                          "m": { "text": "هم كانوا" }
+                        }
+                      ],
+                      "fu": [
+                        {
+                          "t": {
+                            "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                            "text": "I will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546653
+                          },
+                          "m": { "text": "أنا سأكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                            "text": "You will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546654
+                          },
+                          "m": { "text": "أنت ستكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                            "text": "He will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546655
+                          },
+                          "m": { "text": "هو سيكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                            "text": "She will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546656
+                          },
+                          "m": { "text": "هي ستكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                            "text": "We will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546658
+                          },
+                          "m": { "text": "نحن سنكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                            "text": "You will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546659
+                          },
+                          "m": { "text": "أنتم ستكونون" }
+                        },
+                        {
+                          "t": {
+                            "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                            "text": "They will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546660
+                          },
+                          "m": { "text": "هم سيكونون" }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              { "raw": "the", "translations": [] },
+              {
+                "raw": "kitchen",
+                "translations": [
+                  { "type": "dictionary", "text": "المطبخ", "phonetic": null }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "Where", "location": 0, "length": 5 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 5, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "is", "location": 6, "length": 2 },
+                "prefix": { "text": "", "location": 6, "length": 0 },
+                "suffix": { "text": "", "location": 8, "length": 0 },
+                "linker": { "text": " ", "location": 5, "length": 1 }
+              },
+              {
+                "raw": { "text": "the", "location": 9, "length": 3 },
+                "prefix": { "text": "", "location": 9, "length": 0 },
+                "suffix": { "text": "", "location": 12, "length": 0 },
+                "linker": { "text": " ", "location": 8, "length": 1 }
+              },
+              {
+                "raw": { "text": "kitchen", "location": 13, "length": 7 },
+                "prefix": { "text": "", "location": 13, "length": 0 },
+                "suffix": { "text": "?", "location": 20, "length": 1 },
+                "linker": { "text": " ", "location": 12, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "xe1LbqrfdwUH6IynHi9SdG2vk3y9uX3-",
+            "audio_updated_at": 1688290782,
+            "text": "أين المطبخ؟"
+          }
+        ]
+      }
+    },
+    {
+      "id": 646613,
+      "lesson": 1404,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 16356,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t4_Pm3_p2B5",
+          "text": "المطبخ",
+          "raw": { "text": "المطبخ", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tGnA712WGf1",
+          "text": "هناك.",
+          "raw": { "text": "هناك", "location": 7, "length": 4 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 11, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "t-Np1RDfsi5",
+          "text": "لدينا",
+          "raw": { "text": "لدينا", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tWI430QWPsl",
+          "text": "بيت.",
+          "raw": { "text": "بيت", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t0Wlkt_OLQp",
+          "text": "نحن",
+          "raw": { "text": "نحن", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["t4_Pm3_p2B5", "tGnA712WGf1"],
+      "sols": [
+        {
+          "key": "EGuqsoM74z99LdaDII8jZXxLqNwmH6pT",
+          "audio_updated_at": 1593554147,
+          "text": "The kitchen is there.",
+          "phonetic": null
+        },
+        {
+          "key": "EGuqsoM74z99LdaDII8jZXxLqNwmH6pT",
+          "audio_updated_at": 1593554147,
+          "text": "المطبخ هناك."
+        }
+      ]
+    },
+    {
+      "id": 646614,
+      "lesson": 1404,
+      "type": "T2",
+      "modifiers": 60,
+      "wordID": 16351,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "nVz5RU5g90F9JqrTdvfCyOhTeCyxo8IJ",
+          "audio_updated_at": 1593554153,
+          "text": "The bedroom is there.",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "The", "translations": [] },
+            {
+              "raw": "bedroom",
+              "translations": [
+                { "type": "dictionary", "text": "غرفة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "there",
+              "translations": [
+                { "type": "dictionary", "text": "هناك", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "The", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "bedroom", "location": 4, "length": 7 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "is", "location": 12, "length": 2 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "there", "location": 15, "length": 5 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "nVz5RU5g90F9JqrTdvfCyOhTeCyxo8IJ",
+          "audio_updated_at": 1593554153,
+          "text": "غرفة النوم هناك."
+        }
+      ]
+    },
+    {
+      "id": 646615,
+      "lesson": 1404,
+      "type": "T2b",
+      "modifiers": 92,
+      "wordID": 23904,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "1REV0qlkK_hJ1MlCsnODl5HDWjKR6e5e",
+          "audio_updated_at": 1688290783,
+          "text": "أين الحمام؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            {
+              "raw": "الحمام",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the bathroom",
+                  "phonetic": "the bathroom"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "الحمام", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "؟", "location": 10, "length": 1 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "1REV0qlkK_hJ1MlCsnODl5HDWjKR6e5e",
+          "audio_updated_at": 1688290783,
+          "text": "Where is the bathroom?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 646616,
+      "lesson": 1404,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 23905,
+      "alternates": [16351, 23904],
+      "sols": [
+        {
+          "key": "0h71y2nEmlGpgs5xfPsXOsAO2WxcT4Nk",
+          "audio_updated_at": 1688290784,
+          "text": "الحمام بجانب غرفة المعيشة.",
+          "dictionary": [
+            {
+              "raw": "الحمام",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "The bathroom",
+                  "phonetic": "The bathroom"
+                }
+              ]
+            },
+            {
+              "raw": "بجانب",
+              "translations": [
+                { "type": "dictionary", "text": "next", "phonetic": "next" }
+              ]
+            },
+            {
+              "raw": "غرفة",
+              "translations": [
+                { "type": "dictionary", "text": "room", "phonetic": "room" }
+              ]
+            },
+            {
+              "raw": "المعيشة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the living",
+                  "phonetic": "the living"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "الحمام", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "بجانب", "location": 7, "length": 5 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "غرفة", "location": 13, "length": 4 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "المعيشة", "location": 18, "length": 7 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": ".", "location": 25, "length": 1 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            }
+          ]
+        },
+        { "key": "1REV0qlkK_hJ1MlCsnODl5HDWjKR6e5e", "text": "أين الحمام؟" },
+        {
+          "key": "nVz5RU5g90F9JqrTdvfCyOhTeCyxo8IJ",
+          "text": "غرفة النوم هناك."
+        }
+      ],
+      "alts": [
+        {
+          "key": "0h71y2nEmlGpgs5xfPsXOsAO2WxcT4Nk",
+          "audio_updated_at": 1688290784,
+          "text": "The bathroom is next to the living room.",
+          "phonetic": ""
+        },
+        {
+          "key": "1REV0qlkK_hJ1MlCsnODl5HDWjKR6e5e",
+          "audio_updated_at": 1688290783,
+          "text": "Where is the bathroom?",
+          "phonetic": ""
+        },
+        {
+          "key": "nVz5RU5g90F9JqrTdvfCyOhTeCyxo8IJ",
+          "audio_updated_at": 1593554153,
+          "text": "The bedroom is there.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 646617,
+      "lesson": 1404,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 23906,
+      "alternates": [16356, 23903],
+      "sols": [
+        {
+          "key": "9O4_5mb5oSYkQEcd505lyVY2ef3Da_hF",
+          "audio_updated_at": 1688290785,
+          "text": "The living room is next to the kitchen.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "The", "translations": [] },
+            {
+              "raw": "living",
+              "translations": [
+                { "type": "dictionary", "text": "المعيشة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "room",
+              "translations": [
+                { "type": "dictionary", "text": "غرفة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "next",
+              "translations": [
+                { "type": "dictionary", "text": "بجانب", "phonetic": null }
+              ]
+            },
+            { "raw": "to", "translations": [] },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "kitchen",
+              "translations": [
+                { "type": "dictionary", "text": "المطبخ", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "The", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "living", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "room", "location": 11, "length": 4 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "is", "location": 16, "length": 2 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "next", "location": 19, "length": 4 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "to", "location": 24, "length": 2 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "", "location": 26, "length": 0 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 27, "length": 3 },
+              "prefix": { "text": "", "location": 27, "length": 0 },
+              "suffix": { "text": "", "location": 30, "length": 0 },
+              "linker": { "text": " ", "location": 26, "length": 1 }
+            },
+            {
+              "raw": { "text": "kitchen", "location": 31, "length": 7 },
+              "prefix": { "text": "", "location": 31, "length": 0 },
+              "suffix": { "text": ".", "location": 38, "length": 1 },
+              "linker": { "text": " ", "location": 30, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "xe1LbqrfdwUH6IynHi9SdG2vk3y9uX3-",
+          "text": "Where is the kitchen?",
+          "phonetic": ""
+        },
+        {
+          "key": "EGuqsoM74z99LdaDII8jZXxLqNwmH6pT",
+          "text": "The kitchen is there.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "9O4_5mb5oSYkQEcd505lyVY2ef3Da_hF",
+          "audio_updated_at": 1688290785,
+          "text": "غرفة المعيشة بجانب المطبخ."
+        },
+        {
+          "key": "xe1LbqrfdwUH6IynHi9SdG2vk3y9uX3-",
+          "audio_updated_at": 1688290782,
+          "text": "أين المطبخ؟"
+        },
+        {
+          "key": "EGuqsoM74z99LdaDII8jZXxLqNwmH6pT",
+          "audio_updated_at": 1593554147,
+          "text": "المطبخ هناك."
+        }
+      ]
+    }
+  ]
+}

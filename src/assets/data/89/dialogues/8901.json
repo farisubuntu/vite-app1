@@ -1,0 +1,3583 @@
+{
+  "dialogue": {
+    "id": 8901,
+    "index": 1,
+    "category": 89,
+    "categoryID": 89,
+    "categoryModifiers": 0,
+    "isCourse": false,
+    "name": "وضع الخطط",
+    "done": false,
+    "disabled": false,
+    "countItem": 15,
+    "countDone": 0,
+    "countWords": 64,
+    "countPhrases": 15,
+    "dItems": [
+      9773, 9774, 9775, 9776, 9777, 9778, 9779, 9780, 9781, 9782, 9783, 9784,
+      9785, 9786, 9787
+    ]
+  },
+  "dItems": [
+    {
+      "id": 9773,
+      "i": 0,
+      "positionIndex": 0,
+      "dialogue": 8901,
+      "wordID": 30626,
+      "key": "Ywua-AOwYlKhcCt492g3_vZWIK8x9Rue",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "مرحبًا! هل تستطيع مساعدتي في الانتقال في نهاية الأسبوع هذه؟",
+          "dictionary": [
+            { "raw": "مرحبًا", "translations": [] },
+            { "raw": "هل", "translations": [] },
+            { "raw": "تستطيع", "translations": [] },
+            { "raw": "مساعدتي", "translations": [] },
+            { "raw": "في", "translations": [] },
+            { "raw": "الانتقال", "translations": [] },
+            { "raw": "في", "translations": [] },
+            { "raw": "نهاية", "translations": [] },
+            { "raw": "الأسبوع", "translations": [] },
+            { "raw": "هذه", "translations": [] }
+          ]
+        },
+        {
+          "text": "Hi! Can you help me move this weekend?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Hi",
+              "translations": [
+                { "type": "dictionary", "text": "مرحبًا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "Can",
+              "translations": [
+                { "type": "dictionary", "text": "تستطيع", "phonetic": null }
+              ]
+            },
+            { "raw": "you", "translations": [] },
+            {
+              "raw": "help",
+              "translations": [
+                { "type": "dictionary", "text": "مساعدتي", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to help",
+                    "m": "يساعد",
+                    "phonetic": "to help"
+                  },
+                  "id": 43,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "uqB3oqJf1b-7N34oFTLFF1RU17fPnffZ",
+                          "text": "I help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438179
+                        },
+                        "m": { "text": "أنا أساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "MP4I3cUC_a0PH4tKWrvenlQ6_56bFPAv",
+                          "text": "You help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438180
+                        },
+                        "m": { "text": "أنت تساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5WiyKiUlnNu_cVsdk5kcYqywm6guuy-s",
+                          "text": "He helps",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438181
+                        },
+                        "m": { "text": "هو يساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "87mLRDb6qSGrLznBTZOKdz8mYM9sX_d9",
+                          "text": "She helps",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438182
+                        },
+                        "m": { "text": "هي تساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ParYyqadRkg9qMwprdEQvUHplzqHyMbk",
+                          "text": "We help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438184
+                        },
+                        "m": { "text": "نحن نساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLJPD_nbn4mBraBfktBkP92tOdJ8B5cU",
+                          "text": "You help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547555
+                        },
+                        "m": { "text": "أنتم تساعدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "VGuPZI4vdq97_VnJzetW08suAOSYkP2G",
+                          "text": "They help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438185
+                        },
+                        "m": { "text": "هم يساعدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "250tmWtHl_Ct1vQV5hOzrMnNpcyR6sJr",
+                          "text": "I helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547558
+                        },
+                        "m": { "text": "أنا ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "SHoaFtO-xeRLtA2VAWNwFNZvRj5aRGtN",
+                          "text": "You helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547559
+                        },
+                        "m": { "text": "أنت ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Q6elLPzpP-1GiB1WkX7XVitX5ZEIyf1q",
+                          "text": "He helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547559
+                        },
+                        "m": { "text": "هو ساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "2w3NgLuoTBE72ZkltxnWThvOeartBWAR",
+                          "text": "She helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547560
+                        },
+                        "m": { "text": "هي ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZnYnOQwofgQ-ma-jdJ7fW3j7QVGeq3nO",
+                          "text": "We helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547562
+                        },
+                        "m": { "text": "نحن ساعدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "-Fmr5TvPdCbhX_MEsUv6StzD2KEYGnrR",
+                          "text": "You helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547563
+                        },
+                        "m": { "text": "أنتم ساعدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "lBh1FKOForCy2PzDsi5BgfFStNWI1fim",
+                          "text": "They helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547564
+                        },
+                        "m": { "text": "هم ساعدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "S9-eIwEx1QQBv3WaOAjkS7B_0gtji-rm",
+                          "text": "I will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547565
+                        },
+                        "m": { "text": "أنا سأساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "fyeugK13hnffkIUv3Rtyfn2YtA-ArpTy",
+                          "text": "You will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547567
+                        },
+                        "m": { "text": "أنت ستساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5TBrSfnybGAuHSkl7eW8pVYbXp7d1URn",
+                          "text": "He will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547567
+                        },
+                        "m": { "text": "هو سيساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "1P6Lo2ayaoDJfUblHCBGgoqCOj-msdlr",
+                          "text": "She will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547568
+                        },
+                        "m": { "text": "هي ستساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "SSd4fLN7TcaXb-87XwAxEkXjDMfSFS2i",
+                          "text": "We will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547570
+                        },
+                        "m": { "text": "نحن سنساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "aFpkXvSow_uTjRlrcbCoiT8cU-F2wWw6",
+                          "text": "You will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547571
+                        },
+                        "m": { "text": "أنتم ستساعدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "be0R9rsOiRbxSvPqj4SeDKZI-I_xJQto",
+                          "text": "They will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547572
+                        },
+                        "m": { "text": "هم سيساعدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "me", "translations": [] },
+            {
+              "raw": "move",
+              "translations": [
+                { "type": "dictionary", "text": "الانتقال", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "this",
+              "translations": [
+                { "type": "dictionary", "text": "هذه", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "weekend",
+              "translations": [
+                { "type": "dictionary", "text": "نهاية", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291964
+    },
+    {
+      "id": 9774,
+      "i": 1,
+      "positionIndex": 1,
+      "dialogue": 8901,
+      "wordID": 30627,
+      "key": "sHXz0dKceQQrzAhtrIOeYUmeAXkMuBgR",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "لا، أنا آسف. نزور أجدادنا كل نهاية أسبوع.",
+          "dictionary": [
+            { "raw": "لا", "translations": [] },
+            { "raw": "أنا", "translations": [] },
+            { "raw": "آسف", "translations": [] },
+            {
+              "raw": "نزور",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to visit",
+                    "m": "يزور",
+                    "phonetic": "to visit"
+                  },
+                  "id": 91,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "J2MUygb-XwkvO6ijx0GUc6LFAEjYBQN3",
+                          "text": "I visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438545
+                        },
+                        "m": { "text": "أنا أزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "SxdhHr2TWr3Aj5wqceRpNh-sDrrVdmha",
+                          "text": "You visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438546
+                        },
+                        "m": { "text": "أنت تزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZRfeUDQEU5i5jyCops67ul7S8Ey7zaNF",
+                          "text": "He visits",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438548
+                        },
+                        "m": { "text": "هو يزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "RXua_Hrin13Y9kbVlGEY5d8XeUw52ip4",
+                          "text": "She visits",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438549
+                        },
+                        "m": { "text": "هي تزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "BF3vomEXflJdNiUwZjWiz6VAeXPfJlxK",
+                          "text": "We visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438550
+                        },
+                        "m": { "text": "نحن نزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "WR-ccaY7bLCYH-bSJKNaRCAFf9dKmgEr",
+                          "text": "You visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548772
+                        },
+                        "m": { "text": "أنتم تزورون" }
+                      },
+                      {
+                        "t": {
+                          "key": "dMG_X0TF7ORoovvtZjMG9_B1nVYGxR2V",
+                          "text": "They visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438551
+                        },
+                        "m": { "text": "هم يزورون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "EqgDqcyc6idRLHtP5Osw34O6wZmLlt8A",
+                          "text": "I visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548774
+                        },
+                        "m": { "text": "أنا زرت" }
+                      },
+                      {
+                        "t": {
+                          "key": "rv3i_LhiU3EVHwttps0KkifzTAzvfQ_U",
+                          "text": "You visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548775
+                        },
+                        "m": { "text": "أنت زرت" }
+                      },
+                      {
+                        "t": {
+                          "key": "fWKMRDaUmKJVV6LHb_n40scQO8011WFL",
+                          "text": "He visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548776
+                        },
+                        "m": { "text": "هو زار" }
+                      },
+                      {
+                        "t": {
+                          "key": "oy3h15E5W-2_mgPrwEzE5lWq26sTQy5M",
+                          "text": "She visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548778
+                        },
+                        "m": { "text": "هي زارت" }
+                      },
+                      {
+                        "t": {
+                          "key": "LnrbiGnb3Ki8xzjMc_1zQjc7vZeNGtMV",
+                          "text": "We visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548780
+                        },
+                        "m": { "text": "نحن زرنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nj-pNddVXiHaKRp3pwdrjYAqy3gJAxKY",
+                          "text": "You visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548781
+                        },
+                        "m": { "text": "أنتم زرتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "PROHAzZq3vm04gzLj0IaQNPj9LjHmR0k",
+                          "text": "They visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548782
+                        },
+                        "m": { "text": "هم زاروا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "DA90ixkMsv4O0xmsjsiFBeCVe4xFlrJJ",
+                          "text": "I will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548783
+                        },
+                        "m": { "text": "أنا سأزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6igC0LOt6FpD6JT2acluXeob5wtUAX9",
+                          "text": "You will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548784
+                        },
+                        "m": { "text": "أنت ستزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "xhU0FkjZDtc7lGitUuEKBUDsiuzzciwD",
+                          "text": "He will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548785
+                        },
+                        "m": { "text": "هو سيزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "TlSl-zuP4N_DuWLzwAx0Rsaf2FSLbN9g",
+                          "text": "She will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548786
+                        },
+                        "m": { "text": "هي ستزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "Rr2cC6AoJmKuy31OrXtmXlUy7dWQYyz_",
+                          "text": "We will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548788
+                        },
+                        "m": { "text": "نحن سنزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "etAgE1h6BicBoBrysggKEml5DxiW06eL",
+                          "text": "You will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548789
+                        },
+                        "m": { "text": "أنتم ستزورون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gjgQX3z_FiJcbv4FZcbbKb-EmP-F_7Y9",
+                          "text": "They will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548791
+                        },
+                        "m": { "text": "هم سيزورون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "أجدادنا", "translations": [] },
+            { "raw": "كل", "translations": [] },
+            { "raw": "نهاية", "translations": [] },
+            { "raw": "أسبوع", "translations": [] }
+          ]
+        },
+        {
+          "text": "No, I'm sorry. We visit our grandparents every weekend.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "No",
+              "translations": [
+                { "type": "dictionary", "text": "لا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "I'm",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "sorry",
+              "translations": [
+                { "type": "dictionary", "text": "آسف", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "We",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "visit",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to visit",
+                    "m": "يزور",
+                    "phonetic": "to visit"
+                  },
+                  "id": 91,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "J2MUygb-XwkvO6ijx0GUc6LFAEjYBQN3",
+                          "text": "I visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438545
+                        },
+                        "m": { "text": "أنا أزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "SxdhHr2TWr3Aj5wqceRpNh-sDrrVdmha",
+                          "text": "You visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438546
+                        },
+                        "m": { "text": "أنت تزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZRfeUDQEU5i5jyCops67ul7S8Ey7zaNF",
+                          "text": "He visits",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438548
+                        },
+                        "m": { "text": "هو يزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "RXua_Hrin13Y9kbVlGEY5d8XeUw52ip4",
+                          "text": "She visits",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438549
+                        },
+                        "m": { "text": "هي تزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "BF3vomEXflJdNiUwZjWiz6VAeXPfJlxK",
+                          "text": "We visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438550
+                        },
+                        "m": { "text": "نحن نزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "WR-ccaY7bLCYH-bSJKNaRCAFf9dKmgEr",
+                          "text": "You visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548772
+                        },
+                        "m": { "text": "أنتم تزورون" }
+                      },
+                      {
+                        "t": {
+                          "key": "dMG_X0TF7ORoovvtZjMG9_B1nVYGxR2V",
+                          "text": "They visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438551
+                        },
+                        "m": { "text": "هم يزورون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "EqgDqcyc6idRLHtP5Osw34O6wZmLlt8A",
+                          "text": "I visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548774
+                        },
+                        "m": { "text": "أنا زرت" }
+                      },
+                      {
+                        "t": {
+                          "key": "rv3i_LhiU3EVHwttps0KkifzTAzvfQ_U",
+                          "text": "You visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548775
+                        },
+                        "m": { "text": "أنت زرت" }
+                      },
+                      {
+                        "t": {
+                          "key": "fWKMRDaUmKJVV6LHb_n40scQO8011WFL",
+                          "text": "He visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548776
+                        },
+                        "m": { "text": "هو زار" }
+                      },
+                      {
+                        "t": {
+                          "key": "oy3h15E5W-2_mgPrwEzE5lWq26sTQy5M",
+                          "text": "She visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548778
+                        },
+                        "m": { "text": "هي زارت" }
+                      },
+                      {
+                        "t": {
+                          "key": "LnrbiGnb3Ki8xzjMc_1zQjc7vZeNGtMV",
+                          "text": "We visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548780
+                        },
+                        "m": { "text": "نحن زرنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nj-pNddVXiHaKRp3pwdrjYAqy3gJAxKY",
+                          "text": "You visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548781
+                        },
+                        "m": { "text": "أنتم زرتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "PROHAzZq3vm04gzLj0IaQNPj9LjHmR0k",
+                          "text": "They visited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548782
+                        },
+                        "m": { "text": "هم زاروا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "DA90ixkMsv4O0xmsjsiFBeCVe4xFlrJJ",
+                          "text": "I will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548783
+                        },
+                        "m": { "text": "أنا سأزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6igC0LOt6FpD6JT2acluXeob5wtUAX9",
+                          "text": "You will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548784
+                        },
+                        "m": { "text": "أنت ستزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "xhU0FkjZDtc7lGitUuEKBUDsiuzzciwD",
+                          "text": "He will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548785
+                        },
+                        "m": { "text": "هو سيزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "TlSl-zuP4N_DuWLzwAx0Rsaf2FSLbN9g",
+                          "text": "She will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548786
+                        },
+                        "m": { "text": "هي ستزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "Rr2cC6AoJmKuy31OrXtmXlUy7dWQYyz_",
+                          "text": "We will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548788
+                        },
+                        "m": { "text": "نحن سنزور" }
+                      },
+                      {
+                        "t": {
+                          "key": "etAgE1h6BicBoBrysggKEml5DxiW06eL",
+                          "text": "You will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548789
+                        },
+                        "m": { "text": "أنتم ستزورون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gjgQX3z_FiJcbv4FZcbbKb-EmP-F_7Y9",
+                          "text": "They will visit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548791
+                        },
+                        "m": { "text": "هم سيزورون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "our", "translations": [] },
+            { "raw": "grandparents", "translations": [] },
+            {
+              "raw": "every",
+              "translations": [
+                { "type": "dictionary", "text": "كل", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "weekend",
+              "translations": [
+                { "type": "dictionary", "text": "نهاية", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291965
+    },
+    {
+      "id": 9775,
+      "i": 2,
+      "positionIndex": 2,
+      "dialogue": 8901,
+      "wordID": 30628,
+      "key": "mOH6zVB-Q0A752DxCBZ2F7XzlrvVhJwo",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "ماذا عن الجمعة إذن؟",
+          "dictionary": [
+            { "raw": "ماذا", "translations": [] },
+            { "raw": "عن", "translations": [] },
+            { "raw": "الجمعة", "translations": [] },
+            { "raw": "إذن", "translations": [] }
+          ]
+        },
+        {
+          "text": "How about Friday then?",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "How", "translations": [] },
+            {
+              "raw": "about",
+              "translations": [
+                { "type": "dictionary", "text": "عن", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "Friday",
+              "translations": [
+                { "type": "dictionary", "text": "الجمعة", "phonetic": null }
+              ]
+            },
+            { "raw": "then", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291966
+    },
+    {
+      "id": 9776,
+      "i": 3,
+      "positionIndex": 3,
+      "dialogue": 8901,
+      "wordID": 30629,
+      "key": "B25C4r9wVDcwOBFbkadffLbpibg8Wq9k",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "ننظف البيت أيام الجمعة.",
+          "dictionary": [
+            { "raw": "ننظف", "translations": [] },
+            { "raw": "البيت", "translations": [] },
+            { "raw": "أيام", "translations": [] },
+            { "raw": "الجمعة", "translations": [] }
+          ]
+        },
+        {
+          "text": "We clean the house on Fridays.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "We", "translations": [] },
+            { "raw": "clean", "translations": [] },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "house",
+              "translations": [
+                { "type": "dictionary", "text": "البيت", "phonetic": null }
+              ]
+            },
+            { "raw": "on", "translations": [] },
+            {
+              "raw": "Fridays",
+              "translations": [
+                { "type": "dictionary", "text": "الجمعة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291968
+    },
+    {
+      "id": 9777,
+      "i": 4,
+      "positionIndex": 4,
+      "dialogue": 8901,
+      "wordID": 30630,
+      "key": "G264BsiBHJUiZYt41r9IhfVNYMsD0Xvw",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "إذن ربما يوم الثلاثاء؟",
+          "dictionary": [
+            { "raw": "إذن", "translations": [] },
+            { "raw": "ربما", "translations": [] },
+            { "raw": "يوم", "translations": [] },
+            { "raw": "الثلاثاء", "translations": [] }
+          ]
+        },
+        {
+          "text": "Then maybe on Tuesday?",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Then", "translations": [] },
+            {
+              "raw": "maybe",
+              "translations": [
+                { "type": "dictionary", "text": "ربما", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "on",
+              "translations": [
+                { "type": "dictionary", "text": "يوم", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "Tuesday",
+              "translations": [
+                { "type": "dictionary", "text": "الثلاثاء", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291969
+    },
+    {
+      "id": 9778,
+      "i": 5,
+      "positionIndex": 5,
+      "dialogue": 8901,
+      "wordID": 30631,
+      "key": "J-bm0iPO_npi_7MAl640oaqK34vlFR0g",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "ربما، لكني عادةً أشاهد الأفلام مع أسرتي.",
+          "dictionary": [
+            { "raw": "ربما", "translations": [] },
+            { "raw": "لكني", "translations": [] },
+            { "raw": "عادةً", "translations": [] },
+            {
+              "raw": "أشاهد",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to watch",
+                    "m": "يشاهد",
+                    "phonetic": "to watch"
+                  },
+                  "id": 97,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "edfmlXKdTajsLIBCeSRmC4PHqpM8OXBx",
+                          "text": "I watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438587
+                        },
+                        "m": { "text": "أنا أشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "e4zE3-JbAIC8JoNhyt-uxnAhJ7EORWbL",
+                          "text": "You watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438588
+                        },
+                        "m": { "text": "أنت تشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "wmAqvhLQuIhzFwmi-Aql7lJjMiujQQNh",
+                          "text": "He watches",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438590
+                        },
+                        "m": { "text": "هو يشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "IRgaHtnXBssFuOcEXBZ328xwrmdvkGmW",
+                          "text": "She watches",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438592
+                        },
+                        "m": { "text": "هي تشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "qwMw9gX-n1W5VEc1TVULja-3IxQ8sOvd",
+                          "text": "We watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438593
+                        },
+                        "m": { "text": "نحن نشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "8qfgN6jPYjwM0nmea_xkB3iUC9vfmh-S",
+                          "text": "You watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548930
+                        },
+                        "m": { "text": "أنتم تشاهدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "C5rWaykTOkEZxHFtWBJkLE-Q-AKWF585",
+                          "text": "They watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438594
+                        },
+                        "m": { "text": "هم يشاهدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "1k06170rUoiCg7MHBKYrdHb02h0lCQyi",
+                          "text": "I watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548932
+                        },
+                        "m": { "text": "أنا شاهدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "3aoeY05azYpCrb0SgKG__GzEyW_2UYLr",
+                          "text": "You watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548933
+                        },
+                        "m": { "text": "أنت شاهدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "KBQ6TtYSlMgcBuL8DAEZc2ValrN_p_6Z",
+                          "text": "He watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548934
+                        },
+                        "m": { "text": "هو شاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "W17prH_DBxi3X-dUKWY-LvV5R2VfTU6x",
+                          "text": "She watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548935
+                        },
+                        "m": { "text": "هي شاهدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "vQW_iQrmWA30tKhwdcA1CXWqjehWq2ah",
+                          "text": "We watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548937
+                        },
+                        "m": { "text": "نحن شاهدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "Z9EJj8kPwAg7LxPsCNX_wU77jYqDONWe",
+                          "text": "You watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548938
+                        },
+                        "m": { "text": "أنتم شاهدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "OrzXtD4OtWPlmpDCU6rXNu39XGRKNkf5",
+                          "text": "They watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548939
+                        },
+                        "m": { "text": "هم شاهدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "nI17w1sQDai7lPZywqNSNYhyNyQJ4_ie",
+                          "text": "I will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548940
+                        },
+                        "m": { "text": "أنا سأشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "543y_twJLiBjn70qwpM47p68-zlr3eEo",
+                          "text": "You will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548941
+                        },
+                        "m": { "text": "أنت ستشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "IcRo4P_qKA3ldL0oxNLUiWaKx1iZrdoI",
+                          "text": "He will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548942
+                        },
+                        "m": { "text": "هو سيشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "vzc6G9TwPjIb3J0Fjiju590LvZKlxSUo",
+                          "text": "She will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548943
+                        },
+                        "m": { "text": "هي ستشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "SaGwDK58m7EOqYr3otkXB0qqOp1iWbSg",
+                          "text": "We will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548946
+                        },
+                        "m": { "text": "نحن سنشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ezyprqUnrXeN4J3EOdTp5nCWvACppZFo",
+                          "text": "You will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548947
+                        },
+                        "m": { "text": "أنتم ستشاهدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "BXU4IAYsjOtDAE9YbqyDnZNebS05N8E_",
+                          "text": "They will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548948
+                        },
+                        "m": { "text": "هم سيشاهدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "الأفلام", "translations": [] },
+            { "raw": "مع", "translations": [] },
+            { "raw": "أسرتي", "translations": [] }
+          ]
+        },
+        {
+          "text": "Maybe, but I usually watch films with my family.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Maybe",
+              "translations": [
+                { "type": "dictionary", "text": "ربما", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "but",
+              "translations": [
+                { "type": "dictionary", "text": "لكني", "phonetic": null }
+              ]
+            },
+            { "raw": "I", "translations": [] },
+            {
+              "raw": "usually",
+              "translations": [
+                { "type": "dictionary", "text": "عادةً", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "watch",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to watch",
+                    "m": "يشاهد",
+                    "phonetic": "to watch"
+                  },
+                  "id": 97,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "edfmlXKdTajsLIBCeSRmC4PHqpM8OXBx",
+                          "text": "I watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438587
+                        },
+                        "m": { "text": "أنا أشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "e4zE3-JbAIC8JoNhyt-uxnAhJ7EORWbL",
+                          "text": "You watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438588
+                        },
+                        "m": { "text": "أنت تشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "wmAqvhLQuIhzFwmi-Aql7lJjMiujQQNh",
+                          "text": "He watches",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438590
+                        },
+                        "m": { "text": "هو يشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "IRgaHtnXBssFuOcEXBZ328xwrmdvkGmW",
+                          "text": "She watches",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438592
+                        },
+                        "m": { "text": "هي تشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "qwMw9gX-n1W5VEc1TVULja-3IxQ8sOvd",
+                          "text": "We watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438593
+                        },
+                        "m": { "text": "نحن نشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "8qfgN6jPYjwM0nmea_xkB3iUC9vfmh-S",
+                          "text": "You watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548930
+                        },
+                        "m": { "text": "أنتم تشاهدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "C5rWaykTOkEZxHFtWBJkLE-Q-AKWF585",
+                          "text": "They watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438594
+                        },
+                        "m": { "text": "هم يشاهدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "1k06170rUoiCg7MHBKYrdHb02h0lCQyi",
+                          "text": "I watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548932
+                        },
+                        "m": { "text": "أنا شاهدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "3aoeY05azYpCrb0SgKG__GzEyW_2UYLr",
+                          "text": "You watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548933
+                        },
+                        "m": { "text": "أنت شاهدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "KBQ6TtYSlMgcBuL8DAEZc2ValrN_p_6Z",
+                          "text": "He watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548934
+                        },
+                        "m": { "text": "هو شاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "W17prH_DBxi3X-dUKWY-LvV5R2VfTU6x",
+                          "text": "She watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548935
+                        },
+                        "m": { "text": "هي شاهدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "vQW_iQrmWA30tKhwdcA1CXWqjehWq2ah",
+                          "text": "We watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548937
+                        },
+                        "m": { "text": "نحن شاهدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "Z9EJj8kPwAg7LxPsCNX_wU77jYqDONWe",
+                          "text": "You watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548938
+                        },
+                        "m": { "text": "أنتم شاهدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "OrzXtD4OtWPlmpDCU6rXNu39XGRKNkf5",
+                          "text": "They watched",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548939
+                        },
+                        "m": { "text": "هم شاهدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "nI17w1sQDai7lPZywqNSNYhyNyQJ4_ie",
+                          "text": "I will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548940
+                        },
+                        "m": { "text": "أنا سأشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "543y_twJLiBjn70qwpM47p68-zlr3eEo",
+                          "text": "You will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548941
+                        },
+                        "m": { "text": "أنت ستشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "IcRo4P_qKA3ldL0oxNLUiWaKx1iZrdoI",
+                          "text": "He will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548942
+                        },
+                        "m": { "text": "هو سيشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "vzc6G9TwPjIb3J0Fjiju590LvZKlxSUo",
+                          "text": "She will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548943
+                        },
+                        "m": { "text": "هي ستشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "SaGwDK58m7EOqYr3otkXB0qqOp1iWbSg",
+                          "text": "We will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548946
+                        },
+                        "m": { "text": "نحن سنشاهد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ezyprqUnrXeN4J3EOdTp5nCWvACppZFo",
+                          "text": "You will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548947
+                        },
+                        "m": { "text": "أنتم ستشاهدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "BXU4IAYsjOtDAE9YbqyDnZNebS05N8E_",
+                          "text": "They will watch",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548948
+                        },
+                        "m": { "text": "هم سيشاهدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "films",
+              "translations": [
+                { "type": "dictionary", "text": "الأفلام", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "with",
+              "translations": [
+                { "type": "dictionary", "text": "مع", "phonetic": null }
+              ]
+            },
+            { "raw": "my", "translations": [] },
+            {
+              "raw": "family",
+              "translations": [
+                { "type": "dictionary", "text": "أسرتي", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291970
+    },
+    {
+      "id": 9779,
+      "i": 6,
+      "positionIndex": 6,
+      "dialogue": 8901,
+      "wordID": 30632,
+      "key": "TkP4Fy3Bx__7-EumMyiu5m-W3b30fXu-",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "بجدّ؟! ولكن هناك سبعة أيام في الأسبوع...",
+          "dictionary": [
+            { "raw": "بجدّ", "translations": [] },
+            { "raw": "ولكن", "translations": [] },
+            { "raw": "هناك", "translations": [] },
+            { "raw": "سبعة", "translations": [] },
+            { "raw": "أيام", "translations": [] },
+            { "raw": "في", "translations": [] },
+            { "raw": "الأسبوع", "translations": [] }
+          ]
+        },
+        {
+          "text": "Seriously?! But there are seven days in a week...",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Seriously",
+              "translations": [
+                { "type": "dictionary", "text": "بجدّ", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "But",
+              "translations": [
+                { "type": "dictionary", "text": "ولكن", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "there",
+              "translations": [
+                { "type": "dictionary", "text": "هناك", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "are",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "seven",
+              "translations": [
+                { "type": "dictionary", "text": "سبعة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "days",
+              "translations": [
+                { "type": "dictionary", "text": "أيام", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "in",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "a",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "week",
+              "translations": [
+                { "type": "dictionary", "text": "الأسبوع", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291971
+    },
+    {
+      "id": 9780,
+      "i": 7,
+      "positionIndex": 7,
+      "dialogue": 8901,
+      "wordID": 30633,
+      "key": "AthWTLvqX_mMIAvavKptHhELEUKjosiH",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "أنا أمزح! متى تريدين أن أساعدكِ؟",
+          "dictionary": [
+            { "raw": "أنا", "translations": [] },
+            {
+              "raw": "أمزح",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to joke",
+                    "m": "يمزح",
+                    "phonetic": "to joke"
+                  },
+                  "id": 48,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "3d1TKRAsfpnRZN4-Ymqzf5EEAl9f3hOc",
+                          "text": "I joke",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438201
+                        },
+                        "m": { "text": "أنا أمزح" }
+                      },
+                      {
+                        "t": {
+                          "key": "a5TOFcerjaM9sm1NvDAhO2lCdYVwIjNP",
+                          "text": "You joke",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438202
+                        },
+                        "m": { "text": "أنت تمزح" }
+                      },
+                      {
+                        "t": {
+                          "key": "n7UYZgNzLmk-lmGSaQjEbH1o4CuCt38n",
+                          "text": "He jokes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438204
+                        },
+                        "m": { "text": "هو يمزح" }
+                      },
+                      {
+                        "t": {
+                          "key": "NxCQTspkwKdk8aifQCQHG-KYDyiaDUrz",
+                          "text": "She jokes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438205
+                        },
+                        "m": { "text": "هي تمزح" }
+                      },
+                      {
+                        "t": {
+                          "key": "1U8dSiU7Loo8d12Owhi8dW1eVyxHm1l4",
+                          "text": "We joke",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438206
+                        },
+                        "m": { "text": "نحن نمزح" }
+                      },
+                      {
+                        "t": {
+                          "key": "t9r3fzWjljaKBiXVPOrvq6zS3VgT_T_o",
+                          "text": "You joke",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547679
+                        },
+                        "m": { "text": "أنتم تمزحون" }
+                      },
+                      {
+                        "t": {
+                          "key": "mH7EB_FTSCuW96LOPsLMTAheuLT33lmR",
+                          "text": "They joke",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438208
+                        },
+                        "m": { "text": "هم يمزحون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "-qTTj90qt6fY1i825t1MCiEjwU06Eec-",
+                          "text": "I joked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547681
+                        },
+                        "m": { "text": "أنا مزحت" }
+                      },
+                      {
+                        "t": {
+                          "key": "6KulLWbDbukkGs3MnB-XH9upy-NEfK3y",
+                          "text": "You joked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547682
+                        },
+                        "m": { "text": "أنت مزحت" }
+                      },
+                      {
+                        "t": {
+                          "key": "7PGq8YB_5I1qjCS61WgsohpZlsEqTUke",
+                          "text": "He joked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547683
+                        },
+                        "m": { "text": "هو مزح" }
+                      },
+                      {
+                        "t": {
+                          "key": "sQT8NnCBlfvncO1qz9fXFxgJa1wxBm9E",
+                          "text": "She joked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547684
+                        },
+                        "m": { "text": "هي مزحت" }
+                      },
+                      {
+                        "t": {
+                          "key": "fAEVkWuw37Q2tvTvU6EE6t_4H758noDt",
+                          "text": "We joked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547686
+                        },
+                        "m": { "text": "نحن مزحنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "krLxQ8iGcMjBpDoMh-dnkzajZt6fs35a",
+                          "text": "You joked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547687
+                        },
+                        "m": { "text": "أنتم مزحتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "5EJmTCsVO-p400qzHu9CYvgg7LLkFt0W",
+                          "text": "They joked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547688
+                        },
+                        "m": { "text": "هم مزحوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "NufEZ5zKUmaV3I-vKVu7dz9yYmONOZp7",
+                          "text": "I will joke",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547689
+                        },
+                        "m": { "text": "أنا سأمزح" }
+                      },
+                      {
+                        "t": {
+                          "key": "c8R8aAhQC_snUyA8hwqomQLW4afex9AP",
+                          "text": "You will joke",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547690
+                        },
+                        "m": { "text": "أنت ستمزح" }
+                      },
+                      {
+                        "t": {
+                          "key": "0pvJMZNYsZSPNUsBJhzUDtD3QnavS91z",
+                          "text": "He will joke",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547692
+                        },
+                        "m": { "text": "هو سيمزح" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZQSw9sPvJBzvRaWguq3U0r9VjqVqT_me",
+                          "text": "She will joke",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547693
+                        },
+                        "m": { "text": "هي ستمزح" }
+                      },
+                      {
+                        "t": {
+                          "key": "yHL_W3IARyhuO_0Lib5z1w64DXAjWNsk",
+                          "text": "We will joke",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547695
+                        },
+                        "m": { "text": "نحن سنمزح" }
+                      },
+                      {
+                        "t": {
+                          "key": "lpKqdOvZQonK_eGdO-l176g6HvTTWXbA",
+                          "text": "You will joke",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547696
+                        },
+                        "m": { "text": "أنتم ستمزحون" }
+                      },
+                      {
+                        "t": {
+                          "key": "BlzkDlSr_kricO6mRFGyM8JH1y6Q36DP",
+                          "text": "They will joke",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547697
+                        },
+                        "m": { "text": "هم سيمزحون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "متى", "translations": [] },
+            { "raw": "تريدين", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            { "raw": "أساعدكِ", "translations": [] }
+          ]
+        },
+        {
+          "text": "I'm joking! When do you want me to help you?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I'm",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            { "raw": "joking", "translations": [] },
+            {
+              "raw": "When",
+              "translations": [
+                { "type": "dictionary", "text": "متى", "phonetic": null }
+              ]
+            },
+            { "raw": "do", "translations": [] },
+            {
+              "raw": "you",
+              "translations": [
+                { "type": "dictionary", "text": "أن", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "want",
+              "translations": [
+                { "type": "dictionary", "text": "تريدين", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to want",
+                    "m": "يريد",
+                    "phonetic": "to want"
+                  },
+                  "id": 95,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "nShE6yAtLQevqHIQe2dAX49glrMukW0p",
+                          "text": "I want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438568
+                        },
+                        "m": { "text": "أنا أريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "XZzbiFW3S8tcIuqJHceM0mBnoqx9qnw3",
+                          "text": "You want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438570
+                        },
+                        "m": { "text": "أنت تريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "LXsNZmBSK44I0CEoTVqpkEqYai3smXdG",
+                          "text": "He wants",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438571
+                        },
+                        "m": { "text": "هو يريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "59CzwFAFI8XT0RO-ocB3PAt85-eJbZGn",
+                          "text": "She wants",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438572
+                        },
+                        "m": { "text": "هي تريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "toOAtm4YfCG2X-O8IjwBLiSAxfqPtvd3",
+                          "text": "We want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438573
+                        },
+                        "m": { "text": "نحن نريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "htMjNgLAcurMZdCC9RZLLqUnaElaG-W5",
+                          "text": "You want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438575
+                        },
+                        "m": { "text": "أنتم تريدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "tttYnkH7rMudVyRsneSHNOuvkmcwewVd",
+                          "text": "They want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438576
+                        },
+                        "m": { "text": "هم يريدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "l0igTQkV3ByWzkKP865Od4PPUkStuKWk",
+                          "text": "I wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548881
+                        },
+                        "m": { "text": "أنا أردت" }
+                      },
+                      {
+                        "t": {
+                          "key": "L94_gYVtqzAv9EuylrOUtOS1JYO9HNmU",
+                          "text": "You wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548882
+                        },
+                        "m": { "text": "أنت أردت" }
+                      },
+                      {
+                        "t": {
+                          "key": "k9fHqfafe8KWddiL2gTPOVxtAvW1Gv3D",
+                          "text": "He wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548883
+                        },
+                        "m": { "text": "هو أراد" }
+                      },
+                      {
+                        "t": {
+                          "key": "VwnjRSAylrhxb0_YJS7a-2eq9710yTRu",
+                          "text": "She wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548884
+                        },
+                        "m": { "text": "هي أرادت" }
+                      },
+                      {
+                        "t": {
+                          "key": "6-UNUWvNMGGGlQJjXxipVL0R7dzkKul4",
+                          "text": "We wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548886
+                        },
+                        "m": { "text": "نحن أردنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "y374BPvAzvalQApO4UKHs8FDNnav5LS8",
+                          "text": "You wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548888
+                        },
+                        "m": { "text": "أنتم أردتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "yDQ_e9ZBHZlVkVJfnFA1aSx9ivHod5KF",
+                          "text": "They wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548889
+                        },
+                        "m": { "text": "هم أرادوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "v3MFkExOeRvYEb1eY0ROhJDe85o7OHuS",
+                          "text": "I will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548890
+                        },
+                        "m": { "text": "أنا سأريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "X7Vd5cf_vpSoahPgrwJlTATfBzGO4QKY",
+                          "text": "You will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548891
+                        },
+                        "m": { "text": "أنت ستريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "9_3McQtKbukJsp-DRKHnQoZqSz3d2LBq",
+                          "text": "He will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548892
+                        },
+                        "m": { "text": "هو سيريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "2TiQCM_wnsPCwFNzdj2VXmc2leoBIH_E",
+                          "text": "She will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548893
+                        },
+                        "m": { "text": "هي ستريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "WSi6tzDwO2jPRLzeiDNCxTmkq8qza6Re",
+                          "text": "We will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548895
+                        },
+                        "m": { "text": "نحن سنريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "cnz8g6CO8nylWdOnvFO2W_UfMGHHcpdg",
+                          "text": "You will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548896
+                        },
+                        "m": { "text": "أنتم ستريدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "A7_Z7_RGkSWQhDqqMcFvwVumm9YRCOpA",
+                          "text": "They will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548897
+                        },
+                        "m": { "text": "هم سيريدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "me",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "help",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to help",
+                    "m": "يساعد",
+                    "phonetic": "to help"
+                  },
+                  "id": 43,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "uqB3oqJf1b-7N34oFTLFF1RU17fPnffZ",
+                          "text": "I help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438179
+                        },
+                        "m": { "text": "أنا أساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "MP4I3cUC_a0PH4tKWrvenlQ6_56bFPAv",
+                          "text": "You help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438180
+                        },
+                        "m": { "text": "أنت تساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5WiyKiUlnNu_cVsdk5kcYqywm6guuy-s",
+                          "text": "He helps",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438181
+                        },
+                        "m": { "text": "هو يساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "87mLRDb6qSGrLznBTZOKdz8mYM9sX_d9",
+                          "text": "She helps",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438182
+                        },
+                        "m": { "text": "هي تساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ParYyqadRkg9qMwprdEQvUHplzqHyMbk",
+                          "text": "We help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438184
+                        },
+                        "m": { "text": "نحن نساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLJPD_nbn4mBraBfktBkP92tOdJ8B5cU",
+                          "text": "You help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547555
+                        },
+                        "m": { "text": "أنتم تساعدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "VGuPZI4vdq97_VnJzetW08suAOSYkP2G",
+                          "text": "They help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438185
+                        },
+                        "m": { "text": "هم يساعدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "250tmWtHl_Ct1vQV5hOzrMnNpcyR6sJr",
+                          "text": "I helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547558
+                        },
+                        "m": { "text": "أنا ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "SHoaFtO-xeRLtA2VAWNwFNZvRj5aRGtN",
+                          "text": "You helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547559
+                        },
+                        "m": { "text": "أنت ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Q6elLPzpP-1GiB1WkX7XVitX5ZEIyf1q",
+                          "text": "He helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547559
+                        },
+                        "m": { "text": "هو ساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "2w3NgLuoTBE72ZkltxnWThvOeartBWAR",
+                          "text": "She helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547560
+                        },
+                        "m": { "text": "هي ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZnYnOQwofgQ-ma-jdJ7fW3j7QVGeq3nO",
+                          "text": "We helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547562
+                        },
+                        "m": { "text": "نحن ساعدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "-Fmr5TvPdCbhX_MEsUv6StzD2KEYGnrR",
+                          "text": "You helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547563
+                        },
+                        "m": { "text": "أنتم ساعدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "lBh1FKOForCy2PzDsi5BgfFStNWI1fim",
+                          "text": "They helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547564
+                        },
+                        "m": { "text": "هم ساعدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "S9-eIwEx1QQBv3WaOAjkS7B_0gtji-rm",
+                          "text": "I will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547565
+                        },
+                        "m": { "text": "أنا سأساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "fyeugK13hnffkIUv3Rtyfn2YtA-ArpTy",
+                          "text": "You will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547567
+                        },
+                        "m": { "text": "أنت ستساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5TBrSfnybGAuHSkl7eW8pVYbXp7d1URn",
+                          "text": "He will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547567
+                        },
+                        "m": { "text": "هو سيساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "1P6Lo2ayaoDJfUblHCBGgoqCOj-msdlr",
+                          "text": "She will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547568
+                        },
+                        "m": { "text": "هي ستساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "SSd4fLN7TcaXb-87XwAxEkXjDMfSFS2i",
+                          "text": "We will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547570
+                        },
+                        "m": { "text": "نحن سنساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "aFpkXvSow_uTjRlrcbCoiT8cU-F2wWw6",
+                          "text": "You will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547571
+                        },
+                        "m": { "text": "أنتم ستساعدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "be0R9rsOiRbxSvPqj4SeDKZI-I_xJQto",
+                          "text": "They will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547572
+                        },
+                        "m": { "text": "هم سيساعدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "you",
+              "translations": [
+                { "type": "dictionary", "text": "أن", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291972
+    },
+    {
+      "id": 9781,
+      "i": 8,
+      "positionIndex": 8,
+      "dialogue": 8901,
+      "wordID": 30634,
+      "key": "cx5KAwbdlnaxLnPR1K9KSAwSBhz3w7IS",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "هل تستطيع مقابلتي يوم السبت؟",
+          "dictionary": [
+            { "raw": "هل", "translations": [] },
+            { "raw": "تستطيع", "translations": [] },
+            { "raw": "مقابلتي", "translations": [] },
+            { "raw": "يوم", "translations": [] },
+            { "raw": "السبت", "translations": [] }
+          ]
+        },
+        {
+          "text": "Can you meet me on Saturday?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Can",
+              "translations": [
+                { "type": "dictionary", "text": "تستطيع", "phonetic": null }
+              ]
+            },
+            { "raw": "you", "translations": [] },
+            {
+              "raw": "meet",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to meet",
+                    "m": "يقابل",
+                    "phonetic": "to meet"
+                  },
+                  "id": 61,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WCnfWbQCace0cS4BYa58H7b7Xf2oGcZm",
+                          "text": "I meet",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438329
+                        },
+                        "m": { "text": "أنا أقابل" }
+                      },
+                      {
+                        "t": {
+                          "key": "yqpIyKLYDYSoCPkCS76YaENA0d1YLmjW",
+                          "text": "You meet",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438330
+                        },
+                        "m": { "text": "أنت تقابل" }
+                      },
+                      {
+                        "t": {
+                          "key": "0iT7SNv99WJ3o9YaprK1HKqvJfZQeqF9",
+                          "text": "He meets",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438331
+                        },
+                        "m": { "text": "هو يقابل" }
+                      },
+                      {
+                        "t": {
+                          "key": "WWhZBlP3A6QPFPrGPbZ4tuDM72HuypKt",
+                          "text": "She meets",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438333
+                        },
+                        "m": { "text": "هي تقابل" }
+                      },
+                      {
+                        "t": {
+                          "key": "K8uxyvAX8QRzZeL1rSmwfp9VPnvl98cW",
+                          "text": "We meet",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438334
+                        },
+                        "m": { "text": "نحن نقابل" }
+                      },
+                      {
+                        "t": {
+                          "key": "BNaQwpcyQlGjr-zRT0M5tq_3C_0NsFx5",
+                          "text": "You meet",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548006
+                        },
+                        "m": { "text": "أنتم تقابلون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ctDuPe7KMjWnKnomACGQUrec-ON4pc0V",
+                          "text": "They meet",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438336
+                        },
+                        "m": { "text": "هم يقابلون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "vKE1Uk6khGIBEQbF8MnIzsYBHUAaSRFw",
+                          "text": "I met",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548008
+                        },
+                        "m": { "text": "أنا قابلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "oeznshgNKMqxVYi4P8azV_bw8QMmBWbA",
+                          "text": "You met",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548009
+                        },
+                        "m": { "text": "أنت قابلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "aZXoduEbdW1hxu7BdlbQRHkQzRd1p3l6",
+                          "text": "He met",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548010
+                        },
+                        "m": { "text": "هو قابل" }
+                      },
+                      {
+                        "t": {
+                          "key": "EUXoKqxbl6SPAO8zopOz5ydgDYk5ogyT",
+                          "text": "She met",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548011
+                        },
+                        "m": { "text": "هي قابلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dUMuCxGCfQ4kNOyTTJRqINDzPkmQfEdS",
+                          "text": "We met",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548013
+                        },
+                        "m": { "text": "نحن قابلنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "K_nnKzEKnbOwzd5GqP2uIpJ1ka3biF54",
+                          "text": "You met",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548014
+                        },
+                        "m": { "text": "أنتم قابلتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "etrXXnlTzrbwnF5WwHBVcuN3givlBCHX",
+                          "text": "They met",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548015
+                        },
+                        "m": { "text": "هم قابلوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "LgrekGynluqjij9hrufcajZrwg5QMQLe",
+                          "text": "I will meet",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548016
+                        },
+                        "m": { "text": "أنا سأقابل" }
+                      },
+                      {
+                        "t": {
+                          "key": "kevwXMFxKZ_6NE1k1vop3_ko1-EaS1Lg",
+                          "text": "You will meet",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548017
+                        },
+                        "m": { "text": "أنت ستقابل" }
+                      },
+                      {
+                        "t": {
+                          "key": "e_BH-qeT0YoGIpWrWs6JDdl98EAkY36K",
+                          "text": "He will meet",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548018
+                        },
+                        "m": { "text": "هو سيقابل" }
+                      },
+                      {
+                        "t": {
+                          "key": "6yaYuZ-Ne2Ns0RQ-MWHtEYDnB7PpINcl",
+                          "text": "She will meet",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548019
+                        },
+                        "m": { "text": "هي ستقابل" }
+                      },
+                      {
+                        "t": {
+                          "key": "c8sU5odYOMGaYjjwzpKOAH0ZansqlTAY",
+                          "text": "We will meet",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548021
+                        },
+                        "m": { "text": "نحن سنقابل" }
+                      },
+                      {
+                        "t": {
+                          "key": "8SxOCRakSxamml9253a4yJXQjXBtKUt3",
+                          "text": "You will meet",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548022
+                        },
+                        "m": { "text": "أنتم ستقابلون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jHJzhQ_IlzAs8rWKMGWvhtA1Av6JqBtD",
+                          "text": "They will meet",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548023
+                        },
+                        "m": { "text": "هم سيقابلون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "me", "translations": [] },
+            {
+              "raw": "on",
+              "translations": [
+                { "type": "dictionary", "text": "يوم", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "Saturday",
+              "translations": [
+                { "type": "dictionary", "text": "يوم السبت", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291973
+    },
+    {
+      "id": 9782,
+      "i": 9,
+      "positionIndex": 9,
+      "dialogue": 8901,
+      "wordID": 30635,
+      "key": "KR1iem739mTMhkiqYLBR5p1d13gQdoeg",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "نعم. في أي وقت؟",
+          "dictionary": [
+            { "raw": "نعم", "translations": [] },
+            { "raw": "في", "translations": [] },
+            { "raw": "أي", "translations": [] },
+            { "raw": "وقت", "translations": [] }
+          ]
+        },
+        {
+          "text": "Yes. What time?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Yes",
+              "translations": [
+                { "type": "dictionary", "text": "نعم", "phonetic": null }
+              ]
+            },
+            { "raw": "What", "translations": [] },
+            {
+              "raw": "time",
+              "translations": [
+                { "type": "dictionary", "text": "وقت", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291974
+    },
+    {
+      "id": 9783,
+      "i": 10,
+      "positionIndex": 10,
+      "dialogue": 8901,
+      "wordID": 30636,
+      "key": "oDrNclJ8uwm5M1UYy_TJwfualKc-2G0g",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "الساعة الثالثة؟",
+          "dictionary": [
+            { "raw": "الساعة", "translations": [] },
+            { "raw": "الثالثة", "translations": [] }
+          ]
+        },
+        {
+          "text": "Three o'clock?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Three",
+              "translations": [
+                { "type": "dictionary", "text": "الثالثة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "o'clock",
+              "translations": [
+                { "type": "dictionary", "text": "الساعة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291975
+    },
+    {
+      "id": 9784,
+      "i": 11,
+      "positionIndex": 11,
+      "dialogue": 8901,
+      "wordID": 30637,
+      "key": "1rYSUPN2pNIYoKPspcFI95TB5zIDtcFf",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "نعم، هذا مثالي!",
+          "dictionary": [
+            { "raw": "نعم", "translations": [] },
+            { "raw": "هذا", "translations": [] },
+            { "raw": "مثالي", "translations": [] }
+          ]
+        },
+        {
+          "text": "Yes, that's perfect!",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Yes",
+              "translations": [
+                { "type": "dictionary", "text": "نعم", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "that's",
+              "translations": [
+                { "type": "dictionary", "text": "هذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "perfect",
+              "translations": [
+                { "type": "dictionary", "text": "مثالي", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291976
+    },
+    {
+      "id": 9785,
+      "i": 12,
+      "positionIndex": 12,
+      "dialogue": 8901,
+      "wordID": 30638,
+      "key": "ndmYsTX672E12ESDMqq80AmiQrYJQ0SM",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "شكرًا جزيلًا لك.",
+          "dictionary": [
+            { "raw": "شكرًا", "translations": [] },
+            { "raw": "جزيلًا", "translations": [] },
+            { "raw": "لك", "translations": [] }
+          ]
+        },
+        {
+          "text": "Thank you so much.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Thank",
+              "translations": [
+                { "type": "dictionary", "text": "شكرًا", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to thank",
+                    "m": "يشكر",
+                    "phonetic": "to thank"
+                  },
+                  "id": 84,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "GDbEATEJJ49XgeagBUqa65MNXG1PFyuu",
+                          "text": "I thank",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548580
+                        },
+                        "m": { "text": "أنا أشكر" }
+                      },
+                      {
+                        "t": {
+                          "key": "0dxJ8oxcst2r4m0VvcaCWX2C9TcQ2a2o",
+                          "text": "You thank",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548581
+                        },
+                        "m": { "text": "أنت تشكر" }
+                      },
+                      {
+                        "t": {
+                          "key": "4WuNhImPcxi8zei0a9oC8xz1N-OVAoT4",
+                          "text": "He thanks",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548582
+                        },
+                        "m": { "text": "هو يشكر" }
+                      },
+                      {
+                        "t": {
+                          "key": "D6QVbGd4PAGt6YzOxi-Li9zAWJF8tv6z",
+                          "text": "She thanks",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548583
+                        },
+                        "m": { "text": "هي تشكر" }
+                      },
+                      {
+                        "t": {
+                          "key": "CMVw9UJUpMXeINNe2IS_BZ8RGkaMMV1-",
+                          "text": "We thank",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548585
+                        },
+                        "m": { "text": "نحن نشكر" }
+                      },
+                      {
+                        "t": {
+                          "key": "e0GoMZys1GyS3xV8B3L5PdnSNzEz90kr",
+                          "text": "You thank",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548587
+                        },
+                        "m": { "text": "أنتم تشكرون" }
+                      },
+                      {
+                        "t": {
+                          "key": "v_z1InsAw-rMZukE1jXAE9NrVDsTJKzs",
+                          "text": "They thank",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548588
+                        },
+                        "m": { "text": "هم يشكرون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "MpQ4GBtUUH9DBRc6c3b-OSdseqjDmh2L",
+                          "text": "I thanked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548589
+                        },
+                        "m": { "text": "أنا شكرت" }
+                      },
+                      {
+                        "t": {
+                          "key": "tHc8OUxq_r5-WljB0ptfkXabSP8vYiXG",
+                          "text": "You thanked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548590
+                        },
+                        "m": { "text": "أنت شكرت" }
+                      },
+                      {
+                        "t": {
+                          "key": "7s08VpvHlB0yfkKO1iR0XBnPfaf16M1e",
+                          "text": "He thanked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548591
+                        },
+                        "m": { "text": "هو شكر" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZEscvoCmj2_T_lKv60TY1Sh6El2rdM2t",
+                          "text": "She thanked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548592
+                        },
+                        "m": { "text": "هي شكرت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mpdkkRoG_SnN1w1NSqDEqPTD50pqsqPL",
+                          "text": "We thanked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548595
+                        },
+                        "m": { "text": "نحن شكرنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "2HJTp9bz5Ap4RDQpeWNZM2A2Sz9REPEy",
+                          "text": "You thanked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548596
+                        },
+                        "m": { "text": "أنتم شكرتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "_lEAst1OI5ZNdhA9iU0PK8PPTdXZPBx2",
+                          "text": "They thanked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548597
+                        },
+                        "m": { "text": "هم شكروا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8T9q9EilXFHJhPVBZeNavcb-Sa9dhnUW",
+                          "text": "I will thank",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548598
+                        },
+                        "m": { "text": "أنا سأشكر" }
+                      },
+                      {
+                        "t": {
+                          "key": "VbZVXphR7BNyxFFGRZyhq8jH3iiU7gwA",
+                          "text": "You will thank",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548599
+                        },
+                        "m": { "text": "أنت ستشكر" }
+                      },
+                      {
+                        "t": {
+                          "key": "voZaLCfeKqLRZySIDBOMs2mw8OJr_55O",
+                          "text": "He will thank",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548600
+                        },
+                        "m": { "text": "هو سيشكر" }
+                      },
+                      {
+                        "t": {
+                          "key": "E0ua7N08NnmnV9ARMk0jRt-Qhj4hfcdd",
+                          "text": "She will thank",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548601
+                        },
+                        "m": { "text": "هي ستشكر" }
+                      },
+                      {
+                        "t": {
+                          "key": "uaroDMPrtaEyj7fZVFVKYorp5qgLon9t",
+                          "text": "We will thank",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548604
+                        },
+                        "m": { "text": "نحن سنشكر" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGfVhNRtRNCHDsd4WzEqmYeWCgOYTK0Z",
+                          "text": "You will thank",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548605
+                        },
+                        "m": { "text": "أنتم ستشكرون" }
+                      },
+                      {
+                        "t": {
+                          "key": "E6alGLpvyi9HkS1ZPIFiKZfVijsJeNbU",
+                          "text": "They will thank",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548605
+                        },
+                        "m": { "text": "هم سيشكرون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "you",
+              "translations": [
+                { "type": "dictionary", "text": "لك", "phonetic": null }
+              ]
+            },
+            { "raw": "so", "translations": [] },
+            { "raw": "much", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291977
+    },
+    {
+      "id": 9786,
+      "i": 13,
+      "positionIndex": 13,
+      "dialogue": 8901,
+      "wordID": 30639,
+      "key": "wlq2EYZY-0DqgCUJKHsQAa9PUPpVV8k1",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "العفو. أراكِ يوم السبت.",
+          "dictionary": [
+            { "raw": "العفو", "translations": [] },
+            { "raw": "أراكِ", "translations": [] },
+            { "raw": "يوم", "translations": [] },
+            { "raw": "السبت", "translations": [] }
+          ]
+        },
+        {
+          "text": "You're welcome. See you on Saturday.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "You're", "translations": [] },
+            { "raw": "welcome", "translations": [] },
+            {
+              "raw": "See",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to see", "m": "يرى", "phonetic": "to see" },
+                  "id": 71,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "MTom3LMZVaDdAoO3Yt7QvVcsiTx4XEEk",
+                          "text": "I see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438393
+                        },
+                        "m": { "text": "أنا أرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "-hepcdwx0P_RiWZeHi2mJSw3GnGXLwg1",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438394
+                        },
+                        "m": { "text": "أنت ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "7vHnJwr8FUNgpYscAlQs_RzKyddJyZCr",
+                          "text": "He sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438395
+                        },
+                        "m": { "text": "هو يرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "QXXgxYq5LhHxrdcaClOIBS8Ysb4q4AOR",
+                          "text": "She sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438397
+                        },
+                        "m": { "text": "هي ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "uv9SFXXCAmfk9BH3JlSgXllAFQ6csRAN",
+                          "text": "We see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438398
+                        },
+                        "m": { "text": "نحن نرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "Et7XvHIuH8NqW0FwQ9QIbmzkFSInX66C",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548255
+                        },
+                        "m": { "text": "أنتم ترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "54REkAfCLzVvHIbwBaKq9I8ZLK559Wix",
+                          "text": "They see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438400
+                        },
+                        "m": { "text": "هم يرون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "aiZj-Cj4BRY8P8s-fq3GbuPGd9OiPyjz",
+                          "text": "I saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548257
+                        },
+                        "m": { "text": "أنا رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZDMFy2mgFha3PfWQSzsl71kBrjquf9v4",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548258
+                        },
+                        "m": { "text": "أنت رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "viznNpNOyvjNfDTmqXAdFdmifryzbYpW",
+                          "text": "He saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548259
+                        },
+                        "m": { "text": "هو رأى" }
+                      },
+                      {
+                        "t": {
+                          "key": "htauzPhP723-3XPFH0L6QZTz3sF5qpEY",
+                          "text": "She saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548260
+                        },
+                        "m": { "text": "هي رأت" }
+                      },
+                      {
+                        "t": {
+                          "key": "VJ78-sfQWo8jNVNsRn1AErz3Vf7SPf7d",
+                          "text": "We saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548262
+                        },
+                        "m": { "text": "نحن رأينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "UdYI1cogW5jKoZBz9M45O8_7DNwbFmcc",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548263
+                        },
+                        "m": { "text": "أنتم رأيتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "vL_X6jxrPfpx3sGBCqrFAJHsp8RqHC3C",
+                          "text": "They saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548264
+                        },
+                        "m": { "text": "هم رأوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "zdKWGjQkRha9pZJ_NWjYFyWJzihqgNuA",
+                          "text": "I will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548265
+                        },
+                        "m": { "text": "أنا سأرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "jN_6eBTdppkl4Va_wheb0wEAtdh7cbJV",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548266
+                        },
+                        "m": { "text": "أنت سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JRYOAkNpJUETkw9D--dDDeULljLXETz9",
+                          "text": "He will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548267
+                        },
+                        "m": { "text": "هو سيرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "VS4wwyLJJv-_Cq3qVw_Sufi1CC3JCc2X",
+                          "text": "She will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548268
+                        },
+                        "m": { "text": "هي سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "krpjdNOxGIooSOrQxCd_YAFtkOU-ZJ6v",
+                          "text": "We will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548271
+                        },
+                        "m": { "text": "نحن سنرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "FYJYa-jB4j2AWvxWECnD0hKpZLqZWWlI",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548272
+                        },
+                        "m": { "text": "أنتم سترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "d0Ga1izvgstz3tAIminEaS00qNB-Pfmt",
+                          "text": "They will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548273
+                        },
+                        "m": { "text": "هم سيرون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "you", "translations": [] },
+            {
+              "raw": "on",
+              "translations": [
+                { "type": "dictionary", "text": "يوم", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "Saturday",
+              "translations": [
+                { "type": "dictionary", "text": "يوم السبت", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291979
+    },
+    {
+      "id": 9787,
+      "i": 14,
+      "positionIndex": 14,
+      "dialogue": 8901,
+      "wordID": 30640,
+      "key": "buyG0IfabODHQITPTPFb3nB8Yhxz3AsR",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "حسنًا. أراك.",
+          "dictionary": [
+            { "raw": "حسنًا", "translations": [] },
+            { "raw": "أراك", "translations": [] }
+          ]
+        },
+        {
+          "text": "OK. See you.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "OK",
+              "translations": [
+                { "type": "dictionary", "text": "حسنًا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "See",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to see", "m": "يرى", "phonetic": "to see" },
+                  "id": 71,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "MTom3LMZVaDdAoO3Yt7QvVcsiTx4XEEk",
+                          "text": "I see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438393
+                        },
+                        "m": { "text": "أنا أرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "-hepcdwx0P_RiWZeHi2mJSw3GnGXLwg1",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438394
+                        },
+                        "m": { "text": "أنت ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "7vHnJwr8FUNgpYscAlQs_RzKyddJyZCr",
+                          "text": "He sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438395
+                        },
+                        "m": { "text": "هو يرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "QXXgxYq5LhHxrdcaClOIBS8Ysb4q4AOR",
+                          "text": "She sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438397
+                        },
+                        "m": { "text": "هي ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "uv9SFXXCAmfk9BH3JlSgXllAFQ6csRAN",
+                          "text": "We see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438398
+                        },
+                        "m": { "text": "نحن نرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "Et7XvHIuH8NqW0FwQ9QIbmzkFSInX66C",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548255
+                        },
+                        "m": { "text": "أنتم ترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "54REkAfCLzVvHIbwBaKq9I8ZLK559Wix",
+                          "text": "They see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438400
+                        },
+                        "m": { "text": "هم يرون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "aiZj-Cj4BRY8P8s-fq3GbuPGd9OiPyjz",
+                          "text": "I saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548257
+                        },
+                        "m": { "text": "أنا رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZDMFy2mgFha3PfWQSzsl71kBrjquf9v4",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548258
+                        },
+                        "m": { "text": "أنت رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "viznNpNOyvjNfDTmqXAdFdmifryzbYpW",
+                          "text": "He saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548259
+                        },
+                        "m": { "text": "هو رأى" }
+                      },
+                      {
+                        "t": {
+                          "key": "htauzPhP723-3XPFH0L6QZTz3sF5qpEY",
+                          "text": "She saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548260
+                        },
+                        "m": { "text": "هي رأت" }
+                      },
+                      {
+                        "t": {
+                          "key": "VJ78-sfQWo8jNVNsRn1AErz3Vf7SPf7d",
+                          "text": "We saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548262
+                        },
+                        "m": { "text": "نحن رأينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "UdYI1cogW5jKoZBz9M45O8_7DNwbFmcc",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548263
+                        },
+                        "m": { "text": "أنتم رأيتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "vL_X6jxrPfpx3sGBCqrFAJHsp8RqHC3C",
+                          "text": "They saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548264
+                        },
+                        "m": { "text": "هم رأوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "zdKWGjQkRha9pZJ_NWjYFyWJzihqgNuA",
+                          "text": "I will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548265
+                        },
+                        "m": { "text": "أنا سأرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "jN_6eBTdppkl4Va_wheb0wEAtdh7cbJV",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548266
+                        },
+                        "m": { "text": "أنت سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JRYOAkNpJUETkw9D--dDDeULljLXETz9",
+                          "text": "He will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548267
+                        },
+                        "m": { "text": "هو سيرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "VS4wwyLJJv-_Cq3qVw_Sufi1CC3JCc2X",
+                          "text": "She will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548268
+                        },
+                        "m": { "text": "هي سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "krpjdNOxGIooSOrQxCd_YAFtkOU-ZJ6v",
+                          "text": "We will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548271
+                        },
+                        "m": { "text": "نحن سنرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "FYJYa-jB4j2AWvxWECnD0hKpZLqZWWlI",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548272
+                        },
+                        "m": { "text": "أنتم سترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "d0Ga1izvgstz3tAIminEaS00qNB-Pfmt",
+                          "text": "They will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548273
+                        },
+                        "m": { "text": "هم سيرون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "you", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291980
+    }
+  ]
+}

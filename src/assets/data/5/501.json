@@ -1,0 +1,4886 @@
+{
+  "lesson": {
+    "id": 501,
+    "index": 1,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 5,
+    "categoryID": 5,
+    "name": "الفاكهة",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 24,
+    "countWords": 11,
+    "countPhrases": 6,
+    "countDone": 0,
+    "quizzes": [
+      611581, 611582, 611583, 611584, 611585, 611586, 611587, 611588, 611589,
+      611590, 611591, 611592, 611593, 611594, 611595, 611596, 611597, 611598,
+      611599, 611600, 611601, 611602, 611603, 611604
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 611581,
+      "lesson": 501,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 16782,
+      "alternates": [16838, 16830, 16783],
+      "sols": [
+        {
+          "key": "H7FZUzdwyqmcVnkAjRF0Rsh8jOf8jnq6",
+          "audio_updated_at": 1543436420,
+          "text": "برتقالة"
+        },
+        {
+          "key": "YG4EAaseLSfN_quE3F6xE0PZLq4EjaEb",
+          "audio_updated_at": 1543436415,
+          "text": "شمام"
+        },
+        {
+          "key": "qsErJFQRPKKfIl1qkypZbLaP-mYQLS2z",
+          "audio_updated_at": 1543436397,
+          "text": "موزة"
+        },
+        {
+          "key": "OZ95cRYLnxPSIXAcyJE_sKpiKnFglolW",
+          "audio_updated_at": 1543436395,
+          "text": "تفاحة"
+        }
+      ],
+      "alts": [
+        {
+          "key": "H7FZUzdwyqmcVnkAjRF0Rsh8jOf8jnq6",
+          "audio_updated_at": 1543436420,
+          "image": "rsdR_sm6_lXMbcqQKwhAACkvpqOFw0lW",
+          "image_updated_at": 1689159044,
+          "text": "orange",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        },
+        {
+          "key": "YG4EAaseLSfN_quE3F6xE0PZLq4EjaEb",
+          "audio_updated_at": 1543436415,
+          "image": "WmZTQolPXOMjZI1D_LiKfZmNIZNr5Gcf",
+          "image_updated_at": 1689159044,
+          "text": "melon",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "qsErJFQRPKKfIl1qkypZbLaP-mYQLS2z",
+          "audio_updated_at": 1543436397,
+          "image": "5U8oeGiVuUqVJQw8bAA_jPUtqUXH1iGf",
+          "image_updated_at": 1689159034,
+          "text": "banana",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "OZ95cRYLnxPSIXAcyJE_sKpiKnFglolW",
+          "audio_updated_at": 1543436395,
+          "text": "apple",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "jN61QXzT-fi9DkLEkS-ONnMO2eDqaVeK",
+          "image_updated_at": 1689159034
+        }
+      ]
+    },
+    {
+      "id": 611582,
+      "lesson": 501,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 16963,
+      "alternates": [16782],
+      "tokens": [
+        {
+          "key": "tB7HLmdCUSc",
+          "text": "apple.",
+          "raw": { "text": "apple", "location": 10, "length": 5 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tU0s73S4QiO",
+          "text": "have",
+          "raw": { "text": "have", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tMf8rnllzNa",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tLy_4HSrGI8",
+          "text": "an",
+          "raw": { "text": "an", "location": 7, "length": 2 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "t-eRGtKNrUD",
+          "text": "orange.",
+          "raw": { "text": "orange", "location": 10, "length": 6 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tMf8rnllzNa", "tU0s73S4QiO", "tLy_4HSrGI8", "tB7HLmdCUSc"],
+      "completeToken": "tB7HLmdCUSc",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "xs7uQcawYrPMg3BZuh_RXmX858Ttb57i",
+          "audio_updated_at": 1593554030,
+          "text": "أنا لدي تفاحة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "لدي",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I have",
+                  "phonetic": "I have"
+                },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "تفاحة",
+              "translations": [
+                { "type": "dictionary", "text": "apple", "phonetic": "apple" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لدي", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "تفاحة", "location": 8, "length": 5 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 13, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "xs7uQcawYrPMg3BZuh_RXmX858Ttb57i",
+          "audio_updated_at": 1593554030,
+          "text": "I have an apple.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 611583,
+      "lesson": 501,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 23644,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tcXWhSoRcSu",
+          "text": "وجبن.",
+          "raw": { "text": "وجبن", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tXyDDei17eo",
+          "text": "أريد",
+          "raw": { "text": "أريد", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "taQVwC6z1Fm",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tOxJtsjj3so",
+          "text": "لدي",
+          "raw": { "text": "لدي", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tJDqppCJDta",
+          "text": "خبز",
+          "raw": { "text": "خبز", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "txaL4svuXd2",
+          "text": "تفاحتان.",
+          "raw": { "text": "تفاحتان", "location": 8, "length": 7 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["taQVwC6z1Fm", "tOxJtsjj3so", "txaL4svuXd2"],
+      "sols": [
+        {
+          "key": "RXp5zw6hGlAptc2mDuJzulnvID2063rV",
+          "audio_updated_at": 1688290482,
+          "text": "I have two apples.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "have",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "two", "translations": [] },
+            {
+              "raw": "apples",
+              "translations": [
+                { "type": "dictionary", "text": "تفاحتان", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "have", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "two", "location": 7, "length": 3 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "apples", "location": 11, "length": 6 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "RXp5zw6hGlAptc2mDuJzulnvID2063rV",
+          "audio_updated_at": 1688290482,
+          "text": "أنا لدي تفاحتان."
+        }
+      ]
+    },
+    {
+      "id": 611584,
+      "lesson": 501,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 16783,
+      "alternates": [16782, 16838, 16830],
+      "sols": [
+        {
+          "key": "qsErJFQRPKKfIl1qkypZbLaP-mYQLS2z",
+          "audio_updated_at": 1543436397,
+          "text": "موزة"
+        },
+        { "key": "YG4EAaseLSfN_quE3F6xE0PZLq4EjaEb", "text": "شمام" },
+        { "key": "H7FZUzdwyqmcVnkAjRF0Rsh8jOf8jnq6", "text": "برتقالة" },
+        { "key": "OZ95cRYLnxPSIXAcyJE_sKpiKnFglolW", "text": "تفاحة" }
+      ],
+      "alts": [
+        {
+          "key": "qsErJFQRPKKfIl1qkypZbLaP-mYQLS2z",
+          "audio_updated_at": 1543436397,
+          "text": "banana",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "5U8oeGiVuUqVJQw8bAA_jPUtqUXH1iGf",
+          "image_updated_at": 1689159034
+        },
+        {
+          "key": "YG4EAaseLSfN_quE3F6xE0PZLq4EjaEb",
+          "audio_updated_at": 1543436415,
+          "text": "melon",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "WmZTQolPXOMjZI1D_LiKfZmNIZNr5Gcf",
+          "image_updated_at": 1689159044
+        },
+        {
+          "key": "H7FZUzdwyqmcVnkAjRF0Rsh8jOf8jnq6",
+          "audio_updated_at": 1543436420,
+          "text": "orange",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "rsdR_sm6_lXMbcqQKwhAACkvpqOFw0lW",
+          "image_updated_at": 1689159044
+        },
+        {
+          "key": "OZ95cRYLnxPSIXAcyJE_sKpiKnFglolW",
+          "audio_updated_at": 1543436395,
+          "text": "apple",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "jN61QXzT-fi9DkLEkS-ONnMO2eDqaVeK",
+          "image_updated_at": 1689159034
+        }
+      ]
+    },
+    {
+      "id": 611585,
+      "lesson": 501,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 16958,
+      "alternates": [16783],
+      "tokens": [
+        {
+          "key": "tlULzUHrxsm",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tg3HW2oDSQC",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "txwWGljN3ne",
+          "text": "have",
+          "raw": { "text": "have", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tqKw-O6zEea",
+          "text": "banana.",
+          "raw": { "text": "banana", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "t9E-Aap2iNQ",
+          "text": "an",
+          "raw": { "text": "an", "location": 7, "length": 2 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tid3tZ4r9xX",
+          "text": "apple.",
+          "raw": { "text": "apple", "location": 10, "length": 5 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tg3HW2oDSQC", "txwWGljN3ne", "tlULzUHrxsm", "tqKw-O6zEea"],
+      "completeToken": "tqKw-O6zEea",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "qGR_C1AtaioigNZqtlW-ZoS66v_K_twk",
+          "audio_updated_at": 1593554035,
+          "text": "أنا لدي موزة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "لدي",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I have",
+                  "phonetic": "I have"
+                },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "موزة",
+              "translations": [
+                { "type": "dictionary", "text": "banana", "phonetic": "banana" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لدي", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "موزة", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 12, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "qGR_C1AtaioigNZqtlW-ZoS66v_K_twk",
+          "audio_updated_at": 1593554035,
+          "text": "I have a banana.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 611586,
+      "lesson": 501,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 16830,
+      "alternates": [16838, 16782, 16783],
+      "sols": [
+        {
+          "key": "YG4EAaseLSfN_quE3F6xE0PZLq4EjaEb",
+          "audio_updated_at": 1543436415,
+          "text": "شمام"
+        },
+        { "key": "qsErJFQRPKKfIl1qkypZbLaP-mYQLS2z", "text": "موزة" },
+        { "key": "H7FZUzdwyqmcVnkAjRF0Rsh8jOf8jnq6", "text": "برتقالة" },
+        { "key": "OZ95cRYLnxPSIXAcyJE_sKpiKnFglolW", "text": "تفاحة" }
+      ],
+      "alts": [
+        {
+          "key": "YG4EAaseLSfN_quE3F6xE0PZLq4EjaEb",
+          "audio_updated_at": 1543436415,
+          "text": "melon",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "WmZTQolPXOMjZI1D_LiKfZmNIZNr5Gcf",
+          "image_updated_at": 1689159044
+        },
+        {
+          "key": "qsErJFQRPKKfIl1qkypZbLaP-mYQLS2z",
+          "audio_updated_at": 1543436397,
+          "text": "banana",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "5U8oeGiVuUqVJQw8bAA_jPUtqUXH1iGf",
+          "image_updated_at": 1689159034
+        },
+        {
+          "key": "H7FZUzdwyqmcVnkAjRF0Rsh8jOf8jnq6",
+          "audio_updated_at": 1543436420,
+          "text": "orange",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "rsdR_sm6_lXMbcqQKwhAACkvpqOFw0lW",
+          "image_updated_at": 1689159044
+        },
+        {
+          "key": "OZ95cRYLnxPSIXAcyJE_sKpiKnFglolW",
+          "audio_updated_at": 1543436395,
+          "text": "apple",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "jN61QXzT-fi9DkLEkS-ONnMO2eDqaVeK",
+          "image_updated_at": 1689159034
+        }
+      ]
+    },
+    {
+      "id": 611587,
+      "lesson": 501,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 16961,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tqyVFT474RA",
+          "text": "لدي",
+          "raw": { "text": "لدي", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tcQK97yiX_I",
+          "text": "شمامة.",
+          "raw": { "text": "شمامة", "location": 8, "length": 5 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tzt2gzWl1ZB",
+          "text": "برتقالة.",
+          "raw": { "text": "برتقالة", "location": 8, "length": 7 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tCnCwthZmTy",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tCnCwthZmTy", "tqyVFT474RA", "tcQK97yiX_I"],
+      "sols": [
+        {
+          "key": "H4LdyWiMDmgtitHjUfBPNhbPfqy1FUVr",
+          "audio_updated_at": 1593554018,
+          "text": "I have a melon.",
+          "phonetic": null,
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "have",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "melon",
+              "translations": [
+                { "type": "dictionary", "text": "شمامة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "have", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "melon", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "H4LdyWiMDmgtitHjUfBPNhbPfqy1FUVr",
+          "audio_updated_at": 1593554018,
+          "text": "أنا لدي شمامة."
+        }
+      ]
+    },
+    {
+      "id": 611588,
+      "lesson": 501,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 16838,
+      "alternates": [16822],
+      "sols": [
+        {
+          "key": "H7FZUzdwyqmcVnkAjRF0Rsh8jOf8jnq6",
+          "audio_updated_at": 1543436420,
+          "text": "برتقالة"
+        },
+        {
+          "key": "ovg5bt8XmeuJ-zy1JFy-CDeueNjbQQQu",
+          "audio_updated_at": 1543436411,
+          "text": "ليمون"
+        }
+      ],
+      "alts": [
+        {
+          "key": "H7FZUzdwyqmcVnkAjRF0Rsh8jOf8jnq6",
+          "audio_updated_at": 1543436420,
+          "text": "orange",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "rsdR_sm6_lXMbcqQKwhAACkvpqOFw0lW",
+          "image_updated_at": 1689159044
+        },
+        {
+          "key": "ovg5bt8XmeuJ-zy1JFy-CDeueNjbQQQu",
+          "audio_updated_at": 1543436411,
+          "image": "usZIWwXsaoVohGy_M8qDTnXUejKvmhy3",
+          "image_updated_at": 1689159042,
+          "text": "lemon",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 611589,
+      "lesson": 501,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 16964,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tRKpK3TUdVC",
+          "text": "tomatoes.",
+          "raw": { "text": "tomatoes", "location": 7, "length": 8 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tW2Zy5vnxXJ",
+          "text": "have",
+          "raw": { "text": "have", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tcGMqK1elgA",
+          "text": "an",
+          "raw": { "text": "an", "location": 7, "length": 2 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tYTyfa4Qccr",
+          "text": "like",
+          "raw": { "text": "like", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tWXv5_p0Z2o",
+          "text": "orange.",
+          "raw": { "text": "orange", "location": 10, "length": 6 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tu5s1N2EFUc",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tu5s1N2EFUc", "tW2Zy5vnxXJ", "tcGMqK1elgA", "tWXv5_p0Z2o"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "UAWTBj7Jth17rM2kIFkFqBNp6sT2dBWQ",
+          "audio_updated_at": 1593554023,
+          "text": "أنا لدي برتقالة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "لدي",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I have",
+                  "phonetic": "I have"
+                },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "برتقالة",
+              "translations": [
+                { "type": "dictionary", "text": "orange", "phonetic": "orange" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لدي", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "برتقالة", "location": 8, "length": 7 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "UAWTBj7Jth17rM2kIFkFqBNp6sT2dBWQ",
+          "audio_updated_at": 1593554023,
+          "text": "I have an orange.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 611590,
+      "lesson": 501,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 16960,
+      "alternates": [16822],
+      "tokens": [
+        {
+          "key": "tlnBslcUG8x",
+          "text": "have",
+          "raw": { "text": "have", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tezp2svT3TJ",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tWko-1XZWii",
+          "text": "melon.",
+          "raw": { "text": "melon", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tlclthh2PRG",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t7XLGhN6r3W",
+          "text": "lemon.",
+          "raw": { "text": "lemon", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tlclthh2PRG", "tlnBslcUG8x", "tezp2svT3TJ", "t7XLGhN6r3W"],
+      "completeToken": "t7XLGhN6r3W",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "-S21Va2YYFX81ONOC60OFp0-XteOH-HB",
+          "audio_updated_at": 1593554013,
+          "text": "أنا لدي ليمونة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "لدي",
+              "translations": [
+                { "type": "dictionary", "text": "I have", "phonetic": "I have" }
+              ]
+            },
+            {
+              "raw": "ليمونة",
+              "translations": [
+                { "type": "dictionary", "text": "lemon", "phonetic": "lemon" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لدي", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "ليمونة", "location": 8, "length": 6 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "-S21Va2YYFX81ONOC60OFp0-XteOH-HB",
+          "audio_updated_at": 1593554013,
+          "text": "I have a lemon.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 611591,
+      "lesson": 501,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 16782,
+      "alternates": [],
+      "tokens": [
+        { "key": "tdym-LFLyTA", "text": "l", "group": 0 },
+        { "key": "tGhP9VxaL4G", "text": "e", "group": 0 },
+        { "key": "t2ZXR926ulc", "text": "a", "group": 0 },
+        { "key": "tL8F2qR_1pw", "text": "p", "group": 0 },
+        { "key": "tiUiR665e5F", "text": "p", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t2ZXR926ulc",
+        "tiUiR665e5F",
+        "tL8F2qR_1pw",
+        "tdym-LFLyTA",
+        "tGhP9VxaL4G"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "OZ95cRYLnxPSIXAcyJE_sKpiKnFglolW",
+          "audio_updated_at": 1543436395,
+          "text": "تفاحة",
+          "dictionary": [
+            {
+              "raw": "تفاحة",
+              "translations": [
+                { "type": "dictionary", "text": "apple", "phonetic": "apple" }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "تفاحة", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "OZ95cRYLnxPSIXAcyJE_sKpiKnFglolW",
+          "audio_updated_at": 1543436395,
+          "text_tokens": [
+            {
+              "raw": { "text": "apple", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "apple",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "jN61QXzT-fi9DkLEkS-ONnMO2eDqaVeK",
+          "image_updated_at": 1689159034
+        }
+      ]
+    },
+    {
+      "id": 611592,
+      "lesson": 501,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 16963,
+      "alternates": [16782],
+      "tokens": [
+        { "key": "tFtNl49jUMd", "text": ".", "specialChar": true },
+        { "key": "tjp5Yl7nLAO", "text": " ", "specialChar": true },
+        { "key": "tpOb7RjWxL4", "text": "l", "group": 3 },
+        { "key": "tOYV75mEEn1", "text": "p", "group": 3 },
+        { "key": "teFSBJp_Q8X", "text": "e", "group": 3 },
+        { "key": "te4RG3ZW8Nd", "text": "a", "group": 3 },
+        { "key": "tPPLO_kwdTX", "text": "p", "group": 3 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tjp5Yl7nLAO",
+        "te4RG3ZW8Nd",
+        "tPPLO_kwdTX",
+        "tOYV75mEEn1",
+        "tpOb7RjWxL4",
+        "teFSBJp_Q8X",
+        "tFtNl49jUMd"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "xs7uQcawYrPMg3BZuh_RXmX858Ttb57i",
+          "audio_updated_at": 1593554030,
+          "text": "أنا لدي تفاحة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "لدي",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I have",
+                  "phonetic": "I have"
+                },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "تفاحة",
+              "translations": [
+                { "type": "dictionary", "text": "apple", "phonetic": "apple" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لدي", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "تفاحة", "location": 8, "length": 5 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 13, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "xs7uQcawYrPMg3BZuh_RXmX858Ttb57i",
+          "audio_updated_at": 1593554030,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "have", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "an", "location": 7, "length": 2 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "apple", "location": 10, "length": 5 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "I have an apple.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 611593,
+      "lesson": 501,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 23644,
+      "alternates": [16963, 16958],
+      "sols": [
+        {
+          "key": "RXp5zw6hGlAptc2mDuJzulnvID2063rV",
+          "audio_updated_at": 1688290482,
+          "text": "أنا لدي تفاحتان.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "لدي",
+              "translations": [
+                { "type": "dictionary", "text": "I have", "phonetic": "I have" }
+              ]
+            },
+            {
+              "raw": "تفاحتان",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "two apples",
+                  "phonetic": "two apples"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لدي", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "تفاحتان", "location": 8, "length": 7 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        { "key": "xs7uQcawYrPMg3BZuh_RXmX858Ttb57i", "text": "أنا لدي تفاحة." },
+        { "key": "qGR_C1AtaioigNZqtlW-ZoS66v_K_twk", "text": "أنا لدي موزة." }
+      ],
+      "alts": [
+        {
+          "key": "RXp5zw6hGlAptc2mDuJzulnvID2063rV",
+          "audio_updated_at": 1688290482,
+          "text": "I have two apples.",
+          "phonetic": ""
+        },
+        {
+          "key": "xs7uQcawYrPMg3BZuh_RXmX858Ttb57i",
+          "audio_updated_at": 1593554030,
+          "text": "I have an apple.",
+          "phonetic": ""
+        },
+        {
+          "key": "qGR_C1AtaioigNZqtlW-ZoS66v_K_twk",
+          "audio_updated_at": 1593554035,
+          "text": "I have a banana.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 611594,
+      "lesson": 501,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 16958,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tJ-C86bkbJR",
+          "text": "موزة.",
+          "raw": { "text": "موزة", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 12, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "thrq1vGNNoJ",
+          "text": "طبق.",
+          "raw": { "text": "طبق", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 11, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tzuG-u6tyhL",
+          "text": "لدي",
+          "raw": { "text": "لدي", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tnfCRIDF8Ei",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tnfCRIDF8Ei", "tzuG-u6tyhL", "tJ-C86bkbJR"],
+      "sols": [
+        {
+          "key": "qGR_C1AtaioigNZqtlW-ZoS66v_K_twk",
+          "audio_updated_at": 1593554035,
+          "text": "I have a banana.",
+          "phonetic": null,
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "have",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "banana",
+              "translations": [
+                { "type": "dictionary", "text": "موزة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "have", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "banana", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "qGR_C1AtaioigNZqtlW-ZoS66v_K_twk",
+          "audio_updated_at": 1593554035,
+          "text": "أنا لدي موزة."
+        }
+      ]
+    },
+    {
+      "id": 611595,
+      "lesson": 501,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 16961,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tZtVr7aV6_L",
+          "text": "like",
+          "raw": { "text": "like", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "t_E9-GX_Z_F",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tixa_VX5xel",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tNztndQPC32",
+          "text": "melon.",
+          "raw": { "text": "melon", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tiyGiopNS7S",
+          "text": "tomatoes.",
+          "raw": { "text": "tomatoes", "location": 7, "length": 8 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "t-jJ38uco9L",
+          "text": "have",
+          "raw": { "text": "have", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t_E9-GX_Z_F", "t-jJ38uco9L", "tixa_VX5xel", "tNztndQPC32"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "H4LdyWiMDmgtitHjUfBPNhbPfqy1FUVr",
+          "audio_updated_at": 1593554018,
+          "text": "أنا لدي شمامة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "لدي",
+              "translations": [
+                { "type": "dictionary", "text": "I have", "phonetic": "I have" }
+              ]
+            },
+            { "raw": "شمامة", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لدي", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "شمامة", "location": 8, "length": 5 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 13, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "H4LdyWiMDmgtitHjUfBPNhbPfqy1FUVr",
+          "audio_updated_at": 1593554018,
+          "text": "I have a melon.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 611596,
+      "lesson": 501,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 16964,
+      "alternates": [16961, 16958],
+      "sols": [
+        {
+          "key": "UAWTBj7Jth17rM2kIFkFqBNp6sT2dBWQ",
+          "audio_updated_at": 1593554023,
+          "text": "I have an orange.",
+          "phonetic": null,
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "have",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "an", "translations": [] },
+            {
+              "raw": "orange",
+              "translations": [
+                { "type": "dictionary", "text": "برتقالة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "have", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "an", "location": 7, "length": 2 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "orange", "location": 10, "length": 6 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 16, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "qGR_C1AtaioigNZqtlW-ZoS66v_K_twk",
+          "text": "I have a banana.",
+          "phonetic": ""
+        },
+        {
+          "key": "H4LdyWiMDmgtitHjUfBPNhbPfqy1FUVr",
+          "text": "I have a melon.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "UAWTBj7Jth17rM2kIFkFqBNp6sT2dBWQ",
+          "audio_updated_at": 1593554023,
+          "text": "أنا لدي برتقالة."
+        },
+        {
+          "key": "qGR_C1AtaioigNZqtlW-ZoS66v_K_twk",
+          "audio_updated_at": 1593554035,
+          "text": "أنا لدي موزة."
+        },
+        {
+          "key": "H4LdyWiMDmgtitHjUfBPNhbPfqy1FUVr",
+          "audio_updated_at": 1593554018,
+          "text": "أنا لدي شمامة."
+        }
+      ]
+    },
+    {
+      "id": 611597,
+      "lesson": 501,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 16822,
+      "alternates": [16830, 16782],
+      "sols": [
+        {
+          "key": "ovg5bt8XmeuJ-zy1JFy-CDeueNjbQQQu",
+          "audio_updated_at": 1543436411,
+          "text": "ليمون",
+          "dictionary": [
+            {
+              "raw": "ليمون",
+              "translations": [
+                { "type": "dictionary", "text": "lemon", "phonetic": "lemon" }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "ليمون", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        { "key": "YG4EAaseLSfN_quE3F6xE0PZLq4EjaEb", "text": "شمام" },
+        { "key": "OZ95cRYLnxPSIXAcyJE_sKpiKnFglolW", "text": "تفاحة" }
+      ],
+      "alts": [
+        {
+          "key": "ovg5bt8XmeuJ-zy1JFy-CDeueNjbQQQu",
+          "audio_updated_at": 1543436411,
+          "text": "lemon",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "YG4EAaseLSfN_quE3F6xE0PZLq4EjaEb",
+          "audio_updated_at": 1543436415,
+          "text": "melon",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "OZ95cRYLnxPSIXAcyJE_sKpiKnFglolW",
+          "audio_updated_at": 1543436395,
+          "text": "apple",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 611598,
+      "lesson": 501,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 16960,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tBn0IvQhPp2",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "t4iUnjQoLon",
+          "text": "have",
+          "raw": { "text": "have", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tGCQfE0hqYJ",
+          "text": "like",
+          "raw": { "text": "like", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tyu3UQLzNXi",
+          "text": "cucumbers.",
+          "raw": { "text": "cucumbers", "location": 7, "length": 9 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tpw2XazfM_2",
+          "text": "lemon.",
+          "raw": { "text": "lemon", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "t7tUtlgPjjt",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t7tUtlgPjjt", "t4iUnjQoLon", "tBn0IvQhPp2", "tpw2XazfM_2"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "-S21Va2YYFX81ONOC60OFp0-XteOH-HB",
+          "audio_updated_at": 1593554013,
+          "text": "أنا لدي ليمونة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "لدي",
+              "translations": [
+                { "type": "dictionary", "text": "I have", "phonetic": "I have" }
+              ]
+            },
+            {
+              "raw": "ليمونة",
+              "translations": [
+                { "type": "dictionary", "text": "lemon", "phonetic": "lemon" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لدي", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "ليمونة", "location": 8, "length": 6 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "-S21Va2YYFX81ONOC60OFp0-XteOH-HB",
+          "audio_updated_at": 1593554013,
+          "text": "I have a lemon.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 611599,
+      "lesson": 501,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 16963,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tEXlfFng8rf",
+          "text": "لدي",
+          "raw": { "text": "لدي", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "txBO-oC2CzW",
+          "text": "برتقالة.",
+          "raw": { "text": "برتقالة", "location": 8, "length": 7 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "t9BtGLCQaY0",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tohgScn2KTo",
+          "text": "تفاحة.",
+          "raw": { "text": "تفاحة", "location": 8, "length": 5 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["t9BtGLCQaY0", "tEXlfFng8rf", "tohgScn2KTo"],
+      "sols": [
+        {
+          "key": "xs7uQcawYrPMg3BZuh_RXmX858Ttb57i",
+          "audio_updated_at": 1593554030,
+          "text": "I have an apple.",
+          "phonetic": null,
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "have",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "an", "translations": [] },
+            {
+              "raw": "apple",
+              "translations": [
+                { "type": "dictionary", "text": "تفاحة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "have", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "an", "location": 7, "length": 2 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "apple", "location": 10, "length": 5 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "xs7uQcawYrPMg3BZuh_RXmX858Ttb57i",
+          "audio_updated_at": 1593554030,
+          "text": "أنا لدي تفاحة."
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "tnx-tPJ4m-9",
+            "text": "تفاحة.",
+            "raw": { "text": "تفاحة", "location": 8, "length": 5 },
+            "prefix": { "text": "", "location": 8, "length": 0 },
+            "suffix": { "text": ".", "location": 13, "length": 1 },
+            "linker": { "text": " ", "location": 7, "length": 1 }
+          },
+          {
+            "key": "t-L6xuxnYsx",
+            "text": "الطماطم.",
+            "raw": { "text": "الطماطم", "location": 8, "length": 7 },
+            "prefix": { "text": "", "location": 8, "length": 0 },
+            "suffix": { "text": ".", "location": 15, "length": 1 },
+            "linker": { "text": " ", "location": 7, "length": 1 }
+          },
+          {
+            "key": "tMheStrX-TV",
+            "text": "أحب",
+            "raw": { "text": "أحب", "location": 4, "length": 3 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 7, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "t1HlZzz9SuG",
+            "text": "لدي",
+            "raw": { "text": "لدي", "location": 4, "length": 3 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 7, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "t0UvfKiJzBW",
+            "text": "أنا",
+            "raw": { "text": "أنا", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": ["t0UvfKiJzBW", "t1HlZzz9SuG", "tnx-tPJ4m-9"],
+        "sols": [
+          {
+            "key": "xs7uQcawYrPMg3BZuh_RXmX858Ttb57i",
+            "audio_updated_at": 1593554030,
+            "text": "I have an apple.",
+            "phonetic": null,
+            "dictionary": [
+              {
+                "raw": "I",
+                "translations": [
+                  { "type": "dictionary", "text": "أنا", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "have",
+                "translations": [
+                  {
+                    "type": "verb",
+                    "name": {
+                      "t": "to have",
+                      "m": "يملك",
+                      "phonetic": "to have"
+                    },
+                    "id": 41,
+                    "tenseNames": {
+                      "pr": "الحاضر",
+                      "pa": "ماضي",
+                      "fu": "مستقبل"
+                    },
+                    "conj": {
+                      "pr": [
+                        {
+                          "t": {
+                            "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                            "text": "I have",
+                            "phonetic": "",
+                            "audio_updated_at": 1607004543
+                          },
+                          "m": { "text": "أنا أملك" }
+                        },
+                        {
+                          "t": {
+                            "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                            "text": "You have",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438164
+                          },
+                          "m": { "text": "أنت تملك" }
+                        },
+                        {
+                          "t": {
+                            "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                            "text": "He has",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438165
+                          },
+                          "m": { "text": "هو يملك" }
+                        },
+                        {
+                          "t": {
+                            "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                            "text": "She has",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438166
+                          },
+                          "m": { "text": "هي تملك" }
+                        },
+                        {
+                          "t": {
+                            "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                            "text": "We have",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438167
+                          },
+                          "m": { "text": "نحن نملك" }
+                        },
+                        {
+                          "t": {
+                            "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                            "text": "You have",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438169
+                          },
+                          "m": { "text": "أنتم تملكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                            "text": "They have",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438170
+                          },
+                          "m": { "text": "هم يملكون" }
+                        }
+                      ],
+                      "pa": [
+                        {
+                          "t": {
+                            "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                            "text": "I had",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547508
+                          },
+                          "m": { "text": "أنا ملكت" }
+                        },
+                        {
+                          "t": {
+                            "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                            "text": "You had",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547509
+                          },
+                          "m": { "text": "أنت ملكت" }
+                        },
+                        {
+                          "t": {
+                            "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                            "text": "He had",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547510
+                          },
+                          "m": { "text": "هو ملك" }
+                        },
+                        {
+                          "t": {
+                            "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                            "text": "She had",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547511
+                          },
+                          "m": { "text": "هي ملكت" }
+                        },
+                        {
+                          "t": {
+                            "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                            "text": "We had",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547513
+                          },
+                          "m": { "text": "نحن ملكنا" }
+                        },
+                        {
+                          "t": {
+                            "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                            "text": "You had",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547514
+                          },
+                          "m": { "text": "أنتم ملكتم" }
+                        },
+                        {
+                          "t": {
+                            "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                            "text": "They had",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547515
+                          },
+                          "m": { "text": "هم ملكوا" }
+                        }
+                      ],
+                      "fu": [
+                        {
+                          "t": {
+                            "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                            "text": "I will have",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547516
+                          },
+                          "m": { "text": "أنا سأملك" }
+                        },
+                        {
+                          "t": {
+                            "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                            "text": "You will have",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547517
+                          },
+                          "m": { "text": "أنت ستملك" }
+                        },
+                        {
+                          "t": {
+                            "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                            "text": "He will have",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547518
+                          },
+                          "m": { "text": "هو سيملك" }
+                        },
+                        {
+                          "t": {
+                            "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                            "text": "She will have",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547519
+                          },
+                          "m": { "text": "هي ستملك" }
+                        },
+                        {
+                          "t": {
+                            "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                            "text": "We will have",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547521
+                          },
+                          "m": { "text": "نحن سنملك" }
+                        },
+                        {
+                          "t": {
+                            "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                            "text": "You will have",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547522
+                          },
+                          "m": { "text": "أنتم ستملكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                            "text": "They will have",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547523
+                          },
+                          "m": { "text": "هم سيملكون" }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              { "raw": "an", "translations": [] },
+              {
+                "raw": "apple",
+                "translations": [
+                  { "type": "dictionary", "text": "تفاحة", "phonetic": null }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "I", "location": 0, "length": 1 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 1, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "have", "location": 2, "length": 4 },
+                "prefix": { "text": "", "location": 2, "length": 0 },
+                "suffix": { "text": "", "location": 6, "length": 0 },
+                "linker": { "text": " ", "location": 1, "length": 1 }
+              },
+              {
+                "raw": { "text": "an", "location": 7, "length": 2 },
+                "prefix": { "text": "", "location": 7, "length": 0 },
+                "suffix": { "text": "", "location": 9, "length": 0 },
+                "linker": { "text": " ", "location": 6, "length": 1 }
+              },
+              {
+                "raw": { "text": "apple", "location": 10, "length": 5 },
+                "prefix": { "text": "", "location": 10, "length": 0 },
+                "suffix": { "text": ".", "location": 15, "length": 1 },
+                "linker": { "text": " ", "location": 9, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "xs7uQcawYrPMg3BZuh_RXmX858Ttb57i",
+            "audio_updated_at": 1593554030,
+            "text": "أنا لدي تفاحة."
+          }
+        ]
+      }
+    },
+    {
+      "id": 611600,
+      "lesson": 501,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 23644,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tYPtO6Ggwj1",
+          "text": "تفاحتان.",
+          "raw": { "text": "تفاحتان", "location": 8, "length": 7 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tj9LQF7zcoh",
+          "text": "أريد",
+          "raw": { "text": "أريد", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tyuMbc00uch",
+          "text": "لدي",
+          "raw": { "text": "لدي", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tM3Nrud-DgF",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tRdjuuCT7y9",
+          "text": "خبز",
+          "raw": { "text": "خبز", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tPNgsVpPLYE",
+          "text": "وجبن.",
+          "raw": { "text": "وجبن", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tM3Nrud-DgF", "tyuMbc00uch", "tYPtO6Ggwj1"],
+      "sols": [
+        {
+          "key": "RXp5zw6hGlAptc2mDuJzulnvID2063rV",
+          "audio_updated_at": 1688290482,
+          "text": "I have two apples.",
+          "phonetic": ""
+        },
+        {
+          "key": "RXp5zw6hGlAptc2mDuJzulnvID2063rV",
+          "audio_updated_at": 1688290482,
+          "text": "أنا لدي تفاحتان."
+        }
+      ]
+    },
+    {
+      "id": 611601,
+      "lesson": 501,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 16958,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t3Yaar5AoFc",
+          "text": "banana.",
+          "raw": { "text": "banana", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tCF0Z7Meypu",
+          "text": "fork",
+          "raw": { "text": "fork", "location": 9, "length": 4 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "trNjJWHuwWI",
+          "text": "have",
+          "raw": { "text": "have", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tjCLrZw2wpb",
+          "text": "but",
+          "raw": { "text": "but", "location": 26, "length": 3 },
+          "prefix": { "text": "", "location": 26, "length": 0 },
+          "suffix": { "text": "", "location": 29, "length": 0 },
+          "linker": { "text": " ", "location": 25, "length": 1 }
+        },
+        {
+          "key": "t9UxjnUmwAs",
+          "text": "and",
+          "raw": { "text": "and", "location": 14, "length": 3 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tjjJ54UD6AM",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "t8RXZbWAl-2",
+          "text": "spoon",
+          "raw": { "text": "spoon", "location": 20, "length": 5 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": "", "location": 25, "length": 0 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "thD-WojLW8l",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["thD-WojLW8l", "trNjJWHuwWI", "tjjJ54UD6AM", "t3Yaar5AoFc"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "qGR_C1AtaioigNZqtlW-ZoS66v_K_twk",
+          "audio_updated_at": 1593554035,
+          "text": "أنا لدي موزة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "لدي",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I have",
+                  "phonetic": "I have"
+                },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "موزة",
+              "translations": [
+                { "type": "dictionary", "text": "banana", "phonetic": "banana" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لدي", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "موزة", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 12, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "qGR_C1AtaioigNZqtlW-ZoS66v_K_twk",
+          "audio_updated_at": 1593554035,
+          "text": "I have a banana.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 611602,
+      "lesson": 501,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 16961,
+      "alternates": [16958, 16963],
+      "sols": [
+        {
+          "key": "H4LdyWiMDmgtitHjUfBPNhbPfqy1FUVr",
+          "audio_updated_at": 1593554018,
+          "text": "أنا لدي شمامة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "لدي",
+              "translations": [
+                { "type": "dictionary", "text": "I have", "phonetic": "I have" }
+              ]
+            },
+            { "raw": "شمامة", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لدي", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "شمامة", "location": 8, "length": 5 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 13, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        { "key": "qGR_C1AtaioigNZqtlW-ZoS66v_K_twk", "text": "أنا لدي موزة." },
+        { "key": "xs7uQcawYrPMg3BZuh_RXmX858Ttb57i", "text": "أنا لدي تفاحة." }
+      ],
+      "alts": [
+        {
+          "key": "H4LdyWiMDmgtitHjUfBPNhbPfqy1FUVr",
+          "audio_updated_at": 1593554018,
+          "text": "I have a melon.",
+          "phonetic": ""
+        },
+        {
+          "key": "qGR_C1AtaioigNZqtlW-ZoS66v_K_twk",
+          "audio_updated_at": 1593554035,
+          "text": "I have a banana.",
+          "phonetic": ""
+        },
+        {
+          "key": "xs7uQcawYrPMg3BZuh_RXmX858Ttb57i",
+          "audio_updated_at": 1593554030,
+          "text": "I have an apple.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 611603,
+      "lesson": 501,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 16964,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "trftTSYMe0N",
+          "text": "الذرة.",
+          "raw": { "text": "الذرة", "location": 8, "length": 5 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tkY1-xPQ0hh",
+          "text": "برتقالة.",
+          "raw": { "text": "برتقالة", "location": 8, "length": 7 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "t1gOmkSwBEr",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tgV0PSLjcqc",
+          "text": "أحب",
+          "raw": { "text": "أحب", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "trRrgx5iDcz",
+          "text": "لدي",
+          "raw": { "text": "لدي", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["t1gOmkSwBEr", "trRrgx5iDcz", "tkY1-xPQ0hh"],
+      "sols": [
+        {
+          "key": "UAWTBj7Jth17rM2kIFkFqBNp6sT2dBWQ",
+          "audio_updated_at": 1593554023,
+          "text": "I have an orange.",
+          "phonetic": null
+        },
+        {
+          "key": "UAWTBj7Jth17rM2kIFkFqBNp6sT2dBWQ",
+          "audio_updated_at": 1593554023,
+          "text": "أنا لدي برتقالة."
+        }
+      ]
+    },
+    {
+      "id": 611604,
+      "lesson": 501,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 16960,
+      "alternates": [16961, 16964],
+      "sols": [
+        {
+          "key": "-S21Va2YYFX81ONOC60OFp0-XteOH-HB",
+          "audio_updated_at": 1593554013,
+          "text": "I have a lemon.",
+          "phonetic": null,
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "have",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "lemon",
+              "translations": [
+                { "type": "dictionary", "text": "ليمونة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "have", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "lemon", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "UAWTBj7Jth17rM2kIFkFqBNp6sT2dBWQ",
+          "text": "I have an orange.",
+          "phonetic": ""
+        },
+        {
+          "key": "H4LdyWiMDmgtitHjUfBPNhbPfqy1FUVr",
+          "text": "I have a melon.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "-S21Va2YYFX81ONOC60OFp0-XteOH-HB",
+          "audio_updated_at": 1593554013,
+          "text": "أنا لدي ليمونة."
+        },
+        {
+          "key": "UAWTBj7Jth17rM2kIFkFqBNp6sT2dBWQ",
+          "audio_updated_at": 1593554023,
+          "text": "أنا لدي برتقالة."
+        },
+        {
+          "key": "H4LdyWiMDmgtitHjUfBPNhbPfqy1FUVr",
+          "audio_updated_at": 1593554018,
+          "text": "أنا لدي شمامة."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4505 @@
+{
+  "dialogue": {
+    "id": 501,
+    "index": 1,
+    "category": 5,
+    "categoryID": 5,
+    "categoryModifiers": 0,
+    "isCourse": false,
+    "name": "قائمة التسوق",
+    "done": false,
+    "disabled": false,
+    "countItem": 15,
+    "countDone": 0,
+    "countWords": 42,
+    "countPhrases": 15,
+    "dItems": [
+      9743, 9744, 9745, 9746, 9747, 9748, 9749, 9750, 9751, 9752, 9753, 9754,
+      9755, 9756, 9757
+    ]
+  },
+  "dItems": [
+    {
+      "id": 9743,
+      "i": 0,
+      "positionIndex": 0,
+      "dialogue": 501,
+      "wordID": 30610,
+      "key": "iyiMei-0aCfHBnqEO_ANp_FfpvQ1exFS",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "يجب أن نذهب إلى السوبر ماركت.",
+          "dictionary": [
+            { "raw": "يجب", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "نذهب",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to go", "m": "يذهب", "phonetic": "to go" },
+                  "id": 40,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "7bNI0RboiqsVM_WilX2otoK_sq_OOnIh",
+                          "text": "I go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438139
+                        },
+                        "m": { "text": "أنا أذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "cacr7_SGG3dzVO-mSG6-3JGMo1QHNnfI",
+                          "text": "You go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438141
+                        },
+                        "m": { "text": "أنت تذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "bZGv2l3B-K6XJzrbpRcL8BGFxmSL9E41",
+                          "text": "He goes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438142
+                        },
+                        "m": { "text": "هو يذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VUXmsiBF52fp9UFoJJbYzXtzSOqd70KL",
+                          "text": "She goes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438143
+                        },
+                        "m": { "text": "هي تذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "TzT3zhHftJuiDg8yys-D6vI22jJTYXt-",
+                          "text": "We go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438145
+                        },
+                        "m": { "text": "نحن نذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "vFAnGTkaIgwCphxih4TEtrC1wpds6Ja9",
+                          "text": "You go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438146
+                        },
+                        "m": { "text": "أنتم تذهبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "as-vTrtT2jT-Oo2pJIEXATWc8NGNHyHy",
+                          "text": "They go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438147
+                        },
+                        "m": { "text": "هم يذهبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "ecfE6_usDqBDEgKqLf6lszCSyS6LchO2",
+                          "text": "I went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438148
+                        },
+                        "m": { "text": "أنا ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "EQmuVdiG1ooEYpqZiH9fvnxiX5xa7UCr",
+                          "text": "You went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438149
+                        },
+                        "m": { "text": "أنت ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "qO6qMBah2gqVpJ7TCH0OI-km7Mnjm9AB",
+                          "text": "He went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438151
+                        },
+                        "m": { "text": "هو ذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ykHNySLcbj_Rduz8EyjcvdnPK0wlkrz2",
+                          "text": "She went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438152
+                        },
+                        "m": { "text": "هي ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "akN_HA9flK2VWcjlkhPYg3DjSnZZd1oi",
+                          "text": "We went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438153
+                        },
+                        "m": { "text": "نحن ذهبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "kpGUD063dV_rZBSxR2DvQxiM-k_NPNBS",
+                          "text": "You went",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547489
+                        },
+                        "m": { "text": "أنتم ذهبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "WmZAvV4rAVPbwBgM0_rJ8bu7OG6Qt5Iw",
+                          "text": "They went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438154
+                        },
+                        "m": { "text": "هم ذهبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "JgvAgyiXF7jLKauYYG7d98AS4yIPb30q",
+                          "text": "I will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438155
+                        },
+                        "m": { "text": "أنا سأذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "NWaLgXoxuA-0UioEcTD3PBAgWYUPSj-K",
+                          "text": "You will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438157
+                        },
+                        "m": { "text": "أنت ستذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "rg4yVFoVEyzsFbtgrGuEUFJQQPSBkfen",
+                          "text": "He will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438158
+                        },
+                        "m": { "text": "هو سيذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "RnFE7AbFeD6gZxaYheN83Gj_HscOn2Cz",
+                          "text": "She will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438159
+                        },
+                        "m": { "text": "هي ستذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "fuwQr7AE3vDfvwem4z9cSXVaUBgvvKyy",
+                          "text": "We will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438160
+                        },
+                        "m": { "text": "نحن سنذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ySfGaRO2p3GrKGHH10VcD3XFDi2-Nxa_",
+                          "text": "You will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547498
+                        },
+                        "m": { "text": "أنتم ستذهبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "dEJvrp2XZNvhxyWlesxvM4ypFeJyU6Ad",
+                          "text": "They will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438161
+                        },
+                        "m": { "text": "هم سيذهبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            { "raw": "السوبر", "translations": [] },
+            { "raw": "ماركت", "translations": [] }
+          ]
+        },
+        {
+          "text": "We have to go to the supermarket.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "We", "translations": [] },
+            {
+              "raw": "have",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "to",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "go",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to go", "m": "يذهب", "phonetic": "to go" },
+                  "id": 40,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "7bNI0RboiqsVM_WilX2otoK_sq_OOnIh",
+                          "text": "I go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438139
+                        },
+                        "m": { "text": "أنا أذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "cacr7_SGG3dzVO-mSG6-3JGMo1QHNnfI",
+                          "text": "You go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438141
+                        },
+                        "m": { "text": "أنت تذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "bZGv2l3B-K6XJzrbpRcL8BGFxmSL9E41",
+                          "text": "He goes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438142
+                        },
+                        "m": { "text": "هو يذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VUXmsiBF52fp9UFoJJbYzXtzSOqd70KL",
+                          "text": "She goes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438143
+                        },
+                        "m": { "text": "هي تذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "TzT3zhHftJuiDg8yys-D6vI22jJTYXt-",
+                          "text": "We go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438145
+                        },
+                        "m": { "text": "نحن نذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "vFAnGTkaIgwCphxih4TEtrC1wpds6Ja9",
+                          "text": "You go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438146
+                        },
+                        "m": { "text": "أنتم تذهبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "as-vTrtT2jT-Oo2pJIEXATWc8NGNHyHy",
+                          "text": "They go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438147
+                        },
+                        "m": { "text": "هم يذهبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "ecfE6_usDqBDEgKqLf6lszCSyS6LchO2",
+                          "text": "I went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438148
+                        },
+                        "m": { "text": "أنا ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "EQmuVdiG1ooEYpqZiH9fvnxiX5xa7UCr",
+                          "text": "You went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438149
+                        },
+                        "m": { "text": "أنت ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "qO6qMBah2gqVpJ7TCH0OI-km7Mnjm9AB",
+                          "text": "He went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438151
+                        },
+                        "m": { "text": "هو ذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ykHNySLcbj_Rduz8EyjcvdnPK0wlkrz2",
+                          "text": "She went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438152
+                        },
+                        "m": { "text": "هي ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "akN_HA9flK2VWcjlkhPYg3DjSnZZd1oi",
+                          "text": "We went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438153
+                        },
+                        "m": { "text": "نحن ذهبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "kpGUD063dV_rZBSxR2DvQxiM-k_NPNBS",
+                          "text": "You went",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547489
+                        },
+                        "m": { "text": "أنتم ذهبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "WmZAvV4rAVPbwBgM0_rJ8bu7OG6Qt5Iw",
+                          "text": "They went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438154
+                        },
+                        "m": { "text": "هم ذهبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "JgvAgyiXF7jLKauYYG7d98AS4yIPb30q",
+                          "text": "I will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438155
+                        },
+                        "m": { "text": "أنا سأذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "NWaLgXoxuA-0UioEcTD3PBAgWYUPSj-K",
+                          "text": "You will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438157
+                        },
+                        "m": { "text": "أنت ستذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "rg4yVFoVEyzsFbtgrGuEUFJQQPSBkfen",
+                          "text": "He will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438158
+                        },
+                        "m": { "text": "هو سيذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "RnFE7AbFeD6gZxaYheN83Gj_HscOn2Cz",
+                          "text": "She will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438159
+                        },
+                        "m": { "text": "هي ستذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "fuwQr7AE3vDfvwem4z9cSXVaUBgvvKyy",
+                          "text": "We will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438160
+                        },
+                        "m": { "text": "نحن سنذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ySfGaRO2p3GrKGHH10VcD3XFDi2-Nxa_",
+                          "text": "You will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547498
+                        },
+                        "m": { "text": "أنتم ستذهبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "dEJvrp2XZNvhxyWlesxvM4ypFeJyU6Ad",
+                          "text": "They will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438161
+                        },
+                        "m": { "text": "هم سيذهبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "to",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "supermarket",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "السوبر ماركت",
+                  "phonetic": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291947
+    },
+    {
+      "id": 9744,
+      "i": 1,
+      "positionIndex": 1,
+      "dialogue": 501,
+      "wordID": 30611,
+      "key": "aGBdA6CHSuyMo0s40aMo9TKh5BEEBI3s",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "ماذا يجب أن نشتري؟",
+          "dictionary": [
+            { "raw": "ماذا", "translations": [] },
+            { "raw": "يجب", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "نشتري",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to buy", "m": "يشتري", "phonetic": "to buy" },
+                  "id": 9,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NwYiTLh9hmFdMEWax4vDkQqqzg7GsweC",
+                          "text": "I buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437978
+                        },
+                        "m": { "text": "أنا أشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "djKE9mg1CEeTPegeNWUa2manKGJ3VobB",
+                          "text": "You buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437979
+                        },
+                        "m": { "text": "أنت تشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "JbW-k4EKdfZf1ds8SJFFR21GiEVZAcVz",
+                          "text": "He buys",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437981
+                        },
+                        "m": { "text": "هو يشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "BCXNqz61-6H4ONqdLeMKMkzqMbfdTL7v",
+                          "text": "She buys",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437982
+                        },
+                        "m": { "text": "هي تشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "3gYrvFFVkQZgBvv6_FCWozqVKMryn61v",
+                          "text": "We buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437983
+                        },
+                        "m": { "text": "نحن نشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "gVpR3EhLz9JOnZi0aicnAX-WvRD-WzKk",
+                          "text": "You buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437985
+                        },
+                        "m": { "text": "أنتم تشترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "9nSg-BPoKCu9q-ZN3W70pUbJ8rkU1Ljw",
+                          "text": "They buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437986
+                        },
+                        "m": { "text": "هم يشترون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "0XmH4_Qx3pcwHgI8i3diSKNxgOUaC56P",
+                          "text": "I bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546718
+                        },
+                        "m": { "text": "أنا اشتريت" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWrmz3J2DA8Qk3hhu_1CS_m6OGBxn9Rx",
+                          "text": "You bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546720
+                        },
+                        "m": { "text": "أنت اشتريت" }
+                      },
+                      {
+                        "t": {
+                          "key": "5zXxkojU7gdWzkq2ozB2HuHrf54PbsQa",
+                          "text": "He bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437987
+                        },
+                        "m": { "text": "هو اشترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JLskDcKm-RPjlgfRvqvfIbhu9TwfU6sV",
+                          "text": "She bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546722
+                        },
+                        "m": { "text": "هي اشترت" }
+                      },
+                      {
+                        "t": {
+                          "key": "WwIG4XwEjM6yu3XtYPmO5qYM1dRe8Aj1",
+                          "text": "We bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546724
+                        },
+                        "m": { "text": "نحن اشترينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "SZbEbGXXOgBxbd9Lbg8O3BFj_KQXOiT9",
+                          "text": "You bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546725
+                        },
+                        "m": { "text": "أنتم اشتريتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "evj7YUGGAf0GVFF3j9SoLF_ZAdz3RISX",
+                          "text": "They bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546725
+                        },
+                        "m": { "text": "هم اشتروا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "LE40821UEWPAS9ntrGtKctHthizJGL1w",
+                          "text": "I will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437988
+                        },
+                        "m": { "text": "أنا سأشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "JGxpBboSBSEwndwfpj5MZe9nMX1gsvbO",
+                          "text": "You will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437989
+                        },
+                        "m": { "text": "أنت ستشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "xB0PXu3BSWr5yDSueUx3vU9bR1_17wI4",
+                          "text": "He will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437991
+                        },
+                        "m": { "text": "هو سيشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "vddzF5Ct9E_xQ07hN3aAC6hRZlSDPd6h",
+                          "text": "She will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437992
+                        },
+                        "m": { "text": "هي ستشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "6ZkvnZTgZxWutKrm6mPxKgHgJuoQLEi3",
+                          "text": "We will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437993
+                        },
+                        "m": { "text": "نحن سنشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "9oxQEg3ZXy7o89Ps7l6D29SRCfz-obVA",
+                          "text": "You will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546732
+                        },
+                        "m": { "text": "أنتم ستشترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OJcjEmN1svJvQczX7aMYZzjlSiw22-md",
+                          "text": "They will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437994
+                        },
+                        "m": { "text": "هم سيشترون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "What do we have to buy?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "What",
+              "translations": [
+                { "type": "dictionary", "text": "ماذا", "phonetic": null }
+              ]
+            },
+            { "raw": "do", "translations": [] },
+            { "raw": "we", "translations": [] },
+            {
+              "raw": "have",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "buy",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to buy", "m": "يشتري", "phonetic": "to buy" },
+                  "id": 9,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NwYiTLh9hmFdMEWax4vDkQqqzg7GsweC",
+                          "text": "I buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437978
+                        },
+                        "m": { "text": "أنا أشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "djKE9mg1CEeTPegeNWUa2manKGJ3VobB",
+                          "text": "You buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437979
+                        },
+                        "m": { "text": "أنت تشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "JbW-k4EKdfZf1ds8SJFFR21GiEVZAcVz",
+                          "text": "He buys",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437981
+                        },
+                        "m": { "text": "هو يشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "BCXNqz61-6H4ONqdLeMKMkzqMbfdTL7v",
+                          "text": "She buys",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437982
+                        },
+                        "m": { "text": "هي تشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "3gYrvFFVkQZgBvv6_FCWozqVKMryn61v",
+                          "text": "We buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437983
+                        },
+                        "m": { "text": "نحن نشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "gVpR3EhLz9JOnZi0aicnAX-WvRD-WzKk",
+                          "text": "You buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437985
+                        },
+                        "m": { "text": "أنتم تشترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "9nSg-BPoKCu9q-ZN3W70pUbJ8rkU1Ljw",
+                          "text": "They buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437986
+                        },
+                        "m": { "text": "هم يشترون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "0XmH4_Qx3pcwHgI8i3diSKNxgOUaC56P",
+                          "text": "I bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546718
+                        },
+                        "m": { "text": "أنا اشتريت" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWrmz3J2DA8Qk3hhu_1CS_m6OGBxn9Rx",
+                          "text": "You bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546720
+                        },
+                        "m": { "text": "أنت اشتريت" }
+                      },
+                      {
+                        "t": {
+                          "key": "5zXxkojU7gdWzkq2ozB2HuHrf54PbsQa",
+                          "text": "He bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437987
+                        },
+                        "m": { "text": "هو اشترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JLskDcKm-RPjlgfRvqvfIbhu9TwfU6sV",
+                          "text": "She bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546722
+                        },
+                        "m": { "text": "هي اشترت" }
+                      },
+                      {
+                        "t": {
+                          "key": "WwIG4XwEjM6yu3XtYPmO5qYM1dRe8Aj1",
+                          "text": "We bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546724
+                        },
+                        "m": { "text": "نحن اشترينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "SZbEbGXXOgBxbd9Lbg8O3BFj_KQXOiT9",
+                          "text": "You bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546725
+                        },
+                        "m": { "text": "أنتم اشتريتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "evj7YUGGAf0GVFF3j9SoLF_ZAdz3RISX",
+                          "text": "They bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546725
+                        },
+                        "m": { "text": "هم اشتروا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "LE40821UEWPAS9ntrGtKctHthizJGL1w",
+                          "text": "I will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437988
+                        },
+                        "m": { "text": "أنا سأشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "JGxpBboSBSEwndwfpj5MZe9nMX1gsvbO",
+                          "text": "You will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437989
+                        },
+                        "m": { "text": "أنت ستشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "xB0PXu3BSWr5yDSueUx3vU9bR1_17wI4",
+                          "text": "He will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437991
+                        },
+                        "m": { "text": "هو سيشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "vddzF5Ct9E_xQ07hN3aAC6hRZlSDPd6h",
+                          "text": "She will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437992
+                        },
+                        "m": { "text": "هي ستشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "6ZkvnZTgZxWutKrm6mPxKgHgJuoQLEi3",
+                          "text": "We will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437993
+                        },
+                        "m": { "text": "نحن سنشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "9oxQEg3ZXy7o89Ps7l6D29SRCfz-obVA",
+                          "text": "You will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546732
+                        },
+                        "m": { "text": "أنتم ستشترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OJcjEmN1svJvQczX7aMYZzjlSiw22-md",
+                          "text": "They will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437994
+                        },
+                        "m": { "text": "هم سيشترون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291948
+    },
+    {
+      "id": 9745,
+      "i": 2,
+      "positionIndex": 2,
+      "dialogue": 501,
+      "wordID": 30612,
+      "key": "c4aSdw7kIGn1kTcqTLwW9t4FqyEum-cF",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "لنرى. يجب أن نشتري البصل.",
+          "dictionary": [
+            { "raw": "لنرى", "translations": [] },
+            { "raw": "يجب", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "نشتري",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to buy", "m": "يشتري", "phonetic": "to buy" },
+                  "id": 9,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NwYiTLh9hmFdMEWax4vDkQqqzg7GsweC",
+                          "text": "I buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437978
+                        },
+                        "m": { "text": "أنا أشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "djKE9mg1CEeTPegeNWUa2manKGJ3VobB",
+                          "text": "You buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437979
+                        },
+                        "m": { "text": "أنت تشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "JbW-k4EKdfZf1ds8SJFFR21GiEVZAcVz",
+                          "text": "He buys",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437981
+                        },
+                        "m": { "text": "هو يشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "BCXNqz61-6H4ONqdLeMKMkzqMbfdTL7v",
+                          "text": "She buys",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437982
+                        },
+                        "m": { "text": "هي تشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "3gYrvFFVkQZgBvv6_FCWozqVKMryn61v",
+                          "text": "We buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437983
+                        },
+                        "m": { "text": "نحن نشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "gVpR3EhLz9JOnZi0aicnAX-WvRD-WzKk",
+                          "text": "You buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437985
+                        },
+                        "m": { "text": "أنتم تشترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "9nSg-BPoKCu9q-ZN3W70pUbJ8rkU1Ljw",
+                          "text": "They buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437986
+                        },
+                        "m": { "text": "هم يشترون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "0XmH4_Qx3pcwHgI8i3diSKNxgOUaC56P",
+                          "text": "I bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546718
+                        },
+                        "m": { "text": "أنا اشتريت" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWrmz3J2DA8Qk3hhu_1CS_m6OGBxn9Rx",
+                          "text": "You bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546720
+                        },
+                        "m": { "text": "أنت اشتريت" }
+                      },
+                      {
+                        "t": {
+                          "key": "5zXxkojU7gdWzkq2ozB2HuHrf54PbsQa",
+                          "text": "He bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437987
+                        },
+                        "m": { "text": "هو اشترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JLskDcKm-RPjlgfRvqvfIbhu9TwfU6sV",
+                          "text": "She bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546722
+                        },
+                        "m": { "text": "هي اشترت" }
+                      },
+                      {
+                        "t": {
+                          "key": "WwIG4XwEjM6yu3XtYPmO5qYM1dRe8Aj1",
+                          "text": "We bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546724
+                        },
+                        "m": { "text": "نحن اشترينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "SZbEbGXXOgBxbd9Lbg8O3BFj_KQXOiT9",
+                          "text": "You bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546725
+                        },
+                        "m": { "text": "أنتم اشتريتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "evj7YUGGAf0GVFF3j9SoLF_ZAdz3RISX",
+                          "text": "They bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546725
+                        },
+                        "m": { "text": "هم اشتروا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "LE40821UEWPAS9ntrGtKctHthizJGL1w",
+                          "text": "I will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437988
+                        },
+                        "m": { "text": "أنا سأشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "JGxpBboSBSEwndwfpj5MZe9nMX1gsvbO",
+                          "text": "You will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437989
+                        },
+                        "m": { "text": "أنت ستشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "xB0PXu3BSWr5yDSueUx3vU9bR1_17wI4",
+                          "text": "He will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437991
+                        },
+                        "m": { "text": "هو سيشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "vddzF5Ct9E_xQ07hN3aAC6hRZlSDPd6h",
+                          "text": "She will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437992
+                        },
+                        "m": { "text": "هي ستشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "6ZkvnZTgZxWutKrm6mPxKgHgJuoQLEi3",
+                          "text": "We will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437993
+                        },
+                        "m": { "text": "نحن سنشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "9oxQEg3ZXy7o89Ps7l6D29SRCfz-obVA",
+                          "text": "You will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546732
+                        },
+                        "m": { "text": "أنتم ستشترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OJcjEmN1svJvQczX7aMYZzjlSiw22-md",
+                          "text": "They will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437994
+                        },
+                        "m": { "text": "هم سيشترون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "البصل", "translations": [] }
+          ]
+        },
+        {
+          "text": "Let's see. We have to buy onions.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Let's", "translations": [] },
+            {
+              "raw": "see",
+              "translations": [
+                { "type": "dictionary", "text": "لنرى", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to see", "m": "يرى", "phonetic": "to see" },
+                  "id": 71,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "MTom3LMZVaDdAoO3Yt7QvVcsiTx4XEEk",
+                          "text": "I see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438393
+                        },
+                        "m": { "text": "أنا أرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "-hepcdwx0P_RiWZeHi2mJSw3GnGXLwg1",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438394
+                        },
+                        "m": { "text": "أنت ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "7vHnJwr8FUNgpYscAlQs_RzKyddJyZCr",
+                          "text": "He sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438395
+                        },
+                        "m": { "text": "هو يرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "QXXgxYq5LhHxrdcaClOIBS8Ysb4q4AOR",
+                          "text": "She sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438397
+                        },
+                        "m": { "text": "هي ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "uv9SFXXCAmfk9BH3JlSgXllAFQ6csRAN",
+                          "text": "We see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438398
+                        },
+                        "m": { "text": "نحن نرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "Et7XvHIuH8NqW0FwQ9QIbmzkFSInX66C",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548255
+                        },
+                        "m": { "text": "أنتم ترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "54REkAfCLzVvHIbwBaKq9I8ZLK559Wix",
+                          "text": "They see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438400
+                        },
+                        "m": { "text": "هم يرون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "aiZj-Cj4BRY8P8s-fq3GbuPGd9OiPyjz",
+                          "text": "I saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548257
+                        },
+                        "m": { "text": "أنا رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZDMFy2mgFha3PfWQSzsl71kBrjquf9v4",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548258
+                        },
+                        "m": { "text": "أنت رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "viznNpNOyvjNfDTmqXAdFdmifryzbYpW",
+                          "text": "He saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548259
+                        },
+                        "m": { "text": "هو رأى" }
+                      },
+                      {
+                        "t": {
+                          "key": "htauzPhP723-3XPFH0L6QZTz3sF5qpEY",
+                          "text": "She saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548260
+                        },
+                        "m": { "text": "هي رأت" }
+                      },
+                      {
+                        "t": {
+                          "key": "VJ78-sfQWo8jNVNsRn1AErz3Vf7SPf7d",
+                          "text": "We saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548262
+                        },
+                        "m": { "text": "نحن رأينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "UdYI1cogW5jKoZBz9M45O8_7DNwbFmcc",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548263
+                        },
+                        "m": { "text": "أنتم رأيتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "vL_X6jxrPfpx3sGBCqrFAJHsp8RqHC3C",
+                          "text": "They saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548264
+                        },
+                        "m": { "text": "هم رأوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "zdKWGjQkRha9pZJ_NWjYFyWJzihqgNuA",
+                          "text": "I will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548265
+                        },
+                        "m": { "text": "أنا سأرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "jN_6eBTdppkl4Va_wheb0wEAtdh7cbJV",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548266
+                        },
+                        "m": { "text": "أنت سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JRYOAkNpJUETkw9D--dDDeULljLXETz9",
+                          "text": "He will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548267
+                        },
+                        "m": { "text": "هو سيرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "VS4wwyLJJv-_Cq3qVw_Sufi1CC3JCc2X",
+                          "text": "She will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548268
+                        },
+                        "m": { "text": "هي سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "krpjdNOxGIooSOrQxCd_YAFtkOU-ZJ6v",
+                          "text": "We will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548271
+                        },
+                        "m": { "text": "نحن سنرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "FYJYa-jB4j2AWvxWECnD0hKpZLqZWWlI",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548272
+                        },
+                        "m": { "text": "أنتم سترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "d0Ga1izvgstz3tAIminEaS00qNB-Pfmt",
+                          "text": "They will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548273
+                        },
+                        "m": { "text": "هم سيرون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "We", "translations": [] },
+            {
+              "raw": "have",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "buy",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to buy", "m": "يشتري", "phonetic": "to buy" },
+                  "id": 9,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NwYiTLh9hmFdMEWax4vDkQqqzg7GsweC",
+                          "text": "I buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437978
+                        },
+                        "m": { "text": "أنا أشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "djKE9mg1CEeTPegeNWUa2manKGJ3VobB",
+                          "text": "You buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437979
+                        },
+                        "m": { "text": "أنت تشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "JbW-k4EKdfZf1ds8SJFFR21GiEVZAcVz",
+                          "text": "He buys",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437981
+                        },
+                        "m": { "text": "هو يشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "BCXNqz61-6H4ONqdLeMKMkzqMbfdTL7v",
+                          "text": "She buys",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437982
+                        },
+                        "m": { "text": "هي تشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "3gYrvFFVkQZgBvv6_FCWozqVKMryn61v",
+                          "text": "We buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437983
+                        },
+                        "m": { "text": "نحن نشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "gVpR3EhLz9JOnZi0aicnAX-WvRD-WzKk",
+                          "text": "You buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437985
+                        },
+                        "m": { "text": "أنتم تشترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "9nSg-BPoKCu9q-ZN3W70pUbJ8rkU1Ljw",
+                          "text": "They buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437986
+                        },
+                        "m": { "text": "هم يشترون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "0XmH4_Qx3pcwHgI8i3diSKNxgOUaC56P",
+                          "text": "I bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546718
+                        },
+                        "m": { "text": "أنا اشتريت" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWrmz3J2DA8Qk3hhu_1CS_m6OGBxn9Rx",
+                          "text": "You bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546720
+                        },
+                        "m": { "text": "أنت اشتريت" }
+                      },
+                      {
+                        "t": {
+                          "key": "5zXxkojU7gdWzkq2ozB2HuHrf54PbsQa",
+                          "text": "He bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437987
+                        },
+                        "m": { "text": "هو اشترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JLskDcKm-RPjlgfRvqvfIbhu9TwfU6sV",
+                          "text": "She bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546722
+                        },
+                        "m": { "text": "هي اشترت" }
+                      },
+                      {
+                        "t": {
+                          "key": "WwIG4XwEjM6yu3XtYPmO5qYM1dRe8Aj1",
+                          "text": "We bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546724
+                        },
+                        "m": { "text": "نحن اشترينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "SZbEbGXXOgBxbd9Lbg8O3BFj_KQXOiT9",
+                          "text": "You bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546725
+                        },
+                        "m": { "text": "أنتم اشتريتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "evj7YUGGAf0GVFF3j9SoLF_ZAdz3RISX",
+                          "text": "They bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546725
+                        },
+                        "m": { "text": "هم اشتروا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "LE40821UEWPAS9ntrGtKctHthizJGL1w",
+                          "text": "I will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437988
+                        },
+                        "m": { "text": "أنا سأشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "JGxpBboSBSEwndwfpj5MZe9nMX1gsvbO",
+                          "text": "You will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437989
+                        },
+                        "m": { "text": "أنت ستشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "xB0PXu3BSWr5yDSueUx3vU9bR1_17wI4",
+                          "text": "He will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437991
+                        },
+                        "m": { "text": "هو سيشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "vddzF5Ct9E_xQ07hN3aAC6hRZlSDPd6h",
+                          "text": "She will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437992
+                        },
+                        "m": { "text": "هي ستشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "6ZkvnZTgZxWutKrm6mPxKgHgJuoQLEi3",
+                          "text": "We will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437993
+                        },
+                        "m": { "text": "نحن سنشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "9oxQEg3ZXy7o89Ps7l6D29SRCfz-obVA",
+                          "text": "You will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546732
+                        },
+                        "m": { "text": "أنتم ستشترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OJcjEmN1svJvQczX7aMYZzjlSiw22-md",
+                          "text": "They will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437994
+                        },
+                        "m": { "text": "هم سيشترون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "onions",
+              "translations": [
+                { "type": "dictionary", "text": "البصل", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291949
+    },
+    {
+      "id": 9746,
+      "i": 3,
+      "positionIndex": 3,
+      "dialogue": 501,
+      "wordID": 30613,
+      "key": "OcGv4i1p7fuOjJxo2xJ6LRTkgskN_RzE",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "ماذا نحتاج أيضًا؟",
+          "dictionary": [
+            { "raw": "ماذا", "translations": [] },
+            { "raw": "نحتاج", "translations": [] },
+            { "raw": "أيضًا", "translations": [] }
+          ]
+        },
+        {
+          "text": "What else do we need?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "What",
+              "translations": [
+                { "type": "dictionary", "text": "ماذا", "phonetic": null }
+              ]
+            },
+            { "raw": "else", "translations": [] },
+            { "raw": "do", "translations": [] },
+            { "raw": "we", "translations": [] },
+            { "raw": "need", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291950
+    },
+    {
+      "id": 9747,
+      "i": 4,
+      "positionIndex": 4,
+      "dialogue": 501,
+      "wordID": 30614,
+      "key": "mVY_XkpAdv0SpzczLcXbZvWDB1h7aDOT",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "نحتاج أيضًا إلى الموز والتفاح.",
+          "dictionary": [
+            { "raw": "نحتاج", "translations": [] },
+            { "raw": "أيضًا", "translations": [] },
+            { "raw": "إلى", "translations": [] },
+            { "raw": "الموز", "translations": [] },
+            { "raw": "والتفاح", "translations": [] }
+          ]
+        },
+        {
+          "text": "We also need bananas and apples.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "We", "translations": [] },
+            {
+              "raw": "also",
+              "translations": [
+                { "type": "dictionary", "text": "أيضًا", "phonetic": null }
+              ]
+            },
+            { "raw": "need", "translations": [] },
+            { "raw": "bananas", "translations": [] },
+            { "raw": "and", "translations": [] },
+            {
+              "raw": "apples",
+              "translations": [
+                { "type": "dictionary", "text": "والتفاح", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291951
+    },
+    {
+      "id": 9748,
+      "i": 5,
+      "positionIndex": 5,
+      "dialogue": 501,
+      "wordID": 30615,
+      "key": "l55FdPKr7KQvukKTW7hnT1e2Sdj4w9ix",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "هل لدينا خبز؟",
+          "dictionary": [
+            { "raw": "هل", "translations": [] },
+            { "raw": "لدينا", "translations": [] },
+            { "raw": "خبز", "translations": [] }
+          ]
+        },
+        {
+          "text": "Do we have bread?",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Do", "translations": [] },
+            { "raw": "we", "translations": [] },
+            {
+              "raw": "have",
+              "translations": [
+                { "type": "dictionary", "text": "لدينا", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "bread",
+              "translations": [
+                { "type": "dictionary", "text": "خبز", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291952
+    },
+    {
+      "id": 9749,
+      "i": 6,
+      "positionIndex": 6,
+      "dialogue": 501,
+      "wordID": 30616,
+      "key": "JQQ0NVUWb06RhfP0b3IvP2XHXTW0imUl",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "نعم، لدينا.",
+          "dictionary": [
+            { "raw": "نعم", "translations": [] },
+            { "raw": "لدينا", "translations": [] }
+          ]
+        },
+        {
+          "text": "Yes, we do.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Yes",
+              "translations": [
+                { "type": "dictionary", "text": "نعم", "phonetic": null }
+              ]
+            },
+            { "raw": "we", "translations": [] },
+            { "raw": "do", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291953
+    },
+    {
+      "id": 9750,
+      "i": 7,
+      "positionIndex": 7,
+      "dialogue": 501,
+      "wordID": 30617,
+      "key": "voXjkB37ktizr0_150soST1EIxCMWxhz",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "جيد. هل نستطيع أيضًا أن نشتري بعض البسكويت؟",
+          "dictionary": [
+            { "raw": "جيد", "translations": [] },
+            { "raw": "هل", "translations": [] },
+            { "raw": "نستطيع", "translations": [] },
+            { "raw": "أيضًا", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "نشتري",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to buy", "m": "يشتري", "phonetic": "to buy" },
+                  "id": 9,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NwYiTLh9hmFdMEWax4vDkQqqzg7GsweC",
+                          "text": "I buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437978
+                        },
+                        "m": { "text": "أنا أشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "djKE9mg1CEeTPegeNWUa2manKGJ3VobB",
+                          "text": "You buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437979
+                        },
+                        "m": { "text": "أنت تشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "JbW-k4EKdfZf1ds8SJFFR21GiEVZAcVz",
+                          "text": "He buys",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437981
+                        },
+                        "m": { "text": "هو يشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "BCXNqz61-6H4ONqdLeMKMkzqMbfdTL7v",
+                          "text": "She buys",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437982
+                        },
+                        "m": { "text": "هي تشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "3gYrvFFVkQZgBvv6_FCWozqVKMryn61v",
+                          "text": "We buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437983
+                        },
+                        "m": { "text": "نحن نشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "gVpR3EhLz9JOnZi0aicnAX-WvRD-WzKk",
+                          "text": "You buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437985
+                        },
+                        "m": { "text": "أنتم تشترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "9nSg-BPoKCu9q-ZN3W70pUbJ8rkU1Ljw",
+                          "text": "They buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437986
+                        },
+                        "m": { "text": "هم يشترون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "0XmH4_Qx3pcwHgI8i3diSKNxgOUaC56P",
+                          "text": "I bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546718
+                        },
+                        "m": { "text": "أنا اشتريت" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWrmz3J2DA8Qk3hhu_1CS_m6OGBxn9Rx",
+                          "text": "You bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546720
+                        },
+                        "m": { "text": "أنت اشتريت" }
+                      },
+                      {
+                        "t": {
+                          "key": "5zXxkojU7gdWzkq2ozB2HuHrf54PbsQa",
+                          "text": "He bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437987
+                        },
+                        "m": { "text": "هو اشترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JLskDcKm-RPjlgfRvqvfIbhu9TwfU6sV",
+                          "text": "She bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546722
+                        },
+                        "m": { "text": "هي اشترت" }
+                      },
+                      {
+                        "t": {
+                          "key": "WwIG4XwEjM6yu3XtYPmO5qYM1dRe8Aj1",
+                          "text": "We bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546724
+                        },
+                        "m": { "text": "نحن اشترينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "SZbEbGXXOgBxbd9Lbg8O3BFj_KQXOiT9",
+                          "text": "You bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546725
+                        },
+                        "m": { "text": "أنتم اشتريتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "evj7YUGGAf0GVFF3j9SoLF_ZAdz3RISX",
+                          "text": "They bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546725
+                        },
+                        "m": { "text": "هم اشتروا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "LE40821UEWPAS9ntrGtKctHthizJGL1w",
+                          "text": "I will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437988
+                        },
+                        "m": { "text": "أنا سأشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "JGxpBboSBSEwndwfpj5MZe9nMX1gsvbO",
+                          "text": "You will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437989
+                        },
+                        "m": { "text": "أنت ستشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "xB0PXu3BSWr5yDSueUx3vU9bR1_17wI4",
+                          "text": "He will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437991
+                        },
+                        "m": { "text": "هو سيشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "vddzF5Ct9E_xQ07hN3aAC6hRZlSDPd6h",
+                          "text": "She will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437992
+                        },
+                        "m": { "text": "هي ستشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "6ZkvnZTgZxWutKrm6mPxKgHgJuoQLEi3",
+                          "text": "We will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437993
+                        },
+                        "m": { "text": "نحن سنشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "9oxQEg3ZXy7o89Ps7l6D29SRCfz-obVA",
+                          "text": "You will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546732
+                        },
+                        "m": { "text": "أنتم ستشترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OJcjEmN1svJvQczX7aMYZzjlSiw22-md",
+                          "text": "They will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437994
+                        },
+                        "m": { "text": "هم سيشترون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "بعض", "translations": [] },
+            { "raw": "البسكويت", "translations": [] }
+          ]
+        },
+        {
+          "text": "Good. Can we also buy some biscuits?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Good",
+              "translations": [
+                { "type": "dictionary", "text": "جيد", "phonetic": null }
+              ]
+            },
+            { "raw": "Can", "translations": [] },
+            { "raw": "we", "translations": [] },
+            {
+              "raw": "also",
+              "translations": [
+                { "type": "dictionary", "text": "أيضًا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "buy",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to buy", "m": "يشتري", "phonetic": "to buy" },
+                  "id": 9,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NwYiTLh9hmFdMEWax4vDkQqqzg7GsweC",
+                          "text": "I buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437978
+                        },
+                        "m": { "text": "أنا أشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "djKE9mg1CEeTPegeNWUa2manKGJ3VobB",
+                          "text": "You buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437979
+                        },
+                        "m": { "text": "أنت تشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "JbW-k4EKdfZf1ds8SJFFR21GiEVZAcVz",
+                          "text": "He buys",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437981
+                        },
+                        "m": { "text": "هو يشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "BCXNqz61-6H4ONqdLeMKMkzqMbfdTL7v",
+                          "text": "She buys",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437982
+                        },
+                        "m": { "text": "هي تشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "3gYrvFFVkQZgBvv6_FCWozqVKMryn61v",
+                          "text": "We buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437983
+                        },
+                        "m": { "text": "نحن نشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "gVpR3EhLz9JOnZi0aicnAX-WvRD-WzKk",
+                          "text": "You buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437985
+                        },
+                        "m": { "text": "أنتم تشترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "9nSg-BPoKCu9q-ZN3W70pUbJ8rkU1Ljw",
+                          "text": "They buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437986
+                        },
+                        "m": { "text": "هم يشترون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "0XmH4_Qx3pcwHgI8i3diSKNxgOUaC56P",
+                          "text": "I bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546718
+                        },
+                        "m": { "text": "أنا اشتريت" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWrmz3J2DA8Qk3hhu_1CS_m6OGBxn9Rx",
+                          "text": "You bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546720
+                        },
+                        "m": { "text": "أنت اشتريت" }
+                      },
+                      {
+                        "t": {
+                          "key": "5zXxkojU7gdWzkq2ozB2HuHrf54PbsQa",
+                          "text": "He bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437987
+                        },
+                        "m": { "text": "هو اشترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JLskDcKm-RPjlgfRvqvfIbhu9TwfU6sV",
+                          "text": "She bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546722
+                        },
+                        "m": { "text": "هي اشترت" }
+                      },
+                      {
+                        "t": {
+                          "key": "WwIG4XwEjM6yu3XtYPmO5qYM1dRe8Aj1",
+                          "text": "We bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546724
+                        },
+                        "m": { "text": "نحن اشترينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "SZbEbGXXOgBxbd9Lbg8O3BFj_KQXOiT9",
+                          "text": "You bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546725
+                        },
+                        "m": { "text": "أنتم اشتريتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "evj7YUGGAf0GVFF3j9SoLF_ZAdz3RISX",
+                          "text": "They bought",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546725
+                        },
+                        "m": { "text": "هم اشتروا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "LE40821UEWPAS9ntrGtKctHthizJGL1w",
+                          "text": "I will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437988
+                        },
+                        "m": { "text": "أنا سأشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "JGxpBboSBSEwndwfpj5MZe9nMX1gsvbO",
+                          "text": "You will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437989
+                        },
+                        "m": { "text": "أنت ستشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "xB0PXu3BSWr5yDSueUx3vU9bR1_17wI4",
+                          "text": "He will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437991
+                        },
+                        "m": { "text": "هو سيشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "vddzF5Ct9E_xQ07hN3aAC6hRZlSDPd6h",
+                          "text": "She will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437992
+                        },
+                        "m": { "text": "هي ستشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "6ZkvnZTgZxWutKrm6mPxKgHgJuoQLEi3",
+                          "text": "We will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437993
+                        },
+                        "m": { "text": "نحن سنشتري" }
+                      },
+                      {
+                        "t": {
+                          "key": "9oxQEg3ZXy7o89Ps7l6D29SRCfz-obVA",
+                          "text": "You will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546732
+                        },
+                        "m": { "text": "أنتم ستشترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OJcjEmN1svJvQczX7aMYZzjlSiw22-md",
+                          "text": "They will buy",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437994
+                        },
+                        "m": { "text": "هم سيشترون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "some",
+              "translations": [
+                { "type": "dictionary", "text": "بعض", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "biscuits",
+              "translations": [
+                { "type": "dictionary", "text": "البسكويت", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291954
+    },
+    {
+      "id": 9751,
+      "i": 8,
+      "positionIndex": 8,
+      "dialogue": 501,
+      "wordID": 30618,
+      "key": "9aAZGmbqFy8s4aZisR-GjmXUYXK68BgA",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "بالطبع. وماذا تريد أن تأكل على العشاء؟",
+          "dictionary": [
+            { "raw": "بالطبع", "translations": [] },
+            { "raw": "وماذا", "translations": [] },
+            {
+              "raw": "تريد",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to want",
+                    "m": "يريد",
+                    "phonetic": "to want"
+                  },
+                  "id": 95,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "nShE6yAtLQevqHIQe2dAX49glrMukW0p",
+                          "text": "I want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438568
+                        },
+                        "m": { "text": "أنا أريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "XZzbiFW3S8tcIuqJHceM0mBnoqx9qnw3",
+                          "text": "You want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438570
+                        },
+                        "m": { "text": "أنت تريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "LXsNZmBSK44I0CEoTVqpkEqYai3smXdG",
+                          "text": "He wants",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438571
+                        },
+                        "m": { "text": "هو يريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "59CzwFAFI8XT0RO-ocB3PAt85-eJbZGn",
+                          "text": "She wants",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438572
+                        },
+                        "m": { "text": "هي تريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "toOAtm4YfCG2X-O8IjwBLiSAxfqPtvd3",
+                          "text": "We want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438573
+                        },
+                        "m": { "text": "نحن نريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "htMjNgLAcurMZdCC9RZLLqUnaElaG-W5",
+                          "text": "You want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438575
+                        },
+                        "m": { "text": "أنتم تريدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "tttYnkH7rMudVyRsneSHNOuvkmcwewVd",
+                          "text": "They want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438576
+                        },
+                        "m": { "text": "هم يريدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "l0igTQkV3ByWzkKP865Od4PPUkStuKWk",
+                          "text": "I wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548881
+                        },
+                        "m": { "text": "أنا أردت" }
+                      },
+                      {
+                        "t": {
+                          "key": "L94_gYVtqzAv9EuylrOUtOS1JYO9HNmU",
+                          "text": "You wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548882
+                        },
+                        "m": { "text": "أنت أردت" }
+                      },
+                      {
+                        "t": {
+                          "key": "k9fHqfafe8KWddiL2gTPOVxtAvW1Gv3D",
+                          "text": "He wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548883
+                        },
+                        "m": { "text": "هو أراد" }
+                      },
+                      {
+                        "t": {
+                          "key": "VwnjRSAylrhxb0_YJS7a-2eq9710yTRu",
+                          "text": "She wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548884
+                        },
+                        "m": { "text": "هي أرادت" }
+                      },
+                      {
+                        "t": {
+                          "key": "6-UNUWvNMGGGlQJjXxipVL0R7dzkKul4",
+                          "text": "We wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548886
+                        },
+                        "m": { "text": "نحن أردنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "y374BPvAzvalQApO4UKHs8FDNnav5LS8",
+                          "text": "You wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548888
+                        },
+                        "m": { "text": "أنتم أردتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "yDQ_e9ZBHZlVkVJfnFA1aSx9ivHod5KF",
+                          "text": "They wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548889
+                        },
+                        "m": { "text": "هم أرادوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "v3MFkExOeRvYEb1eY0ROhJDe85o7OHuS",
+                          "text": "I will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548890
+                        },
+                        "m": { "text": "أنا سأريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "X7Vd5cf_vpSoahPgrwJlTATfBzGO4QKY",
+                          "text": "You will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548891
+                        },
+                        "m": { "text": "أنت ستريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "9_3McQtKbukJsp-DRKHnQoZqSz3d2LBq",
+                          "text": "He will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548892
+                        },
+                        "m": { "text": "هو سيريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "2TiQCM_wnsPCwFNzdj2VXmc2leoBIH_E",
+                          "text": "She will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548893
+                        },
+                        "m": { "text": "هي ستريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "WSi6tzDwO2jPRLzeiDNCxTmkq8qza6Re",
+                          "text": "We will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548895
+                        },
+                        "m": { "text": "نحن سنريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "cnz8g6CO8nylWdOnvFO2W_UfMGHHcpdg",
+                          "text": "You will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548896
+                        },
+                        "m": { "text": "أنتم ستريدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "A7_Z7_RGkSWQhDqqMcFvwVumm9YRCOpA",
+                          "text": "They will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548897
+                        },
+                        "m": { "text": "هم سيريدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "تأكل",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to eat", "m": "يأكل", "phonetic": "to eat" },
+                  "id": 30,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "bTreG4yGkfkViwFwt9y8fR0YH1u7dx4e",
+                          "text": "I eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438095
+                        },
+                        "m": { "text": "أنا آكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "NG-b_wCKT7iEPJbk8TGky4tx5e2W8YVz",
+                          "text": "You eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438096
+                        },
+                        "m": { "text": "أنت تأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "9tY3S9_ndoBX4izqnXOOojzzLZexPjUe",
+                          "text": "He eats",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438097
+                        },
+                        "m": { "text": "هو يأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "Ozy3-PEHb0A8BSOS9H-zmnBrR8weFBkp",
+                          "text": "She eats",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438098
+                        },
+                        "m": { "text": "هي تأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "eFGQToNC5AEnNZiC0VQjlZHi1rbU2K-Z",
+                          "text": "We eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438099
+                        },
+                        "m": { "text": "نحن نأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "aLOJdc81BCneki6JxHJ9ioBJBE-jN4bc",
+                          "text": "You eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438101
+                        },
+                        "m": { "text": "أنتم تأكلون" }
+                      },
+                      {
+                        "t": {
+                          "key": "CWtTyXO-MgPjJFp-shfc0lA_0RIsN4o_",
+                          "text": "They eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438102
+                        },
+                        "m": { "text": "هم يأكلون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "j8MbQOLVraAEmB78cD-8eSxAwqSJV8AF",
+                          "text": "I ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547235
+                        },
+                        "m": { "text": "أنا أكلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "NiPb9ZFcCjlnPb1UjIRcN1UXbXSZk1SU",
+                          "text": "You ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547236
+                        },
+                        "m": { "text": "أنت أكلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8BR-X6ZDzLICwA-h0BY_46IYGidO2tZ4",
+                          "text": "He ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547237
+                        },
+                        "m": { "text": "هو أكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "TCyY11MVKET83NSTvUOUdeaoUqSVGU6G",
+                          "text": "She ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438103
+                        },
+                        "m": { "text": "هي أكلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "54RvTOWHvImCCx9H-ADnyUbCae98aNZx",
+                          "text": "We ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547240
+                        },
+                        "m": { "text": "نحن أكلنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "FB2IRUySKQITqi0A-L3ZVkiFrF1S6QdK",
+                          "text": "You ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547241
+                        },
+                        "m": { "text": "أنتم أكلتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "I8UdsgXeZOi07nQeKk0gZU-5X3d2NY6K",
+                          "text": "They ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547242
+                        },
+                        "m": { "text": "هم أكلوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "_AiOPWTSOzgBIgweDiYHURK7HGTTXR4c",
+                          "text": "I will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547243
+                        },
+                        "m": { "text": "أنا سآكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "Y9iTCBfWUQNR8ML5ykvx0oHpYIdPg6Lz",
+                          "text": "You will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547244
+                        },
+                        "m": { "text": "أنت ستأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "TBKGp4Vl19Fb_Idq_8nQjO7qdtdJOvQa",
+                          "text": "He will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547245
+                        },
+                        "m": { "text": "هو سيأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "AmEwI3KfDLqBrRzZb2PIdUcMkEWBVJh_",
+                          "text": "She will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547246
+                        },
+                        "m": { "text": "هي ستأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "nfMa8pIFRekJlmt8mafv6xG-D46Nxqxf",
+                          "text": "We will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547248
+                        },
+                        "m": { "text": "نحن سنأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "8yeQkOZBcKoKP1ayWLB4UG6FPq_03tAw",
+                          "text": "You will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547249
+                        },
+                        "m": { "text": "أنتم ستأكلون" }
+                      },
+                      {
+                        "t": {
+                          "key": "X9z28A5s-TIrbjMH-c2cnaXtiA-Bhy4x",
+                          "text": "They will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547250
+                        },
+                        "m": { "text": "هم سيأكلون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "على", "translations": [] },
+            { "raw": "العشاء", "translations": [] }
+          ]
+        },
+        {
+          "text": "Of course. And what do you want to eat for dinner?",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Of", "translations": [] },
+            {
+              "raw": "course",
+              "translations": [
+                { "type": "dictionary", "text": "بالطبع", "phonetic": null }
+              ]
+            },
+            { "raw": "And", "translations": [] },
+            {
+              "raw": "what",
+              "translations": [
+                { "type": "dictionary", "text": "وماذا", "phonetic": null }
+              ]
+            },
+            { "raw": "do", "translations": [] },
+            {
+              "raw": "you",
+              "translations": [
+                { "type": "dictionary", "text": "أن", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "want",
+              "translations": [
+                { "type": "dictionary", "text": "تريد", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to want",
+                    "m": "يريد",
+                    "phonetic": "to want"
+                  },
+                  "id": 95,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "nShE6yAtLQevqHIQe2dAX49glrMukW0p",
+                          "text": "I want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438568
+                        },
+                        "m": { "text": "أنا أريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "XZzbiFW3S8tcIuqJHceM0mBnoqx9qnw3",
+                          "text": "You want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438570
+                        },
+                        "m": { "text": "أنت تريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "LXsNZmBSK44I0CEoTVqpkEqYai3smXdG",
+                          "text": "He wants",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438571
+                        },
+                        "m": { "text": "هو يريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "59CzwFAFI8XT0RO-ocB3PAt85-eJbZGn",
+                          "text": "She wants",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438572
+                        },
+                        "m": { "text": "هي تريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "toOAtm4YfCG2X-O8IjwBLiSAxfqPtvd3",
+                          "text": "We want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438573
+                        },
+                        "m": { "text": "نحن نريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "htMjNgLAcurMZdCC9RZLLqUnaElaG-W5",
+                          "text": "You want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438575
+                        },
+                        "m": { "text": "أنتم تريدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "tttYnkH7rMudVyRsneSHNOuvkmcwewVd",
+                          "text": "They want",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438576
+                        },
+                        "m": { "text": "هم يريدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "l0igTQkV3ByWzkKP865Od4PPUkStuKWk",
+                          "text": "I wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548881
+                        },
+                        "m": { "text": "أنا أردت" }
+                      },
+                      {
+                        "t": {
+                          "key": "L94_gYVtqzAv9EuylrOUtOS1JYO9HNmU",
+                          "text": "You wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548882
+                        },
+                        "m": { "text": "أنت أردت" }
+                      },
+                      {
+                        "t": {
+                          "key": "k9fHqfafe8KWddiL2gTPOVxtAvW1Gv3D",
+                          "text": "He wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548883
+                        },
+                        "m": { "text": "هو أراد" }
+                      },
+                      {
+                        "t": {
+                          "key": "VwnjRSAylrhxb0_YJS7a-2eq9710yTRu",
+                          "text": "She wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548884
+                        },
+                        "m": { "text": "هي أرادت" }
+                      },
+                      {
+                        "t": {
+                          "key": "6-UNUWvNMGGGlQJjXxipVL0R7dzkKul4",
+                          "text": "We wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548886
+                        },
+                        "m": { "text": "نحن أردنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "y374BPvAzvalQApO4UKHs8FDNnav5LS8",
+                          "text": "You wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548888
+                        },
+                        "m": { "text": "أنتم أردتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "yDQ_e9ZBHZlVkVJfnFA1aSx9ivHod5KF",
+                          "text": "They wanted",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548889
+                        },
+                        "m": { "text": "هم أرادوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "v3MFkExOeRvYEb1eY0ROhJDe85o7OHuS",
+                          "text": "I will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548890
+                        },
+                        "m": { "text": "أنا سأريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "X7Vd5cf_vpSoahPgrwJlTATfBzGO4QKY",
+                          "text": "You will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548891
+                        },
+                        "m": { "text": "أنت ستريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "9_3McQtKbukJsp-DRKHnQoZqSz3d2LBq",
+                          "text": "He will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548892
+                        },
+                        "m": { "text": "هو سيريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "2TiQCM_wnsPCwFNzdj2VXmc2leoBIH_E",
+                          "text": "She will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548893
+                        },
+                        "m": { "text": "هي ستريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "WSi6tzDwO2jPRLzeiDNCxTmkq8qza6Re",
+                          "text": "We will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548895
+                        },
+                        "m": { "text": "نحن سنريد" }
+                      },
+                      {
+                        "t": {
+                          "key": "cnz8g6CO8nylWdOnvFO2W_UfMGHHcpdg",
+                          "text": "You will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548896
+                        },
+                        "m": { "text": "أنتم ستريدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "A7_Z7_RGkSWQhDqqMcFvwVumm9YRCOpA",
+                          "text": "They will want",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548897
+                        },
+                        "m": { "text": "هم سيريدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "to",
+              "translations": [
+                { "type": "dictionary", "text": "على", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "eat",
+              "translations": [
+                { "type": "dictionary", "text": "تأكل", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to eat", "m": "يأكل", "phonetic": "to eat" },
+                  "id": 30,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "bTreG4yGkfkViwFwt9y8fR0YH1u7dx4e",
+                          "text": "I eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438095
+                        },
+                        "m": { "text": "أنا آكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "NG-b_wCKT7iEPJbk8TGky4tx5e2W8YVz",
+                          "text": "You eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438096
+                        },
+                        "m": { "text": "أنت تأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "9tY3S9_ndoBX4izqnXOOojzzLZexPjUe",
+                          "text": "He eats",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438097
+                        },
+                        "m": { "text": "هو يأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "Ozy3-PEHb0A8BSOS9H-zmnBrR8weFBkp",
+                          "text": "She eats",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438098
+                        },
+                        "m": { "text": "هي تأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "eFGQToNC5AEnNZiC0VQjlZHi1rbU2K-Z",
+                          "text": "We eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438099
+                        },
+                        "m": { "text": "نحن نأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "aLOJdc81BCneki6JxHJ9ioBJBE-jN4bc",
+                          "text": "You eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438101
+                        },
+                        "m": { "text": "أنتم تأكلون" }
+                      },
+                      {
+                        "t": {
+                          "key": "CWtTyXO-MgPjJFp-shfc0lA_0RIsN4o_",
+                          "text": "They eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438102
+                        },
+                        "m": { "text": "هم يأكلون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "j8MbQOLVraAEmB78cD-8eSxAwqSJV8AF",
+                          "text": "I ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547235
+                        },
+                        "m": { "text": "أنا أكلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "NiPb9ZFcCjlnPb1UjIRcN1UXbXSZk1SU",
+                          "text": "You ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547236
+                        },
+                        "m": { "text": "أنت أكلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8BR-X6ZDzLICwA-h0BY_46IYGidO2tZ4",
+                          "text": "He ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547237
+                        },
+                        "m": { "text": "هو أكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "TCyY11MVKET83NSTvUOUdeaoUqSVGU6G",
+                          "text": "She ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438103
+                        },
+                        "m": { "text": "هي أكلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "54RvTOWHvImCCx9H-ADnyUbCae98aNZx",
+                          "text": "We ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547240
+                        },
+                        "m": { "text": "نحن أكلنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "FB2IRUySKQITqi0A-L3ZVkiFrF1S6QdK",
+                          "text": "You ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547241
+                        },
+                        "m": { "text": "أنتم أكلتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "I8UdsgXeZOi07nQeKk0gZU-5X3d2NY6K",
+                          "text": "They ate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547242
+                        },
+                        "m": { "text": "هم أكلوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "_AiOPWTSOzgBIgweDiYHURK7HGTTXR4c",
+                          "text": "I will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547243
+                        },
+                        "m": { "text": "أنا سآكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "Y9iTCBfWUQNR8ML5ykvx0oHpYIdPg6Lz",
+                          "text": "You will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547244
+                        },
+                        "m": { "text": "أنت ستأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "TBKGp4Vl19Fb_Idq_8nQjO7qdtdJOvQa",
+                          "text": "He will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547245
+                        },
+                        "m": { "text": "هو سيأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "AmEwI3KfDLqBrRzZb2PIdUcMkEWBVJh_",
+                          "text": "She will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547246
+                        },
+                        "m": { "text": "هي ستأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "nfMa8pIFRekJlmt8mafv6xG-D46Nxqxf",
+                          "text": "We will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547248
+                        },
+                        "m": { "text": "نحن سنأكل" }
+                      },
+                      {
+                        "t": {
+                          "key": "8yeQkOZBcKoKP1ayWLB4UG6FPq_03tAw",
+                          "text": "You will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547249
+                        },
+                        "m": { "text": "أنتم ستأكلون" }
+                      },
+                      {
+                        "t": {
+                          "key": "X9z28A5s-TIrbjMH-c2cnaXtiA-Bhy4x",
+                          "text": "They will eat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547250
+                        },
+                        "m": { "text": "هم سيأكلون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "for",
+              "translations": [
+                { "type": "dictionary", "text": "على", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "dinner",
+              "translations": [
+                { "type": "dictionary", "text": "العشاء", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291955
+    },
+    {
+      "id": 9752,
+      "i": 9,
+      "positionIndex": 9,
+      "dialogue": 501,
+      "wordID": 30619,
+      "key": "w8HcmPxfviTpeV65LkTMjmPQvp3byiaA",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "السمك.",
+          "dictionary": [{ "raw": "السمك", "translations": [] }]
+        },
+        {
+          "text": "Fish.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Fish",
+              "translations": [
+                { "type": "dictionary", "text": "السمك", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291956
+    },
+    {
+      "id": 9753,
+      "i": 10,
+      "positionIndex": 10,
+      "dialogue": 501,
+      "wordID": 30620,
+      "key": "pfuu8sc_h2sU-HdRX0is8PA-42dn9Ro9",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "مع البطاطا أو البروكلي؟",
+          "dictionary": [
+            { "raw": "مع", "translations": [] },
+            { "raw": "البطاطا", "translations": [] },
+            { "raw": "أو", "translations": [] },
+            { "raw": "البروكلي", "translations": [] }
+          ]
+        },
+        {
+          "text": "With potatoes or broccoli?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "With",
+              "translations": [
+                { "type": "dictionary", "text": "مع", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "potatoes",
+              "translations": [
+                { "type": "dictionary", "text": "البطاطا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "or",
+              "translations": [
+                { "type": "dictionary", "text": "أو", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "broccoli",
+              "translations": [
+                { "type": "dictionary", "text": "البروكلي", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291957
+    },
+    {
+      "id": 9754,
+      "i": 11,
+      "positionIndex": 11,
+      "dialogue": 501,
+      "wordID": 30621,
+      "key": "FxJDlxRIhkZKey0MItKJr2thdzqgi_gm",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "مع البروكلي.",
+          "dictionary": [
+            { "raw": "مع", "translations": [] },
+            { "raw": "البروكلي", "translations": [] }
+          ]
+        },
+        {
+          "text": "With broccoli.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "With",
+              "translations": [
+                { "type": "dictionary", "text": "مع", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "broccoli",
+              "translations": [
+                { "type": "dictionary", "text": "البروكلي", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291958
+    },
+    {
+      "id": 9755,
+      "i": 12,
+      "positionIndex": 12,
+      "dialogue": 501,
+      "wordID": 30622,
+      "key": "slF5T7vRDDkds1mGyxMCYz11aCXxYnA4",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "حسنًا. لنضفه إلى القائمة.",
+          "dictionary": [
+            { "raw": "حسنًا", "translations": [] },
+            { "raw": "لنضفه", "translations": [] },
+            { "raw": "إلى", "translations": [] },
+            { "raw": "القائمة", "translations": [] }
+          ]
+        },
+        {
+          "text": "OK. Let's add them to the list.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "OK",
+              "translations": [
+                { "type": "dictionary", "text": "حسنًا", "phonetic": null }
+              ]
+            },
+            { "raw": "Let's", "translations": [] },
+            { "raw": "add", "translations": [] },
+            { "raw": "them", "translations": [] },
+            {
+              "raw": "to",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "list",
+              "translations": [
+                { "type": "dictionary", "text": "القائمة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291960
+    },
+    {
+      "id": 9756,
+      "i": 13,
+      "positionIndex": 13,
+      "dialogue": 501,
+      "wordID": 30623,
+      "key": "d_srwASZvdDxyRxPpkzxjXR-egDun8Yy",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "مثالي.",
+          "dictionary": [{ "raw": "مثالي", "translations": [] }]
+        },
+        {
+          "text": "Perfect.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Perfect",
+              "translations": [
+                { "type": "dictionary", "text": "مثالي", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291961
+    },
+    {
+      "id": 9757,
+      "i": 14,
+      "positionIndex": 14,
+      "dialogue": 501,
+      "wordID": 30624,
+      "key": "xhcPpygQVPCpUCsnQWY0QpqijpLjGO5Y",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "لنذهب إذن!",
+          "dictionary": [
+            { "raw": "لنذهب", "translations": [] },
+            { "raw": "إذن", "translations": [] }
+          ]
+        },
+        {
+          "text": "Let's go then!",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Let's", "translations": [] },
+            {
+              "raw": "go",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to go", "m": "يذهب", "phonetic": "to go" },
+                  "id": 40,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "7bNI0RboiqsVM_WilX2otoK_sq_OOnIh",
+                          "text": "I go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438139
+                        },
+                        "m": { "text": "أنا أذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "cacr7_SGG3dzVO-mSG6-3JGMo1QHNnfI",
+                          "text": "You go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438141
+                        },
+                        "m": { "text": "أنت تذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "bZGv2l3B-K6XJzrbpRcL8BGFxmSL9E41",
+                          "text": "He goes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438142
+                        },
+                        "m": { "text": "هو يذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VUXmsiBF52fp9UFoJJbYzXtzSOqd70KL",
+                          "text": "She goes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438143
+                        },
+                        "m": { "text": "هي تذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "TzT3zhHftJuiDg8yys-D6vI22jJTYXt-",
+                          "text": "We go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438145
+                        },
+                        "m": { "text": "نحن نذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "vFAnGTkaIgwCphxih4TEtrC1wpds6Ja9",
+                          "text": "You go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438146
+                        },
+                        "m": { "text": "أنتم تذهبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "as-vTrtT2jT-Oo2pJIEXATWc8NGNHyHy",
+                          "text": "They go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438147
+                        },
+                        "m": { "text": "هم يذهبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "ecfE6_usDqBDEgKqLf6lszCSyS6LchO2",
+                          "text": "I went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438148
+                        },
+                        "m": { "text": "أنا ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "EQmuVdiG1ooEYpqZiH9fvnxiX5xa7UCr",
+                          "text": "You went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438149
+                        },
+                        "m": { "text": "أنت ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "qO6qMBah2gqVpJ7TCH0OI-km7Mnjm9AB",
+                          "text": "He went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438151
+                        },
+                        "m": { "text": "هو ذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ykHNySLcbj_Rduz8EyjcvdnPK0wlkrz2",
+                          "text": "She went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438152
+                        },
+                        "m": { "text": "هي ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "akN_HA9flK2VWcjlkhPYg3DjSnZZd1oi",
+                          "text": "We went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438153
+                        },
+                        "m": { "text": "نحن ذهبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "kpGUD063dV_rZBSxR2DvQxiM-k_NPNBS",
+                          "text": "You went",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547489
+                        },
+                        "m": { "text": "أنتم ذهبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "WmZAvV4rAVPbwBgM0_rJ8bu7OG6Qt5Iw",
+                          "text": "They went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438154
+                        },
+                        "m": { "text": "هم ذهبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "JgvAgyiXF7jLKauYYG7d98AS4yIPb30q",
+                          "text": "I will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438155
+                        },
+                        "m": { "text": "أنا سأذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "NWaLgXoxuA-0UioEcTD3PBAgWYUPSj-K",
+                          "text": "You will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438157
+                        },
+                        "m": { "text": "أنت ستذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "rg4yVFoVEyzsFbtgrGuEUFJQQPSBkfen",
+                          "text": "He will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438158
+                        },
+                        "m": { "text": "هو سيذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "RnFE7AbFeD6gZxaYheN83Gj_HscOn2Cz",
+                          "text": "She will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438159
+                        },
+                        "m": { "text": "هي ستذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "fuwQr7AE3vDfvwem4z9cSXVaUBgvvKyy",
+                          "text": "We will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438160
+                        },
+                        "m": { "text": "نحن سنذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ySfGaRO2p3GrKGHH10VcD3XFDi2-Nxa_",
+                          "text": "You will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547498
+                        },
+                        "m": { "text": "أنتم ستذهبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "dEJvrp2XZNvhxyWlesxvM4ypFeJyU6Ad",
+                          "text": "They will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438161
+                        },
+                        "m": { "text": "هم سيذهبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "then", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291962
+    }
+  ]
+}

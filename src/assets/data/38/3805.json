@@ -1,0 +1,3922 @@
+{
+  "lesson": {
+    "id": 3805,
+    "index": 5,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 38,
+    "categoryID": 38,
+    "name": "المركبات الخضراء",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 29,
+    "countWords": 20,
+    "countPhrases": 8,
+    "countDone": 0,
+    "quizzes": [
+      625974, 625975, 625976, 625977, 625978, 625979, 625980, 625981, 625982,
+      625983, 625984, 625985, 625986, 625987, 625988, 625989, 625990, 625991,
+      625992, 625993, 625994, 625995, 625996, 625997, 625998, 625999, 626000,
+      626001, 626002
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 625974,
+      "lesson": 3805,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 23547,
+      "alternates": [24172, 23939, 24171],
+      "sols": [
+        {
+          "key": "FuKcu64aPFA9T-gQNHA0XUa7KPvVtWS5",
+          "audio_updated_at": 1688290366,
+          "text": "دراجة"
+        },
+        {
+          "key": "uQ6ETX2p8G041Kkn94e83QVsTFlsb9SI",
+          "audio_updated_at": 1688291080,
+          "text": "سكوتر كهربائي"
+        },
+        {
+          "key": "AwJBvrSoGW1b6MyMUc_u7cjUcOjumniA",
+          "audio_updated_at": 1688290822,
+          "text": "يستأجر"
+        },
+        {
+          "key": "B3Ns2FT0ufn4u3LZxrJe7BWJnfFDgMGn",
+          "audio_updated_at": 1688291081,
+          "text": "يشحن"
+        }
+      ],
+      "alts": [
+        {
+          "key": "FuKcu64aPFA9T-gQNHA0XUa7KPvVtWS5",
+          "audio_updated_at": 1688290366,
+          "text": "bicycle",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "wTKqJyLH_z9YVdDnDMJIol2mXY8q15nU",
+          "image_updated_at": 1689159201
+        },
+        {
+          "key": "uQ6ETX2p8G041Kkn94e83QVsTFlsb9SI",
+          "audio_updated_at": 1688291080,
+          "image": "7MbXcOsD2yQCtaVy3p16Bt5klTTJ8I2m",
+          "image_updated_at": 1689159242,
+          "text": "electric scooter",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        },
+        {
+          "key": "AwJBvrSoGW1b6MyMUc_u7cjUcOjumniA",
+          "audio_updated_at": 1688290822,
+          "image": "Z5C-L0-ATZRqAUQKMwI59xV2C1a8PfbT",
+          "image_updated_at": 1689159223,
+          "text": "to rent",
+          "phonetic": ""
+        },
+        {
+          "key": "B3Ns2FT0ufn4u3LZxrJe7BWJnfFDgMGn",
+          "audio_updated_at": 1688291081,
+          "image": "9TL9qctmhIxsSF0aIbRrHaOaUDa7QnDb",
+          "image_updated_at": 1689159243,
+          "text": "to charge",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 625975,
+      "lesson": 3805,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 24179,
+      "alternates": [23547],
+      "tokens": [
+        {
+          "key": "tmkLa5Pd5tQ",
+          "text": "bicycles.",
+          "raw": { "text": "bicycles", "location": 12, "length": 8 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": ".", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tP7uJ8uAv3W",
+          "text": "postcode",
+          "raw": { "text": "postcode", "location": 0, "length": 8 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tDn6M8ZfEke",
+          "text": "need",
+          "raw": { "text": "need", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tjvCiQ9SSyX",
+          "text": "two",
+          "raw": { "text": "two", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "ttAs_x9ZEST",
+          "text": "We",
+          "raw": { "text": "We", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["ttAs_x9ZEST", "tDn6M8ZfEke", "tjvCiQ9SSyX", "tmkLa5Pd5tQ"],
+      "completeToken": "tmkLa5Pd5tQ",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "fNvgevNcUvZn6vbourPS5lv4hd_NuxEn",
+          "audio_updated_at": 1688291090,
+          "text": "نحن نحتاج إلى دراجتين.",
+          "dictionary": [
+            {
+              "raw": "نحن",
+              "translations": [
+                { "type": "dictionary", "text": "We", "phonetic": "We" }
+              ]
+            },
+            {
+              "raw": "نحتاج",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "We need",
+                  "phonetic": "We need"
+                }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            { "raw": "دراجتين", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "نحن", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نحتاج", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "دراجتين", "location": 14, "length": 7 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "fNvgevNcUvZn6vbourPS5lv4hd_NuxEn",
+          "audio_updated_at": 1688291090,
+          "text": "We need two bicycles.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 625976,
+      "lesson": 3805,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 23939,
+      "alternates": [24171],
+      "sols": [
+        {
+          "key": "uQ6ETX2p8G041Kkn94e83QVsTFlsb9SI",
+          "audio_updated_at": 1688291080,
+          "text": "سكوتر كهربائي"
+        },
+        {
+          "key": "AwJBvrSoGW1b6MyMUc_u7cjUcOjumniA",
+          "audio_updated_at": 1688290822,
+          "text": "يستأجر"
+        }
+      ],
+      "alts": [
+        {
+          "key": "uQ6ETX2p8G041Kkn94e83QVsTFlsb9SI",
+          "audio_updated_at": 1688291080,
+          "image": "7MbXcOsD2yQCtaVy3p16Bt5klTTJ8I2m",
+          "image_updated_at": 1689159242,
+          "text": "electric scooter",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        },
+        {
+          "key": "AwJBvrSoGW1b6MyMUc_u7cjUcOjumniA",
+          "audio_updated_at": 1688290822,
+          "text": "to rent",
+          "phonetic": "",
+          "image": "Z5C-L0-ATZRqAUQKMwI59xV2C1a8PfbT",
+          "image_updated_at": 1689159223
+        }
+      ]
+    },
+    {
+      "id": 625977,
+      "lesson": 3805,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 24180,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tfiMEWBKzUk",
+          "text": "نحن",
+          "raw": { "text": "نحن", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tJtinXmsup9",
+          "text": "سكوترين",
+          "raw": { "text": "سكوترين", "location": 14, "length": 7 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 21, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tcVnkJCOoY6",
+          "text": "نحتاج",
+          "raw": { "text": "نحتاج", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tlQWy34EBzN",
+          "text": "كهربائيين.",
+          "raw": { "text": "كهربائيين", "location": 22, "length": 9 },
+          "prefix": { "text": "", "location": 22, "length": 0 },
+          "suffix": { "text": ".", "location": 31, "length": 1 },
+          "linker": { "text": " ", "location": 21, "length": 1 }
+        },
+        {
+          "key": "tEkz14tC7iN",
+          "text": "كل",
+          "raw": { "text": "كل", "location": 17, "length": 2 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "tvik0HUQ0cp",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tJ1fGrxIeM7",
+          "text": "أجدادنا",
+          "raw": { "text": "أجدادنا", "location": 9, "length": 7 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tonBPTdM3I_",
+          "text": "نزور",
+          "raw": { "text": "نزور", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tfiMEWBKzUk",
+        "tcVnkJCOoY6",
+        "tvik0HUQ0cp",
+        "tJtinXmsup9",
+        "tlQWy34EBzN"
+      ],
+      "sols": [
+        {
+          "key": "n0qTuaonC58976AqnAl5MJwAA1qA76ce",
+          "audio_updated_at": 1688291091,
+          "text": "We need two electric scooters.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "We",
+              "translations": [
+                { "type": "dictionary", "text": "نحن", "phonetic": null }
+              ]
+            },
+            { "raw": "need", "translations": [] },
+            { "raw": "two", "translations": [] },
+            {
+              "raw": "electric",
+              "translations": [
+                { "type": "dictionary", "text": "كهربائيين", "phonetic": null }
+              ]
+            },
+            { "raw": "scooters", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "We", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "two", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "electric", "location": 12, "length": 8 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "scooters", "location": 21, "length": 8 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": ".", "location": 29, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "n0qTuaonC58976AqnAl5MJwAA1qA76ce",
+          "audio_updated_at": 1688291091,
+          "text": "نحن نحتاج إلى سكوترين كهربائيين."
+        }
+      ]
+    },
+    {
+      "id": 625978,
+      "lesson": 3805,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24174,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "te8Eku_hAsB",
+          "text": "we",
+          "raw": { "text": "we", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t6-bYMOqn7F",
+          "text": "rent",
+          "raw": { "text": "rent", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tQlG7VhB5DX",
+          "text": "charge",
+          "raw": { "text": "charge", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tfAJLAAopXX",
+          "text": "can",
+          "raw": { "text": "can", "location": 6, "length": 3 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tnmxVPq4Paf",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tVAeeZ-sotD",
+          "text": "electric",
+          "raw": { "text": "electric", "location": 20, "length": 8 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": "", "location": 28, "length": 0 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "tnaOMkNau8S",
+          "text": "bicycles?",
+          "raw": { "text": "bicycles", "location": 18, "length": 8 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "?", "location": 26, "length": 1 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "tICPUAt9jxV",
+          "text": "scooters?",
+          "raw": { "text": "scooters", "location": 29, "length": 8 },
+          "prefix": { "text": "", "location": 29, "length": 0 },
+          "suffix": { "text": "?", "location": 37, "length": 1 },
+          "linker": { "text": " ", "location": 28, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tnmxVPq4Paf",
+        "tfAJLAAopXX",
+        "te8Eku_hAsB",
+        "t6-bYMOqn7F",
+        "tnaOMkNau8S"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "O9MmvcjZYO6BRiEvUEBHFjU4277_P63R",
+          "audio_updated_at": 1688291084,
+          "text": "أين نستطيع أن نستأجر دراجات؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            { "raw": "نستطيع", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            { "raw": "نستأجر", "translations": [] },
+            {
+              "raw": "دراجات",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "bicycles",
+                  "phonetic": "bicycles"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "نستأجر", "location": 14, "length": 6 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "دراجات", "location": 21, "length": 6 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "؟", "location": 27, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "O9MmvcjZYO6BRiEvUEBHFjU4277_P63R",
+          "audio_updated_at": 1688291084,
+          "text": "Where can we rent bicycles?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 625979,
+      "lesson": 3805,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 24175,
+      "alternates": [24171],
+      "tokens": [
+        {
+          "key": "toWJxrF26NO",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tibw6w1akUA",
+          "text": "we",
+          "raw": { "text": "we", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tC4yh0PgINi",
+          "text": "two",
+          "raw": { "text": "two", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tXmbBUDpfR1",
+          "text": "scooters?",
+          "raw": { "text": "scooters", "location": 27, "length": 8 },
+          "prefix": { "text": "", "location": 27, "length": 0 },
+          "suffix": { "text": "?", "location": 35, "length": 1 },
+          "linker": { "text": " ", "location": 26, "length": 1 }
+        },
+        {
+          "key": "thMivbkgW33",
+          "text": "electric",
+          "raw": { "text": "electric", "location": 18, "length": 8 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 26, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "tMHfbpBLfH_",
+          "text": "need",
+          "raw": { "text": "need", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t9hKfUa2Tq4",
+          "text": "can",
+          "raw": { "text": "can", "location": 6, "length": 3 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "t8kPCwVbhnb",
+          "text": "rent",
+          "raw": { "text": "rent", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "toWJxrF26NO",
+        "t9hKfUa2Tq4",
+        "tibw6w1akUA",
+        "t8kPCwVbhnb",
+        "thMivbkgW33",
+        "tXmbBUDpfR1"
+      ],
+      "completeToken": "thMivbkgW33",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "7TSSy8PssHhx0qs4MlCKi-imA_qZ3OI3",
+          "audio_updated_at": 1688291085,
+          "text": "أين نستطيع أن نستأجر سكوترات كهربائية؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            { "raw": "نستطيع", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            { "raw": "نستأجر", "translations": [] },
+            { "raw": "سكوترات", "translations": [] },
+            {
+              "raw": "كهربائية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "electric",
+                  "phonetic": "electric"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "نستأجر", "location": 14, "length": 6 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "سكوترات", "location": 21, "length": 7 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "", "location": 28, "length": 0 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            },
+            {
+              "raw": { "text": "كهربائية", "location": 29, "length": 8 },
+              "prefix": { "text": "", "location": 29, "length": 0 },
+              "suffix": { "text": "؟", "location": 37, "length": 1 },
+              "linker": { "text": " ", "location": 28, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "7TSSy8PssHhx0qs4MlCKi-imA_qZ3OI3",
+          "audio_updated_at": 1688291085,
+          "text": "Where can we rent electric scooters?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 625980,
+      "lesson": 3805,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 24172,
+      "alternates": [23939, 24171, 23547],
+      "sols": [
+        {
+          "key": "B3Ns2FT0ufn4u3LZxrJe7BWJnfFDgMGn",
+          "audio_updated_at": 1688291081,
+          "text": "يشحن"
+        },
+        { "key": "FuKcu64aPFA9T-gQNHA0XUa7KPvVtWS5", "text": "دراجة" },
+        { "key": "AwJBvrSoGW1b6MyMUc_u7cjUcOjumniA", "text": "يستأجر" },
+        { "key": "uQ6ETX2p8G041Kkn94e83QVsTFlsb9SI", "text": "سكوتر كهربائي" }
+      ],
+      "alts": [
+        {
+          "key": "B3Ns2FT0ufn4u3LZxrJe7BWJnfFDgMGn",
+          "audio_updated_at": 1688291081,
+          "text": "to charge",
+          "phonetic": "",
+          "image": "9TL9qctmhIxsSF0aIbRrHaOaUDa7QnDb",
+          "image_updated_at": 1689159243
+        },
+        {
+          "key": "FuKcu64aPFA9T-gQNHA0XUa7KPvVtWS5",
+          "audio_updated_at": 1688290366,
+          "text": "bicycle",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "wTKqJyLH_z9YVdDnDMJIol2mXY8q15nU",
+          "image_updated_at": 1689159201
+        },
+        {
+          "key": "AwJBvrSoGW1b6MyMUc_u7cjUcOjumniA",
+          "audio_updated_at": 1688290822,
+          "text": "to rent",
+          "phonetic": "",
+          "image": "Z5C-L0-ATZRqAUQKMwI59xV2C1a8PfbT",
+          "image_updated_at": 1689159223
+        },
+        {
+          "key": "uQ6ETX2p8G041Kkn94e83QVsTFlsb9SI",
+          "audio_updated_at": 1688291080,
+          "text": "electric scooter",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "7MbXcOsD2yQCtaVy3p16Bt5klTTJ8I2m",
+          "image_updated_at": 1689159242
+        }
+      ]
+    },
+    {
+      "id": 625981,
+      "lesson": 3805,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24176,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tYK3H_LK2CH",
+          "text": "can",
+          "raw": { "text": "can", "location": 6, "length": 3 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "t6VfkDi6ZKc",
+          "text": "electric",
+          "raw": { "text": "electric", "location": 20, "length": 8 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": "", "location": 28, "length": 0 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "tBgG1GcnG3Q",
+          "text": "postcode",
+          "raw": { "text": "postcode", "location": 0, "length": 8 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t1ebpftxvFD",
+          "text": "we",
+          "raw": { "text": "we", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tZ35w3r1uZl",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tMMsdZVJPHj",
+          "text": "charge",
+          "raw": { "text": "charge", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tapjhemV5m_",
+          "text": "scooters?",
+          "raw": { "text": "scooters", "location": 29, "length": 8 },
+          "prefix": { "text": "", "location": 29, "length": 0 },
+          "suffix": { "text": "?", "location": 37, "length": 1 },
+          "linker": { "text": " ", "location": 28, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tZ35w3r1uZl",
+        "tYK3H_LK2CH",
+        "t1ebpftxvFD",
+        "tMMsdZVJPHj",
+        "t6VfkDi6ZKc",
+        "tapjhemV5m_"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "QYNRWXiNLmA14DO-NchOJ39mpu7FnX77",
+          "audio_updated_at": 1688291086,
+          "text": "أين نستطيع أن نشحن السكوترات الكهربائية؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            { "raw": "نستطيع", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            { "raw": "نشحن", "translations": [] },
+            { "raw": "السكوترات", "translations": [] },
+            {
+              "raw": "الكهربائية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "electric",
+                  "phonetic": "electric"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "نشحن", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "السكوترات", "location": 19, "length": 9 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 28, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "الكهربائية", "location": 29, "length": 10 },
+              "prefix": { "text": "", "location": 29, "length": 0 },
+              "suffix": { "text": "؟", "location": 39, "length": 1 },
+              "linker": { "text": " ", "location": 28, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "QYNRWXiNLmA14DO-NchOJ39mpu7FnX77",
+          "audio_updated_at": 1688291086,
+          "text": "Where can we charge electric scooters?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 625982,
+      "lesson": 3805,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 24173,
+      "alternates": [24152],
+      "sols": [
+        {
+          "key": "q0yxbxbXXOPibRavQvN8JFUqBD3ADJL-",
+          "audio_updated_at": 1688291059,
+          "text": "يصف"
+        },
+        {
+          "key": "WdR6ofcISEYbdBaYSUGQZ8pYrI8aQVKX",
+          "audio_updated_at": 1688291083,
+          "text": "سيارة كهربائية"
+        }
+      ],
+      "alts": [
+        {
+          "key": "q0yxbxbXXOPibRavQvN8JFUqBD3ADJL-",
+          "audio_updated_at": 1688291059,
+          "image": "gdAgMWYyT6P3oFfDoi_Unc7e-XQFgzK4",
+          "image_updated_at": 1689159240,
+          "text": "to park",
+          "phonetic": ""
+        },
+        {
+          "key": "WdR6ofcISEYbdBaYSUGQZ8pYrI8aQVKX",
+          "audio_updated_at": 1688291083,
+          "text": "electric car",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "dleU-h5jXPvlQkiqv0v70fZVlV4Xrn1N",
+          "image_updated_at": 1689159243
+        }
+      ]
+    },
+    {
+      "id": 625983,
+      "lesson": 3805,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 24178,
+      "alternates": [24173],
+      "tokens": [
+        {
+          "key": "t60qKsknagh",
+          "text": "cars?",
+          "raw": { "text": "cars", "location": 29, "length": 4 },
+          "prefix": { "text": "", "location": 29, "length": 0 },
+          "suffix": { "text": "?", "location": 33, "length": 1 },
+          "linker": { "text": " ", "location": 28, "length": 1 }
+        },
+        {
+          "key": "tZcl1uh7hWZ",
+          "text": "charge",
+          "raw": { "text": "charge", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "thVIzNe55Q4",
+          "text": "electric",
+          "raw": { "text": "electric", "location": 20, "length": 8 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": "", "location": 28, "length": 0 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "tUOzziXwPBr",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tyC6VyC0iw_",
+          "text": "we",
+          "raw": { "text": "we", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t1HKLUPL_IL",
+          "text": "can",
+          "raw": { "text": "can", "location": 6, "length": 3 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tAD-l-aoHav",
+          "text": "cook",
+          "raw": { "text": "cook", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tXjZckJg86u",
+          "text": "something",
+          "raw": { "text": "something", "location": 8, "length": 9 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tUOzziXwPBr",
+        "t1HKLUPL_IL",
+        "tyC6VyC0iw_",
+        "tZcl1uh7hWZ",
+        "thVIzNe55Q4",
+        "t60qKsknagh"
+      ],
+      "completeToken": "thVIzNe55Q4",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "VBPCmtPzoHpH440H7dx2ToT3cWaoibws",
+          "audio_updated_at": 1688291089,
+          "text": "أين نستطيع أن نشحن السيارات الكهربائية؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            { "raw": "نستطيع", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            { "raw": "نشحن", "translations": [] },
+            {
+              "raw": "السيارات",
+              "translations": [
+                { "type": "dictionary", "text": "cars", "phonetic": "cars" }
+              ]
+            },
+            {
+              "raw": "الكهربائية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "electric",
+                  "phonetic": "electric"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "نشحن", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "السيارات", "location": 19, "length": 8 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 27, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "الكهربائية", "location": 28, "length": 10 },
+              "prefix": { "text": "", "location": 28, "length": 0 },
+              "suffix": { "text": "؟", "location": 38, "length": 1 },
+              "linker": { "text": " ", "location": 27, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "VBPCmtPzoHpH440H7dx2ToT3cWaoibws",
+          "audio_updated_at": 1688291089,
+          "text": "Where can we charge electric cars?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 625984,
+      "lesson": 3805,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 24177,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tyQtuLtq6dO",
+          "text": "نستطيع",
+          "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tsWFlvRlbo4",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 11, "length": 2 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tt8q3i-FbIt",
+          "text": "أود",
+          "raw": { "text": "أود", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tsJ4VD75qbV",
+          "text": "نصف",
+          "raw": { "text": "نصف", "location": 14, "length": 3 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tK9s7dp0pP6",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tCprFgH6aEz",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tkYEYF9CJL_",
+          "text": "السكوترات",
+          "raw": { "text": "السكوترات", "location": 18, "length": 9 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 27, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "tkzuTGN8LM_",
+          "text": "الكهربائية؟",
+          "raw": { "text": "الكهربائية", "location": 28, "length": 10 },
+          "prefix": { "text": "", "location": 28, "length": 0 },
+          "suffix": { "text": "؟", "location": 38, "length": 1 },
+          "linker": { "text": " ", "location": 27, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tCprFgH6aEz",
+        "tyQtuLtq6dO",
+        "tsWFlvRlbo4",
+        "tsJ4VD75qbV",
+        "tkYEYF9CJL_",
+        "tkzuTGN8LM_"
+      ],
+      "sols": [
+        {
+          "key": "lthji0vLER_ueaI9LdavJ1_CikiOO4z2",
+          "audio_updated_at": 1688291087,
+          "text": "Where can we park electric scooters?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            { "raw": "can", "translations": [] },
+            { "raw": "we", "translations": [] },
+            { "raw": "park", "translations": [] },
+            {
+              "raw": "electric",
+              "translations": [
+                { "type": "dictionary", "text": "الكهربائية", "phonetic": null }
+              ]
+            },
+            { "raw": "scooters", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "can", "location": 6, "length": 3 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "we", "location": 10, "length": 2 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "park", "location": 13, "length": 4 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "electric", "location": 18, "length": 8 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 26, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "scooters", "location": 27, "length": 8 },
+              "prefix": { "text": "", "location": 27, "length": 0 },
+              "suffix": { "text": "?", "location": 35, "length": 1 },
+              "linker": { "text": " ", "location": 26, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "lthji0vLER_ueaI9LdavJ1_CikiOO4z2",
+          "audio_updated_at": 1688291087,
+          "text": "أين نستطيع أن نصف السكوترات الكهربائية؟"
+        }
+      ]
+    },
+    {
+      "id": 625985,
+      "lesson": 3805,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 16527,
+      "alternates": [24152],
+      "tokens": [
+        {
+          "key": "t6ltpgKfKJY",
+          "text": "the",
+          "raw": { "text": "the", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tjCRWYuQwM5",
+          "text": "to",
+          "raw": { "text": "to", "location": 11, "length": 2 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tqaq5i7W7Ie",
+          "text": "museum",
+          "raw": { "text": "museum", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tuEJSDKkzeV",
+          "text": "park",
+          "raw": { "text": "park", "location": 14, "length": 4 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tmrDv5-yKYa",
+          "text": "Is",
+          "raw": { "text": "Is", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tcPDOr-ijVX",
+          "text": "safe",
+          "raw": { "text": "safe", "location": 6, "length": 4 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tWOT6usDO7T",
+          "text": "here?",
+          "raw": { "text": "here", "location": 19, "length": 4 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "?", "location": 23, "length": 1 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tNkWKO6XbLT",
+          "text": "it",
+          "raw": { "text": "it", "location": 3, "length": 2 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tmrDv5-yKYa",
+        "tNkWKO6XbLT",
+        "tcPDOr-ijVX",
+        "tjCRWYuQwM5",
+        "tuEJSDKkzeV",
+        "tWOT6usDO7T"
+      ],
+      "completeToken": "tuEJSDKkzeV",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "kmnUNAhlB8rFbiw93oTpjswLo3hjROD4",
+          "audio_updated_at": 1543439920,
+          "text": "هل من الآمن الاصطفاف هنا؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Is", "phonetic": "Is" }
+              ]
+            },
+            { "raw": "من", "translations": [] },
+            {
+              "raw": "الآمن",
+              "translations": [
+                { "type": "dictionary", "text": "safe", "phonetic": "safe" }
+              ]
+            },
+            { "raw": "الاصطفاف", "translations": [] },
+            {
+              "raw": "هنا",
+              "translations": [
+                { "type": "dictionary", "text": "here", "phonetic": "here" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "من", "location": 3, "length": 2 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "الآمن", "location": 6, "length": 5 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "الاصطفاف", "location": 12, "length": 8 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "هنا", "location": 21, "length": 3 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "؟", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "kmnUNAhlB8rFbiw93oTpjswLo3hjROD4",
+          "audio_updated_at": 1543439920,
+          "text": "Is it safe to park here?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 625986,
+      "lesson": 3805,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24179,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "ts0GQiavC7o",
+          "text": "bicycles.",
+          "raw": { "text": "bicycles", "location": 12, "length": 8 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": ".", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "taBso925rA5",
+          "text": "two",
+          "raw": { "text": "two", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tVKMHliVppC",
+          "text": "need",
+          "raw": { "text": "need", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tAlbbP7I2JS",
+          "text": "We",
+          "raw": { "text": "We", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tgTVWSSyGee",
+          "text": "my",
+          "raw": { "text": "my", "location": 8, "length": 2 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tiUZMmQz5-r",
+          "text": "is",
+          "raw": { "text": "is", "location": 5, "length": 2 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "twofzV-WGAH",
+          "text": "This",
+          "raw": { "text": "This", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t9BnopFoDRi",
+          "text": "postcode.",
+          "raw": { "text": "postcode", "location": 11, "length": 8 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tAlbbP7I2JS", "tVKMHliVppC", "taBso925rA5", "ts0GQiavC7o"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "fNvgevNcUvZn6vbourPS5lv4hd_NuxEn",
+          "audio_updated_at": 1688291090,
+          "text": "نحن نحتاج إلى دراجتين.",
+          "dictionary": [
+            {
+              "raw": "نحن",
+              "translations": [
+                { "type": "dictionary", "text": "We", "phonetic": "We" }
+              ]
+            },
+            {
+              "raw": "نحتاج",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "We need",
+                  "phonetic": "We need"
+                }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            { "raw": "دراجتين", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "نحن", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نحتاج", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "دراجتين", "location": 14, "length": 7 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "fNvgevNcUvZn6vbourPS5lv4hd_NuxEn",
+          "audio_updated_at": 1688291090,
+          "text": "We need two bicycles.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 625987,
+      "lesson": 3805,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 24180,
+      "alternates": [24179, 24174],
+      "sols": [
+        {
+          "key": "n0qTuaonC58976AqnAl5MJwAA1qA76ce",
+          "audio_updated_at": 1688291091,
+          "text": "We need two electric scooters.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "We",
+              "translations": [
+                { "type": "dictionary", "text": "نحن", "phonetic": null }
+              ]
+            },
+            { "raw": "need", "translations": [] },
+            { "raw": "two", "translations": [] },
+            {
+              "raw": "electric",
+              "translations": [
+                { "type": "dictionary", "text": "كهربائيين", "phonetic": null }
+              ]
+            },
+            { "raw": "scooters", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "We", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "two", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "electric", "location": 12, "length": 8 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "scooters", "location": 21, "length": 8 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": ".", "location": 29, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "O9MmvcjZYO6BRiEvUEBHFjU4277_P63R",
+          "text": "Where can we rent bicycles?",
+          "phonetic": ""
+        },
+        {
+          "key": "fNvgevNcUvZn6vbourPS5lv4hd_NuxEn",
+          "text": "We need two bicycles.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "n0qTuaonC58976AqnAl5MJwAA1qA76ce",
+          "audio_updated_at": 1688291091,
+          "text": "نحن نحتاج إلى سكوترين كهربائيين."
+        },
+        {
+          "key": "O9MmvcjZYO6BRiEvUEBHFjU4277_P63R",
+          "audio_updated_at": 1688291084,
+          "text": "أين نستطيع أن نستأجر دراجات؟"
+        },
+        {
+          "key": "fNvgevNcUvZn6vbourPS5lv4hd_NuxEn",
+          "audio_updated_at": 1688291090,
+          "text": "نحن نحتاج إلى دراجتين."
+        }
+      ]
+    },
+    {
+      "id": 625988,
+      "lesson": 3805,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 23547,
+      "alternates": [],
+      "tokens": [
+        { "key": "tDD_dzqGFgK", "text": "c", "group": 0 },
+        { "key": "tMXan7vE8Ia", "text": "b", "group": 0 },
+        { "key": "trLOl60QSzm", "text": "c", "group": 0 },
+        { "key": "t6zCxfgnSiL", "text": "i", "group": 0 },
+        { "key": "tpT2DWkyeuA", "text": "y", "group": 0 },
+        { "key": "tXPlP5bkTM5", "text": "l", "group": 0 },
+        { "key": "t_U5PYCc8EW", "text": "e", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tMXan7vE8Ia",
+        "t6zCxfgnSiL",
+        "tDD_dzqGFgK",
+        "tpT2DWkyeuA",
+        "trLOl60QSzm",
+        "tXPlP5bkTM5",
+        "t_U5PYCc8EW"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "FuKcu64aPFA9T-gQNHA0XUa7KPvVtWS5",
+          "audio_updated_at": 1688290366,
+          "text": "دراجة",
+          "dictionary": [
+            {
+              "raw": "دراجة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "bicycle",
+                  "phonetic": "bicycle"
+                }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "دراجة", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "FuKcu64aPFA9T-gQNHA0XUa7KPvVtWS5",
+          "audio_updated_at": 1688290366,
+          "text_tokens": [
+            {
+              "raw": { "text": "bicycle", "location": 0, "length": 7 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "bicycle",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "wTKqJyLH_z9YVdDnDMJIol2mXY8q15nU",
+          "image_updated_at": 1689159201
+        }
+      ]
+    },
+    {
+      "id": 625989,
+      "lesson": 3805,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 24174,
+      "alternates": [23547],
+      "tokens": [
+        { "key": "tqF7Hw_lKHc", "text": " ", "specialChar": true },
+        { "key": "tnHLB_dpRPp", "text": "c", "group": 4 },
+        { "key": "trDewiNp5jo", "text": "e", "group": 4 },
+        { "key": "t_TJ1OP9WOn", "text": "i", "group": 4 },
+        { "key": "t4vVwqC_RXa", "text": "?", "specialChar": true },
+        { "key": "t7g863j7db1", "text": "b", "group": 4 },
+        { "key": "t_pW6LFPW47", "text": "s", "group": 4 },
+        { "key": "tMmf0Vv3on3", "text": "c", "group": 4 },
+        { "key": "tqsb754LcAP", "text": "y", "group": 4 },
+        { "key": "tVM9Vw9Cc6I", "text": "l", "group": 4 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tqF7Hw_lKHc",
+        "t7g863j7db1",
+        "t_TJ1OP9WOn",
+        "tMmf0Vv3on3",
+        "tqsb754LcAP",
+        "tnHLB_dpRPp",
+        "tVM9Vw9Cc6I",
+        "trDewiNp5jo",
+        "t_pW6LFPW47",
+        "t4vVwqC_RXa"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "O9MmvcjZYO6BRiEvUEBHFjU4277_P63R",
+          "audio_updated_at": 1688291084,
+          "text": "أين نستطيع أن نستأجر دراجات؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            { "raw": "نستطيع", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            { "raw": "نستأجر", "translations": [] },
+            {
+              "raw": "دراجات",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "bicycles",
+                  "phonetic": "bicycles"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "نستأجر", "location": 14, "length": 6 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "دراجات", "location": 21, "length": 6 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "؟", "location": 27, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "O9MmvcjZYO6BRiEvUEBHFjU4277_P63R",
+          "audio_updated_at": 1688291084,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "can", "location": 6, "length": 3 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "we", "location": 10, "length": 2 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "rent", "location": 13, "length": 4 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "bicycles", "location": 18, "length": 8 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "?", "location": 26, "length": 1 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "Where can we rent bicycles?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 625990,
+      "lesson": 3805,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24175,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tU2DVukPU0z",
+          "text": "This",
+          "raw": { "text": "This", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tDaKVGuCmEi",
+          "text": "we",
+          "raw": { "text": "we", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tz-0nX-28Am",
+          "text": "can",
+          "raw": { "text": "can", "location": 6, "length": 3 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "t0k5D1BBZ72",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tjzzJiQuxE2",
+          "text": "scooters?",
+          "raw": { "text": "scooters", "location": 27, "length": 8 },
+          "prefix": { "text": "", "location": 27, "length": 0 },
+          "suffix": { "text": "?", "location": 35, "length": 1 },
+          "linker": { "text": " ", "location": 26, "length": 1 }
+        },
+        {
+          "key": "tLRTX5AZg8B",
+          "text": "is",
+          "raw": { "text": "is", "location": 5, "length": 2 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tUktlCezCsS",
+          "text": "rent",
+          "raw": { "text": "rent", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "t6QUp64a1He",
+          "text": "electric",
+          "raw": { "text": "electric", "location": 18, "length": 8 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 26, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t0k5D1BBZ72",
+        "tz-0nX-28Am",
+        "tDaKVGuCmEi",
+        "tUktlCezCsS",
+        "t6QUp64a1He",
+        "tjzzJiQuxE2"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "7TSSy8PssHhx0qs4MlCKi-imA_qZ3OI3",
+          "audio_updated_at": 1688291085,
+          "text": "أين نستطيع أن نستأجر سكوترات كهربائية؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            { "raw": "نستطيع", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            { "raw": "نستأجر", "translations": [] },
+            { "raw": "سكوترات", "translations": [] },
+            {
+              "raw": "كهربائية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "electric",
+                  "phonetic": "electric"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "نستأجر", "location": 14, "length": 6 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "سكوترات", "location": 21, "length": 7 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "", "location": 28, "length": 0 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            },
+            {
+              "raw": { "text": "كهربائية", "location": 29, "length": 8 },
+              "prefix": { "text": "", "location": 29, "length": 0 },
+              "suffix": { "text": "؟", "location": 37, "length": 1 },
+              "linker": { "text": " ", "location": 28, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "7TSSy8PssHhx0qs4MlCKi-imA_qZ3OI3",
+          "audio_updated_at": 1688291085,
+          "text": "Where can we rent electric scooters?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 625991,
+      "lesson": 3805,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 24176,
+      "alternates": [24175, 24178],
+      "sols": [
+        {
+          "key": "QYNRWXiNLmA14DO-NchOJ39mpu7FnX77",
+          "audio_updated_at": 1688291086,
+          "text": "Where can we charge electric scooters?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            { "raw": "can", "translations": [] },
+            { "raw": "we", "translations": [] },
+            { "raw": "charge", "translations": [] },
+            {
+              "raw": "electric",
+              "translations": [
+                { "type": "dictionary", "text": "الكهربائية", "phonetic": null }
+              ]
+            },
+            { "raw": "scooters", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "can", "location": 6, "length": 3 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "we", "location": 10, "length": 2 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "charge", "location": 13, "length": 6 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "electric", "location": 20, "length": 8 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": "", "location": 28, "length": 0 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            },
+            {
+              "raw": { "text": "scooters", "location": 29, "length": 8 },
+              "prefix": { "text": "", "location": 29, "length": 0 },
+              "suffix": { "text": "?", "location": 37, "length": 1 },
+              "linker": { "text": " ", "location": 28, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "7TSSy8PssHhx0qs4MlCKi-imA_qZ3OI3",
+          "text": "Where can we rent electric scooters?",
+          "phonetic": ""
+        },
+        {
+          "key": "VBPCmtPzoHpH440H7dx2ToT3cWaoibws",
+          "text": "Where can we charge electric cars?",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "QYNRWXiNLmA14DO-NchOJ39mpu7FnX77",
+          "audio_updated_at": 1688291086,
+          "text": "أين نستطيع أن نشحن السكوترات الكهربائية؟"
+        },
+        {
+          "key": "7TSSy8PssHhx0qs4MlCKi-imA_qZ3OI3",
+          "audio_updated_at": 1688291085,
+          "text": "أين نستطيع أن نستأجر سكوترات كهربائية؟"
+        },
+        {
+          "key": "VBPCmtPzoHpH440H7dx2ToT3cWaoibws",
+          "audio_updated_at": 1688291089,
+          "text": "أين نستطيع أن نشحن السيارات الكهربائية؟"
+        }
+      ]
+    },
+    {
+      "id": 625992,
+      "lesson": 3805,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 24178,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tEq5I67Jq6h",
+          "text": "السيارات",
+          "raw": { "text": "السيارات", "location": 19, "length": 8 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 27, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "t1rY-Z6-M8i",
+          "text": "نستطيع",
+          "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tn7HeSrVViV",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tY7zp3-pp5Z",
+          "text": "نشحن",
+          "raw": { "text": "نشحن", "location": 14, "length": 4 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tgEtBgz5al2",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 11, "length": 2 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "t9M9cBifUrZ",
+          "text": "تفعلون",
+          "raw": { "text": "تفعلون", "location": 5, "length": 6 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "t17jEMpLxby",
+          "text": "ماذا",
+          "raw": { "text": "ماذا", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tKHNkMBI5eR",
+          "text": "الكهربائية؟",
+          "raw": { "text": "الكهربائية", "location": 28, "length": 10 },
+          "prefix": { "text": "", "location": 28, "length": 0 },
+          "suffix": { "text": "؟", "location": 38, "length": 1 },
+          "linker": { "text": " ", "location": 27, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tn7HeSrVViV",
+        "t1rY-Z6-M8i",
+        "tgEtBgz5al2",
+        "tY7zp3-pp5Z",
+        "tEq5I67Jq6h",
+        "tKHNkMBI5eR"
+      ],
+      "sols": [
+        {
+          "key": "VBPCmtPzoHpH440H7dx2ToT3cWaoibws",
+          "audio_updated_at": 1688291089,
+          "text": "Where can we charge electric cars?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            { "raw": "can", "translations": [] },
+            { "raw": "we", "translations": [] },
+            { "raw": "charge", "translations": [] },
+            {
+              "raw": "electric",
+              "translations": [
+                { "type": "dictionary", "text": "الكهربائية", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "cars",
+              "translations": [
+                { "type": "dictionary", "text": "السيارات", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "can", "location": 6, "length": 3 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "we", "location": 10, "length": 2 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "charge", "location": 13, "length": 6 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "electric", "location": 20, "length": 8 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": "", "location": 28, "length": 0 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            },
+            {
+              "raw": { "text": "cars", "location": 29, "length": 4 },
+              "prefix": { "text": "", "location": 29, "length": 0 },
+              "suffix": { "text": "?", "location": 33, "length": 1 },
+              "linker": { "text": " ", "location": 28, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "VBPCmtPzoHpH440H7dx2ToT3cWaoibws",
+          "audio_updated_at": 1688291089,
+          "text": "أين نستطيع أن نشحن السيارات الكهربائية؟"
+        }
+      ]
+    },
+    {
+      "id": 625993,
+      "lesson": 3805,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24177,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tDnhfE4I_4f",
+          "text": "cars?",
+          "raw": { "text": "cars", "location": 29, "length": 4 },
+          "prefix": { "text": "", "location": 29, "length": 0 },
+          "suffix": { "text": "?", "location": 33, "length": 1 },
+          "linker": { "text": " ", "location": 28, "length": 1 }
+        },
+        {
+          "key": "tFyPWZ-KMl0",
+          "text": "scooters?",
+          "raw": { "text": "scooters", "location": 27, "length": 8 },
+          "prefix": { "text": "", "location": 27, "length": 0 },
+          "suffix": { "text": "?", "location": 35, "length": 1 },
+          "linker": { "text": " ", "location": 26, "length": 1 }
+        },
+        {
+          "key": "tXPXR7-ojO8",
+          "text": "park",
+          "raw": { "text": "park", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tNW0Fy9qcBG",
+          "text": "electric",
+          "raw": { "text": "electric", "location": 18, "length": 8 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 26, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "tMih8M5rKX0",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tHzWnhDOc97",
+          "text": "we",
+          "raw": { "text": "we", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tBKu4e6ljtU",
+          "text": "charge",
+          "raw": { "text": "charge", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "teArRtLNFLu",
+          "text": "can",
+          "raw": { "text": "can", "location": 6, "length": 3 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tMih8M5rKX0",
+        "teArRtLNFLu",
+        "tHzWnhDOc97",
+        "tXPXR7-ojO8",
+        "tNW0Fy9qcBG",
+        "tFyPWZ-KMl0"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "lthji0vLER_ueaI9LdavJ1_CikiOO4z2",
+          "audio_updated_at": 1688291087,
+          "text": "أين نستطيع أن نصف السكوترات الكهربائية؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            { "raw": "نستطيع", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            { "raw": "نصف", "translations": [] },
+            { "raw": "السكوترات", "translations": [] },
+            {
+              "raw": "الكهربائية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "electric",
+                  "phonetic": "electric"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "نصف", "location": 14, "length": 3 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "السكوترات", "location": 18, "length": 9 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 27, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "الكهربائية", "location": 28, "length": 10 },
+              "prefix": { "text": "", "location": 28, "length": 0 },
+              "suffix": { "text": "؟", "location": 38, "length": 1 },
+              "linker": { "text": " ", "location": 27, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "lthji0vLER_ueaI9LdavJ1_CikiOO4z2",
+          "audio_updated_at": 1688291087,
+          "text": "Where can we park electric scooters?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 625994,
+      "lesson": 3805,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 16527,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tOozyor41CQ",
+          "text": "الآمن",
+          "raw": { "text": "الآمن", "location": 6, "length": 5 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tRgqqlgdNLg",
+          "text": "الطرد",
+          "raw": { "text": "الطرد", "location": 3, "length": 5 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tZNFmj13zhW",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tft3mZEQRGk",
+          "text": "للغاية؟",
+          "raw": { "text": "للغاية", "location": 14, "length": 6 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "؟", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tZQ_kVyge82",
+          "text": "من",
+          "raw": { "text": "من", "location": 3, "length": 2 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tpo8N2Eh7x2",
+          "text": "ثقيل",
+          "raw": { "text": "ثقيل", "location": 9, "length": 4 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "teFaDU03OkG",
+          "text": "الاصطفاف",
+          "raw": { "text": "الاصطفاف", "location": 12, "length": 8 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "ta5GmFoobvc",
+          "text": "هنا؟",
+          "raw": { "text": "هنا", "location": 21, "length": 3 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "؟", "location": 24, "length": 1 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tZNFmj13zhW",
+        "tZQ_kVyge82",
+        "tOozyor41CQ",
+        "teFaDU03OkG",
+        "ta5GmFoobvc"
+      ],
+      "sols": [
+        {
+          "key": "kmnUNAhlB8rFbiw93oTpjswLo3hjROD4",
+          "audio_updated_at": 1543439920,
+          "text": "Is it safe to park here?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Is",
+              "translations": [
+                { "type": "dictionary", "text": "من", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "it", "translations": [] },
+            {
+              "raw": "safe",
+              "translations": [
+                { "type": "dictionary", "text": "الآمن", "phonetic": null }
+              ]
+            },
+            { "raw": "to", "translations": [] },
+            { "raw": "park", "translations": [] },
+            {
+              "raw": "here",
+              "translations": [
+                { "type": "dictionary", "text": "هنا", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Is", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "it", "location": 3, "length": 2 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "safe", "location": 6, "length": 4 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "to", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "park", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "here", "location": 19, "length": 4 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "?", "location": 23, "length": 1 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "kmnUNAhlB8rFbiw93oTpjswLo3hjROD4",
+          "audio_updated_at": 1543439920,
+          "text": "هل من الآمن الاصطفاف هنا؟"
+        }
+      ]
+    },
+    {
+      "id": 625995,
+      "lesson": 3805,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 24179,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "toT-CAWuXPk",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tXFywB8ohWN",
+          "text": "نحن",
+          "raw": { "text": "نحن", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "twcQSimObAm",
+          "text": "نحتاج",
+          "raw": { "text": "نحتاج", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tLzNT7e0Ppm",
+          "text": "طرد",
+          "raw": { "text": "طرد", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tb4yWS5UZEO",
+          "text": "دراجتين.",
+          "raw": { "text": "دراجتين", "location": 14, "length": 7 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tXFywB8ohWN", "twcQSimObAm", "toT-CAWuXPk", "tb4yWS5UZEO"],
+      "sols": [
+        {
+          "key": "fNvgevNcUvZn6vbourPS5lv4hd_NuxEn",
+          "audio_updated_at": 1688291090,
+          "text": "We need two bicycles.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "We",
+              "translations": [
+                { "type": "dictionary", "text": "نحن", "phonetic": null }
+              ]
+            },
+            { "raw": "need", "translations": [] },
+            { "raw": "two", "translations": [] },
+            {
+              "raw": "bicycles",
+              "translations": [
+                { "type": "dictionary", "text": "دراجتين", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "We", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "two", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "bicycles", "location": 12, "length": 8 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": ".", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "fNvgevNcUvZn6vbourPS5lv4hd_NuxEn",
+          "audio_updated_at": 1688291090,
+          "text": "نحن نحتاج إلى دراجتين."
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "tWF65ZdMzOC",
+            "text": "نحن",
+            "raw": { "text": "نحن", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "t3_kRf1fBSZ",
+            "text": "سكوترين",
+            "raw": { "text": "سكوترين", "location": 14, "length": 7 },
+            "prefix": { "text": "", "location": 14, "length": 0 },
+            "suffix": { "text": "", "location": 21, "length": 0 },
+            "linker": { "text": " ", "location": 13, "length": 1 }
+          },
+          {
+            "key": "tyrs_R1bR1i",
+            "text": "إلى",
+            "raw": { "text": "إلى", "location": 10, "length": 3 },
+            "prefix": { "text": "", "location": 10, "length": 0 },
+            "suffix": { "text": "", "location": 13, "length": 0 },
+            "linker": { "text": " ", "location": 9, "length": 1 }
+          },
+          {
+            "key": "tYLsg7Yj6b9",
+            "text": "كهربائيين.",
+            "raw": { "text": "كهربائيين", "location": 22, "length": 9 },
+            "prefix": { "text": "", "location": 22, "length": 0 },
+            "suffix": { "text": ".", "location": 31, "length": 1 },
+            "linker": { "text": " ", "location": 21, "length": 1 }
+          },
+          {
+            "key": "tES2vJhZnvv",
+            "text": "دراجتين.",
+            "raw": { "text": "دراجتين", "location": 14, "length": 7 },
+            "prefix": { "text": "", "location": 14, "length": 0 },
+            "suffix": { "text": ".", "location": 21, "length": 1 },
+            "linker": { "text": " ", "location": 13, "length": 1 }
+          },
+          {
+            "key": "tn6Am7MGloa",
+            "text": "نحتاج",
+            "raw": { "text": "نحتاج", "location": 4, "length": 5 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 9, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": ["tWF65ZdMzOC", "tn6Am7MGloa", "tyrs_R1bR1i", "tES2vJhZnvv"],
+        "sols": [
+          {
+            "key": "fNvgevNcUvZn6vbourPS5lv4hd_NuxEn",
+            "audio_updated_at": 1688291090,
+            "text": "We need two bicycles.",
+            "phonetic": "",
+            "dictionary": [
+              {
+                "raw": "We",
+                "translations": [
+                  { "type": "dictionary", "text": "نحن", "phonetic": null }
+                ]
+              },
+              { "raw": "need", "translations": [] },
+              { "raw": "two", "translations": [] },
+              {
+                "raw": "bicycles",
+                "translations": [
+                  { "type": "dictionary", "text": "دراجتين", "phonetic": null }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "We", "location": 0, "length": 2 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 2, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "need", "location": 3, "length": 4 },
+                "prefix": { "text": "", "location": 3, "length": 0 },
+                "suffix": { "text": "", "location": 7, "length": 0 },
+                "linker": { "text": " ", "location": 2, "length": 1 }
+              },
+              {
+                "raw": { "text": "two", "location": 8, "length": 3 },
+                "prefix": { "text": "", "location": 8, "length": 0 },
+                "suffix": { "text": "", "location": 11, "length": 0 },
+                "linker": { "text": " ", "location": 7, "length": 1 }
+              },
+              {
+                "raw": { "text": "bicycles", "location": 12, "length": 8 },
+                "prefix": { "text": "", "location": 12, "length": 0 },
+                "suffix": { "text": ".", "location": 20, "length": 1 },
+                "linker": { "text": " ", "location": 11, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "fNvgevNcUvZn6vbourPS5lv4hd_NuxEn",
+            "audio_updated_at": 1688291090,
+            "text": "نحن نحتاج إلى دراجتين."
+          }
+        ]
+      }
+    },
+    {
+      "id": 625996,
+      "lesson": 3805,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 24180,
+      "alternates": [24174, 24179],
+      "sols": [
+        {
+          "key": "n0qTuaonC58976AqnAl5MJwAA1qA76ce",
+          "audio_updated_at": 1688291091,
+          "text": "نحن نحتاج إلى سكوترين كهربائيين.",
+          "dictionary": [
+            {
+              "raw": "نحن",
+              "translations": [
+                { "type": "dictionary", "text": "We", "phonetic": "We" }
+              ]
+            },
+            {
+              "raw": "نحتاج",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "We need",
+                  "phonetic": "We need"
+                }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            { "raw": "سكوترين", "translations": [] },
+            {
+              "raw": "كهربائيين",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "electric",
+                  "phonetic": "electric"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "نحن", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نحتاج", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "سكوترين", "location": 14, "length": 7 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 21, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "كهربائيين", "location": 22, "length": 9 },
+              "prefix": { "text": "", "location": 22, "length": 0 },
+              "suffix": { "text": ".", "location": 31, "length": 1 },
+              "linker": { "text": " ", "location": 21, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "fNvgevNcUvZn6vbourPS5lv4hd_NuxEn",
+          "text": "نحن نحتاج إلى دراجتين."
+        },
+        {
+          "key": "O9MmvcjZYO6BRiEvUEBHFjU4277_P63R",
+          "text": "أين نستطيع أن نستأجر دراجات؟"
+        }
+      ],
+      "alts": [
+        {
+          "key": "n0qTuaonC58976AqnAl5MJwAA1qA76ce",
+          "audio_updated_at": 1688291091,
+          "text": "We need two electric scooters.",
+          "phonetic": ""
+        },
+        {
+          "key": "fNvgevNcUvZn6vbourPS5lv4hd_NuxEn",
+          "audio_updated_at": 1688291090,
+          "text": "We need two bicycles.",
+          "phonetic": ""
+        },
+        {
+          "key": "O9MmvcjZYO6BRiEvUEBHFjU4277_P63R",
+          "audio_updated_at": 1688291084,
+          "text": "Where can we rent bicycles?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 625997,
+      "lesson": 3805,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 24174,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t8RS52_QlG_",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t_9Vd5ymGQD",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 11, "length": 2 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tDQk4nM4Rd8",
+          "text": "سكوترات",
+          "raw": { "text": "سكوترات", "location": 21, "length": 7 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "", "location": 28, "length": 0 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "tEhy1m0GY0b",
+          "text": "نستأجر",
+          "raw": { "text": "نستأجر", "location": 14, "length": 6 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tOoxZCmms8E",
+          "text": "دراجات؟",
+          "raw": { "text": "دراجات", "location": 21, "length": 6 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "؟", "location": 27, "length": 1 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "tJk-Xvxy39g",
+          "text": "كهربائية؟",
+          "raw": { "text": "كهربائية", "location": 29, "length": 8 },
+          "prefix": { "text": "", "location": 29, "length": 0 },
+          "suffix": { "text": "؟", "location": 37, "length": 1 },
+          "linker": { "text": " ", "location": 28, "length": 1 }
+        },
+        {
+          "key": "ta6QGcQCYys",
+          "text": "نستطيع",
+          "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "t8RS52_QlG_",
+        "ta6QGcQCYys",
+        "t_9Vd5ymGQD",
+        "tEhy1m0GY0b",
+        "tOoxZCmms8E"
+      ],
+      "sols": [
+        {
+          "key": "O9MmvcjZYO6BRiEvUEBHFjU4277_P63R",
+          "audio_updated_at": 1688291084,
+          "text": "Where can we rent bicycles?",
+          "phonetic": ""
+        },
+        {
+          "key": "O9MmvcjZYO6BRiEvUEBHFjU4277_P63R",
+          "audio_updated_at": 1688291084,
+          "text": "أين نستطيع أن نستأجر دراجات؟"
+        }
+      ]
+    },
+    {
+      "id": 625998,
+      "lesson": 3805,
+      "type": "T2",
+      "modifiers": 60,
+      "wordID": 24175,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "7TSSy8PssHhx0qs4MlCKi-imA_qZ3OI3",
+          "audio_updated_at": 1688291085,
+          "text": "Where can we rent electric scooters?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            { "raw": "can", "translations": [] },
+            { "raw": "we", "translations": [] },
+            { "raw": "rent", "translations": [] },
+            {
+              "raw": "electric",
+              "translations": [
+                { "type": "dictionary", "text": "كهربائية", "phonetic": null }
+              ]
+            },
+            { "raw": "scooters", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "can", "location": 6, "length": 3 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "we", "location": 10, "length": 2 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "rent", "location": 13, "length": 4 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "electric", "location": 18, "length": 8 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 26, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "scooters", "location": 27, "length": 8 },
+              "prefix": { "text": "", "location": 27, "length": 0 },
+              "suffix": { "text": "?", "location": 35, "length": 1 },
+              "linker": { "text": " ", "location": 26, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "7TSSy8PssHhx0qs4MlCKi-imA_qZ3OI3",
+          "audio_updated_at": 1688291085,
+          "text": "أين نستطيع أن نستأجر سكوترات كهربائية؟"
+        }
+      ]
+    },
+    {
+      "id": 625999,
+      "lesson": 3805,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 24176,
+      "alternates": [24177, 16527],
+      "sols": [
+        {
+          "key": "QYNRWXiNLmA14DO-NchOJ39mpu7FnX77",
+          "audio_updated_at": 1688291086,
+          "text": "أين نستطيع أن نشحن السكوترات الكهربائية؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            { "raw": "نستطيع", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            { "raw": "نشحن", "translations": [] },
+            { "raw": "السكوترات", "translations": [] },
+            {
+              "raw": "الكهربائية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "electric",
+                  "phonetic": "electric"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "نشحن", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "السكوترات", "location": 19, "length": 9 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 28, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "الكهربائية", "location": 29, "length": 10 },
+              "prefix": { "text": "", "location": 29, "length": 0 },
+              "suffix": { "text": "؟", "location": 39, "length": 1 },
+              "linker": { "text": " ", "location": 28, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "lthji0vLER_ueaI9LdavJ1_CikiOO4z2",
+          "text": "أين نستطيع أن نصف السكوترات الكهربائية؟"
+        },
+        {
+          "key": "kmnUNAhlB8rFbiw93oTpjswLo3hjROD4",
+          "text": "هل من الآمن الاصطفاف هنا؟"
+        }
+      ],
+      "alts": [
+        {
+          "key": "QYNRWXiNLmA14DO-NchOJ39mpu7FnX77",
+          "audio_updated_at": 1688291086,
+          "text": "Where can we charge electric scooters?",
+          "phonetic": ""
+        },
+        {
+          "key": "lthji0vLER_ueaI9LdavJ1_CikiOO4z2",
+          "audio_updated_at": 1688291087,
+          "text": "Where can we park electric scooters?",
+          "phonetic": ""
+        },
+        {
+          "key": "kmnUNAhlB8rFbiw93oTpjswLo3hjROD4",
+          "audio_updated_at": 1543439920,
+          "text": "Is it safe to park here?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 626000,
+      "lesson": 3805,
+      "type": "T2b",
+      "modifiers": 92,
+      "wordID": 24178,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "VBPCmtPzoHpH440H7dx2ToT3cWaoibws",
+          "audio_updated_at": 1688291089,
+          "text": "أين نستطيع أن نشحن السيارات الكهربائية؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            { "raw": "نستطيع", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            { "raw": "نشحن", "translations": [] },
+            {
+              "raw": "السيارات",
+              "translations": [
+                { "type": "dictionary", "text": "cars", "phonetic": "cars" }
+              ]
+            },
+            {
+              "raw": "الكهربائية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "electric",
+                  "phonetic": "electric"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "نشحن", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "السيارات", "location": 19, "length": 8 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 27, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "الكهربائية", "location": 28, "length": 10 },
+              "prefix": { "text": "", "location": 28, "length": 0 },
+              "suffix": { "text": "؟", "location": 38, "length": 1 },
+              "linker": { "text": " ", "location": 27, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "VBPCmtPzoHpH440H7dx2ToT3cWaoibws",
+          "audio_updated_at": 1688291089,
+          "text": "Where can we charge electric cars?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 626001,
+      "lesson": 3805,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 24177,
+      "alternates": [24174, 24180],
+      "sols": [
+        {
+          "key": "lthji0vLER_ueaI9LdavJ1_CikiOO4z2",
+          "audio_updated_at": 1688291087,
+          "text": "أين نستطيع أن نصف السكوترات الكهربائية؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            { "raw": "نستطيع", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            { "raw": "نصف", "translations": [] },
+            { "raw": "السكوترات", "translations": [] },
+            {
+              "raw": "الكهربائية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "electric",
+                  "phonetic": "electric"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "نصف", "location": 14, "length": 3 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "السكوترات", "location": 18, "length": 9 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 27, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "الكهربائية", "location": 28, "length": 10 },
+              "prefix": { "text": "", "location": 28, "length": 0 },
+              "suffix": { "text": "؟", "location": 38, "length": 1 },
+              "linker": { "text": " ", "location": 27, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "n0qTuaonC58976AqnAl5MJwAA1qA76ce",
+          "text": "نحن نحتاج إلى سكوترين كهربائيين."
+        },
+        {
+          "key": "O9MmvcjZYO6BRiEvUEBHFjU4277_P63R",
+          "text": "أين نستطيع أن نستأجر دراجات؟"
+        }
+      ],
+      "alts": [
+        {
+          "key": "lthji0vLER_ueaI9LdavJ1_CikiOO4z2",
+          "audio_updated_at": 1688291087,
+          "text": "Where can we park electric scooters?",
+          "phonetic": ""
+        },
+        {
+          "key": "n0qTuaonC58976AqnAl5MJwAA1qA76ce",
+          "audio_updated_at": 1688291091,
+          "text": "We need two electric scooters.",
+          "phonetic": ""
+        },
+        {
+          "key": "O9MmvcjZYO6BRiEvUEBHFjU4277_P63R",
+          "audio_updated_at": 1688291084,
+          "text": "Where can we rent bicycles?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 626002,
+      "lesson": 3805,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 16527,
+      "alternates": [24175, 24177],
+      "sols": [
+        {
+          "key": "kmnUNAhlB8rFbiw93oTpjswLo3hjROD4",
+          "audio_updated_at": 1543439920,
+          "text": "Is it safe to park here?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Is",
+              "translations": [
+                { "type": "dictionary", "text": "من", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "it", "translations": [] },
+            {
+              "raw": "safe",
+              "translations": [
+                { "type": "dictionary", "text": "الآمن", "phonetic": null }
+              ]
+            },
+            { "raw": "to", "translations": [] },
+            { "raw": "park", "translations": [] },
+            {
+              "raw": "here",
+              "translations": [
+                { "type": "dictionary", "text": "هنا", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Is", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "it", "location": 3, "length": 2 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "safe", "location": 6, "length": 4 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "to", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "park", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "here", "location": 19, "length": 4 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "?", "location": 23, "length": 1 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "lthji0vLER_ueaI9LdavJ1_CikiOO4z2",
+          "text": "Where can we park electric scooters?",
+          "phonetic": ""
+        },
+        {
+          "key": "7TSSy8PssHhx0qs4MlCKi-imA_qZ3OI3",
+          "text": "Where can we rent electric scooters?",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "kmnUNAhlB8rFbiw93oTpjswLo3hjROD4",
+          "audio_updated_at": 1543439920,
+          "text": "هل من الآمن الاصطفاف هنا؟"
+        },
+        {
+          "key": "lthji0vLER_ueaI9LdavJ1_CikiOO4z2",
+          "audio_updated_at": 1688291087,
+          "text": "أين نستطيع أن نصف السكوترات الكهربائية؟"
+        },
+        {
+          "key": "7TSSy8PssHhx0qs4MlCKi-imA_qZ3OI3",
+          "audio_updated_at": 1688291085,
+          "text": "أين نستطيع أن نستأجر سكوترات كهربائية؟"
+        }
+      ]
+    }
+  ]
+}

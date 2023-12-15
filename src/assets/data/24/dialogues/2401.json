@@ -1,0 +1,1184 @@
+{
+  "dialogue": {
+    "id": 2401,
+    "index": 1,
+    "category": 24,
+    "categoryID": 24,
+    "categoryModifiers": 0,
+    "isCourse": false,
+    "name": "جولة في المتنزه",
+    "done": false,
+    "disabled": false,
+    "countItem": 15,
+    "countDone": 0,
+    "countWords": 45,
+    "countPhrases": 15,
+    "dItems": [
+      9204, 9205, 9206, 9207, 9208, 9209, 9210, 9211, 9212, 9213, 9214, 9215,
+      9216, 9217, 9218
+    ]
+  },
+  "dItems": [
+    {
+      "id": 9204,
+      "i": 0,
+      "positionIndex": 0,
+      "dialogue": 2401,
+      "wordID": 30802,
+      "key": "Rn9ettdCeHcj8w0qd8hV7N7fEx1wAmWi",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "مرحبًا!",
+          "dictionary": [{ "raw": "مرحبًا", "translations": [] }]
+        },
+        {
+          "text": "Hi! ",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Hi",
+              "translations": [
+                { "type": "dictionary", "text": "مرحبًا", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292162
+    },
+    {
+      "id": 9205,
+      "i": 1,
+      "positionIndex": 1,
+      "dialogue": 2401,
+      "wordID": 30803,
+      "key": "qH-jrmBo-_GhAjj5PkvmA72TNhY6XT1i",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "مرحبًا! هل تركضين في هذا المتنزه كثيرًا؟",
+          "dictionary": [
+            { "raw": "مرحبًا", "translations": [] },
+            { "raw": "هل", "translations": [] },
+            { "raw": "تركضين", "translations": [] },
+            { "raw": "في", "translations": [] },
+            { "raw": "هذا", "translations": [] },
+            { "raw": "المتنزه", "translations": [] },
+            { "raw": "كثيرًا", "translations": [] }
+          ]
+        },
+        {
+          "text": "Hi! Do you run in this park often?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Hi",
+              "translations": [
+                { "type": "dictionary", "text": "مرحبًا", "phonetic": null }
+              ]
+            },
+            { "raw": "Do", "translations": [] },
+            { "raw": "you", "translations": [] },
+            {
+              "raw": "run",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to run", "m": "يركض", "phonetic": "to run" },
+                  "id": 69,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "RsbJxudYt42N0s0Ux3DzxRz8kbzFwbis",
+                          "text": "I run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438376
+                        },
+                        "m": { "text": "أنا أركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "md55uG5koJMM8tUnjtscsmQlcs8w7MqM",
+                          "text": "You run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438378
+                        },
+                        "m": { "text": "أنت تركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "vrUPBalECawCSSAeP2RB4CphcQMqcNI5",
+                          "text": "He runs",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438379
+                        },
+                        "m": { "text": "هو يركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "eyjClNJYhSyNsIP9mWyGPjmnrdCeU_Me",
+                          "text": "She runs",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438380
+                        },
+                        "m": { "text": "هي تركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "ktozM3qL9ODySCuqOzxY0JF6cH00Mloj",
+                          "text": "We run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438381
+                        },
+                        "m": { "text": "نحن نركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "y734XrnXPUyGVHDsXr1LIuDR4LEWhn8x",
+                          "text": "You run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438383
+                        },
+                        "m": { "text": "أنتم تركضون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ydD6DTK0Fr0q-EubAEUid0sGRxP5qs2B",
+                          "text": "They run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438384
+                        },
+                        "m": { "text": "هم يركضون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "0YXOfF3iebBEwsfQibu-ltwS4c3qM0bT",
+                          "text": "I ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548208
+                        },
+                        "m": { "text": "أنا ركضت" }
+                      },
+                      {
+                        "t": {
+                          "key": "qd3mobxXXKmchFkPMpwZvU71Om5jDC2W",
+                          "text": "You ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548209
+                        },
+                        "m": { "text": "أنت ركضت" }
+                      },
+                      {
+                        "t": {
+                          "key": "FmcEVMVSK5I9UC3wTOXTLBz1x3dZ-PiT",
+                          "text": "He ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548211
+                        },
+                        "m": { "text": "هو ركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "RQMQA7j9riMj7gheFuPPkIJDh0woj82e",
+                          "text": "She ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548212
+                        },
+                        "m": { "text": "هي ركضت" }
+                      },
+                      {
+                        "t": {
+                          "key": "qiGnWRH9qk5q9OkSS62ERboR0grh-Gk0",
+                          "text": "We ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548214
+                        },
+                        "m": { "text": "نحن ركضنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "nghxDZjgEQYoPvKbTnpn36t4Lcs6J8n5",
+                          "text": "You ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548215
+                        },
+                        "m": { "text": "أنتم ركضتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "mvqYRc5TxXRQghkV0aHWACuDsDEXpCSU",
+                          "text": "They ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548216
+                        },
+                        "m": { "text": "هم ركضوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "L5WVvEcHdt4K7ieFoy2zMkb9w6eyw1di",
+                          "text": "I will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548217
+                        },
+                        "m": { "text": "أنا سأركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "EMOu41yiKT4D8eEtO0_bX-wA0jti2fDn",
+                          "text": "You will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548218
+                        },
+                        "m": { "text": "أنت ستركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "Gsrh1mVyAElwvTG_HKjB5qB9QARMr00Q",
+                          "text": "He will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548219
+                        },
+                        "m": { "text": "هو سيركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "rvwTTIEtAtR2TwK7bkRJQ1xh2q8cAidV",
+                          "text": "She will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548220
+                        },
+                        "m": { "text": "هي ستركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "d9Cf9mNmv9daEeUc7ubOfYa5NNVighI6",
+                          "text": "We will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548222
+                        },
+                        "m": { "text": "نحن سنركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "Xp8IMiEcHQhUraFiJcbPGkMGMG1hYKvm",
+                          "text": "You will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548223
+                        },
+                        "m": { "text": "أنتم ستركضون" }
+                      },
+                      {
+                        "t": {
+                          "key": "NmMAGef2w8SkLBM1aGhqiBxQw0Kub8WW",
+                          "text": "They will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548224
+                        },
+                        "m": { "text": "هم سيركضون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "in",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "this",
+              "translations": [
+                { "type": "dictionary", "text": "هذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "park",
+              "translations": [
+                { "type": "dictionary", "text": "المتنزه", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "often",
+              "translations": [
+                { "type": "dictionary", "text": "كثيرًا", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292164
+    },
+    {
+      "id": 9206,
+      "i": 2,
+      "positionIndex": 2,
+      "dialogue": 2401,
+      "wordID": 30804,
+      "key": "kkGA9B4YxYhPjG1Tqul04UjdoHg16XR4",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "نعم، كل صباح.",
+          "dictionary": [
+            { "raw": "نعم", "translations": [] },
+            { "raw": "كل", "translations": [] },
+            { "raw": "صباح", "translations": [] }
+          ]
+        },
+        {
+          "text": "Yes, every morning.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Yes",
+              "translations": [
+                { "type": "dictionary", "text": "نعم", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "every",
+              "translations": [
+                { "type": "dictionary", "text": "كل", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "morning",
+              "translations": [
+                { "type": "dictionary", "text": "صباح", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292165
+    },
+    {
+      "id": 9207,
+      "i": 3,
+      "positionIndex": 3,
+      "dialogue": 2401,
+      "wordID": 30805,
+      "key": "1BdWQ75jpmY_atTyEBe5VQgGxRR7t_k_",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "وأنا أيضًا. إنه متنزه جميل حقًا.",
+          "dictionary": [
+            { "raw": "وأنا", "translations": [] },
+            { "raw": "أيضًا", "translations": [] },
+            { "raw": "إنه", "translations": [] },
+            { "raw": "متنزه", "translations": [] },
+            { "raw": "جميل", "translations": [] },
+            { "raw": "حقًا", "translations": [] }
+          ]
+        },
+        {
+          "text": "Me too. It's a really nice park.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Me",
+              "translations": [
+                { "type": "dictionary", "text": "وأنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "too",
+              "translations": [
+                { "type": "dictionary", "text": "أيضًا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "It's",
+              "translations": [
+                { "type": "dictionary", "text": "إنه", "phonetic": null }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "really",
+              "translations": [
+                { "type": "dictionary", "text": "حقًا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "nice",
+              "translations": [
+                { "type": "dictionary", "text": "جميل", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "park",
+              "translations": [
+                { "type": "dictionary", "text": "متنزه", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292166
+    },
+    {
+      "id": 9208,
+      "i": 4,
+      "positionIndex": 4,
+      "dialogue": 2401,
+      "wordID": 30806,
+      "key": "6Q2qBtemq430aiEhTMPrf_XGTmlism85",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "بالفعل.",
+          "dictionary": [{ "raw": "بالفعل", "translations": [] }]
+        },
+        {
+          "text": "Indeed.",
+          "phonetic": "",
+          "dictionary": [{ "raw": "Indeed", "translations": [] }]
+        }
+      ],
+      "audio_updated_at": 1688292167
+    },
+    {
+      "id": 9209,
+      "i": 5,
+      "positionIndex": 5,
+      "dialogue": 2401,
+      "wordID": 30807,
+      "key": "wOqAFWCAT3ZwYrh3QTZFAF4xeZcImWaA",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "هل تمارسين أي رياضة أخرى؟",
+          "dictionary": [
+            { "raw": "هل", "translations": [] },
+            { "raw": "تمارسين", "translations": [] },
+            { "raw": "أي", "translations": [] },
+            { "raw": "رياضة", "translations": [] },
+            { "raw": "أخرى", "translations": [] }
+          ]
+        },
+        {
+          "text": "Do you practice any other sports?",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Do", "translations": [] },
+            { "raw": "you", "translations": [] },
+            { "raw": "practice", "translations": [] },
+            {
+              "raw": "any",
+              "translations": [
+                { "type": "dictionary", "text": "أي", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "other",
+              "translations": [
+                { "type": "dictionary", "text": "أخرى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "sports",
+              "translations": [
+                { "type": "dictionary", "text": "رياضة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292168
+    },
+    {
+      "id": 9210,
+      "i": 6,
+      "positionIndex": 6,
+      "dialogue": 2401,
+      "wordID": 30808,
+      "key": "PEofYHi8Jon0uMwoojpRaq6aSmpW35-h",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "نعم. ألعب كرة المضرب وكرة السلة. وأنت؟",
+          "dictionary": [
+            { "raw": "نعم", "translations": [] },
+            { "raw": "ألعب", "translations": [] },
+            { "raw": "كرة", "translations": [] },
+            { "raw": "المضرب", "translations": [] },
+            { "raw": "وكرة", "translations": [] },
+            { "raw": "السلة", "translations": [] },
+            { "raw": "وأنت", "translations": [] }
+          ]
+        },
+        {
+          "text": "Yes. I play tennis and basketball. And you?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Yes",
+              "translations": [
+                { "type": "dictionary", "text": "نعم", "phonetic": null }
+              ]
+            },
+            { "raw": "I", "translations": [] },
+            {
+              "raw": "play",
+              "translations": [
+                { "type": "dictionary", "text": "ألعب", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "tennis",
+              "translations": [
+                { "type": "dictionary", "text": "كرة المضرب", "phonetic": null }
+              ]
+            },
+            { "raw": "and", "translations": [] },
+            {
+              "raw": "basketball",
+              "translations": [
+                { "type": "dictionary", "text": "السلة", "phonetic": null }
+              ]
+            },
+            { "raw": "And", "translations": [] },
+            {
+              "raw": "you",
+              "translations": [
+                { "type": "dictionary", "text": "وأنت", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292170
+    },
+    {
+      "id": 9211,
+      "i": 7,
+      "positionIndex": 7,
+      "dialogue": 2401,
+      "wordID": 30809,
+      "key": "FwZJz_LuiSDnOhRsMGLpHbGe85lHrO6z",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "أنا ألعب كرة المضرب، أيضًا.",
+          "dictionary": [
+            { "raw": "أنا", "translations": [] },
+            { "raw": "ألعب", "translations": [] },
+            { "raw": "كرة", "translations": [] },
+            { "raw": "المضرب", "translations": [] },
+            { "raw": "أيضًا", "translations": [] }
+          ]
+        },
+        {
+          "text": "I play tennis, too.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "play",
+              "translations": [
+                { "type": "dictionary", "text": "ألعب", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "tennis",
+              "translations": [
+                { "type": "dictionary", "text": "كرة المضرب", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "too",
+              "translations": [
+                { "type": "dictionary", "text": "أيضًا", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292171
+    },
+    {
+      "id": 9212,
+      "i": 8,
+      "positionIndex": 8,
+      "dialogue": 2401,
+      "wordID": 30810,
+      "key": "CmvGH-UzJz-MLtovqi0x0tK5-4k08nWa",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "حقًا؟ كم مرة؟",
+          "dictionary": [
+            { "raw": "حقًا", "translations": [] },
+            { "raw": "كم", "translations": [] },
+            { "raw": "مرة", "translations": [] }
+          ]
+        },
+        {
+          "text": "Really? How often?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Really",
+              "translations": [
+                { "type": "dictionary", "text": "حقًا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "How",
+              "translations": [
+                { "type": "dictionary", "text": "كم", "phonetic": null }
+              ]
+            },
+            { "raw": "often", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292172
+    },
+    {
+      "id": 9213,
+      "i": 9,
+      "positionIndex": 9,
+      "dialogue": 2401,
+      "wordID": 30811,
+      "key": "FseIB993oGn06wg8pxlBK3vikoljMsol",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "مرة واحدة في الأسبوع.",
+          "dictionary": [
+            { "raw": "مرة", "translations": [] },
+            { "raw": "واحدة", "translations": [] },
+            { "raw": "في", "translations": [] },
+            { "raw": "الأسبوع", "translations": [] }
+          ]
+        },
+        {
+          "text": "Once a week.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Once",
+              "translations": [
+                { "type": "dictionary", "text": "مرة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "a",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "week",
+              "translations": [
+                { "type": "dictionary", "text": "الأسبوع", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292173
+    },
+    {
+      "id": 9214,
+      "i": 10,
+      "positionIndex": 10,
+      "dialogue": 2401,
+      "wordID": 30812,
+      "key": "NpHIoVddrX97jg2qmvYnKLPui1LBY-_S",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "جميل. أنا ألعب كرة المضرب مرتين في الأسبوع.",
+          "dictionary": [
+            { "raw": "جميل", "translations": [] },
+            { "raw": "أنا", "translations": [] },
+            { "raw": "ألعب", "translations": [] },
+            { "raw": "كرة", "translations": [] },
+            { "raw": "المضرب", "translations": [] },
+            { "raw": "مرتين", "translations": [] },
+            { "raw": "في", "translations": [] },
+            { "raw": "الأسبوع", "translations": [] }
+          ]
+        },
+        {
+          "text": "Nice. I play tennis twice a week.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Nice",
+              "translations": [
+                { "type": "dictionary", "text": "جميل", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "play",
+              "translations": [
+                { "type": "dictionary", "text": "ألعب", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "tennis",
+              "translations": [
+                { "type": "dictionary", "text": "كرة المضرب", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "twice",
+              "translations": [
+                { "type": "dictionary", "text": "مرتين", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "a",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "week",
+              "translations": [
+                { "type": "dictionary", "text": "الأسبوع", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292174
+    },
+    {
+      "id": 9215,
+      "i": 11,
+      "positionIndex": 11,
+      "dialogue": 2401,
+      "wordID": 30813,
+      "key": "9g6Jq4sAHlQLoF9A9O4gfIewbPj99xVC",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "يجب أن نلعب معًا بعض الوقت.",
+          "dictionary": [
+            { "raw": "يجب", "translations": [] },
+            { "raw": "أن", "translations": [] },
+            { "raw": "نلعب", "translations": [] },
+            { "raw": "معًا", "translations": [] },
+            { "raw": "بعض", "translations": [] },
+            { "raw": "الوقت", "translations": [] }
+          ]
+        },
+        {
+          "text": "We should play together some time.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "We", "translations": [] },
+            {
+              "raw": "should",
+              "translations": [
+                { "type": "dictionary", "text": "يجب", "phonetic": null }
+              ]
+            },
+            { "raw": "play", "translations": [] },
+            {
+              "raw": "together",
+              "translations": [
+                { "type": "dictionary", "text": "معًا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "some",
+              "translations": [
+                { "type": "dictionary", "text": "بعض", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "time",
+              "translations": [
+                { "type": "dictionary", "text": "الوقت", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292175
+    },
+    {
+      "id": 9216,
+      "i": 12,
+      "positionIndex": 12,
+      "dialogue": 2401,
+      "wordID": 30814,
+      "key": "PDy8gox-cQXvvOf3NiV3lPhCTJHhncyR",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "بالتأكيد! ماذا عن نهاية الأسبوع هذه؟",
+          "dictionary": [
+            { "raw": "بالتأكيد", "translations": [] },
+            { "raw": "ماذا", "translations": [] },
+            { "raw": "عن", "translations": [] },
+            { "raw": "نهاية", "translations": [] },
+            { "raw": "الأسبوع", "translations": [] },
+            { "raw": "هذه", "translations": [] }
+          ]
+        },
+        {
+          "text": "Sure! What about this weekend?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Sure",
+              "translations": [
+                { "type": "dictionary", "text": "بالتأكيد", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "What",
+              "translations": [
+                { "type": "dictionary", "text": "ماذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "about",
+              "translations": [
+                { "type": "dictionary", "text": "عن", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "this",
+              "translations": [
+                { "type": "dictionary", "text": "هذه", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "weekend",
+              "translations": [
+                { "type": "dictionary", "text": "نهاية", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292176
+    },
+    {
+      "id": 9217,
+      "i": 13,
+      "positionIndex": 13,
+      "dialogue": 2401,
+      "wordID": 30815,
+      "key": "bEGOu6zDPn0ZJwove9G8PRkJ7GN1LRSh",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "هذا مثالي!",
+          "dictionary": [
+            { "raw": "هذا", "translations": [] },
+            { "raw": "مثالي", "translations": [] }
+          ]
+        },
+        {
+          "text": "That's perfect!",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "That's",
+              "translations": [
+                { "type": "dictionary", "text": "هذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "perfect",
+              "translations": [
+                { "type": "dictionary", "text": "مثالي", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292177
+    },
+    {
+      "id": 9218,
+      "i": 14,
+      "positionIndex": 14,
+      "dialogue": 2401,
+      "wordID": 30816,
+      "key": "8eY-MSwe-z6ag-sSMMhA3pG8ReZGgTm2",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "رائع، أراك حينها!",
+          "dictionary": [
+            { "raw": "رائع", "translations": [] },
+            { "raw": "أراك", "translations": [] },
+            { "raw": "حينها", "translations": [] }
+          ]
+        },
+        {
+          "text": "Great, see you then!",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Great", "translations": [] },
+            {
+              "raw": "see",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to see", "m": "يرى", "phonetic": "to see" },
+                  "id": 71,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "MTom3LMZVaDdAoO3Yt7QvVcsiTx4XEEk",
+                          "text": "I see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438393
+                        },
+                        "m": { "text": "أنا أرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "-hepcdwx0P_RiWZeHi2mJSw3GnGXLwg1",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438394
+                        },
+                        "m": { "text": "أنت ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "7vHnJwr8FUNgpYscAlQs_RzKyddJyZCr",
+                          "text": "He sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438395
+                        },
+                        "m": { "text": "هو يرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "QXXgxYq5LhHxrdcaClOIBS8Ysb4q4AOR",
+                          "text": "She sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438397
+                        },
+                        "m": { "text": "هي ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "uv9SFXXCAmfk9BH3JlSgXllAFQ6csRAN",
+                          "text": "We see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438398
+                        },
+                        "m": { "text": "نحن نرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "Et7XvHIuH8NqW0FwQ9QIbmzkFSInX66C",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548255
+                        },
+                        "m": { "text": "أنتم ترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "54REkAfCLzVvHIbwBaKq9I8ZLK559Wix",
+                          "text": "They see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438400
+                        },
+                        "m": { "text": "هم يرون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "aiZj-Cj4BRY8P8s-fq3GbuPGd9OiPyjz",
+                          "text": "I saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548257
+                        },
+                        "m": { "text": "أنا رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZDMFy2mgFha3PfWQSzsl71kBrjquf9v4",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548258
+                        },
+                        "m": { "text": "أنت رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "viznNpNOyvjNfDTmqXAdFdmifryzbYpW",
+                          "text": "He saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548259
+                        },
+                        "m": { "text": "هو رأى" }
+                      },
+                      {
+                        "t": {
+                          "key": "htauzPhP723-3XPFH0L6QZTz3sF5qpEY",
+                          "text": "She saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548260
+                        },
+                        "m": { "text": "هي رأت" }
+                      },
+                      {
+                        "t": {
+                          "key": "VJ78-sfQWo8jNVNsRn1AErz3Vf7SPf7d",
+                          "text": "We saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548262
+                        },
+                        "m": { "text": "نحن رأينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "UdYI1cogW5jKoZBz9M45O8_7DNwbFmcc",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548263
+                        },
+                        "m": { "text": "أنتم رأيتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "vL_X6jxrPfpx3sGBCqrFAJHsp8RqHC3C",
+                          "text": "They saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548264
+                        },
+                        "m": { "text": "هم رأوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "zdKWGjQkRha9pZJ_NWjYFyWJzihqgNuA",
+                          "text": "I will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548265
+                        },
+                        "m": { "text": "أنا سأرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "jN_6eBTdppkl4Va_wheb0wEAtdh7cbJV",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548266
+                        },
+                        "m": { "text": "أنت سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JRYOAkNpJUETkw9D--dDDeULljLXETz9",
+                          "text": "He will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548267
+                        },
+                        "m": { "text": "هو سيرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "VS4wwyLJJv-_Cq3qVw_Sufi1CC3JCc2X",
+                          "text": "She will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548268
+                        },
+                        "m": { "text": "هي سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "krpjdNOxGIooSOrQxCd_YAFtkOU-ZJ6v",
+                          "text": "We will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548271
+                        },
+                        "m": { "text": "نحن سنرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "FYJYa-jB4j2AWvxWECnD0hKpZLqZWWlI",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548272
+                        },
+                        "m": { "text": "أنتم سترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "d0Ga1izvgstz3tAIminEaS00qNB-Pfmt",
+                          "text": "They will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548273
+                        },
+                        "m": { "text": "هم سيرون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "you", "translations": [] },
+            { "raw": "then", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292179
+    }
+  ]
+}

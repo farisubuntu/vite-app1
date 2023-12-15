@@ -1,0 +1,3605 @@
+{
+  "lesson": {
+    "id": 3402,
+    "index": 2,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 34,
+    "categoryID": 34,
+    "name": "في سيارة الأجرة",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 23,
+    "countWords": 19,
+    "countPhrases": 6,
+    "countDone": 0,
+    "quizzes": [
+      655210, 655211, 655212, 655213, 655214, 655215, 655216, 655217, 655218,
+      655219, 655220, 655221, 655222, 655223, 655224, 655225, 655226, 655227,
+      655228, 655229, 655230, 655231, 655232
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 655210,
+      "lesson": 3402,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 24144,
+      "alternates": [16434, 16119, 16411],
+      "sols": [
+        {
+          "key": "_cqFwwaOMex1ahAuitRjdt_6ScjSbzaK",
+          "audio_updated_at": 1688291051,
+          "text": "موقف سيارات الأجرة"
+        },
+        {
+          "key": "4GqJXN0u195uAnyKiNVUiVmB1502gyd1",
+          "audio_updated_at": 1543436521,
+          "text": "مركز شرطة"
+        },
+        {
+          "key": "qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4",
+          "audio_updated_at": 1543436969,
+          "text": "مطار"
+        },
+        {
+          "key": "mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_",
+          "audio_updated_at": 1543436982,
+          "text": "محطة قطار"
+        }
+      ],
+      "alts": [
+        {
+          "key": "_cqFwwaOMex1ahAuitRjdt_6ScjSbzaK",
+          "audio_updated_at": 1688291051,
+          "text": "taxi rank",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "bNeVqhGTvhHCZlN4HYtfVZVDxRUddid8",
+          "image_updated_at": 1689159240
+        },
+        {
+          "key": "4GqJXN0u195uAnyKiNVUiVmB1502gyd1",
+          "audio_updated_at": 1543436521,
+          "image": "0PAV4vFyU42p-i646ArYwyT9KvArLaGr",
+          "image_updated_at": 1689159014,
+          "text": "police station",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4",
+          "audio_updated_at": 1543436969,
+          "image": "SYlN8oVJB1pohYqtF5YqvFi_EEKUej9O",
+          "image_updated_at": 1689158986,
+          "text": "airport",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        },
+        {
+          "key": "mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_",
+          "audio_updated_at": 1543436982,
+          "image": "jdv2ODlgNTUtJ2jwY6pGnUQUyCUtf6aJ",
+          "image_updated_at": 1689159018,
+          "text": "train station",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655211,
+      "lesson": 3402,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 19058,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tlx7mPkMKgV",
+          "text": "أجد",
+          "raw": { "text": "أجد", "location": 14, "length": 3 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t8e8Zn6Jin2",
+          "text": "أستطيع",
+          "raw": { "text": "أستطيع", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "trj-5IqS0iX",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 11, "length": 2 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tfOkYSIpGGu",
+          "text": "أجرة؟",
+          "raw": { "text": "أجرة", "location": 24, "length": 4 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "؟", "location": 28, "length": 1 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "t5ejlGu4XcW",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tWvIjB_jMm2",
+          "text": "أصطف؟",
+          "raw": { "text": "أصطف", "location": 14, "length": 4 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "؟", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tjIsmMpbshh",
+          "text": "سيارة",
+          "raw": { "text": "سيارة", "location": 18, "length": 5 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "t5ejlGu4XcW",
+        "t8e8Zn6Jin2",
+        "trj-5IqS0iX",
+        "tlx7mPkMKgV",
+        "tjIsmMpbshh",
+        "tfOkYSIpGGu"
+      ],
+      "sols": [
+        {
+          "key": "9_3vw5AnbSdnu01fghq2fypFRs7_9l1P",
+          "audio_updated_at": 1543440124,
+          "text": "Where can I find a taxi?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            { "raw": "can", "translations": [] },
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أن", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "find",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to find", "m": "يجد", "phonetic": "to find" },
+                  "id": 35,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "Bg8WbtZxkHCvA6vXTgfVsdQ2P8Vo01oh",
+                          "text": "I find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438120
+                        },
+                        "m": { "text": "أنا أجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "vAl5nlx0itAdemHeOks5Hjdp6ErUeoSN",
+                          "text": "You find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438121
+                        },
+                        "m": { "text": "أنت تجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5X2wuGIl61_ARa7ekua__9-hECDKp1SX",
+                          "text": "He finds",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438122
+                        },
+                        "m": { "text": "هو يجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "DGa8yis7IF5p9am2V_0MaSAvsJXhzKv2",
+                          "text": "She finds",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438123
+                        },
+                        "m": { "text": "هي تجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "iaaAy1nTc0upcNL5nzytV4GXCzmOuIZ7",
+                          "text": "We find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438125
+                        },
+                        "m": { "text": "نحن نجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "EX-hXSrHMys6rsUs8FNwyFgQHNoLeWLJ",
+                          "text": "You find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547358
+                        },
+                        "m": { "text": "أنتم تجدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "3LY_Fdx8nI2aRXsQzRUvSN1Q_pFk68dJ",
+                          "text": "They find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438126
+                        },
+                        "m": { "text": "هم يجدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "yS00-qPvh5IvD6pVEsY6HN5P0mGdvhhi",
+                          "text": "I found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547360
+                        },
+                        "m": { "text": "أنا وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "AIihjw4EvkCUWSMwY7ITYK_cz4DM_0Mh",
+                          "text": "You found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547361
+                        },
+                        "m": { "text": "أنت وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "m3HMlxaA8zRvaGR_j5Oc50r7ZSZLiIZw",
+                          "text": "He found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547362
+                        },
+                        "m": { "text": "هو وجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "TjDpXrnT35eHqTmT-YSiWhzLYVtMhLMS",
+                          "text": "She found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547363
+                        },
+                        "m": { "text": "هي وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "7E09Bcp3qfyQBZY8m_2uDRGpR586kXSD",
+                          "text": "We found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547365
+                        },
+                        "m": { "text": "نحن وجدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "-nEZqh7c-gKZcvEb-ixUjETRBN9rfLf7",
+                          "text": "You found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547366
+                        },
+                        "m": { "text": "أنتم وجدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "1YaXocLZht43zVk-qjaaR8A-J50K6Iz4",
+                          "text": "They found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547367
+                        },
+                        "m": { "text": "هم وجدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "VudrgAMJTzPs9fp2utH5Awx0ag1r2xHZ",
+                          "text": "I will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547368
+                        },
+                        "m": { "text": "أنا سأجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "UGhG4ZdR8RIsfayoaVn1Z67c-VcmeiKP",
+                          "text": "You will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547369
+                        },
+                        "m": { "text": "أنت ستجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "dc0JV2EyCYRg8xki5PAt_zF5F6f-GcTV",
+                          "text": "He will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547370
+                        },
+                        "m": { "text": "هو سيجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "rFZxa6DACAKwfsaP09jdrs8C83pyHh5P",
+                          "text": "She will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547371
+                        },
+                        "m": { "text": "هي ستجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "aMDMoDrUlRsdganTzTHdj-eUXld0_zwl",
+                          "text": "We will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547373
+                        },
+                        "m": { "text": "نحن سنجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ERJs56zUbF6oBnZ_GzNwnyq-7jM9Fb8C",
+                          "text": "You will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547374
+                        },
+                        "m": { "text": "أنتم ستجدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "-DHmhrqMFln4Jwx1CtptgVJPdlHclsVY",
+                          "text": "They will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547375
+                        },
+                        "m": { "text": "هم سيجدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "taxi",
+              "translations": [
+                { "type": "dictionary", "text": "سيارة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "can", "location": 6, "length": 3 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "I", "location": 10, "length": 1 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "find", "location": 12, "length": 4 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 17, "length": 1 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            },
+            {
+              "raw": { "text": "taxi", "location": 19, "length": 4 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "?", "location": 23, "length": 1 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "9_3vw5AnbSdnu01fghq2fypFRs7_9l1P",
+          "audio_updated_at": 1543440124,
+          "text": "أين أستطيع أن أجد سيارة أجرة؟"
+        }
+      ]
+    },
+    {
+      "id": 655212,
+      "lesson": 3402,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 24144,
+      "alternates": [16119],
+      "sols": [
+        {
+          "key": "qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4",
+          "audio_updated_at": 1543436969,
+          "text": "مطار"
+        },
+        {
+          "key": "_cqFwwaOMex1ahAuitRjdt_6ScjSbzaK",
+          "audio_updated_at": 1688291051,
+          "text": "موقف سيارات الأجرة"
+        }
+      ],
+      "alts": [
+        {
+          "key": "qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4",
+          "audio_updated_at": 1543436969,
+          "image": "SYlN8oVJB1pohYqtF5YqvFi_EEKUej9O",
+          "image_updated_at": 1689158986,
+          "text": "airport",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        },
+        {
+          "key": "_cqFwwaOMex1ahAuitRjdt_6ScjSbzaK",
+          "audio_updated_at": 1688291051,
+          "text": "taxi rank",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "bNeVqhGTvhHCZlN4HYtfVZVDxRUddid8",
+          "image_updated_at": 1689159240
+        }
+      ]
+    },
+    {
+      "id": 655213,
+      "lesson": 3402,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24145,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tHk4NDVl5pB",
+          "text": "next",
+          "raw": { "text": "next", "location": 17, "length": 4 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "", "location": 21, "length": 0 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "twD9VoeNHbn",
+          "text": "is",
+          "raw": { "text": "is", "location": 14, "length": 2 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tGPaOW5J-mw",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t-I8w7sZqtA",
+          "text": "to",
+          "raw": { "text": "to", "location": 22, "length": 2 },
+          "prefix": { "text": "", "location": 22, "length": 0 },
+          "suffix": { "text": "", "location": 24, "length": 0 },
+          "linker": { "text": " ", "location": 21, "length": 1 }
+        },
+        {
+          "key": "tbF6M2XoofO",
+          "text": "rank",
+          "raw": { "text": "rank", "location": 9, "length": 4 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tMh9DZXO19z",
+          "text": "exit.",
+          "raw": { "text": "exit", "location": 37, "length": 4 },
+          "prefix": { "text": "", "location": 37, "length": 0 },
+          "suffix": { "text": ".", "location": 41, "length": 1 },
+          "linker": { "text": " ", "location": 36, "length": 1 }
+        },
+        {
+          "key": "tuwIVXyGunT",
+          "text": "airport",
+          "raw": { "text": "airport", "location": 29, "length": 7 },
+          "prefix": { "text": "", "location": 29, "length": 0 },
+          "suffix": { "text": "", "location": 36, "length": 0 },
+          "linker": { "text": " ", "location": 28, "length": 1 }
+        },
+        {
+          "key": "t1i4wQ-tP20",
+          "text": "taxi",
+          "raw": { "text": "taxi", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t9dEtAaKLqg",
+          "text": "the",
+          "raw": { "text": "the", "location": 25, "length": 3 },
+          "prefix": { "text": "", "location": 25, "length": 0 },
+          "suffix": { "text": "", "location": 28, "length": 0 },
+          "linker": { "text": " ", "location": 24, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tGPaOW5J-mw",
+        "t1i4wQ-tP20",
+        "tbF6M2XoofO",
+        "twD9VoeNHbn",
+        "tHk4NDVl5pB",
+        "t-I8w7sZqtA",
+        "t9dEtAaKLqg",
+        "tuwIVXyGunT",
+        "tMh9DZXO19z"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "QjSab-y2fapRpGL98cbIREE9435aIxKR",
+          "audio_updated_at": 1688291052,
+          "text": "موقف سيارات الأجرة بجانب مخرج المطار.",
+          "dictionary": [
+            { "raw": "موقف", "translations": [] },
+            { "raw": "سيارات", "translations": [] },
+            { "raw": "الأجرة", "translations": [] },
+            {
+              "raw": "بجانب",
+              "translations": [
+                { "type": "dictionary", "text": "next", "phonetic": "next" }
+              ]
+            },
+            {
+              "raw": "مخرج",
+              "translations": [
+                { "type": "dictionary", "text": "exit", "phonetic": "exit" }
+              ]
+            },
+            {
+              "raw": "المطار",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the airport",
+                  "phonetic": "the airport"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "موقف", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "سيارات", "location": 5, "length": 6 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "الأجرة", "location": 12, "length": 6 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "بجانب", "location": 19, "length": 5 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 24, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "مخرج", "location": 25, "length": 4 },
+              "prefix": { "text": "", "location": 25, "length": 0 },
+              "suffix": { "text": "", "location": 29, "length": 0 },
+              "linker": { "text": " ", "location": 24, "length": 1 }
+            },
+            {
+              "raw": { "text": "المطار", "location": 30, "length": 6 },
+              "prefix": { "text": "", "location": 30, "length": 0 },
+              "suffix": { "text": ".", "location": 36, "length": 1 },
+              "linker": { "text": " ", "location": 29, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "QjSab-y2fapRpGL98cbIREE9435aIxKR",
+          "audio_updated_at": 1688291052,
+          "text": "The taxi rank is next to the airport exit.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655214,
+      "lesson": 3402,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 24867,
+      "alternates": [16434, 16119, 24144],
+      "sols": [
+        {
+          "key": "6WoGiTkw223aDap4BEyZ12b4AoV2aHAr",
+          "audio_updated_at": 1688291861,
+          "text": "متاح"
+        },
+        { "key": "mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_", "text": "محطة قطار" },
+        { "key": "qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4", "text": "مطار" },
+        {
+          "key": "_cqFwwaOMex1ahAuitRjdt_6ScjSbzaK",
+          "text": "موقف سيارات الأجرة"
+        }
+      ],
+      "alts": [
+        {
+          "key": "6WoGiTkw223aDap4BEyZ12b4AoV2aHAr",
+          "audio_updated_at": 1688291861,
+          "text": "available",
+          "phonetic": "",
+          "image": "kpJwn-SfH37viIoKgPN9Cc34li2K3rlb",
+          "image_updated_at": 1689159262
+        },
+        {
+          "key": "mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_",
+          "audio_updated_at": 1543436982,
+          "text": "train station",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "jdv2ODlgNTUtJ2jwY6pGnUQUyCUtf6aJ",
+          "image_updated_at": 1689159018
+        },
+        {
+          "key": "qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4",
+          "audio_updated_at": 1543436969,
+          "text": "airport",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "SYlN8oVJB1pohYqtF5YqvFi_EEKUej9O",
+          "image_updated_at": 1689158986
+        },
+        {
+          "key": "_cqFwwaOMex1ahAuitRjdt_6ScjSbzaK",
+          "audio_updated_at": 1688291051,
+          "text": "taxi rank",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "bNeVqhGTvhHCZlN4HYtfVZVDxRUddid8",
+          "image_updated_at": 1689159240
+        }
+      ]
+    },
+    {
+      "id": 655215,
+      "lesson": 3402,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 18936,
+      "alternates": [24867],
+      "tokens": [
+        {
+          "key": "t6nOS_AgvaO",
+          "text": "you",
+          "raw": { "text": "you", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tCFfCJlBROU",
+          "text": "go",
+          "raw": { "text": "go", "location": 14, "length": 2 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tFYCqzDiPy1",
+          "text": "to",
+          "raw": { "text": "to", "location": 17, "length": 2 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "tM1g2kmF-OH",
+          "text": "Does",
+          "raw": { "text": "Does", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tDq4giqdTBJ",
+          "text": "bus",
+          "raw": { "text": "bus", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tYuSr2JovHx",
+          "text": "this",
+          "raw": { "text": "this", "location": 5, "length": 4 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tgzrG-7Cdta",
+          "text": "Are",
+          "raw": { "text": "Are", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tAcdeREwCot",
+          "text": "available?",
+          "raw": { "text": "available", "location": 8, "length": 9 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "?", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tgzrG-7Cdta", "t6nOS_AgvaO", "tAcdeREwCot"],
+      "completeToken": "tAcdeREwCot",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "-l_WM9UmzBOfqirUTRU5ofXG9U_7nBgt",
+          "audio_updated_at": 1543440127,
+          "text": "هل أنت متاح؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Are", "phonetic": "Are" }
+              ]
+            },
+            {
+              "raw": "أنت",
+              "translations": [
+                { "type": "dictionary", "text": "you", "phonetic": "you" }
+              ]
+            },
+            {
+              "raw": "متاح",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "available",
+                  "phonetic": "available"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أنت", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "متاح", "location": 7, "length": 4 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "؟", "location": 11, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "-l_WM9UmzBOfqirUTRU5ofXG9U_7nBgt",
+          "audio_updated_at": 1543440127,
+          "text": "Are you available?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655216,
+      "lesson": 3402,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 19025,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tl8Si1II4kY",
+          "text": "بالغان،",
+          "raw": { "text": "بالغان", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "،", "location": 6, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tXQN3jkroUg",
+          "text": "وطفلان.",
+          "raw": { "text": "وطفلان", "location": 8, "length": 6 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tekcka0D1Qq",
+          "text": "المطار.",
+          "raw": { "text": "المطار", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": ".", "location": 10, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tJE5-dmWyeQ",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tJE5-dmWyeQ", "tekcka0D1Qq"],
+      "sols": [
+        {
+          "key": "pePP_b8U-o_yKRXqARqaaF-hgoA9HQn0",
+          "audio_updated_at": 1543440129,
+          "text": "To the airport.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "To",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "airport",
+              "translations": [
+                { "type": "dictionary", "text": "المطار", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "To", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "the", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "airport", "location": 7, "length": 7 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "pePP_b8U-o_yKRXqARqaaF-hgoA9HQn0",
+          "audio_updated_at": 1543440129,
+          "text": "إلى المطار."
+        }
+      ]
+    },
+    {
+      "id": 655217,
+      "lesson": 3402,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 16434,
+      "alternates": [16411],
+      "sols": [
+        {
+          "key": "mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_",
+          "audio_updated_at": 1543436982,
+          "text": "محطة قطار"
+        },
+        {
+          "key": "4GqJXN0u195uAnyKiNVUiVmB1502gyd1",
+          "audio_updated_at": 1543436521,
+          "text": "مركز شرطة"
+        }
+      ],
+      "alts": [
+        {
+          "key": "mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_",
+          "audio_updated_at": 1543436982,
+          "text": "train station",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "jdv2ODlgNTUtJ2jwY6pGnUQUyCUtf6aJ",
+          "image_updated_at": 1689159018
+        },
+        {
+          "key": "4GqJXN0u195uAnyKiNVUiVmB1502gyd1",
+          "audio_updated_at": 1543436521,
+          "image": "0PAV4vFyU42p-i646ArYwyT9KvArLaGr",
+          "image_updated_at": 1689159014,
+          "text": "police station",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655218,
+      "lesson": 3402,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 19030,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tDW8M1bCl5S",
+          "text": "adults,",
+          "raw": { "text": "adults", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": ",", "location": 10, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t8LEeCAkLXA",
+          "text": "train",
+          "raw": { "text": "train", "location": 7, "length": 5 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tyz0py2hZEL",
+          "text": "station.",
+          "raw": { "text": "station", "location": 13, "length": 7 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tPftQ1AScud",
+          "text": "children.",
+          "raw": { "text": "children", "location": 16, "length": 8 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": ".", "location": 24, "length": 1 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tHzQKAAfKo3",
+          "text": "Two",
+          "raw": { "text": "Two", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "teJQLApKrBe",
+          "text": "the",
+          "raw": { "text": "the", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tbvwJv2zlve",
+          "text": "To",
+          "raw": { "text": "To", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tKtB2wPcpan",
+          "text": "two",
+          "raw": { "text": "two", "location": 12, "length": 3 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tbvwJv2zlve", "teJQLApKrBe", "t8LEeCAkLXA", "tyz0py2hZEL"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "q62gCEN9ptjp2VA1oXMBP9mNPHzelEEJ",
+          "audio_updated_at": 1543440130,
+          "text": "إلى محطة القطار.",
+          "dictionary": [
+            {
+              "raw": "إلى",
+              "translations": [
+                { "type": "dictionary", "text": "To", "phonetic": "To" }
+              ]
+            },
+            {
+              "raw": "محطة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "station",
+                  "phonetic": "station"
+                }
+              ]
+            },
+            {
+              "raw": "القطار",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the train",
+                  "phonetic": "the train"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "إلى", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "محطة", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "القطار", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "q62gCEN9ptjp2VA1oXMBP9mNPHzelEEJ",
+          "audio_updated_at": 1543440130,
+          "text": "To the train station.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655219,
+      "lesson": 3402,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 19028,
+      "alternates": [16411],
+      "tokens": [
+        {
+          "key": "tTDN_OmqGS1",
+          "text": "To",
+          "raw": { "text": "To", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "ta4G8ofSTc0",
+          "text": "police",
+          "raw": { "text": "police", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tuv33zFWmGg",
+          "text": "the",
+          "raw": { "text": "the", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tZMD4NwxJnm",
+          "text": "station.",
+          "raw": { "text": "station", "location": 14, "length": 7 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t-c3_mY6SnZ",
+          "text": "train",
+          "raw": { "text": "train", "location": 7, "length": 5 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tTDN_OmqGS1", "tuv33zFWmGg", "ta4G8ofSTc0", "tZMD4NwxJnm"],
+      "completeToken": "tZMD4NwxJnm",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "s5foNRt7LcK-i7USuQuNGN2WLc6T0mIi",
+          "audio_updated_at": 1543440132,
+          "text": "إلى مركز الشرطة.",
+          "dictionary": [
+            {
+              "raw": "إلى",
+              "translations": [
+                { "type": "dictionary", "text": "To", "phonetic": "To" }
+              ]
+            },
+            { "raw": "مركز", "translations": [] },
+            {
+              "raw": "الشرطة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the police",
+                  "phonetic": "the police"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "إلى", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "مركز", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الشرطة", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "s5foNRt7LcK-i7USuQuNGN2WLc6T0mIi",
+          "audio_updated_at": 1543440132,
+          "text": "To the police station.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655220,
+      "lesson": 3402,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 19058,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tf1zJWGdirj",
+          "text": "a",
+          "raw": { "text": "a", "location": 17, "length": 1 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "tkqZTuzs63J",
+          "text": "I",
+          "raw": { "text": "I", "location": 10, "length": 1 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tzw_Bpieaof",
+          "text": "can",
+          "raw": { "text": "can", "location": 6, "length": 3 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "t2-xQKEEHae",
+          "text": "petrol",
+          "raw": { "text": "petrol", "location": 11, "length": 6 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "t9Yotw-sDLs",
+          "text": "find",
+          "raw": { "text": "find", "location": 12, "length": 4 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tPNYvCveJJ1",
+          "text": "taxi?",
+          "raw": { "text": "taxi", "location": 19, "length": 4 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "?", "location": 23, "length": 1 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "trldgcJh1cz",
+          "text": "is",
+          "raw": { "text": "is", "location": 6, "length": 2 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "t2fhMkqiDD0",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t2fhMkqiDD0",
+        "tzw_Bpieaof",
+        "tkqZTuzs63J",
+        "t9Yotw-sDLs",
+        "tf1zJWGdirj",
+        "tPNYvCveJJ1"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "9_3vw5AnbSdnu01fghq2fypFRs7_9l1P",
+          "audio_updated_at": 1543440124,
+          "text": "أين أستطيع أن أجد سيارة أجرة؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            {
+              "raw": "أستطيع",
+              "translations": [
+                { "type": "dictionary", "text": "can", "phonetic": "can" }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "أجد",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I find",
+                  "phonetic": "I find"
+                },
+                {
+                  "type": "verb",
+                  "name": { "t": "to find", "m": "يجد", "phonetic": "to find" },
+                  "id": 35,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "Bg8WbtZxkHCvA6vXTgfVsdQ2P8Vo01oh",
+                          "text": "I find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438120
+                        },
+                        "m": { "text": "أنا أجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "vAl5nlx0itAdemHeOks5Hjdp6ErUeoSN",
+                          "text": "You find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438121
+                        },
+                        "m": { "text": "أنت تجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5X2wuGIl61_ARa7ekua__9-hECDKp1SX",
+                          "text": "He finds",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438122
+                        },
+                        "m": { "text": "هو يجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "DGa8yis7IF5p9am2V_0MaSAvsJXhzKv2",
+                          "text": "She finds",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438123
+                        },
+                        "m": { "text": "هي تجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "iaaAy1nTc0upcNL5nzytV4GXCzmOuIZ7",
+                          "text": "We find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438125
+                        },
+                        "m": { "text": "نحن نجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "EX-hXSrHMys6rsUs8FNwyFgQHNoLeWLJ",
+                          "text": "You find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547358
+                        },
+                        "m": { "text": "أنتم تجدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "3LY_Fdx8nI2aRXsQzRUvSN1Q_pFk68dJ",
+                          "text": "They find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438126
+                        },
+                        "m": { "text": "هم يجدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "yS00-qPvh5IvD6pVEsY6HN5P0mGdvhhi",
+                          "text": "I found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547360
+                        },
+                        "m": { "text": "أنا وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "AIihjw4EvkCUWSMwY7ITYK_cz4DM_0Mh",
+                          "text": "You found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547361
+                        },
+                        "m": { "text": "أنت وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "m3HMlxaA8zRvaGR_j5Oc50r7ZSZLiIZw",
+                          "text": "He found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547362
+                        },
+                        "m": { "text": "هو وجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "TjDpXrnT35eHqTmT-YSiWhzLYVtMhLMS",
+                          "text": "She found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547363
+                        },
+                        "m": { "text": "هي وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "7E09Bcp3qfyQBZY8m_2uDRGpR586kXSD",
+                          "text": "We found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547365
+                        },
+                        "m": { "text": "نحن وجدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "-nEZqh7c-gKZcvEb-ixUjETRBN9rfLf7",
+                          "text": "You found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547366
+                        },
+                        "m": { "text": "أنتم وجدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "1YaXocLZht43zVk-qjaaR8A-J50K6Iz4",
+                          "text": "They found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547367
+                        },
+                        "m": { "text": "هم وجدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "VudrgAMJTzPs9fp2utH5Awx0ag1r2xHZ",
+                          "text": "I will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547368
+                        },
+                        "m": { "text": "أنا سأجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "UGhG4ZdR8RIsfayoaVn1Z67c-VcmeiKP",
+                          "text": "You will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547369
+                        },
+                        "m": { "text": "أنت ستجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "dc0JV2EyCYRg8xki5PAt_zF5F6f-GcTV",
+                          "text": "He will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547370
+                        },
+                        "m": { "text": "هو سيجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "rFZxa6DACAKwfsaP09jdrs8C83pyHh5P",
+                          "text": "She will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547371
+                        },
+                        "m": { "text": "هي ستجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "aMDMoDrUlRsdganTzTHdj-eUXld0_zwl",
+                          "text": "We will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547373
+                        },
+                        "m": { "text": "نحن سنجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ERJs56zUbF6oBnZ_GzNwnyq-7jM9Fb8C",
+                          "text": "You will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547374
+                        },
+                        "m": { "text": "أنتم ستجدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "-DHmhrqMFln4Jwx1CtptgVJPdlHclsVY",
+                          "text": "They will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547375
+                        },
+                        "m": { "text": "هم سيجدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "سيارة", "translations": [] },
+            { "raw": "أجرة", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أستطيع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "أجد", "location": 14, "length": 3 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "سيارة", "location": 18, "length": 5 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "أجرة", "location": 24, "length": 4 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "؟", "location": 28, "length": 1 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "9_3vw5AnbSdnu01fghq2fypFRs7_9l1P",
+          "audio_updated_at": 1543440124,
+          "text": "Where can I find a taxi?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655221,
+      "lesson": 3402,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 24145,
+      "alternates": [18936, 19028],
+      "sols": [
+        {
+          "key": "QjSab-y2fapRpGL98cbIREE9435aIxKR",
+          "audio_updated_at": 1688291052,
+          "text": "موقف سيارات الأجرة بجانب مخرج المطار.",
+          "dictionary": [
+            { "raw": "موقف", "translations": [] },
+            { "raw": "سيارات", "translations": [] },
+            { "raw": "الأجرة", "translations": [] },
+            {
+              "raw": "بجانب",
+              "translations": [
+                { "type": "dictionary", "text": "next", "phonetic": "next" }
+              ]
+            },
+            {
+              "raw": "مخرج",
+              "translations": [
+                { "type": "dictionary", "text": "exit", "phonetic": "exit" }
+              ]
+            },
+            {
+              "raw": "المطار",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the airport",
+                  "phonetic": "the airport"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "موقف", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "سيارات", "location": 5, "length": 6 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "الأجرة", "location": 12, "length": 6 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "بجانب", "location": 19, "length": 5 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 24, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "مخرج", "location": 25, "length": 4 },
+              "prefix": { "text": "", "location": 25, "length": 0 },
+              "suffix": { "text": "", "location": 29, "length": 0 },
+              "linker": { "text": " ", "location": 24, "length": 1 }
+            },
+            {
+              "raw": { "text": "المطار", "location": 30, "length": 6 },
+              "prefix": { "text": "", "location": 30, "length": 0 },
+              "suffix": { "text": ".", "location": 36, "length": 1 },
+              "linker": { "text": " ", "location": 29, "length": 1 }
+            }
+          ]
+        },
+        { "key": "-l_WM9UmzBOfqirUTRU5ofXG9U_7nBgt", "text": "هل أنت متاح؟" },
+        {
+          "key": "s5foNRt7LcK-i7USuQuNGN2WLc6T0mIi",
+          "text": "إلى مركز الشرطة."
+        }
+      ],
+      "alts": [
+        {
+          "key": "QjSab-y2fapRpGL98cbIREE9435aIxKR",
+          "audio_updated_at": 1688291052,
+          "text": "The taxi rank is next to the airport exit.",
+          "phonetic": ""
+        },
+        {
+          "key": "-l_WM9UmzBOfqirUTRU5ofXG9U_7nBgt",
+          "audio_updated_at": 1543440127,
+          "text": "Are you available?",
+          "phonetic": ""
+        },
+        {
+          "key": "s5foNRt7LcK-i7USuQuNGN2WLc6T0mIi",
+          "audio_updated_at": 1543440132,
+          "text": "To the police station.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655222,
+      "lesson": 3402,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 24867,
+      "alternates": [],
+      "tokens": [
+        { "key": "t_FyK3Ys9R8", "text": "a", "group": 0 },
+        { "key": "tGOWWmdbmjB", "text": "l", "group": 0 },
+        { "key": "tKWXkgRzXe2", "text": "b", "group": 0 },
+        { "key": "tJRUoHo6nhS", "text": "l", "group": 0 },
+        { "key": "tEDOhLecwIY", "text": "i", "group": 0 },
+        { "key": "to3VXofW1ZL", "text": "a", "group": 0 },
+        { "key": "tUhtR891A2U", "text": "e", "group": 0 },
+        { "key": "tKeVXn3cPg8", "text": "v", "group": 0 },
+        { "key": "tNp4-qReQcW", "text": "a", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t_FyK3Ys9R8",
+        "tKeVXn3cPg8",
+        "to3VXofW1ZL",
+        "tEDOhLecwIY",
+        "tJRUoHo6nhS",
+        "tNp4-qReQcW",
+        "tKWXkgRzXe2",
+        "tGOWWmdbmjB",
+        "tUhtR891A2U"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "6WoGiTkw223aDap4BEyZ12b4AoV2aHAr",
+          "audio_updated_at": 1688291861,
+          "text": "متاح",
+          "dictionary": [
+            {
+              "raw": "متاح",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "available",
+                  "phonetic": "available"
+                }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "متاح", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "6WoGiTkw223aDap4BEyZ12b4AoV2aHAr",
+          "audio_updated_at": 1688291861,
+          "text_tokens": [
+            {
+              "raw": { "text": "available", "location": 0, "length": 9 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "available",
+          "phonetic": "",
+          "image": "kpJwn-SfH37viIoKgPN9Cc34li2K3rlb",
+          "image_updated_at": 1689159262
+        }
+      ]
+    },
+    {
+      "id": 655223,
+      "lesson": 3402,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 18936,
+      "alternates": [24867],
+      "tokens": [
+        { "key": "tA8TQxkkM7d", "text": "v", "group": 2 },
+        { "key": "t9HVDBjGUsQ", "text": "i", "group": 2 },
+        { "key": "tHWwVL9iyNL", "text": "l", "group": 2 },
+        { "key": "timpIqqaIx9", "text": "a", "group": 2 },
+        { "key": "tK-3Ma4-wMt", "text": "a", "group": 2 },
+        { "key": "tBLGXUsWWON", "text": "b", "group": 2 },
+        { "key": "t8ijHkhkN8p", "text": " ", "specialChar": true },
+        { "key": "t09n2pVTKDT", "text": "e", "group": 2 },
+        { "key": "tFN3qfF0rE5", "text": "a", "group": 2 },
+        { "key": "tXGwylmSNTR", "text": "l", "group": 2 },
+        { "key": "tFm3Iwi5S4h", "text": "?", "specialChar": true }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t8ijHkhkN8p",
+        "timpIqqaIx9",
+        "tA8TQxkkM7d",
+        "tK-3Ma4-wMt",
+        "t9HVDBjGUsQ",
+        "tXGwylmSNTR",
+        "tFN3qfF0rE5",
+        "tBLGXUsWWON",
+        "tHWwVL9iyNL",
+        "t09n2pVTKDT",
+        "tFm3Iwi5S4h"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "-l_WM9UmzBOfqirUTRU5ofXG9U_7nBgt",
+          "audio_updated_at": 1543440127,
+          "text": "هل أنت متاح؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Are", "phonetic": "Are" }
+              ]
+            },
+            {
+              "raw": "أنت",
+              "translations": [
+                { "type": "dictionary", "text": "you", "phonetic": "you" }
+              ]
+            },
+            {
+              "raw": "متاح",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "available",
+                  "phonetic": "available"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أنت", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "متاح", "location": 7, "length": 4 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "؟", "location": 11, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "-l_WM9UmzBOfqirUTRU5ofXG9U_7nBgt",
+          "audio_updated_at": 1543440127,
+          "text_tokens": [
+            {
+              "raw": { "text": "Are", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "you", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "available", "location": 8, "length": 9 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "?", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "Are you available?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655224,
+      "lesson": 3402,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 19025,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tuPoISKDNGP",
+          "text": "Two",
+          "raw": { "text": "Two", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tubG5IJLW8B",
+          "text": "airport.",
+          "raw": { "text": "airport", "location": 7, "length": 7 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tJZ4pB3RXnt",
+          "text": "the",
+          "raw": { "text": "the", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tmbwD7ajvBB",
+          "text": "tickets,",
+          "raw": { "text": "tickets", "location": 4, "length": 7 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": ",", "location": 11, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tUopE2KGHPS",
+          "text": "please.",
+          "raw": { "text": "please", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tngY1-ObDpK",
+          "text": "To",
+          "raw": { "text": "To", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tngY1-ObDpK", "tJZ4pB3RXnt", "tubG5IJLW8B"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "pePP_b8U-o_yKRXqARqaaF-hgoA9HQn0",
+          "audio_updated_at": 1543440129,
+          "text": "إلى المطار.",
+          "dictionary": [
+            {
+              "raw": "إلى",
+              "translations": [
+                { "type": "dictionary", "text": "To", "phonetic": "To" }
+              ]
+            },
+            {
+              "raw": "المطار",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the airport",
+                  "phonetic": "the airport"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "إلى", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "المطار", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": ".", "location": 10, "length": 1 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "pePP_b8U-o_yKRXqARqaaF-hgoA9HQn0",
+          "audio_updated_at": 1543440129,
+          "text": "To the airport.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655225,
+      "lesson": 3402,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 19030,
+      "alternates": [19025, 18936],
+      "sols": [
+        {
+          "key": "q62gCEN9ptjp2VA1oXMBP9mNPHzelEEJ",
+          "audio_updated_at": 1543440130,
+          "text": "To the train station.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "To",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "train",
+              "translations": [
+                { "type": "dictionary", "text": "القطار", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "station",
+              "translations": [
+                { "type": "dictionary", "text": "محطة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "To", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "the", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "train", "location": 7, "length": 5 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "station", "location": 13, "length": 7 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": ".", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "-l_WM9UmzBOfqirUTRU5ofXG9U_7nBgt",
+          "text": "Are you available?",
+          "phonetic": ""
+        },
+        {
+          "key": "pePP_b8U-o_yKRXqARqaaF-hgoA9HQn0",
+          "text": "To the airport.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "q62gCEN9ptjp2VA1oXMBP9mNPHzelEEJ",
+          "audio_updated_at": 1543440130,
+          "text": "إلى محطة القطار."
+        },
+        {
+          "key": "-l_WM9UmzBOfqirUTRU5ofXG9U_7nBgt",
+          "audio_updated_at": 1543440127,
+          "text": "هل أنت متاح؟"
+        },
+        {
+          "key": "pePP_b8U-o_yKRXqARqaaF-hgoA9HQn0",
+          "audio_updated_at": 1543440129,
+          "text": "إلى المطار."
+        }
+      ]
+    },
+    {
+      "id": 655226,
+      "lesson": 3402,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 19028,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "ttMxOgqkPZ-",
+          "text": "the",
+          "raw": { "text": "the", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tR3NDzRzynd",
+          "text": "police",
+          "raw": { "text": "police", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tz54acMOht7",
+          "text": "To",
+          "raw": { "text": "To", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t0VYKsth9JG",
+          "text": "station.",
+          "raw": { "text": "station", "location": 14, "length": 7 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tlBa1iI2n1A",
+          "text": "right.",
+          "raw": { "text": "right", "location": 5, "length": 5 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": ".", "location": 10, "length": 1 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "t5OVjgrziOn",
+          "text": "Turn",
+          "raw": { "text": "Turn", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tz54acMOht7", "ttMxOgqkPZ-", "tR3NDzRzynd", "t0VYKsth9JG"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "s5foNRt7LcK-i7USuQuNGN2WLc6T0mIi",
+          "audio_updated_at": 1543440132,
+          "text": "إلى مركز الشرطة.",
+          "dictionary": [
+            {
+              "raw": "إلى",
+              "translations": [
+                { "type": "dictionary", "text": "To", "phonetic": "To" }
+              ]
+            },
+            { "raw": "مركز", "translations": [] },
+            {
+              "raw": "الشرطة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the police",
+                  "phonetic": "the police"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "إلى", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "مركز", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الشرطة", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "s5foNRt7LcK-i7USuQuNGN2WLc6T0mIi",
+          "audio_updated_at": 1543440132,
+          "text": "To the police station.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655227,
+      "lesson": 3402,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 19058,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "ts7grBJ45zF",
+          "text": "أستطيع",
+          "raw": { "text": "أستطيع", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t-KkD44OPC0",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t5XgqIOmBNy",
+          "text": "أجد",
+          "raw": { "text": "أجد", "location": 14, "length": 3 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "ttJQPNmRzqz",
+          "text": "الحافلات؟",
+          "raw": { "text": "الحافلات", "location": 9, "length": 8 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "؟", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tHHvmOf_tc4",
+          "text": "أجرة؟",
+          "raw": { "text": "أجرة", "location": 24, "length": 4 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "؟", "location": 28, "length": 1 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tC_85vbwP1t",
+          "text": "سيارة",
+          "raw": { "text": "سيارة", "location": 18, "length": 5 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "tRgxGOHJjsS",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 11, "length": 2 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "t5YeV8i28LD",
+          "text": "موقف",
+          "raw": { "text": "موقف", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "t-KkD44OPC0",
+        "ts7grBJ45zF",
+        "tRgxGOHJjsS",
+        "t5XgqIOmBNy",
+        "tC_85vbwP1t",
+        "tHHvmOf_tc4"
+      ],
+      "sols": [
+        {
+          "key": "9_3vw5AnbSdnu01fghq2fypFRs7_9l1P",
+          "audio_updated_at": 1543440124,
+          "text": "Where can I find a taxi?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            { "raw": "can", "translations": [] },
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أن", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "find",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to find", "m": "يجد", "phonetic": "to find" },
+                  "id": 35,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "Bg8WbtZxkHCvA6vXTgfVsdQ2P8Vo01oh",
+                          "text": "I find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438120
+                        },
+                        "m": { "text": "أنا أجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "vAl5nlx0itAdemHeOks5Hjdp6ErUeoSN",
+                          "text": "You find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438121
+                        },
+                        "m": { "text": "أنت تجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5X2wuGIl61_ARa7ekua__9-hECDKp1SX",
+                          "text": "He finds",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438122
+                        },
+                        "m": { "text": "هو يجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "DGa8yis7IF5p9am2V_0MaSAvsJXhzKv2",
+                          "text": "She finds",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438123
+                        },
+                        "m": { "text": "هي تجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "iaaAy1nTc0upcNL5nzytV4GXCzmOuIZ7",
+                          "text": "We find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438125
+                        },
+                        "m": { "text": "نحن نجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "EX-hXSrHMys6rsUs8FNwyFgQHNoLeWLJ",
+                          "text": "You find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547358
+                        },
+                        "m": { "text": "أنتم تجدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "3LY_Fdx8nI2aRXsQzRUvSN1Q_pFk68dJ",
+                          "text": "They find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438126
+                        },
+                        "m": { "text": "هم يجدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "yS00-qPvh5IvD6pVEsY6HN5P0mGdvhhi",
+                          "text": "I found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547360
+                        },
+                        "m": { "text": "أنا وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "AIihjw4EvkCUWSMwY7ITYK_cz4DM_0Mh",
+                          "text": "You found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547361
+                        },
+                        "m": { "text": "أنت وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "m3HMlxaA8zRvaGR_j5Oc50r7ZSZLiIZw",
+                          "text": "He found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547362
+                        },
+                        "m": { "text": "هو وجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "TjDpXrnT35eHqTmT-YSiWhzLYVtMhLMS",
+                          "text": "She found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547363
+                        },
+                        "m": { "text": "هي وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "7E09Bcp3qfyQBZY8m_2uDRGpR586kXSD",
+                          "text": "We found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547365
+                        },
+                        "m": { "text": "نحن وجدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "-nEZqh7c-gKZcvEb-ixUjETRBN9rfLf7",
+                          "text": "You found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547366
+                        },
+                        "m": { "text": "أنتم وجدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "1YaXocLZht43zVk-qjaaR8A-J50K6Iz4",
+                          "text": "They found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547367
+                        },
+                        "m": { "text": "هم وجدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "VudrgAMJTzPs9fp2utH5Awx0ag1r2xHZ",
+                          "text": "I will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547368
+                        },
+                        "m": { "text": "أنا سأجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "UGhG4ZdR8RIsfayoaVn1Z67c-VcmeiKP",
+                          "text": "You will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547369
+                        },
+                        "m": { "text": "أنت ستجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "dc0JV2EyCYRg8xki5PAt_zF5F6f-GcTV",
+                          "text": "He will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547370
+                        },
+                        "m": { "text": "هو سيجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "rFZxa6DACAKwfsaP09jdrs8C83pyHh5P",
+                          "text": "She will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547371
+                        },
+                        "m": { "text": "هي ستجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "aMDMoDrUlRsdganTzTHdj-eUXld0_zwl",
+                          "text": "We will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547373
+                        },
+                        "m": { "text": "نحن سنجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ERJs56zUbF6oBnZ_GzNwnyq-7jM9Fb8C",
+                          "text": "You will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547374
+                        },
+                        "m": { "text": "أنتم ستجدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "-DHmhrqMFln4Jwx1CtptgVJPdlHclsVY",
+                          "text": "They will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547375
+                        },
+                        "m": { "text": "هم سيجدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "taxi",
+              "translations": [
+                { "type": "dictionary", "text": "سيارة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "can", "location": 6, "length": 3 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "I", "location": 10, "length": 1 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "find", "location": 12, "length": 4 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 17, "length": 1 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            },
+            {
+              "raw": { "text": "taxi", "location": 19, "length": 4 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "?", "location": 23, "length": 1 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "9_3vw5AnbSdnu01fghq2fypFRs7_9l1P",
+          "audio_updated_at": 1543440124,
+          "text": "أين أستطيع أن أجد سيارة أجرة؟"
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "tqvsFytbBol",
+            "text": "سيارة",
+            "raw": { "text": "سيارة", "location": 18, "length": 5 },
+            "prefix": { "text": "", "location": 18, "length": 0 },
+            "suffix": { "text": "", "location": 23, "length": 0 },
+            "linker": { "text": " ", "location": 17, "length": 1 }
+          },
+          {
+            "key": "tQ7thgZQ0iV",
+            "text": "أستطيع",
+            "raw": { "text": "أستطيع", "location": 4, "length": 6 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 10, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "tqX6QcxcSxf",
+            "text": "أجرة؟",
+            "raw": { "text": "أجرة", "location": 24, "length": 4 },
+            "prefix": { "text": "", "location": 24, "length": 0 },
+            "suffix": { "text": "؟", "location": 28, "length": 1 },
+            "linker": { "text": " ", "location": 23, "length": 1 }
+          },
+          {
+            "key": "tvobIIX-DrG",
+            "text": "أجد",
+            "raw": { "text": "أجد", "location": 14, "length": 3 },
+            "prefix": { "text": "", "location": 14, "length": 0 },
+            "suffix": { "text": "", "location": 17, "length": 0 },
+            "linker": { "text": " ", "location": 13, "length": 1 }
+          },
+          {
+            "key": "tDFGcgk3cRb",
+            "text": "أي",
+            "raw": { "text": "أي", "location": 0, "length": 2 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 2, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "t2FowFuymDq",
+            "text": "حافلة",
+            "raw": { "text": "حافلة", "location": 3, "length": 5 },
+            "prefix": { "text": "", "location": 3, "length": 0 },
+            "suffix": { "text": "", "location": 8, "length": 0 },
+            "linker": { "text": " ", "location": 2, "length": 1 }
+          },
+          {
+            "key": "tA_qY9-iJS9",
+            "text": "أن",
+            "raw": { "text": "أن", "location": 11, "length": 2 },
+            "prefix": { "text": "", "location": 11, "length": 0 },
+            "suffix": { "text": "", "location": 13, "length": 0 },
+            "linker": { "text": " ", "location": 10, "length": 1 }
+          },
+          {
+            "key": "tpm7Z8xDncw",
+            "text": "أين",
+            "raw": { "text": "أين", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": [
+          "tpm7Z8xDncw",
+          "tQ7thgZQ0iV",
+          "tA_qY9-iJS9",
+          "tvobIIX-DrG",
+          "tqvsFytbBol",
+          "tqX6QcxcSxf"
+        ],
+        "sols": [
+          {
+            "key": "9_3vw5AnbSdnu01fghq2fypFRs7_9l1P",
+            "audio_updated_at": 1543440124,
+            "text": "Where can I find a taxi?",
+            "phonetic": "",
+            "dictionary": [
+              {
+                "raw": "Where",
+                "translations": [
+                  { "type": "dictionary", "text": "أين", "phonetic": null }
+                ]
+              },
+              { "raw": "can", "translations": [] },
+              {
+                "raw": "I",
+                "translations": [
+                  { "type": "dictionary", "text": "أن", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "find",
+                "translations": [
+                  {
+                    "type": "verb",
+                    "name": {
+                      "t": "to find",
+                      "m": "يجد",
+                      "phonetic": "to find"
+                    },
+                    "id": 35,
+                    "tenseNames": {
+                      "pr": "الحاضر",
+                      "pa": "ماضي",
+                      "fu": "مستقبل"
+                    },
+                    "conj": {
+                      "pr": [
+                        {
+                          "t": {
+                            "key": "Bg8WbtZxkHCvA6vXTgfVsdQ2P8Vo01oh",
+                            "text": "I find",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438120
+                          },
+                          "m": { "text": "أنا أجد" }
+                        },
+                        {
+                          "t": {
+                            "key": "vAl5nlx0itAdemHeOks5Hjdp6ErUeoSN",
+                            "text": "You find",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438121
+                          },
+                          "m": { "text": "أنت تجد" }
+                        },
+                        {
+                          "t": {
+                            "key": "5X2wuGIl61_ARa7ekua__9-hECDKp1SX",
+                            "text": "He finds",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438122
+                          },
+                          "m": { "text": "هو يجد" }
+                        },
+                        {
+                          "t": {
+                            "key": "DGa8yis7IF5p9am2V_0MaSAvsJXhzKv2",
+                            "text": "She finds",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438123
+                          },
+                          "m": { "text": "هي تجد" }
+                        },
+                        {
+                          "t": {
+                            "key": "iaaAy1nTc0upcNL5nzytV4GXCzmOuIZ7",
+                            "text": "We find",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438125
+                          },
+                          "m": { "text": "نحن نجد" }
+                        },
+                        {
+                          "t": {
+                            "key": "EX-hXSrHMys6rsUs8FNwyFgQHNoLeWLJ",
+                            "text": "You find",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547358
+                          },
+                          "m": { "text": "أنتم تجدون" }
+                        },
+                        {
+                          "t": {
+                            "key": "3LY_Fdx8nI2aRXsQzRUvSN1Q_pFk68dJ",
+                            "text": "They find",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438126
+                          },
+                          "m": { "text": "هم يجدون" }
+                        }
+                      ],
+                      "pa": [
+                        {
+                          "t": {
+                            "key": "yS00-qPvh5IvD6pVEsY6HN5P0mGdvhhi",
+                            "text": "I found",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547360
+                          },
+                          "m": { "text": "أنا وجدت" }
+                        },
+                        {
+                          "t": {
+                            "key": "AIihjw4EvkCUWSMwY7ITYK_cz4DM_0Mh",
+                            "text": "You found",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547361
+                          },
+                          "m": { "text": "أنت وجدت" }
+                        },
+                        {
+                          "t": {
+                            "key": "m3HMlxaA8zRvaGR_j5Oc50r7ZSZLiIZw",
+                            "text": "He found",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547362
+                          },
+                          "m": { "text": "هو وجد" }
+                        },
+                        {
+                          "t": {
+                            "key": "TjDpXrnT35eHqTmT-YSiWhzLYVtMhLMS",
+                            "text": "She found",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547363
+                          },
+                          "m": { "text": "هي وجدت" }
+                        },
+                        {
+                          "t": {
+                            "key": "7E09Bcp3qfyQBZY8m_2uDRGpR586kXSD",
+                            "text": "We found",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547365
+                          },
+                          "m": { "text": "نحن وجدنا" }
+                        },
+                        {
+                          "t": {
+                            "key": "-nEZqh7c-gKZcvEb-ixUjETRBN9rfLf7",
+                            "text": "You found",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547366
+                          },
+                          "m": { "text": "أنتم وجدتم" }
+                        },
+                        {
+                          "t": {
+                            "key": "1YaXocLZht43zVk-qjaaR8A-J50K6Iz4",
+                            "text": "They found",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547367
+                          },
+                          "m": { "text": "هم وجدوا" }
+                        }
+                      ],
+                      "fu": [
+                        {
+                          "t": {
+                            "key": "VudrgAMJTzPs9fp2utH5Awx0ag1r2xHZ",
+                            "text": "I will find",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547368
+                          },
+                          "m": { "text": "أنا سأجد" }
+                        },
+                        {
+                          "t": {
+                            "key": "UGhG4ZdR8RIsfayoaVn1Z67c-VcmeiKP",
+                            "text": "You will find",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547369
+                          },
+                          "m": { "text": "أنت ستجد" }
+                        },
+                        {
+                          "t": {
+                            "key": "dc0JV2EyCYRg8xki5PAt_zF5F6f-GcTV",
+                            "text": "He will find",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547370
+                          },
+                          "m": { "text": "هو سيجد" }
+                        },
+                        {
+                          "t": {
+                            "key": "rFZxa6DACAKwfsaP09jdrs8C83pyHh5P",
+                            "text": "She will find",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547371
+                          },
+                          "m": { "text": "هي ستجد" }
+                        },
+                        {
+                          "t": {
+                            "key": "aMDMoDrUlRsdganTzTHdj-eUXld0_zwl",
+                            "text": "We will find",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547373
+                          },
+                          "m": { "text": "نحن سنجد" }
+                        },
+                        {
+                          "t": {
+                            "key": "ERJs56zUbF6oBnZ_GzNwnyq-7jM9Fb8C",
+                            "text": "You will find",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547374
+                          },
+                          "m": { "text": "أنتم ستجدون" }
+                        },
+                        {
+                          "t": {
+                            "key": "-DHmhrqMFln4Jwx1CtptgVJPdlHclsVY",
+                            "text": "They will find",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547375
+                          },
+                          "m": { "text": "هم سيجدون" }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              { "raw": "a", "translations": [] },
+              {
+                "raw": "taxi",
+                "translations": [
+                  { "type": "dictionary", "text": "سيارة", "phonetic": null }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "Where", "location": 0, "length": 5 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 5, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "can", "location": 6, "length": 3 },
+                "prefix": { "text": "", "location": 6, "length": 0 },
+                "suffix": { "text": "", "location": 9, "length": 0 },
+                "linker": { "text": " ", "location": 5, "length": 1 }
+              },
+              {
+                "raw": { "text": "I", "location": 10, "length": 1 },
+                "prefix": { "text": "", "location": 10, "length": 0 },
+                "suffix": { "text": "", "location": 11, "length": 0 },
+                "linker": { "text": " ", "location": 9, "length": 1 }
+              },
+              {
+                "raw": { "text": "find", "location": 12, "length": 4 },
+                "prefix": { "text": "", "location": 12, "length": 0 },
+                "suffix": { "text": "", "location": 16, "length": 0 },
+                "linker": { "text": " ", "location": 11, "length": 1 }
+              },
+              {
+                "raw": { "text": "a", "location": 17, "length": 1 },
+                "prefix": { "text": "", "location": 17, "length": 0 },
+                "suffix": { "text": "", "location": 18, "length": 0 },
+                "linker": { "text": " ", "location": 16, "length": 1 }
+              },
+              {
+                "raw": { "text": "taxi", "location": 19, "length": 4 },
+                "prefix": { "text": "", "location": 19, "length": 0 },
+                "suffix": { "text": "?", "location": 23, "length": 1 },
+                "linker": { "text": " ", "location": 18, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "9_3vw5AnbSdnu01fghq2fypFRs7_9l1P",
+            "audio_updated_at": 1543440124,
+            "text": "أين أستطيع أن أجد سيارة أجرة؟"
+          }
+        ]
+      }
+    },
+    {
+      "id": 655228,
+      "lesson": 3402,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 24145,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tlZxegApcoO",
+          "text": "المطار.",
+          "raw": { "text": "المطار", "location": 30, "length": 6 },
+          "prefix": { "text": "", "location": 30, "length": 0 },
+          "suffix": { "text": ".", "location": 36, "length": 1 },
+          "linker": { "text": " ", "location": 29, "length": 1 }
+        },
+        {
+          "key": "trzMqE-lZnn",
+          "text": "إنه",
+          "raw": { "text": "إنه", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "teZLBP0DC2L",
+          "text": "بجانب",
+          "raw": { "text": "بجانب", "location": 19, "length": 5 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 24, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tmED-keFXrr",
+          "text": "موقف",
+          "raw": { "text": "موقف", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tiB93rmgWeA",
+          "text": "مخرج",
+          "raw": { "text": "مخرج", "location": 25, "length": 4 },
+          "prefix": { "text": "", "location": 25, "length": 0 },
+          "suffix": { "text": "", "location": 29, "length": 0 },
+          "linker": { "text": " ", "location": 24, "length": 1 }
+        },
+        {
+          "key": "teJFpaArv3I",
+          "text": "ليس",
+          "raw": { "text": "ليس", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tTRD42bME7g",
+          "text": "سيارات",
+          "raw": { "text": "سيارات", "location": 5, "length": 6 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tgIKaxmpYul",
+          "text": "الأجرة",
+          "raw": { "text": "الأجرة", "location": 12, "length": 6 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tmED-keFXrr",
+        "tTRD42bME7g",
+        "tgIKaxmpYul",
+        "teZLBP0DC2L",
+        "tiB93rmgWeA",
+        "tlZxegApcoO"
+      ],
+      "sols": [
+        {
+          "key": "QjSab-y2fapRpGL98cbIREE9435aIxKR",
+          "audio_updated_at": 1688291052,
+          "text": "The taxi rank is next to the airport exit.",
+          "phonetic": ""
+        },
+        {
+          "key": "QjSab-y2fapRpGL98cbIREE9435aIxKR",
+          "audio_updated_at": 1688291052,
+          "text": "موقف سيارات الأجرة بجانب مخرج المطار."
+        }
+      ]
+    },
+    {
+      "id": 655229,
+      "lesson": 3402,
+      "type": "T2",
+      "modifiers": 60,
+      "wordID": 18936,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "-l_WM9UmzBOfqirUTRU5ofXG9U_7nBgt",
+          "audio_updated_at": 1543440127,
+          "text": "Are you available?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Are",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "you",
+              "translations": [
+                { "type": "dictionary", "text": "أنت", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "available",
+              "translations": [
+                { "type": "dictionary", "text": "متاح", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Are", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "you", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "available", "location": 8, "length": 9 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "?", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "-l_WM9UmzBOfqirUTRU5ofXG9U_7nBgt",
+          "audio_updated_at": 1543440127,
+          "text": "هل أنت متاح؟"
+        }
+      ]
+    },
+    {
+      "id": 655230,
+      "lesson": 3402,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 19025,
+      "alternates": [18936, 19028],
+      "sols": [
+        {
+          "key": "pePP_b8U-o_yKRXqARqaaF-hgoA9HQn0",
+          "audio_updated_at": 1543440129,
+          "text": "إلى المطار.",
+          "dictionary": [
+            {
+              "raw": "إلى",
+              "translations": [
+                { "type": "dictionary", "text": "To", "phonetic": "To" }
+              ]
+            },
+            {
+              "raw": "المطار",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the airport",
+                  "phonetic": "the airport"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "إلى", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "المطار", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": ".", "location": 10, "length": 1 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "s5foNRt7LcK-i7USuQuNGN2WLc6T0mIi",
+          "text": "إلى مركز الشرطة."
+        },
+        { "key": "-l_WM9UmzBOfqirUTRU5ofXG9U_7nBgt", "text": "هل أنت متاح؟" }
+      ],
+      "alts": [
+        {
+          "key": "pePP_b8U-o_yKRXqARqaaF-hgoA9HQn0",
+          "audio_updated_at": 1543440129,
+          "text": "To the airport.",
+          "phonetic": ""
+        },
+        {
+          "key": "s5foNRt7LcK-i7USuQuNGN2WLc6T0mIi",
+          "audio_updated_at": 1543440132,
+          "text": "To the police station.",
+          "phonetic": ""
+        },
+        {
+          "key": "-l_WM9UmzBOfqirUTRU5ofXG9U_7nBgt",
+          "audio_updated_at": 1543440127,
+          "text": "Are you available?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655231,
+      "lesson": 3402,
+      "type": "T2b",
+      "modifiers": 92,
+      "wordID": 19030,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "q62gCEN9ptjp2VA1oXMBP9mNPHzelEEJ",
+          "audio_updated_at": 1543440130,
+          "text": "إلى محطة القطار.",
+          "dictionary": [
+            {
+              "raw": "إلى",
+              "translations": [
+                { "type": "dictionary", "text": "To", "phonetic": "To" }
+              ]
+            },
+            {
+              "raw": "محطة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "station",
+                  "phonetic": "station"
+                }
+              ]
+            },
+            {
+              "raw": "القطار",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the train",
+                  "phonetic": "the train"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "إلى", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "محطة", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "القطار", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "q62gCEN9ptjp2VA1oXMBP9mNPHzelEEJ",
+          "audio_updated_at": 1543440130,
+          "text": "To the train station.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 655232,
+      "lesson": 3402,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 19028,
+      "alternates": [19025, 19030],
+      "sols": [
+        {
+          "key": "s5foNRt7LcK-i7USuQuNGN2WLc6T0mIi",
+          "audio_updated_at": 1543440132,
+          "text": "To the police station.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "To",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "police",
+              "translations": [
+                { "type": "dictionary", "text": "الشرطة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "station",
+              "translations": [
+                { "type": "dictionary", "text": "مركز", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "To", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "the", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "police", "location": 7, "length": 6 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "station", "location": 14, "length": 7 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "pePP_b8U-o_yKRXqARqaaF-hgoA9HQn0",
+          "text": "To the airport.",
+          "phonetic": ""
+        },
+        {
+          "key": "q62gCEN9ptjp2VA1oXMBP9mNPHzelEEJ",
+          "text": "To the train station.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "s5foNRt7LcK-i7USuQuNGN2WLc6T0mIi",
+          "audio_updated_at": 1543440132,
+          "text": "إلى مركز الشرطة."
+        },
+        {
+          "key": "pePP_b8U-o_yKRXqARqaaF-hgoA9HQn0",
+          "audio_updated_at": 1543440129,
+          "text": "إلى المطار."
+        },
+        {
+          "key": "q62gCEN9ptjp2VA1oXMBP9mNPHzelEEJ",
+          "audio_updated_at": 1543440130,
+          "text": "إلى محطة القطار."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4536 @@
+{
+  "lesson": {
+    "id": 3901,
+    "index": 1,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 39,
+    "categoryID": 39,
+    "name": "حالة طارئة",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 24,
+    "countWords": 16,
+    "countPhrases": 6,
+    "countDone": 0,
+    "quizzes": [
+      654912, 654913, 654914, 654915, 654916, 654917, 654918, 654919, 654920,
+      654921, 654922, 654923, 654924, 654925, 654926, 654927, 654928, 654929,
+      654930, 654931, 654932, 654933, 654934, 654935
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 654912,
+      "lesson": 3901,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 24392,
+      "alternates": [17214, 19110, 24393],
+      "sols": [
+        {
+          "key": "ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP",
+          "audio_updated_at": 1543440175,
+          "text": "طبيب"
+        },
+        {
+          "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs",
+          "audio_updated_at": 1688291330,
+          "text": "حادث"
+        },
+        {
+          "key": "osaRnDYR6EIXgSADThGW_xWFo5egfPK_",
+          "audio_updated_at": 1688291331,
+          "text": "فاقد للوعي"
+        },
+        {
+          "key": "wLboOGaUFmiBz7_UhStci4bYslDpwz2x",
+          "audio_updated_at": 1543437036,
+          "text": "سيارة إسعاف"
+        }
+      ],
+      "alts": [
+        {
+          "key": "ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP",
+          "audio_updated_at": 1543440175,
+          "image": "nHuKZ34zPSXf8_7a0ITryy98fPMqrTRI",
+          "image_updated_at": 1689159176,
+          "text": "doctor",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs",
+          "audio_updated_at": 1688291330,
+          "text": "accident",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "EH6rx0u70x7OKENK2ULwrq7XGAaQhmaz",
+          "image_updated_at": 1689159255
+        },
+        {
+          "key": "osaRnDYR6EIXgSADThGW_xWFo5egfPK_",
+          "audio_updated_at": 1688291331,
+          "image": "RiU_z8BxeAiT32OKlGfHNtbuMmD19Td8",
+          "image_updated_at": 1689159256,
+          "text": "unconscious",
+          "phonetic": ""
+        },
+        {
+          "key": "wLboOGaUFmiBz7_UhStci4bYslDpwz2x",
+          "audio_updated_at": 1543437036,
+          "image": "_gTks0EtKZ3jpvAnHlpgHowMc11_jhN7",
+          "image_updated_at": 1689159053,
+          "text": "ambulance",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654913,
+      "lesson": 3901,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 18391,
+      "alternates": [24392],
+      "tokens": [
+        {
+          "key": "tew8-KdUxQl",
+          "text": "answer",
+          "raw": { "text": "answer", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tBoBVXssJEX",
+          "text": "a",
+          "raw": { "text": "a", "location": 10, "length": 1 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t9reYQ1V1pw",
+          "text": "was",
+          "raw": { "text": "was", "location": 6, "length": 3 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "t4EYD1am5ex",
+          "text": "There",
+          "raw": { "text": "There", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tPAhWPdVHmh",
+          "text": "car",
+          "raw": { "text": "car", "location": 12, "length": 3 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "t_OzeBmA8Pj",
+          "text": "accident.",
+          "raw": { "text": "accident", "location": 16, "length": 8 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": ".", "location": 24, "length": 1 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t4EYD1am5ex",
+        "t9reYQ1V1pw",
+        "tBoBVXssJEX",
+        "tPAhWPdVHmh",
+        "t_OzeBmA8Pj"
+      ],
+      "completeToken": "t_OzeBmA8Pj",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "_juULRDhhXhi5_cAEYJLOkX_z1Nq4W97",
+          "audio_updated_at": 1543440419,
+          "text": "كان هناك حادث سير.",
+          "dictionary": [
+            {
+              "raw": "كان",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "هناك",
+              "translations": [
+                { "type": "dictionary", "text": "There", "phonetic": "There" }
+              ]
+            },
+            {
+              "raw": "حادث",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "accident",
+                  "phonetic": "accident"
+                }
+              ]
+            },
+            { "raw": "سير", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "كان", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هناك", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "حادث", "location": 9, "length": 4 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "سير", "location": 14, "length": 3 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "_juULRDhhXhi5_cAEYJLOkX_z1Nq4W97",
+          "audio_updated_at": 1543440419,
+          "text": "There was a car accident.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654914,
+      "lesson": 3901,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 24393,
+      "alternates": [24392, 17214, 19110],
+      "sols": [
+        {
+          "key": "osaRnDYR6EIXgSADThGW_xWFo5egfPK_",
+          "audio_updated_at": 1688291331,
+          "text": "فاقد للوعي"
+        },
+        { "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs", "text": "حادث" },
+        { "key": "wLboOGaUFmiBz7_UhStci4bYslDpwz2x", "text": "سيارة إسعاف" },
+        { "key": "ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP", "text": "طبيب" }
+      ],
+      "alts": [
+        {
+          "key": "osaRnDYR6EIXgSADThGW_xWFo5egfPK_",
+          "audio_updated_at": 1688291331,
+          "text": "unconscious",
+          "phonetic": "",
+          "image": "RiU_z8BxeAiT32OKlGfHNtbuMmD19Td8",
+          "image_updated_at": 1689159256
+        },
+        {
+          "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs",
+          "audio_updated_at": 1688291330,
+          "text": "accident",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "EH6rx0u70x7OKENK2ULwrq7XGAaQhmaz",
+          "image_updated_at": 1689159255
+        },
+        {
+          "key": "wLboOGaUFmiBz7_UhStci4bYslDpwz2x",
+          "audio_updated_at": 1543437036,
+          "text": "ambulance",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "_gTks0EtKZ3jpvAnHlpgHowMc11_jhN7",
+          "image_updated_at": 1689159053
+        },
+        {
+          "key": "ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP",
+          "audio_updated_at": 1543440175,
+          "text": "doctor",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "nHuKZ34zPSXf8_7a0ITryy98fPMqrTRI",
+          "image_updated_at": 1689159176
+        }
+      ]
+    },
+    {
+      "id": 654915,
+      "lesson": 3901,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 18386,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tVFm70z_JA9",
+          "text": "كان",
+          "raw": { "text": "كان", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tty_5GaxBxT",
+          "text": "هي",
+          "raw": { "text": "هي", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t8EoLMM-pDT",
+          "text": "للوعي.",
+          "raw": { "text": "للوعي", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "t0zgSel2YKE",
+          "text": "هناك",
+          "raw": { "text": "هناك", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tpXAEIRYJX2",
+          "text": "سير.",
+          "raw": { "text": "سير", "location": 14, "length": 3 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "taeVeI0s-Qh",
+          "text": "حادث",
+          "raw": { "text": "حادث", "location": 9, "length": 4 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tyqgCrVCa1m",
+          "text": "فاقدة",
+          "raw": { "text": "فاقدة", "location": 3, "length": 5 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tty_5GaxBxT", "tyqgCrVCa1m", "t8EoLMM-pDT"],
+      "sols": [
+        {
+          "key": "9Nbxn5P_6qSQC9FOn5rFs6wiL-m75og8",
+          "audio_updated_at": 1543439636,
+          "text": "She is unconscious.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "She",
+              "translations": [
+                { "type": "dictionary", "text": "هي", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                { "type": "dictionary", "text": "هي", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "unconscious", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "She", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 4, "length": 2 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "unconscious", "location": 7, "length": 11 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "9Nbxn5P_6qSQC9FOn5rFs6wiL-m75og8",
+          "audio_updated_at": 1543439636,
+          "text": "هي فاقدة للوعي."
+        }
+      ]
+    },
+    {
+      "id": 654916,
+      "lesson": 3901,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 19110,
+      "alternates": [17214, 24392, 24393],
+      "sols": [
+        {
+          "key": "ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP",
+          "audio_updated_at": 1543440175,
+          "text": "طبيب"
+        },
+        { "key": "wLboOGaUFmiBz7_UhStci4bYslDpwz2x", "text": "سيارة إسعاف" },
+        { "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs", "text": "حادث" },
+        { "key": "osaRnDYR6EIXgSADThGW_xWFo5egfPK_", "text": "فاقد للوعي" }
+      ],
+      "alts": [
+        {
+          "key": "ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP",
+          "audio_updated_at": 1543440175,
+          "text": "doctor",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "nHuKZ34zPSXf8_7a0ITryy98fPMqrTRI",
+          "image_updated_at": 1689159176
+        },
+        {
+          "key": "wLboOGaUFmiBz7_UhStci4bYslDpwz2x",
+          "audio_updated_at": 1543437036,
+          "text": "ambulance",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "_gTks0EtKZ3jpvAnHlpgHowMc11_jhN7",
+          "image_updated_at": 1689159053
+        },
+        {
+          "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs",
+          "audio_updated_at": 1688291330,
+          "text": "accident",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "EH6rx0u70x7OKENK2ULwrq7XGAaQhmaz",
+          "image_updated_at": 1689159255
+        },
+        {
+          "key": "osaRnDYR6EIXgSADThGW_xWFo5egfPK_",
+          "audio_updated_at": 1688291331,
+          "text": "unconscious",
+          "phonetic": "",
+          "image": "RiU_z8BxeAiT32OKlGfHNtbuMmD19Td8",
+          "image_updated_at": 1689159256
+        }
+      ]
+    },
+    {
+      "id": 654917,
+      "lesson": 3901,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 18375,
+      "alternates": [19110],
+      "tokens": [
+        {
+          "key": "tgxdORcBXau",
+          "text": "Is",
+          "raw": { "text": "Is", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tDX2gwLRYAq",
+          "text": "safe?",
+          "raw": { "text": "safe", "location": 15, "length": 4 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "?", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tZDQaNbzCb0",
+          "text": "doctor",
+          "raw": { "text": "doctor", "location": 11, "length": 6 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tjwowVrZHva",
+          "text": "there",
+          "raw": { "text": "there", "location": 3, "length": 5 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tpIRxlXZrf2",
+          "text": "street",
+          "raw": { "text": "street", "location": 8, "length": 6 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tFak2GBGGm5",
+          "text": "this",
+          "raw": { "text": "this", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t3j2LRyBf8Y",
+          "text": "a",
+          "raw": { "text": "a", "location": 9, "length": 1 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tvfJpz_4AHf",
+          "text": "here?",
+          "raw": { "text": "here", "location": 18, "length": 4 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "?", "location": 22, "length": 1 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tgxdORcBXau",
+        "tjwowVrZHva",
+        "t3j2LRyBf8Y",
+        "tZDQaNbzCb0",
+        "tvfJpz_4AHf"
+      ],
+      "completeToken": "tZDQaNbzCb0",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "oyoFED72mIqdxEObjyqpx3LRV3h30PtA",
+          "audio_updated_at": 1543439628,
+          "text": "هل هناك طبيب هنا؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Is", "phonetic": "Is" }
+              ]
+            },
+            {
+              "raw": "هناك",
+              "translations": [
+                { "type": "dictionary", "text": "there", "phonetic": "there" }
+              ]
+            },
+            {
+              "raw": "طبيب",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "a doctor",
+                  "phonetic": "a doctor"
+                }
+              ]
+            },
+            {
+              "raw": "هنا",
+              "translations": [
+                { "type": "dictionary", "text": "there", "phonetic": "there" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هناك", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "طبيب", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "هنا", "location": 13, "length": 3 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "؟", "location": 16, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "oyoFED72mIqdxEObjyqpx3LRV3h30PtA",
+          "audio_updated_at": 1543439628,
+          "text": "Is there a doctor here?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654918,
+      "lesson": 3901,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 15519,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tHWBaYtX9fF",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tJ0q7FLgc2Q",
+          "text": "أموت",
+          "raw": { "text": "أموت", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tJ4ECt8W1O0",
+          "text": "هي",
+          "raw": { "text": "هي", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tOWTwanDOBk",
+          "text": "طبيبة.",
+          "raw": { "text": "طبيبة", "location": 3, "length": 5 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": ".", "location": 8, "length": 1 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tJ4ECt8W1O0", "tOWTwanDOBk"],
+      "sols": [
+        {
+          "key": "i1XGF5Pl6HsYiTNefab04aFFGv6M38Xd",
+          "audio_updated_at": 1543438667,
+          "text": "She is a doctor.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "She",
+              "translations": [
+                { "type": "dictionary", "text": "هي", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                { "type": "dictionary", "text": "هي", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "doctor",
+              "translations": [
+                { "type": "dictionary", "text": "طبيبة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "She", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 4, "length": 2 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "doctor", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "i1XGF5Pl6HsYiTNefab04aFFGv6M38Xd",
+          "audio_updated_at": 1543438667,
+          "text": "هي طبيبة."
+        }
+      ]
+    },
+    {
+      "id": 654919,
+      "lesson": 3901,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 17214,
+      "alternates": [24391],
+      "sols": [
+        {
+          "key": "wLboOGaUFmiBz7_UhStci4bYslDpwz2x",
+          "audio_updated_at": 1543437036,
+          "text": "سيارة إسعاف"
+        },
+        {
+          "key": "5dZ91T8v_38sIatOXWB6RcNr-Cgj6__0",
+          "audio_updated_at": 1688291329,
+          "text": "حالة طارئة"
+        }
+      ],
+      "alts": [
+        {
+          "key": "wLboOGaUFmiBz7_UhStci4bYslDpwz2x",
+          "audio_updated_at": 1543437036,
+          "text": "ambulance",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "_gTks0EtKZ3jpvAnHlpgHowMc11_jhN7",
+          "image_updated_at": 1689159053
+        },
+        {
+          "key": "5dZ91T8v_38sIatOXWB6RcNr-Cgj6__0",
+          "audio_updated_at": 1688291329,
+          "image": "XZGLbRnGi__sh9bCQCmwRR9wvRWPvBNQ",
+          "image_updated_at": 1689159255,
+          "text": "emergency",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654920,
+      "lesson": 3901,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 17426,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t160RnH6kCp",
+          "text": "may",
+          "raw": { "text": "may", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "thiC45EbpOk",
+          "text": "a",
+          "raw": { "text": "a", "location": 13, "length": 1 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "t_oGCCGmkl1",
+          "text": "have",
+          "raw": { "text": "have", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tODcTzFBCPJ",
+          "text": "ambulance.",
+          "raw": { "text": "ambulance", "location": 15, "length": 9 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": ".", "location": 24, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tBGAOsM1hDi",
+          "text": "call",
+          "raw": { "text": "call", "location": 7, "length": 4 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tVHYbKZX6NQ",
+          "text": "an",
+          "raw": { "text": "an", "location": 12, "length": 2 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tO_YzRqhTe3",
+          "text": "She",
+          "raw": { "text": "She", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "ttteN2N0mVU",
+          "text": "Please",
+          "raw": { "text": "Please", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["ttteN2N0mVU", "tBGAOsM1hDi", "tVHYbKZX6NQ", "tODcTzFBCPJ"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "s8xJ72gVRWzX4PAJI_HDnWim2SYGUYtK",
+          "audio_updated_at": 1543439739,
+          "text": "من فضلكم اطلبوا سيارة الإسعاف.",
+          "dictionary": [
+            { "raw": "من", "translations": [] },
+            { "raw": "سيارة", "translations": [] },
+            {
+              "raw": "الإسعاف",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "ambulance",
+                  "phonetic": "ambulance"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "من", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "فضلكم", "location": 3, "length": 5 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "اطلبوا", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "سيارة", "location": 16, "length": 5 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 21, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "الإسعاف", "location": 22, "length": 7 },
+              "prefix": { "text": "", "location": 22, "length": 0 },
+              "suffix": { "text": ".", "location": 29, "length": 1 },
+              "linker": { "text": " ", "location": 21, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "s8xJ72gVRWzX4PAJI_HDnWim2SYGUYtK",
+          "audio_updated_at": 1543439739,
+          "text": "Please call an ambulance.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654921,
+      "lesson": 3901,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 18378,
+      "alternates": [24391],
+      "tokens": [
+        {
+          "key": "tx56T8FlMpT",
+          "text": "is",
+          "raw": { "text": "is", "location": 3, "length": 2 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tXiNLWA-7J6",
+          "text": "emergency.",
+          "raw": { "text": "emergency", "location": 9, "length": 9 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tagoG3IrI1a",
+          "text": "Somebody",
+          "raw": { "text": "Somebody", "location": 0, "length": 8 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tCVURaMlKNZ",
+          "text": "an",
+          "raw": { "text": "an", "location": 6, "length": 2 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tTIlZlBwnIm",
+          "text": "hurt.",
+          "raw": { "text": "hurt", "location": 12, "length": 4 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": ".", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tNkY6ly7rTZ",
+          "text": "It",
+          "raw": { "text": "It", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tNkY6ly7rTZ", "tx56T8FlMpT", "tCVURaMlKNZ", "tXiNLWA-7J6"],
+      "completeToken": "tXiNLWA-7J6",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "XEP58kcUjRtcE7m-0ZJfm2PCR9J2oPw8",
+          "audio_updated_at": 1688290355,
+          "text": "إنها حالة طارئة.",
+          "dictionary": [
+            {
+              "raw": "إنها",
+              "translations": [
+                { "type": "dictionary", "text": "It", "phonetic": "It" }
+              ]
+            },
+            { "raw": "حالة", "translations": [] },
+            {
+              "raw": "طارئة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "emergency",
+                  "phonetic": "emergency"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "إنها", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "حالة", "location": 5, "length": 4 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "طارئة", "location": 10, "length": 5 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "XEP58kcUjRtcE7m-0ZJfm2PCR9J2oPw8",
+          "audio_updated_at": 1688290355,
+          "text": "It is an emergency.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654922,
+      "lesson": 3901,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 24392,
+      "alternates": [],
+      "tokens": [
+        { "key": "thyfde-MGqy", "text": "d", "group": 0 },
+        { "key": "tV6ngnwKzX_", "text": "n", "group": 0 },
+        { "key": "t_rLs92UR8D", "text": "i", "group": 0 },
+        { "key": "t9QqaSQLXsC", "text": "c", "group": 0 },
+        { "key": "tzf7Q2YG10U", "text": "c", "group": 0 },
+        { "key": "tvJ4hk8wpyC", "text": "e", "group": 0 },
+        { "key": "tAqJ4ob4TDJ", "text": "a", "group": 0 },
+        { "key": "tF4-W5tNsHD", "text": "t", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tAqJ4ob4TDJ",
+        "t9QqaSQLXsC",
+        "tzf7Q2YG10U",
+        "t_rLs92UR8D",
+        "thyfde-MGqy",
+        "tvJ4hk8wpyC",
+        "tV6ngnwKzX_",
+        "tF4-W5tNsHD"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs",
+          "audio_updated_at": 1688291330,
+          "text": "حادث",
+          "dictionary": [
+            {
+              "raw": "حادث",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "accident",
+                  "phonetic": "accident"
+                }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "حادث", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs",
+          "audio_updated_at": 1688291330,
+          "text_tokens": [
+            {
+              "raw": { "text": "accident", "location": 0, "length": 8 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "accident",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "EH6rx0u70x7OKENK2ULwrq7XGAaQhmaz",
+          "image_updated_at": 1689159255
+        }
+      ]
+    },
+    {
+      "id": 654923,
+      "lesson": 3901,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 18391,
+      "alternates": [24392],
+      "tokens": [
+        { "key": "t6qPpFRKhXt", "text": "n", "group": 4 },
+        { "key": "tL8TQ-E4f6-", "text": "c", "group": 4 },
+        { "key": "tDwoPn4zTR_", "text": " ", "specialChar": true },
+        { "key": "tVjpXLzixl7", "text": "c", "group": 4 },
+        { "key": "tvoVxTK0ah1", "text": "d", "group": 4 },
+        { "key": "trDkTVF5sQI", "text": "i", "group": 4 },
+        { "key": "tnin46RXce8", "text": ".", "specialChar": true },
+        { "key": "t-yG3q5a-Iu", "text": "e", "group": 4 },
+        { "key": "tz9dVk_E5Vu", "text": "t", "group": 4 },
+        { "key": "tWAL-pNnkvv", "text": "a", "group": 4 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tDwoPn4zTR_",
+        "tWAL-pNnkvv",
+        "tVjpXLzixl7",
+        "tL8TQ-E4f6-",
+        "trDkTVF5sQI",
+        "tvoVxTK0ah1",
+        "t-yG3q5a-Iu",
+        "t6qPpFRKhXt",
+        "tz9dVk_E5Vu",
+        "tnin46RXce8"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "_juULRDhhXhi5_cAEYJLOkX_z1Nq4W97",
+          "audio_updated_at": 1543440419,
+          "text": "كان هناك حادث سير.",
+          "dictionary": [
+            {
+              "raw": "كان",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "هناك",
+              "translations": [
+                { "type": "dictionary", "text": "There", "phonetic": "There" }
+              ]
+            },
+            {
+              "raw": "حادث",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "accident",
+                  "phonetic": "accident"
+                }
+              ]
+            },
+            { "raw": "سير", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "كان", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هناك", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "حادث", "location": 9, "length": 4 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "سير", "location": 14, "length": 3 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "_juULRDhhXhi5_cAEYJLOkX_z1Nq4W97",
+          "audio_updated_at": 1543440419,
+          "text_tokens": [
+            {
+              "raw": { "text": "There", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "was", "location": 6, "length": 3 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 10, "length": 1 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "car", "location": 12, "length": 3 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "accident", "location": 16, "length": 8 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": ".", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "There was a car accident.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654924,
+      "lesson": 3901,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 18386,
+      "alternates": [18391, 18375],
+      "sols": [
+        {
+          "key": "9Nbxn5P_6qSQC9FOn5rFs6wiL-m75og8",
+          "audio_updated_at": 1543439636,
+          "text": "هي فاقدة للوعي.",
+          "dictionary": [
+            {
+              "raw": "هي",
+              "translations": [
+                { "type": "dictionary", "text": "She", "phonetic": "She" }
+              ]
+            },
+            { "raw": "فاقدة", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هي", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "فاقدة", "location": 3, "length": 5 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "للوعي", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "_juULRDhhXhi5_cAEYJLOkX_z1Nq4W97",
+          "text": "كان هناك حادث سير."
+        },
+        {
+          "key": "oyoFED72mIqdxEObjyqpx3LRV3h30PtA",
+          "text": "هل هناك طبيب هنا؟"
+        }
+      ],
+      "alts": [
+        {
+          "key": "9Nbxn5P_6qSQC9FOn5rFs6wiL-m75og8",
+          "audio_updated_at": 1543439636,
+          "text": "She is unconscious.",
+          "phonetic": ""
+        },
+        {
+          "key": "_juULRDhhXhi5_cAEYJLOkX_z1Nq4W97",
+          "audio_updated_at": 1543440419,
+          "text": "There was a car accident.",
+          "phonetic": ""
+        },
+        {
+          "key": "oyoFED72mIqdxEObjyqpx3LRV3h30PtA",
+          "audio_updated_at": 1543439628,
+          "text": "Is there a doctor here?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654925,
+      "lesson": 3901,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 18375,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tvJqYX8BD_z",
+          "text": "_____.",
+          "raw": { "text": "_____", "location": 13, "length": 5 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tX-CBY8Usiz",
+          "text": "هنا؟",
+          "raw": { "text": "هنا", "location": 13, "length": 3 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "؟", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tK111s3yOlm",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t6utCs2AGaI",
+          "text": "هناك",
+          "raw": { "text": "هناك", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tkUHvcOgi2k",
+          "text": "هو",
+          "raw": { "text": "هو", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tOOHR2jCuib",
+          "text": "هاتفي",
+          "raw": { "text": "هاتفي", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tqew-nldnjJ",
+          "text": "طبيب",
+          "raw": { "text": "طبيب", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tW9shFhdALU",
+          "text": "رقم",
+          "raw": { "text": "رقم", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tK111s3yOlm", "t6utCs2AGaI", "tqew-nldnjJ", "tX-CBY8Usiz"],
+      "sols": [
+        {
+          "key": "oyoFED72mIqdxEObjyqpx3LRV3h30PtA",
+          "audio_updated_at": 1543439628,
+          "text": "Is there a doctor here?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "there",
+              "translations": [
+                { "type": "dictionary", "text": "هناك", "phonetic": null }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "doctor",
+              "translations": [
+                { "type": "dictionary", "text": "طبيب", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "here",
+              "translations": [
+                { "type": "dictionary", "text": "هناك", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Is", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "there", "location": 3, "length": 5 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 9, "length": 1 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "doctor", "location": 11, "length": 6 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "here", "location": 18, "length": 4 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "?", "location": 22, "length": 1 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "oyoFED72mIqdxEObjyqpx3LRV3h30PtA",
+          "audio_updated_at": 1543439628,
+          "text": "هل هناك طبيب هنا؟"
+        }
+      ]
+    },
+    {
+      "id": 654926,
+      "lesson": 3901,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 15519,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t-8odSrSlep",
+          "text": "are",
+          "raw": { "text": "are", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tGH5xOB64Yn",
+          "text": "here.",
+          "raw": { "text": "here", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 12, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tdSEcCMUOuF",
+          "text": "doctor.",
+          "raw": { "text": "doctor", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "ttVBRWOWwfw",
+          "text": "She",
+          "raw": { "text": "She", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tBgMv1MIQyq",
+          "text": "is",
+          "raw": { "text": "is", "location": 4, "length": 2 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tLLwvSuBFe9",
+          "text": "You",
+          "raw": { "text": "You", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tkqfm45S8rx",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["ttVBRWOWwfw", "tBgMv1MIQyq", "tkqfm45S8rx", "tdSEcCMUOuF"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "i1XGF5Pl6HsYiTNefab04aFFGv6M38Xd",
+          "audio_updated_at": 1543438667,
+          "text": "هي طبيبة.",
+          "dictionary": [
+            {
+              "raw": "هي",
+              "translations": [
+                { "type": "dictionary", "text": "She", "phonetic": "She" }
+              ]
+            },
+            {
+              "raw": "طبيبة",
+              "translations": [
+                { "type": "dictionary", "text": "doctor", "phonetic": "doctor" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هي", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "طبيبة", "location": 3, "length": 5 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": ".", "location": 8, "length": 1 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "i1XGF5Pl6HsYiTNefab04aFFGv6M38Xd",
+          "audio_updated_at": 1543438667,
+          "text": "She is a doctor.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654927,
+      "lesson": 3901,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 17426,
+      "alternates": [15519, 18375],
+      "sols": [
+        {
+          "key": "s8xJ72gVRWzX4PAJI_HDnWim2SYGUYtK",
+          "audio_updated_at": 1543439739,
+          "text": "Please call an ambulance.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Please",
+              "translations": [
+                { "type": "dictionary", "text": "فضلكم", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "call",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to call",
+                    "m": "يتصل",
+                    "phonetic": "to call"
+                  },
+                  "id": 10,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "g_yVcYNzGjGsmUFp_XsdsiQqGNlAAboV",
+                          "text": "I call",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437996
+                        },
+                        "m": { "text": "أنا أتصل" }
+                      },
+                      {
+                        "t": {
+                          "key": "KPwnA-2WKwi8QqZv6Gtie3ROfhbQabOR",
+                          "text": "You call",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437997
+                        },
+                        "m": { "text": "أنت تتصل" }
+                      },
+                      {
+                        "t": {
+                          "key": "ye1hBr43GBeCJxYT8HxFi4ELC8xyMa80",
+                          "text": "He calls",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437998
+                        },
+                        "m": { "text": "هو يتصل" }
+                      },
+                      {
+                        "t": {
+                          "key": "hRVLhrQP8I4X6piPjEhousGvir_qyGyv",
+                          "text": "She calls",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437999
+                        },
+                        "m": { "text": "هي تتصل" }
+                      },
+                      {
+                        "t": {
+                          "key": "lX34M1c_VBtgCs-m39GJGbMOrZAqwoYG",
+                          "text": "We call",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438001
+                        },
+                        "m": { "text": "نحن نتصل" }
+                      },
+                      {
+                        "t": {
+                          "key": "0Mft7FR0IEgj08FcoFGcsehm7gvMNqXa",
+                          "text": "You call",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438002
+                        },
+                        "m": { "text": "أنتم تتصلون" }
+                      },
+                      {
+                        "t": {
+                          "key": "_VC9VSuvDH0JBxCcY1TxI82JXO8K5HzT",
+                          "text": "They call",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438003
+                        },
+                        "m": { "text": "هم يتصلون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "o-qw1I0NLfDiTwxKjf53aumLTD6dBKvI",
+                          "text": "I called",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546742
+                        },
+                        "m": { "text": "أنا اتصلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "q3c5k1x4QzIsGIjDCvWNW1acqLjs_j_E",
+                          "text": "You called",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546743
+                        },
+                        "m": { "text": "أنت اتصلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "htdCR81I-zVyAlzLx0ShtYOsBvblNwVF",
+                          "text": "He called",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546744
+                        },
+                        "m": { "text": "هو اتصل" }
+                      },
+                      {
+                        "t": {
+                          "key": "aEZT8s0dBu4py1kzmcRe8KTMTm6O0bJX",
+                          "text": "She called",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546745
+                        },
+                        "m": { "text": "هي اتصلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "cFCPEIaWB2yIfPGgr4FIeuHoFVHX46XN",
+                          "text": "We called",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546747
+                        },
+                        "m": { "text": "نحن اتصلنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "YOV0MJ-_xepkOtOx7Civ60cEgmqnTNBA",
+                          "text": "You called",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546748
+                        },
+                        "m": { "text": "أنتم اتصلتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "3DSs3i90xo2LZg9V6PaJIdBcrvXrqXAf",
+                          "text": "They called",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546749
+                        },
+                        "m": { "text": "هم اتصلوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "GppteKxdAm6-44in0TBIvT-SdvsatVgp",
+                          "text": "I will call",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546750
+                        },
+                        "m": { "text": "أنا سأتصل" }
+                      },
+                      {
+                        "t": {
+                          "key": "4rsSNG_BFaWjb004Dp-pp6Ncz8eJ0MHa",
+                          "text": "You will call",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546751
+                        },
+                        "m": { "text": "أنت ستتصل" }
+                      },
+                      {
+                        "t": {
+                          "key": "VXgk3tnGlbjv1mQBf6_fql7k9q6Fw_HM",
+                          "text": "He will call",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546752
+                        },
+                        "m": { "text": "هو سيتصل" }
+                      },
+                      {
+                        "t": {
+                          "key": "br2WU5LxlWV4uXCFEelH9Y9e3jL5rsXi",
+                          "text": "She will call",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546753
+                        },
+                        "m": { "text": "هي ستتصل" }
+                      },
+                      {
+                        "t": {
+                          "key": "iF_Fsatr0ni01BTmr6dgBe6KYNeWJaHC",
+                          "text": "We will call",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546755
+                        },
+                        "m": { "text": "نحن سنتصل" }
+                      },
+                      {
+                        "t": {
+                          "key": "vyJV9F3xypHhtpoXbgGu703J_bnjkWY_",
+                          "text": "You will call",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546756
+                        },
+                        "m": { "text": "أنتم ستتصلون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1x35_DRyVfVo4titTYIedjZnWdRLdve2",
+                          "text": "They will call",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546757
+                        },
+                        "m": { "text": "هم سيتصلون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "an", "translations": [] },
+            {
+              "raw": "ambulance",
+              "translations": [
+                { "type": "dictionary", "text": "سيارة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Please", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "call", "location": 7, "length": 4 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "an", "location": 12, "length": 2 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "ambulance", "location": 15, "length": 9 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "i1XGF5Pl6HsYiTNefab04aFFGv6M38Xd",
+          "text": "She is a doctor.",
+          "phonetic": ""
+        },
+        {
+          "key": "oyoFED72mIqdxEObjyqpx3LRV3h30PtA",
+          "text": "Is there a doctor here?",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "s8xJ72gVRWzX4PAJI_HDnWim2SYGUYtK",
+          "audio_updated_at": 1543439739,
+          "text": "من فضلكم اطلبوا سيارة الإسعاف."
+        },
+        {
+          "key": "i1XGF5Pl6HsYiTNefab04aFFGv6M38Xd",
+          "audio_updated_at": 1543438667,
+          "text": "هي طبيبة."
+        },
+        {
+          "key": "oyoFED72mIqdxEObjyqpx3LRV3h30PtA",
+          "audio_updated_at": 1543439628,
+          "text": "هل هناك طبيب هنا؟"
+        }
+      ]
+    },
+    {
+      "id": 654928,
+      "lesson": 3901,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 24391,
+      "alternates": [19110, 24392],
+      "sols": [
+        {
+          "key": "5dZ91T8v_38sIatOXWB6RcNr-Cgj6__0",
+          "audio_updated_at": 1688291329,
+          "text": "حالة طارئة",
+          "dictionary": [
+            { "raw": "حالة", "translations": [] },
+            {
+              "raw": "طارئة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "emergency",
+                  "phonetic": "emergency"
+                }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "حالة", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "طارئة", "location": 5, "length": 5 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            }
+          ]
+        },
+        { "key": "ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP", "text": "طبيب" },
+        { "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs", "text": "حادث" }
+      ],
+      "alts": [
+        {
+          "key": "5dZ91T8v_38sIatOXWB6RcNr-Cgj6__0",
+          "audio_updated_at": 1688291329,
+          "text": "emergency",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        },
+        {
+          "key": "ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP",
+          "audio_updated_at": 1543440175,
+          "text": "doctor",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs",
+          "audio_updated_at": 1688291330,
+          "text": "accident",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654929,
+      "lesson": 3901,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 18378,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tko9Me1-vgu",
+          "text": "It",
+          "raw": { "text": "It", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tsMlAAiJjt3",
+          "text": "Thief!",
+          "raw": { "text": "Thief", "location": 6, "length": 5 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "!", "location": 11, "length": 1 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tnESCBCeQv0",
+          "text": "is",
+          "raw": { "text": "is", "location": 3, "length": 2 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tLgamzBN1V7",
+          "text": "Stop!",
+          "raw": { "text": "Stop", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "!", "location": 4, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tTLINWQIhHT",
+          "text": "an",
+          "raw": { "text": "an", "location": 6, "length": 2 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tBM3XXr3mgo",
+          "text": "emergency.",
+          "raw": { "text": "emergency", "location": 9, "length": 9 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tko9Me1-vgu", "tnESCBCeQv0", "tTLINWQIhHT", "tBM3XXr3mgo"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "XEP58kcUjRtcE7m-0ZJfm2PCR9J2oPw8",
+          "audio_updated_at": 1688290355,
+          "text": "إنها حالة طارئة.",
+          "dictionary": [
+            {
+              "raw": "إنها",
+              "translations": [
+                { "type": "dictionary", "text": "It", "phonetic": "It" }
+              ]
+            },
+            { "raw": "حالة", "translations": [] },
+            {
+              "raw": "طارئة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "emergency",
+                  "phonetic": "emergency"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "إنها", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "حالة", "location": 5, "length": 4 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "طارئة", "location": 10, "length": 5 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "XEP58kcUjRtcE7m-0ZJfm2PCR9J2oPw8",
+          "audio_updated_at": 1688290355,
+          "text": "It is an emergency.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654930,
+      "lesson": 3901,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 18391,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tPbgM84dBZu",
+          "text": "ذاتية",
+          "raw": { "text": "ذاتية", "location": 5, "length": 5 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tgoAm0V74vu",
+          "text": "هناك",
+          "raw": { "text": "هناك", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tQc8KCgiHEx",
+          "text": "حادث",
+          "raw": { "text": "حادث", "location": 9, "length": 4 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tJIiqKis5AV",
+          "text": "سير.",
+          "raw": { "text": "سير", "location": 14, "length": 3 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tC5B8TqyvF7",
+          "text": "سيرة",
+          "raw": { "text": "سيرة", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tUUB04Avwi2",
+          "text": "كان",
+          "raw": { "text": "كان", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tUUB04Avwi2", "tgoAm0V74vu", "tQc8KCgiHEx", "tJIiqKis5AV"],
+      "sols": [
+        {
+          "key": "_juULRDhhXhi5_cAEYJLOkX_z1Nq4W97",
+          "audio_updated_at": 1543440419,
+          "text": "There was a car accident.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "There",
+              "translations": [
+                { "type": "dictionary", "text": "هناك", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "was",
+              "translations": [
+                { "type": "dictionary", "text": "كان", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            { "raw": "car", "translations": [] },
+            {
+              "raw": "accident",
+              "translations": [
+                { "type": "dictionary", "text": "حادث", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "There", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "was", "location": 6, "length": 3 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 10, "length": 1 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "car", "location": 12, "length": 3 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "accident", "location": 16, "length": 8 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": ".", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "_juULRDhhXhi5_cAEYJLOkX_z1Nq4W97",
+          "audio_updated_at": 1543440419,
+          "text": "كان هناك حادث سير."
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "tqc4pfV-QZe",
+            "text": "أطلس",
+            "raw": { "text": "أطلس", "location": 0, "length": 4 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 4, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tpR1Vso2ps2",
+            "text": "سير.",
+            "raw": { "text": "سير", "location": 14, "length": 3 },
+            "prefix": { "text": "", "location": 14, "length": 0 },
+            "suffix": { "text": ".", "location": 17, "length": 1 },
+            "linker": { "text": " ", "location": 13, "length": 1 }
+          },
+          {
+            "key": "t-yC7r0d6RX",
+            "text": "هناك",
+            "raw": { "text": "هناك", "location": 4, "length": 4 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 8, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "t1GXrNbSO6_",
+            "text": "كان",
+            "raw": { "text": "كان", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tY669ee7yA5",
+            "text": "حادث",
+            "raw": { "text": "حادث", "location": 9, "length": 4 },
+            "prefix": { "text": "", "location": 9, "length": 0 },
+            "suffix": { "text": "", "location": 13, "length": 0 },
+            "linker": { "text": " ", "location": 8, "length": 1 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": ["t1GXrNbSO6_", "t-yC7r0d6RX", "tY669ee7yA5", "tpR1Vso2ps2"],
+        "sols": [
+          {
+            "key": "_juULRDhhXhi5_cAEYJLOkX_z1Nq4W97",
+            "audio_updated_at": 1543440419,
+            "text": "There was a car accident.",
+            "phonetic": "",
+            "dictionary": [
+              {
+                "raw": "There",
+                "translations": [
+                  { "type": "dictionary", "text": "هناك", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "was",
+                "translations": [
+                  { "type": "dictionary", "text": "كان", "phonetic": null },
+                  {
+                    "type": "verb",
+                    "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                    "id": 6,
+                    "tenseNames": {
+                      "pr": "الحاضر",
+                      "pa": "ماضي",
+                      "fu": "مستقبل"
+                    },
+                    "conj": {
+                      "pr": [
+                        {
+                          "t": {
+                            "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                            "text": "I am",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437947
+                          },
+                          "m": { "text": "أنا أكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                            "text": "You are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437948
+                          },
+                          "m": { "text": "أنت تكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                            "text": "He is",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437949
+                          },
+                          "m": { "text": "هو يكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                            "text": "She is",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437951
+                          },
+                          "m": { "text": "هي تكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                            "text": "We are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437953
+                          },
+                          "m": { "text": "نحن نكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                            "text": "You are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437954
+                          },
+                          "m": { "text": "أنتم تكونون" }
+                        },
+                        {
+                          "t": {
+                            "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                            "text": "They are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437956
+                          },
+                          "m": { "text": "هم يكونون" }
+                        }
+                      ],
+                      "pa": [
+                        {
+                          "t": {
+                            "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                            "text": "I was",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437957
+                          },
+                          "m": { "text": "أنا كنت" }
+                        },
+                        {
+                          "t": {
+                            "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                            "text": "You were",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437958
+                          },
+                          "m": { "text": "أنت كنت" }
+                        },
+                        {
+                          "t": {
+                            "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                            "text": "He was",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437960
+                          },
+                          "m": { "text": "هو كان" }
+                        },
+                        {
+                          "t": {
+                            "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                            "text": "She was",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546648
+                          },
+                          "m": { "text": "هي كانت" }
+                        },
+                        {
+                          "t": {
+                            "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                            "text": "We were",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437961
+                          },
+                          "m": { "text": "نحن كنا" }
+                        },
+                        {
+                          "t": {
+                            "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                            "text": "You were",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546651
+                          },
+                          "m": { "text": "أنتم كنتم" }
+                        },
+                        {
+                          "t": {
+                            "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                            "text": "They were",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437962
+                          },
+                          "m": { "text": "هم كانوا" }
+                        }
+                      ],
+                      "fu": [
+                        {
+                          "t": {
+                            "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                            "text": "I will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546653
+                          },
+                          "m": { "text": "أنا سأكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                            "text": "You will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546654
+                          },
+                          "m": { "text": "أنت ستكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                            "text": "He will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546655
+                          },
+                          "m": { "text": "هو سيكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                            "text": "She will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546656
+                          },
+                          "m": { "text": "هي ستكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                            "text": "We will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546658
+                          },
+                          "m": { "text": "نحن سنكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                            "text": "You will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546659
+                          },
+                          "m": { "text": "أنتم ستكونون" }
+                        },
+                        {
+                          "t": {
+                            "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                            "text": "They will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546660
+                          },
+                          "m": { "text": "هم سيكونون" }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              { "raw": "a", "translations": [] },
+              { "raw": "car", "translations": [] },
+              {
+                "raw": "accident",
+                "translations": [
+                  { "type": "dictionary", "text": "حادث", "phonetic": null }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "There", "location": 0, "length": 5 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 5, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "was", "location": 6, "length": 3 },
+                "prefix": { "text": "", "location": 6, "length": 0 },
+                "suffix": { "text": "", "location": 9, "length": 0 },
+                "linker": { "text": " ", "location": 5, "length": 1 }
+              },
+              {
+                "raw": { "text": "a", "location": 10, "length": 1 },
+                "prefix": { "text": "", "location": 10, "length": 0 },
+                "suffix": { "text": "", "location": 11, "length": 0 },
+                "linker": { "text": " ", "location": 9, "length": 1 }
+              },
+              {
+                "raw": { "text": "car", "location": 12, "length": 3 },
+                "prefix": { "text": "", "location": 12, "length": 0 },
+                "suffix": { "text": "", "location": 15, "length": 0 },
+                "linker": { "text": " ", "location": 11, "length": 1 }
+              },
+              {
+                "raw": { "text": "accident", "location": 16, "length": 8 },
+                "prefix": { "text": "", "location": 16, "length": 0 },
+                "suffix": { "text": ".", "location": 24, "length": 1 },
+                "linker": { "text": " ", "location": 15, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "_juULRDhhXhi5_cAEYJLOkX_z1Nq4W97",
+            "audio_updated_at": 1543440419,
+            "text": "كان هناك حادث سير."
+          }
+        ]
+      }
+    },
+    {
+      "id": 654931,
+      "lesson": 3901,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 18386,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t2jYU1EJkge",
+          "text": "فاقدة",
+          "raw": { "text": "فاقدة", "location": 3, "length": 5 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "txtoyntQTPm",
+          "text": "هي",
+          "raw": { "text": "هي", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t1RQWvrDNS9",
+          "text": "إجابة",
+          "raw": { "text": "إجابة", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tNy-qV_Z25I",
+          "text": "للوعي.",
+          "raw": { "text": "للوعي", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["txtoyntQTPm", "t2jYU1EJkge", "tNy-qV_Z25I"],
+      "sols": [
+        {
+          "key": "9Nbxn5P_6qSQC9FOn5rFs6wiL-m75og8",
+          "audio_updated_at": 1543439636,
+          "text": "She is unconscious.",
+          "phonetic": ""
+        },
+        {
+          "key": "9Nbxn5P_6qSQC9FOn5rFs6wiL-m75og8",
+          "audio_updated_at": 1543439636,
+          "text": "هي فاقدة للوعي."
+        }
+      ]
+    },
+    {
+      "id": 654932,
+      "lesson": 3901,
+      "type": "T2",
+      "modifiers": 60,
+      "wordID": 18375,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "oyoFED72mIqdxEObjyqpx3LRV3h30PtA",
+          "audio_updated_at": 1543439628,
+          "text": "Is there a doctor here?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "there",
+              "translations": [
+                { "type": "dictionary", "text": "هناك", "phonetic": null }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "doctor",
+              "translations": [
+                { "type": "dictionary", "text": "طبيب", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "here",
+              "translations": [
+                { "type": "dictionary", "text": "هناك", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Is", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "there", "location": 3, "length": 5 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 9, "length": 1 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "doctor", "location": 11, "length": 6 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "here", "location": 18, "length": 4 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "?", "location": 22, "length": 1 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "oyoFED72mIqdxEObjyqpx3LRV3h30PtA",
+          "audio_updated_at": 1543439628,
+          "text": "هل هناك طبيب هنا؟"
+        }
+      ]
+    },
+    {
+      "id": 654933,
+      "lesson": 3901,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 15519,
+      "alternates": [18375, 18391],
+      "sols": [
+        {
+          "key": "i1XGF5Pl6HsYiTNefab04aFFGv6M38Xd",
+          "audio_updated_at": 1543438667,
+          "text": "هي طبيبة.",
+          "dictionary": [
+            {
+              "raw": "هي",
+              "translations": [
+                { "type": "dictionary", "text": "She", "phonetic": "She" }
+              ]
+            },
+            {
+              "raw": "طبيبة",
+              "translations": [
+                { "type": "dictionary", "text": "doctor", "phonetic": "doctor" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هي", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "طبيبة", "location": 3, "length": 5 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": ".", "location": 8, "length": 1 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "oyoFED72mIqdxEObjyqpx3LRV3h30PtA",
+          "text": "هل هناك طبيب هنا؟"
+        },
+        {
+          "key": "_juULRDhhXhi5_cAEYJLOkX_z1Nq4W97",
+          "text": "كان هناك حادث سير."
+        }
+      ],
+      "alts": [
+        {
+          "key": "i1XGF5Pl6HsYiTNefab04aFFGv6M38Xd",
+          "audio_updated_at": 1543438667,
+          "text": "She is a doctor.",
+          "phonetic": ""
+        },
+        {
+          "key": "oyoFED72mIqdxEObjyqpx3LRV3h30PtA",
+          "audio_updated_at": 1543439628,
+          "text": "Is there a doctor here?",
+          "phonetic": ""
+        },
+        {
+          "key": "_juULRDhhXhi5_cAEYJLOkX_z1Nq4W97",
+          "audio_updated_at": 1543440419,
+          "text": "There was a car accident.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654934,
+      "lesson": 3901,
+      "type": "T2b",
+      "modifiers": 92,
+      "wordID": 17426,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "s8xJ72gVRWzX4PAJI_HDnWim2SYGUYtK",
+          "audio_updated_at": 1543439739,
+          "text": "من فضلكم اطلبوا سيارة الإسعاف.",
+          "dictionary": [
+            { "raw": "من", "translations": [] },
+            { "raw": "سيارة", "translations": [] },
+            {
+              "raw": "الإسعاف",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "ambulance",
+                  "phonetic": "ambulance"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "من", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "فضلكم", "location": 3, "length": 5 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "اطلبوا", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "سيارة", "location": 16, "length": 5 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 21, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "الإسعاف", "location": 22, "length": 7 },
+              "prefix": { "text": "", "location": 22, "length": 0 },
+              "suffix": { "text": ".", "location": 29, "length": 1 },
+              "linker": { "text": " ", "location": 21, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "s8xJ72gVRWzX4PAJI_HDnWim2SYGUYtK",
+          "audio_updated_at": 1543439739,
+          "text": "Please call an ambulance.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654935,
+      "lesson": 3901,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 18378,
+      "alternates": [15519, 17426],
+      "sols": [
+        {
+          "key": "XEP58kcUjRtcE7m-0ZJfm2PCR9J2oPw8",
+          "audio_updated_at": 1688290355,
+          "text": "It is an emergency.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "It",
+              "translations": [
+                { "type": "dictionary", "text": "إنها", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "an", "translations": [] },
+            {
+              "raw": "emergency",
+              "translations": [
+                { "type": "dictionary", "text": "حالة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "It", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 3, "length": 2 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "an", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "emergency", "location": 9, "length": 9 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "s8xJ72gVRWzX4PAJI_HDnWim2SYGUYtK",
+          "text": "Please call an ambulance.",
+          "phonetic": ""
+        },
+        {
+          "key": "i1XGF5Pl6HsYiTNefab04aFFGv6M38Xd",
+          "text": "She is a doctor.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "XEP58kcUjRtcE7m-0ZJfm2PCR9J2oPw8",
+          "audio_updated_at": 1688290355,
+          "text": "إنها حالة طارئة."
+        },
+        {
+          "key": "s8xJ72gVRWzX4PAJI_HDnWim2SYGUYtK",
+          "audio_updated_at": 1543439739,
+          "text": "من فضلكم اطلبوا سيارة الإسعاف."
+        },
+        {
+          "key": "i1XGF5Pl6HsYiTNefab04aFFGv6M38Xd",
+          "audio_updated_at": 1543438667,
+          "text": "هي طبيبة."
+        }
+      ]
+    }
+  ]
+}

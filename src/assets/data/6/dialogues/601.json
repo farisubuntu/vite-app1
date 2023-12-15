@@ -1,0 +1,3091 @@
+{
+  "dialogue": {
+    "id": 601,
+    "index": 1,
+    "category": 6,
+    "categoryID": 6,
+    "categoryModifiers": 0,
+    "isCourse": false,
+    "name": "الطقس",
+    "done": false,
+    "disabled": false,
+    "countItem": 15,
+    "countDone": 0,
+    "countWords": 51,
+    "countPhrases": 15,
+    "dItems": [
+      9306, 9307, 9308, 9309, 9310, 9311, 9312, 9313, 9314, 9315, 9316, 9317,
+      9318, 9319, 9320
+    ]
+  },
+  "dItems": [
+    {
+      "id": 9306,
+      "i": 0,
+      "positionIndex": 0,
+      "dialogue": 601,
+      "wordID": 30706,
+      "key": "rVAKxyFPKR-06hXdUWjJxPJgmtt3DfFX",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "كيف الطقس اليوم؟",
+          "dictionary": [
+            { "raw": "كيف", "translations": [] },
+            { "raw": "الطقس", "translations": [] },
+            { "raw": "اليوم", "translations": [] }
+          ]
+        },
+        {
+          "text": "What's the weather like today?",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "What's", "translations": [] },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "weather",
+              "translations": [
+                { "type": "dictionary", "text": "الطقس", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "like",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to like",
+                    "m": "يعجب",
+                    "phonetic": "to like"
+                  },
+                  "id": 55,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "CZ11KLNIIQz1-wQ050pStug_G6gnw76v",
+                          "text": "I like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438281
+                        },
+                        "m": { "text": "أنا أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438282
+                        },
+                        "m": { "text": "أنت تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "8pa24QiVNcHXrWq1YIY-9mmS66wqDarm",
+                          "text": "He likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438283
+                        },
+                        "m": { "text": "هو يعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_",
+                          "text": "She likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438285
+                        },
+                        "m": { "text": "هي تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f",
+                          "text": "We like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438287
+                        },
+                        "m": { "text": "نحن نعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "lvDR6EetmqeHLFLndSaB8uhBtftJSpHp",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547854
+                        },
+                        "m": { "text": "أنتم تعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB",
+                          "text": "They like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438289
+                        },
+                        "m": { "text": "هم يعجبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN",
+                          "text": "I liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547856
+                        },
+                        "m": { "text": "أنا أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "fw72VYXGPg6eiRTJmMzdswfCheHwivGm",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547857
+                        },
+                        "m": { "text": "أنت أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "yTwI6DTT4suslTuf_q6FGLikaKxg5-_2",
+                          "text": "He liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547858
+                        },
+                        "m": { "text": "هو أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "V28glyoN5Q99QV_JtoJpkkPxNiFosIa6",
+                          "text": "She liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547859
+                        },
+                        "m": { "text": "هي أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ciFdGkCIocX27--2HnmHtAG0BTB--L7j",
+                          "text": "We liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547861
+                        },
+                        "m": { "text": "نحن أعجبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547862
+                        },
+                        "m": { "text": "أنتم أعجبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI",
+                          "text": "They liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547863
+                        },
+                        "m": { "text": "هم أعجبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV",
+                          "text": "I will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547865
+                        },
+                        "m": { "text": "أنا سأعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547866
+                        },
+                        "m": { "text": "أنت ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5",
+                          "text": "He will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547867
+                        },
+                        "m": { "text": "هو سيعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK",
+                          "text": "She will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547868
+                        },
+                        "m": { "text": "هي ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r",
+                          "text": "We will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547870
+                        },
+                        "m": { "text": "نحن سنعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547871
+                        },
+                        "m": { "text": "أنتم ستعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC",
+                          "text": "They will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547872
+                        },
+                        "m": { "text": "هم سيعجبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "today",
+              "translations": [
+                { "type": "dictionary", "text": "اليوم", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292054
+    },
+    {
+      "id": 9307,
+      "i": 1,
+      "positionIndex": 1,
+      "dialogue": 601,
+      "wordID": 30707,
+      "key": "drKOQzZQXHoKtzrAXj9dKX5btpxEVmUa",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "الطقس سيئ جدًا.",
+          "dictionary": [
+            { "raw": "الطقس", "translations": [] },
+            { "raw": "سيئ", "translations": [] },
+            { "raw": "جدًا", "translations": [] }
+          ]
+        },
+        {
+          "text": "The weather is so bad.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "The", "translations": [] },
+            {
+              "raw": "weather",
+              "translations": [
+                { "type": "dictionary", "text": "الطقس", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "so",
+              "translations": [
+                { "type": "dictionary", "text": "جدًا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "bad",
+              "translations": [
+                { "type": "dictionary", "text": "سيئ", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292055
+    },
+    {
+      "id": 9308,
+      "i": 2,
+      "positionIndex": 2,
+      "dialogue": 601,
+      "wordID": 30708,
+      "key": "Zn5IPXWGjHzkX66ebgCWD1KXU5SUN9LT",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "حقًا؟",
+          "dictionary": [{ "raw": "حقًا", "translations": [] }]
+        },
+        {
+          "text": "Really?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Really",
+              "translations": [
+                { "type": "dictionary", "text": "حقًا", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292056
+    },
+    {
+      "id": 9309,
+      "i": 3,
+      "positionIndex": 3,
+      "dialogue": 601,
+      "wordID": 30709,
+      "key": "5Is2yb5_nfzMQ8gS1g4xEfY1fIy7IsTV",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "نعم. الجو بارد وإنها تمطر.",
+          "dictionary": [
+            { "raw": "نعم", "translations": [] },
+            { "raw": "الجو", "translations": [] },
+            { "raw": "بارد", "translations": [] },
+            { "raw": "وإنها", "translations": [] },
+            { "raw": "تمطر", "translations": [] }
+          ]
+        },
+        {
+          "text": "Yes. It's cold and it's raining.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Yes",
+              "translations": [
+                { "type": "dictionary", "text": "نعم", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "It's",
+              "translations": [
+                { "type": "dictionary", "text": "وإنها", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "cold",
+              "translations": [
+                { "type": "dictionary", "text": "بارد", "phonetic": null }
+              ]
+            },
+            { "raw": "and", "translations": [] },
+            {
+              "raw": "it's",
+              "translations": [
+                { "type": "dictionary", "text": "وإنها", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "raining",
+              "translations": [
+                { "type": "dictionary", "text": "تمطر", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292058
+    },
+    {
+      "id": 9310,
+      "i": 4,
+      "positionIndex": 4,
+      "dialogue": 601,
+      "wordID": 30710,
+      "key": "EzgJw_5Dwi6ER8lzlX6E6DLfVcxRo08R",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "هنا الجو دافئ ومشمس.",
+          "dictionary": [
+            { "raw": "هنا", "translations": [] },
+            { "raw": "الجو", "translations": [] },
+            { "raw": "دافئ", "translations": [] },
+            { "raw": "ومشمس", "translations": [] }
+          ]
+        },
+        {
+          "text": "Here it's warm and sunny.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Here",
+              "translations": [
+                { "type": "dictionary", "text": "هنا", "phonetic": null }
+              ]
+            },
+            { "raw": "it's", "translations": [] },
+            {
+              "raw": "warm",
+              "translations": [
+                { "type": "dictionary", "text": "دافئ", "phonetic": null }
+              ]
+            },
+            { "raw": "and", "translations": [] },
+            {
+              "raw": "sunny",
+              "translations": [
+                { "type": "dictionary", "text": "ومشمس", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292059
+    },
+    {
+      "id": 9311,
+      "i": 5,
+      "positionIndex": 5,
+      "dialogue": 601,
+      "wordID": 30711,
+      "key": "zAp1wdnEpGC1acZ1CesnYvF56Gf69KC-",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "أنتِ محظوظة جدًا!",
+          "dictionary": [
+            { "raw": "أنتِ", "translations": [] },
+            { "raw": "محظوظة", "translations": [] },
+            { "raw": "جدًا", "translations": [] }
+          ]
+        },
+        {
+          "text": "You're so lucky!",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "You're",
+              "translations": [
+                { "type": "dictionary", "text": "أنت", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "so",
+              "translations": [
+                { "type": "dictionary", "text": "جدًا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "lucky",
+              "translations": [
+                { "type": "dictionary", "text": "محظوظة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292060
+    },
+    {
+      "id": 9312,
+      "i": 6,
+      "positionIndex": 6,
+      "dialogue": 601,
+      "wordID": 30712,
+      "key": "DBgYn6BvsKVXVUNZwklyGOjgSI3gCqpl",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "ليس حقًا. فصلي المفضل هو الشتاء.",
+          "dictionary": [
+            { "raw": "ليس", "translations": [] },
+            { "raw": "حقًا", "translations": [] },
+            { "raw": "فصلي", "translations": [] },
+            { "raw": "المفضل", "translations": [] },
+            { "raw": "هو", "translations": [] },
+            { "raw": "الشتاء", "translations": [] }
+          ]
+        },
+        {
+          "text": "Not really. My favourite season is winter.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Not",
+              "translations": [
+                { "type": "dictionary", "text": "ليس", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "really",
+              "translations": [
+                { "type": "dictionary", "text": "حقًا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "My",
+              "translations": [
+                { "type": "dictionary", "text": "ليس", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "favourite",
+              "translations": [
+                { "type": "dictionary", "text": "المفضل", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "season",
+              "translations": [
+                { "type": "dictionary", "text": "فصلي", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                { "type": "dictionary", "text": "هو", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "winter",
+              "translations": [
+                { "type": "dictionary", "text": "الشتاء", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292061
+    },
+    {
+      "id": 9313,
+      "i": 7,
+      "positionIndex": 7,
+      "dialogue": 601,
+      "wordID": 30713,
+      "key": "L3-1BRLrPeyLfSdnJRXHvBvy1PcJe0DO",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "أنا لا أحب الشتاء على الإطلاق.",
+          "dictionary": [
+            { "raw": "أنا", "translations": [] },
+            { "raw": "لا", "translations": [] },
+            {
+              "raw": "أحب",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "الشتاء", "translations": [] },
+            { "raw": "على", "translations": [] },
+            { "raw": "الإطلاق", "translations": [] }
+          ]
+        },
+        {
+          "text": "I don't like winter at all.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "don't",
+              "translations": [
+                { "type": "dictionary", "text": "لا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "like",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to like",
+                    "m": "يعجب",
+                    "phonetic": "to like"
+                  },
+                  "id": 55,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "CZ11KLNIIQz1-wQ050pStug_G6gnw76v",
+                          "text": "I like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438281
+                        },
+                        "m": { "text": "أنا أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438282
+                        },
+                        "m": { "text": "أنت تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "8pa24QiVNcHXrWq1YIY-9mmS66wqDarm",
+                          "text": "He likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438283
+                        },
+                        "m": { "text": "هو يعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_",
+                          "text": "She likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438285
+                        },
+                        "m": { "text": "هي تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f",
+                          "text": "We like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438287
+                        },
+                        "m": { "text": "نحن نعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "lvDR6EetmqeHLFLndSaB8uhBtftJSpHp",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547854
+                        },
+                        "m": { "text": "أنتم تعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB",
+                          "text": "They like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438289
+                        },
+                        "m": { "text": "هم يعجبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN",
+                          "text": "I liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547856
+                        },
+                        "m": { "text": "أنا أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "fw72VYXGPg6eiRTJmMzdswfCheHwivGm",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547857
+                        },
+                        "m": { "text": "أنت أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "yTwI6DTT4suslTuf_q6FGLikaKxg5-_2",
+                          "text": "He liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547858
+                        },
+                        "m": { "text": "هو أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "V28glyoN5Q99QV_JtoJpkkPxNiFosIa6",
+                          "text": "She liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547859
+                        },
+                        "m": { "text": "هي أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ciFdGkCIocX27--2HnmHtAG0BTB--L7j",
+                          "text": "We liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547861
+                        },
+                        "m": { "text": "نحن أعجبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547862
+                        },
+                        "m": { "text": "أنتم أعجبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI",
+                          "text": "They liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547863
+                        },
+                        "m": { "text": "هم أعجبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV",
+                          "text": "I will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547865
+                        },
+                        "m": { "text": "أنا سأعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547866
+                        },
+                        "m": { "text": "أنت ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5",
+                          "text": "He will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547867
+                        },
+                        "m": { "text": "هو سيعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK",
+                          "text": "She will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547868
+                        },
+                        "m": { "text": "هي ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r",
+                          "text": "We will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547870
+                        },
+                        "m": { "text": "نحن سنعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547871
+                        },
+                        "m": { "text": "أنتم ستعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC",
+                          "text": "They will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547872
+                        },
+                        "m": { "text": "هم سيعجبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "winter",
+              "translations": [
+                { "type": "dictionary", "text": "الشتاء", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "at",
+              "translations": [
+                { "type": "dictionary", "text": "على", "phonetic": null }
+              ]
+            },
+            { "raw": "all", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292062
+    },
+    {
+      "id": 9314,
+      "i": 8,
+      "positionIndex": 8,
+      "dialogue": 601,
+      "wordID": 30714,
+      "key": "XyuEjYumzzJamlAPTzPDHBBQwoLEYmIT",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "لماذا؟",
+          "dictionary": [{ "raw": "لماذا", "translations": [] }]
+        },
+        {
+          "text": "Why?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Why",
+              "translations": [
+                { "type": "dictionary", "text": "لماذا", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292063
+    },
+    {
+      "id": 9315,
+      "i": 9,
+      "positionIndex": 9,
+      "dialogue": 601,
+      "wordID": 30715,
+      "key": "Tc0Gdb18llGASfGPt-jo8_NHxkqAg4QE",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "لأنها تثلج كثيرًا.",
+          "dictionary": [
+            { "raw": "لأنها", "translations": [] },
+            { "raw": "تثلج", "translations": [] },
+            { "raw": "كثيرًا", "translations": [] }
+          ]
+        },
+        {
+          "text": "Because it snows too much.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Because",
+              "translations": [
+                { "type": "dictionary", "text": "لأنها", "phonetic": null }
+              ]
+            },
+            { "raw": "it", "translations": [] },
+            { "raw": "snows", "translations": [] },
+            { "raw": "too", "translations": [] },
+            {
+              "raw": "much",
+              "translations": [
+                { "type": "dictionary", "text": "كثيرًا", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292064
+    },
+    {
+      "id": 9316,
+      "i": 10,
+      "positionIndex": 10,
+      "dialogue": 601,
+      "wordID": 30716,
+      "key": "yEyd9OIVyxA2L3aEfc1k5MLLLENiBbxo",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "لكن الثلج جميل جدًا...",
+          "dictionary": [
+            { "raw": "لكن", "translations": [] },
+            { "raw": "الثلج", "translations": [] },
+            { "raw": "جميل", "translations": [] },
+            { "raw": "جدًا", "translations": [] }
+          ]
+        },
+        {
+          "text": "But snow is so beautiful...",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "But",
+              "translations": [
+                { "type": "dictionary", "text": "لكن", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "snow",
+              "translations": [
+                { "type": "dictionary", "text": "الثلج", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "so",
+              "translations": [
+                { "type": "dictionary", "text": "جدًا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "beautiful",
+              "translations": [
+                { "type": "dictionary", "text": "جميل", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292066
+    },
+    {
+      "id": 9317,
+      "i": 11,
+      "positionIndex": 11,
+      "dialogue": 601,
+      "wordID": 30717,
+      "key": "1OTV_b9sg3T79jQZlGgJyrm9LoadQMtl",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "لا تستطيعين إقناعي.",
+          "dictionary": [
+            { "raw": "لا", "translations": [] },
+            { "raw": "تستطيعين", "translations": [] },
+            { "raw": "إقناعي", "translations": [] }
+          ]
+        },
+        {
+          "text": "You can't convince me.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "You", "translations": [] },
+            { "raw": "can't", "translations": [] },
+            { "raw": "convince", "translations": [] },
+            { "raw": "me", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292067
+    },
+    {
+      "id": 9318,
+      "i": 12,
+      "positionIndex": 12,
+      "dialogue": 601,
+      "wordID": 30718,
+      "key": "uURN-7oywQ0UovwiIe9bSaJ5GYs0xcBD",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "ما فصلك المفضل إذن؟",
+          "dictionary": [
+            { "raw": "ما", "translations": [] },
+            { "raw": "فصلك", "translations": [] },
+            { "raw": "المفضل", "translations": [] },
+            { "raw": "إذن", "translations": [] }
+          ]
+        },
+        {
+          "text": "What's your favourite season then?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "What's",
+              "translations": [
+                { "type": "dictionary", "text": "ما", "phonetic": null }
+              ]
+            },
+            { "raw": "your", "translations": [] },
+            {
+              "raw": "favourite",
+              "translations": [
+                { "type": "dictionary", "text": "المفضل", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "season",
+              "translations": [
+                { "type": "dictionary", "text": "فصلك", "phonetic": null }
+              ]
+            },
+            { "raw": "then", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292068
+    },
+    {
+      "id": 9319,
+      "i": 13,
+      "positionIndex": 13,
+      "dialogue": 601,
+      "wordID": 30719,
+      "key": "rtGs4kN1FSk40YqhCSy_SM0W5S1eDMEo",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "الصيف. أنا أحب الذهاب إلى الشاطئ!",
+          "dictionary": [
+            { "raw": "الصيف", "translations": [] },
+            { "raw": "أنا", "translations": [] },
+            {
+              "raw": "أحب",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "الذهاب", "translations": [] },
+            { "raw": "إلى", "translations": [] },
+            { "raw": "الشاطئ", "translations": [] }
+          ]
+        },
+        {
+          "text": "Summer. I love to go to the beach!",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Summer",
+              "translations": [
+                { "type": "dictionary", "text": "الصيف", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "love",
+              "translations": [
+                { "type": "dictionary", "text": "أحب", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "to",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "go",
+              "translations": [
+                { "type": "dictionary", "text": "الذهاب", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to go", "m": "يذهب", "phonetic": "to go" },
+                  "id": 40,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "7bNI0RboiqsVM_WilX2otoK_sq_OOnIh",
+                          "text": "I go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438139
+                        },
+                        "m": { "text": "أنا أذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "cacr7_SGG3dzVO-mSG6-3JGMo1QHNnfI",
+                          "text": "You go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438141
+                        },
+                        "m": { "text": "أنت تذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "bZGv2l3B-K6XJzrbpRcL8BGFxmSL9E41",
+                          "text": "He goes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438142
+                        },
+                        "m": { "text": "هو يذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VUXmsiBF52fp9UFoJJbYzXtzSOqd70KL",
+                          "text": "She goes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438143
+                        },
+                        "m": { "text": "هي تذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "TzT3zhHftJuiDg8yys-D6vI22jJTYXt-",
+                          "text": "We go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438145
+                        },
+                        "m": { "text": "نحن نذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "vFAnGTkaIgwCphxih4TEtrC1wpds6Ja9",
+                          "text": "You go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438146
+                        },
+                        "m": { "text": "أنتم تذهبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "as-vTrtT2jT-Oo2pJIEXATWc8NGNHyHy",
+                          "text": "They go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438147
+                        },
+                        "m": { "text": "هم يذهبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "ecfE6_usDqBDEgKqLf6lszCSyS6LchO2",
+                          "text": "I went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438148
+                        },
+                        "m": { "text": "أنا ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "EQmuVdiG1ooEYpqZiH9fvnxiX5xa7UCr",
+                          "text": "You went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438149
+                        },
+                        "m": { "text": "أنت ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "qO6qMBah2gqVpJ7TCH0OI-km7Mnjm9AB",
+                          "text": "He went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438151
+                        },
+                        "m": { "text": "هو ذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ykHNySLcbj_Rduz8EyjcvdnPK0wlkrz2",
+                          "text": "She went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438152
+                        },
+                        "m": { "text": "هي ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "akN_HA9flK2VWcjlkhPYg3DjSnZZd1oi",
+                          "text": "We went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438153
+                        },
+                        "m": { "text": "نحن ذهبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "kpGUD063dV_rZBSxR2DvQxiM-k_NPNBS",
+                          "text": "You went",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547489
+                        },
+                        "m": { "text": "أنتم ذهبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "WmZAvV4rAVPbwBgM0_rJ8bu7OG6Qt5Iw",
+                          "text": "They went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438154
+                        },
+                        "m": { "text": "هم ذهبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "JgvAgyiXF7jLKauYYG7d98AS4yIPb30q",
+                          "text": "I will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438155
+                        },
+                        "m": { "text": "أنا سأذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "NWaLgXoxuA-0UioEcTD3PBAgWYUPSj-K",
+                          "text": "You will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438157
+                        },
+                        "m": { "text": "أنت ستذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "rg4yVFoVEyzsFbtgrGuEUFJQQPSBkfen",
+                          "text": "He will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438158
+                        },
+                        "m": { "text": "هو سيذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "RnFE7AbFeD6gZxaYheN83Gj_HscOn2Cz",
+                          "text": "She will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438159
+                        },
+                        "m": { "text": "هي ستذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "fuwQr7AE3vDfvwem4z9cSXVaUBgvvKyy",
+                          "text": "We will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438160
+                        },
+                        "m": { "text": "نحن سنذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ySfGaRO2p3GrKGHH10VcD3XFDi2-Nxa_",
+                          "text": "You will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547498
+                        },
+                        "m": { "text": "أنتم ستذهبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "dEJvrp2XZNvhxyWlesxvM4ypFeJyU6Ad",
+                          "text": "They will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438161
+                        },
+                        "m": { "text": "هم سيذهبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "to",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "إلى", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "beach",
+              "translations": [
+                { "type": "dictionary", "text": "الشاطئ", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292069
+    },
+    {
+      "id": 9320,
+      "i": 14,
+      "positionIndex": 14,
+      "dialogue": 601,
+      "wordID": 30720,
+      "key": "BB1J5aXNJVL3rfxhf5Yo_VYcPjlN1SVK",
+      "done": false,
+      "recorded": false,
+      "sols": [
+        {
+          "text": "أنت محظوظ لأنك تعيش بالقرب من البحر!",
+          "dictionary": [
+            { "raw": "أنت", "translations": [] },
+            { "raw": "محظوظ", "translations": [] },
+            { "raw": "لأنك", "translations": [] },
+            {
+              "raw": "تعيش",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to live",
+                    "m": "يعيش",
+                    "phonetic": "to live"
+                  },
+                  "id": 56,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "sxQrj8_yqsQ7GHMFvt9JhcDACfXdFbwh",
+                          "text": "I live",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438290
+                        },
+                        "m": { "text": "أنا أعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "XqAAGdwr2QDFVivEv3SVAqyg4Q_ImpR5",
+                          "text": "You live",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438291
+                        },
+                        "m": { "text": "أنت تعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "cZ5zaoqg_RHROpA8c2cxbzQsHpo-NkZS",
+                          "text": "He lives",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438293
+                        },
+                        "m": { "text": "هو يعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "fv95UKhYyhEmMfj0RVVK3vGyQffi1xxg",
+                          "text": "She lives",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438294
+                        },
+                        "m": { "text": "هي تعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "5kAJfuRnUQMENTGv_WewiZjVSdzaRvoT",
+                          "text": "We live",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438295
+                        },
+                        "m": { "text": "نحن نعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "7ptFBIy7qGX873KovlIGQW66BAJaWLVE",
+                          "text": "You live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547881
+                        },
+                        "m": { "text": "أنتم تعيشون" }
+                      },
+                      {
+                        "t": {
+                          "key": "53uIxRdcmRXDvMifhZdUSbv2djihpHlD",
+                          "text": "They live",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438296
+                        },
+                        "m": { "text": "هم يعيشون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "WIZO5RSTG_MphoiZHgzpqoR4CmXzjy9T",
+                          "text": "I lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547883
+                        },
+                        "m": { "text": "أنا عشت" }
+                      },
+                      {
+                        "t": {
+                          "key": "l96rkfEWayyRGJLXXg7cXaCKFa82R0_d",
+                          "text": "You lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547884
+                        },
+                        "m": { "text": "أنت عشت" }
+                      },
+                      {
+                        "t": {
+                          "key": "hdIRjyZaFoE0pBk4O3UhS9DQHLPEOBUf",
+                          "text": "He lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547885
+                        },
+                        "m": { "text": "هو عاش" }
+                      },
+                      {
+                        "t": {
+                          "key": "__ieIjXdyPLsmgolzbyJn188q1d41GVo",
+                          "text": "She lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547886
+                        },
+                        "m": { "text": "هي عاشت" }
+                      },
+                      {
+                        "t": {
+                          "key": "5rXcrlCURKt0vptpqp0SzG1gHR-J5Nma",
+                          "text": "We lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547888
+                        },
+                        "m": { "text": "نحن عشنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "dMeZbrHiiczIcAX2lj5ytdsUB2LP9kNY",
+                          "text": "You lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547889
+                        },
+                        "m": { "text": "أنتم عشتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "6Yz09RV3ujuzO3mcg_cCrSoC0yhheiUm",
+                          "text": "They lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547890
+                        },
+                        "m": { "text": "هم عاشوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "0YlznE9g_oY84vNyTYofviLbFtlKEEHj",
+                          "text": "I will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547891
+                        },
+                        "m": { "text": "أنا سأعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "Hmpk1JQt4cq78hY4AuXp9yLAssU9HOeF",
+                          "text": "You will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547892
+                        },
+                        "m": { "text": "أنت ستعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "ti2weqR_9Rnf2FaitXRP9EGOiWuttaul",
+                          "text": "He will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547893
+                        },
+                        "m": { "text": "هو سيعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "R4HXoA-D06F7rkp3BBNHua076GZdFFpd",
+                          "text": "She will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547894
+                        },
+                        "m": { "text": "هي ستعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "etkWl8ybynN7LuCrfWD0HiNynkD1Lqab",
+                          "text": "We will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547896
+                        },
+                        "m": { "text": "نحن سنعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "wyWtVsDySDK31faqD4plxx5THjm4VeyO",
+                          "text": "You will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547897
+                        },
+                        "m": { "text": "أنتم ستعيشون" }
+                      },
+                      {
+                        "t": {
+                          "key": "3rlNTkC8VbZNK8CMQKyIiPY6hodeBPPc",
+                          "text": "They will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547898
+                        },
+                        "m": { "text": "هم سيعيشون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "بالقرب", "translations": [] },
+            { "raw": "من", "translations": [] },
+            { "raw": "البحر", "translations": [] }
+          ]
+        },
+        {
+          "text": "You're lucky you live near the sea!",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "You're",
+              "translations": [
+                { "type": "dictionary", "text": "أنت", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "lucky",
+              "translations": [
+                { "type": "dictionary", "text": "محظوظ", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "you",
+              "translations": [
+                { "type": "dictionary", "text": "أنت", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "live",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to live",
+                    "m": "يعيش",
+                    "phonetic": "to live"
+                  },
+                  "id": 56,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "sxQrj8_yqsQ7GHMFvt9JhcDACfXdFbwh",
+                          "text": "I live",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438290
+                        },
+                        "m": { "text": "أنا أعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "XqAAGdwr2QDFVivEv3SVAqyg4Q_ImpR5",
+                          "text": "You live",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438291
+                        },
+                        "m": { "text": "أنت تعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "cZ5zaoqg_RHROpA8c2cxbzQsHpo-NkZS",
+                          "text": "He lives",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438293
+                        },
+                        "m": { "text": "هو يعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "fv95UKhYyhEmMfj0RVVK3vGyQffi1xxg",
+                          "text": "She lives",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438294
+                        },
+                        "m": { "text": "هي تعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "5kAJfuRnUQMENTGv_WewiZjVSdzaRvoT",
+                          "text": "We live",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438295
+                        },
+                        "m": { "text": "نحن نعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "7ptFBIy7qGX873KovlIGQW66BAJaWLVE",
+                          "text": "You live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547881
+                        },
+                        "m": { "text": "أنتم تعيشون" }
+                      },
+                      {
+                        "t": {
+                          "key": "53uIxRdcmRXDvMifhZdUSbv2djihpHlD",
+                          "text": "They live",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438296
+                        },
+                        "m": { "text": "هم يعيشون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "WIZO5RSTG_MphoiZHgzpqoR4CmXzjy9T",
+                          "text": "I lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547883
+                        },
+                        "m": { "text": "أنا عشت" }
+                      },
+                      {
+                        "t": {
+                          "key": "l96rkfEWayyRGJLXXg7cXaCKFa82R0_d",
+                          "text": "You lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547884
+                        },
+                        "m": { "text": "أنت عشت" }
+                      },
+                      {
+                        "t": {
+                          "key": "hdIRjyZaFoE0pBk4O3UhS9DQHLPEOBUf",
+                          "text": "He lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547885
+                        },
+                        "m": { "text": "هو عاش" }
+                      },
+                      {
+                        "t": {
+                          "key": "__ieIjXdyPLsmgolzbyJn188q1d41GVo",
+                          "text": "She lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547886
+                        },
+                        "m": { "text": "هي عاشت" }
+                      },
+                      {
+                        "t": {
+                          "key": "5rXcrlCURKt0vptpqp0SzG1gHR-J5Nma",
+                          "text": "We lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547888
+                        },
+                        "m": { "text": "نحن عشنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "dMeZbrHiiczIcAX2lj5ytdsUB2LP9kNY",
+                          "text": "You lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547889
+                        },
+                        "m": { "text": "أنتم عشتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "6Yz09RV3ujuzO3mcg_cCrSoC0yhheiUm",
+                          "text": "They lived",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547890
+                        },
+                        "m": { "text": "هم عاشوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "0YlznE9g_oY84vNyTYofviLbFtlKEEHj",
+                          "text": "I will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547891
+                        },
+                        "m": { "text": "أنا سأعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "Hmpk1JQt4cq78hY4AuXp9yLAssU9HOeF",
+                          "text": "You will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547892
+                        },
+                        "m": { "text": "أنت ستعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "ti2weqR_9Rnf2FaitXRP9EGOiWuttaul",
+                          "text": "He will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547893
+                        },
+                        "m": { "text": "هو سيعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "R4HXoA-D06F7rkp3BBNHua076GZdFFpd",
+                          "text": "She will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547894
+                        },
+                        "m": { "text": "هي ستعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "etkWl8ybynN7LuCrfWD0HiNynkD1Lqab",
+                          "text": "We will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547896
+                        },
+                        "m": { "text": "نحن سنعيش" }
+                      },
+                      {
+                        "t": {
+                          "key": "wyWtVsDySDK31faqD4plxx5THjm4VeyO",
+                          "text": "You will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547897
+                        },
+                        "m": { "text": "أنتم ستعيشون" }
+                      },
+                      {
+                        "t": {
+                          "key": "3rlNTkC8VbZNK8CMQKyIiPY6hodeBPPc",
+                          "text": "They will live",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547898
+                        },
+                        "m": { "text": "هم سيعيشون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "near",
+              "translations": [
+                { "type": "dictionary", "text": "بالقرب", "phonetic": null }
+              ]
+            },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "sea",
+              "translations": [
+                { "type": "dictionary", "text": "البحر", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688292070
+    }
+  ]
+}

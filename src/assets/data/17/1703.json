@@ -1,0 +1,4231 @@
+{
+  "lesson": {
+    "id": 1703,
+    "index": 3,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 17,
+    "categoryID": 17,
+    "name": "التفضيل",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 25,
+    "countWords": 29,
+    "countPhrases": 8,
+    "countDone": 0,
+    "quizzes": [
+      645247, 645248, 645249, 645250, 645251, 645252, 645253, 645254, 645255,
+      645256, 645257, 645258, 645259, 645260, 645261, 645262, 645263, 645264,
+      645265, 645266, 645267, 645268, 645269, 645270, 645271
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 645247,
+      "lesson": 1703,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23669,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tAcE12_b1xX",
+          "text": "interesting",
+          "raw": { "text": "interesting", "location": 0, "length": 11 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tw7tgzBgOif",
+          "text": "project",
+          "raw": { "text": "project", "location": 0, "length": 7 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tAcE12_b1xX"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "o-3V0CUNe8PWO9o9ZZagqV72bKkUJqxh",
+          "audio_updated_at": 1688290515,
+          "text": "مشوق",
+          "dictionary": [{ "raw": "مشوق", "translations": [] }],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "مشوق", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "o-3V0CUNe8PWO9o9ZZagqV72bKkUJqxh",
+          "audio_updated_at": 1688290515,
+          "text": "interesting",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645248,
+      "lesson": 1703,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 24598,
+      "alternates": [23669],
+      "tokens": [
+        {
+          "key": "tEGk-CEEgco",
+          "text": "to",
+          "raw": { "text": "to", "location": 35, "length": 2 },
+          "prefix": { "text": "", "location": 35, "length": 0 },
+          "suffix": { "text": "", "location": 37, "length": 0 },
+          "linker": { "text": " ", "location": 34, "length": 1 }
+        },
+        {
+          "key": "tUGlaRkzrZE",
+          "text": "is",
+          "raw": { "text": "is", "location": 5, "length": 2 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tPtfCtQ1D5i",
+          "text": "What",
+          "raw": { "text": "What", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t7NcUMq5o_C",
+          "text": "here?",
+          "raw": { "text": "here", "location": 44, "length": 4 },
+          "prefix": { "text": "", "location": 44, "length": 0 },
+          "suffix": { "text": "?", "location": 48, "length": 1 },
+          "linker": { "text": " ", "location": 43, "length": 1 }
+        },
+        {
+          "key": "tgTXnd7GZYK",
+          "text": "place",
+          "raw": { "text": "place", "location": 29, "length": 5 },
+          "prefix": { "text": "", "location": 29, "length": 0 },
+          "suffix": { "text": "", "location": 34, "length": 0 },
+          "linker": { "text": " ", "location": 28, "length": 1 }
+        },
+        {
+          "key": "tr4c-SgBw34",
+          "text": "most",
+          "raw": { "text": "most", "location": 12, "length": 4 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tQgTKsASUII",
+          "text": "interesting",
+          "raw": { "text": "interesting", "location": 17, "length": 11 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "", "location": 28, "length": 0 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "thkWWP2mR3O",
+          "text": "the",
+          "raw": { "text": "the", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tbCFmnU2UQ7",
+          "text": "visit",
+          "raw": { "text": "visit", "location": 38, "length": 5 },
+          "prefix": { "text": "", "location": 38, "length": 0 },
+          "suffix": { "text": "", "location": 43, "length": 0 },
+          "linker": { "text": " ", "location": 37, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tPtfCtQ1D5i",
+        "tUGlaRkzrZE",
+        "thkWWP2mR3O",
+        "tr4c-SgBw34",
+        "tQgTKsASUII",
+        "tgTXnd7GZYK",
+        "tEGk-CEEgco",
+        "tbCFmnU2UQ7",
+        "t7NcUMq5o_C"
+      ],
+      "completeToken": "tQgTKsASUII",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "aICzEBqWd7YjPHIIXyL4sgBAULfNfAs9",
+          "audio_updated_at": 1688291562,
+          "text": "ما أكثر مكان مشوق للزيارة هنا؟",
+          "dictionary": [
+            {
+              "raw": "ما",
+              "translations": [
+                { "type": "dictionary", "text": "What", "phonetic": "What" }
+              ]
+            },
+            { "raw": "أكثر", "translations": [] },
+            {
+              "raw": "مكان",
+              "translations": [
+                { "type": "dictionary", "text": "place", "phonetic": "place" }
+              ]
+            },
+            {
+              "raw": "مشوق",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "interesting",
+                  "phonetic": "interesting"
+                }
+              ]
+            },
+            {
+              "raw": "للزيارة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "to visit",
+                  "phonetic": "to visit"
+                }
+              ]
+            },
+            {
+              "raw": "هنا",
+              "translations": [
+                { "type": "dictionary", "text": "here", "phonetic": "here" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "ما", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أكثر", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "مكان", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "مشوق", "location": 13, "length": 4 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "للزيارة", "location": 18, "length": 7 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 25, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "هنا", "location": 26, "length": 3 },
+              "prefix": { "text": "", "location": 26, "length": 0 },
+              "suffix": { "text": "؟", "location": 29, "length": 1 },
+              "linker": { "text": " ", "location": 25, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "aICzEBqWd7YjPHIIXyL4sgBAULfNfAs9",
+          "audio_updated_at": 1688291562,
+          "text": "What is the most interesting place to visit here?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645249,
+      "lesson": 1703,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24599,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tm02UEvf_Gl",
+          "text": "beautiful",
+          "raw": { "text": "beautiful", "location": 17, "length": 9 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "", "location": 26, "length": 0 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "tWwzamCTySL",
+          "text": "the",
+          "raw": { "text": "the", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "t6PGYhj--r8",
+          "text": "What",
+          "raw": { "text": "What", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t3zbaui8_uy",
+          "text": "is",
+          "raw": { "text": "is", "location": 5, "length": 2 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tNNWZWM0liW",
+          "text": "visit",
+          "raw": { "text": "visit", "location": 36, "length": 5 },
+          "prefix": { "text": "", "location": 36, "length": 0 },
+          "suffix": { "text": "", "location": 41, "length": 0 },
+          "linker": { "text": " ", "location": 35, "length": 1 }
+        },
+        {
+          "key": "t7lH_lrMOQa",
+          "text": "to",
+          "raw": { "text": "to", "location": 33, "length": 2 },
+          "prefix": { "text": "", "location": 33, "length": 0 },
+          "suffix": { "text": "", "location": 35, "length": 0 },
+          "linker": { "text": " ", "location": 32, "length": 1 }
+        },
+        {
+          "key": "tmYMGSc2lUY",
+          "text": "most",
+          "raw": { "text": "most", "location": 12, "length": 4 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tnNPTVg3AtW",
+          "text": "place",
+          "raw": { "text": "place", "location": 27, "length": 5 },
+          "prefix": { "text": "", "location": 27, "length": 0 },
+          "suffix": { "text": "", "location": 32, "length": 0 },
+          "linker": { "text": " ", "location": 26, "length": 1 }
+        },
+        {
+          "key": "tzFKm_dQ9r3",
+          "text": "here?",
+          "raw": { "text": "here", "location": 42, "length": 4 },
+          "prefix": { "text": "", "location": 42, "length": 0 },
+          "suffix": { "text": "?", "location": 46, "length": 1 },
+          "linker": { "text": " ", "location": 41, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t6PGYhj--r8",
+        "t3zbaui8_uy",
+        "tWwzamCTySL",
+        "tmYMGSc2lUY",
+        "tm02UEvf_Gl",
+        "tnNPTVg3AtW",
+        "t7lH_lrMOQa",
+        "tNNWZWM0liW",
+        "tzFKm_dQ9r3"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "_AIadMjM_0rbQ2VfXvHsAfa6jcPkJVO_",
+          "audio_updated_at": 1688291563,
+          "text": "ما أجمل مكان للزيارة هنا؟",
+          "dictionary": [
+            {
+              "raw": "ما",
+              "translations": [
+                { "type": "dictionary", "text": "What", "phonetic": "What" }
+              ]
+            },
+            {
+              "raw": "أجمل",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the most beautiful",
+                  "phonetic": "the most beautiful"
+                }
+              ]
+            },
+            {
+              "raw": "مكان",
+              "translations": [
+                { "type": "dictionary", "text": "place", "phonetic": "place" }
+              ]
+            },
+            {
+              "raw": "للزيارة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "to visit",
+                  "phonetic": "to visit"
+                }
+              ]
+            },
+            {
+              "raw": "هنا",
+              "translations": [
+                { "type": "dictionary", "text": "here", "phonetic": "here" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "ما", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أجمل", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "مكان", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "للزيارة", "location": 13, "length": 7 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "هنا", "location": 21, "length": 3 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "؟", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "_AIadMjM_0rbQ2VfXvHsAfa6jcPkJVO_",
+          "audio_updated_at": 1688291563,
+          "text": "What is the most beautiful place to visit here?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645250,
+      "lesson": 1703,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 24597,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "trUpI81-qUV",
+          "text": "ما",
+          "raw": { "text": "ما", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "ttPw-q-bnVH",
+          "text": "مكان",
+          "raw": { "text": "مكان", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tak96dQSEwP",
+          "text": "للزيارة",
+          "raw": { "text": "للزيارة", "location": 13, "length": 7 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tM7BZrULhj9",
+          "text": "متنزه",
+          "raw": { "text": "متنزه", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "t4-k5C65ZuJ",
+          "text": "المدينة.",
+          "raw": { "text": "المدينة", "location": 18, "length": 7 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": ".", "location": 25, "length": 1 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "tRVbAnuMsg2",
+          "text": "في",
+          "raw": { "text": "في", "location": 15, "length": 2 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tqcb7xepzbZ",
+          "text": "أجمل",
+          "raw": { "text": "أجمل", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tcAfCJ6eabp",
+          "text": "هذا",
+          "raw": { "text": "هذا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tcAfCJ6eabp",
+        "tqcb7xepzbZ",
+        "tM7BZrULhj9",
+        "tRVbAnuMsg2",
+        "t4-k5C65ZuJ"
+      ],
+      "sols": [
+        {
+          "key": "Za8VZMoC7pJn6D_Rp-pcK2QhaxScXwtG",
+          "audio_updated_at": 1688291561,
+          "text": "This is the most beautiful park in the city.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "This",
+              "translations": [
+                { "type": "dictionary", "text": "هذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            { "raw": "most", "translations": [] },
+            { "raw": "beautiful", "translations": [] },
+            {
+              "raw": "park",
+              "translations": [
+                { "type": "dictionary", "text": "متنزه", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "in",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "city",
+              "translations": [
+                { "type": "dictionary", "text": "المدينة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "This", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 5, "length": 2 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "most", "location": 12, "length": 4 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "beautiful", "location": 17, "length": 9 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "", "location": 26, "length": 0 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            },
+            {
+              "raw": { "text": "park", "location": 27, "length": 4 },
+              "prefix": { "text": "", "location": 27, "length": 0 },
+              "suffix": { "text": "", "location": 31, "length": 0 },
+              "linker": { "text": " ", "location": 26, "length": 1 }
+            },
+            {
+              "raw": { "text": "in", "location": 32, "length": 2 },
+              "prefix": { "text": "", "location": 32, "length": 0 },
+              "suffix": { "text": "", "location": 34, "length": 0 },
+              "linker": { "text": " ", "location": 31, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 35, "length": 3 },
+              "prefix": { "text": "", "location": 35, "length": 0 },
+              "suffix": { "text": "", "location": 38, "length": 0 },
+              "linker": { "text": " ", "location": 34, "length": 1 }
+            },
+            {
+              "raw": { "text": "city", "location": 39, "length": 4 },
+              "prefix": { "text": "", "location": 39, "length": 0 },
+              "suffix": { "text": ".", "location": 43, "length": 1 },
+              "linker": { "text": " ", "location": 38, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "Za8VZMoC7pJn6D_Rp-pcK2QhaxScXwtG",
+          "audio_updated_at": 1688291561,
+          "text": "هذا أجمل متنزه في المدينة."
+        }
+      ]
+    },
+    {
+      "id": 645251,
+      "lesson": 1703,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 17465,
+      "alternates": [16713],
+      "sols": [
+        {
+          "key": "x9ousJ6sayq3otwxv9L0EvEQvEOIrjAO",
+          "audio_updated_at": 1543436984,
+          "text": "مدينة"
+        },
+        {
+          "key": "zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8",
+          "audio_updated_at": 1543437262,
+          "text": "فندق"
+        }
+      ],
+      "alts": [
+        {
+          "key": "x9ousJ6sayq3otwxv9L0EvEQvEOIrjAO",
+          "audio_updated_at": 1543436984,
+          "image": "g6qFtR5EtFonqFL1mNZHzWKce6wyN2kg",
+          "image_updated_at": 1689159029,
+          "text": "city",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8",
+          "audio_updated_at": 1543437262,
+          "text": "hotel",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "X8_-OKJrupuztdipWsdB_gX05vDakPHt",
+          "image_updated_at": 1689159063
+        }
+      ]
+    },
+    {
+      "id": 645252,
+      "lesson": 1703,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24600,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tRFKENAUkxu",
+          "text": "city.",
+          "raw": { "text": "city", "location": 30, "length": 4 },
+          "prefix": { "text": "", "location": 30, "length": 0 },
+          "suffix": { "text": ".", "location": 34, "length": 1 },
+          "linker": { "text": " ", "location": 29, "length": 1 }
+        },
+        {
+          "key": "tezcRMHjQMv",
+          "text": "best",
+          "raw": { "text": "best", "location": 12, "length": 4 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tHH1eiDcIF2",
+          "text": "the",
+          "raw": { "text": "the", "location": 26, "length": 3 },
+          "prefix": { "text": "", "location": 26, "length": 0 },
+          "suffix": { "text": "", "location": 29, "length": 0 },
+          "linker": { "text": " ", "location": 25, "length": 1 }
+        },
+        {
+          "key": "tt0MnCtjpma",
+          "text": "the",
+          "raw": { "text": "the", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "t3s5jC4hCQu",
+          "text": "hotel",
+          "raw": { "text": "hotel", "location": 17, "length": 5 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "", "location": 22, "length": 0 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "txM0MaOmFzO",
+          "text": "is",
+          "raw": { "text": "is", "location": 5, "length": 2 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tD1g33zyP-z",
+          "text": "This",
+          "raw": { "text": "This", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tWbi8udpRWY",
+          "text": "in",
+          "raw": { "text": "in", "location": 23, "length": 2 },
+          "prefix": { "text": "", "location": 23, "length": 0 },
+          "suffix": { "text": "", "location": 25, "length": 0 },
+          "linker": { "text": " ", "location": 22, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tD1g33zyP-z",
+        "txM0MaOmFzO",
+        "tt0MnCtjpma",
+        "tezcRMHjQMv",
+        "t3s5jC4hCQu",
+        "tWbi8udpRWY",
+        "tHH1eiDcIF2",
+        "tRFKENAUkxu"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "9IyxqR9hZKs9UreABnDclHTU1tuPS3RE",
+          "audio_updated_at": 1688291564,
+          "text": "هذا أفضل فندق في المدينة.",
+          "dictionary": [
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "This", "phonetic": "This" }
+              ]
+            },
+            {
+              "raw": "أفضل",
+              "translations": [
+                { "type": "dictionary", "text": "best", "phonetic": "best" }
+              ]
+            },
+            {
+              "raw": "فندق",
+              "translations": [
+                { "type": "dictionary", "text": "hotel", "phonetic": "hotel" }
+              ]
+            },
+            {
+              "raw": "في",
+              "translations": [
+                { "type": "dictionary", "text": "in", "phonetic": "in" }
+              ]
+            },
+            {
+              "raw": "المدينة",
+              "translations": [
+                { "type": "dictionary", "text": "city", "phonetic": "city" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هذا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أفضل", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "فندق", "location": 9, "length": 4 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 14, "length": 2 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "المدينة", "location": 17, "length": 7 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": ".", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "9IyxqR9hZKs9UreABnDclHTU1tuPS3RE",
+          "audio_updated_at": 1688291564,
+          "text": "This is the best hotel in the city.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645253,
+      "lesson": 1703,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 24596,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tCCdFvjF-Ze",
+          "text": "في",
+          "raw": { "text": "في", "location": 14, "length": 2 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t3XirDbt4n6",
+          "text": "هذا",
+          "raw": { "text": "هذا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t0Mm_kJukr0",
+          "text": "فندق",
+          "raw": { "text": "فندق", "location": 9, "length": 4 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tfHUvzBCwIB",
+          "text": "سنصل",
+          "raw": { "text": "سنصل", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t1qwmH9QcTx",
+          "text": "على",
+          "raw": { "text": "على", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tggxKYyZXay",
+          "text": "المدينة.",
+          "raw": { "text": "المدينة", "location": 17, "length": 7 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": ".", "location": 24, "length": 1 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "taWduVJ1aTI",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tGHlxoKPR7R",
+          "text": "أسوأ",
+          "raw": { "text": "أسوأ", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "t3XirDbt4n6",
+        "tGHlxoKPR7R",
+        "t0Mm_kJukr0",
+        "tCCdFvjF-Ze",
+        "tggxKYyZXay"
+      ],
+      "sols": [
+        {
+          "key": "tHJkCH6NbSerUiFFy5TFfAcu1nMMJfhP",
+          "audio_updated_at": 1688291559,
+          "text": "This is the worst hotel in the city.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "This",
+              "translations": [
+                { "type": "dictionary", "text": "هذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "worst",
+              "translations": [
+                { "type": "dictionary", "text": "أسوأ", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "hotel",
+              "translations": [
+                { "type": "dictionary", "text": "فندق", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "in",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "city",
+              "translations": [
+                { "type": "dictionary", "text": "المدينة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "This", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 5, "length": 2 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "worst", "location": 12, "length": 5 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "hotel", "location": 18, "length": 5 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "in", "location": 24, "length": 2 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "", "location": 26, "length": 0 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 27, "length": 3 },
+              "prefix": { "text": "", "location": 27, "length": 0 },
+              "suffix": { "text": "", "location": 30, "length": 0 },
+              "linker": { "text": " ", "location": 26, "length": 1 }
+            },
+            {
+              "raw": { "text": "city", "location": 31, "length": 4 },
+              "prefix": { "text": "", "location": 31, "length": 0 },
+              "suffix": { "text": ".", "location": 35, "length": 1 },
+              "linker": { "text": " ", "location": 30, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "tHJkCH6NbSerUiFFy5TFfAcu1nMMJfhP",
+          "audio_updated_at": 1688291559,
+          "text": "هذا أسوأ فندق في المدينة."
+        }
+      ]
+    },
+    {
+      "id": 645254,
+      "lesson": 1703,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 18348,
+      "alternates": [24594, 24595],
+      "sols": [
+        {
+          "key": "OI0Jbmm412jhaZJhUEulJqMoUSEB3rUC",
+          "audio_updated_at": 1543436724,
+          "text": "آمن"
+        },
+        {
+          "key": "Qg2ebVwU2hHJOq-DDBleUriL_HW69Qzp",
+          "audio_updated_at": 1688291557,
+          "text": "قريب"
+        },
+        {
+          "key": "pKUwAiactdEclPO876abyC9kb0mnYMCZ",
+          "audio_updated_at": 1688291558,
+          "text": "عالي"
+        }
+      ],
+      "alts": [
+        {
+          "key": "OI0Jbmm412jhaZJhUEulJqMoUSEB3rUC",
+          "audio_updated_at": 1543436724,
+          "text": "safe",
+          "phonetic": "",
+          "image": "89n4OOJ8eXIk4BefWVslNgWSCr4vhkuV",
+          "image_updated_at": 1689159137
+        },
+        {
+          "key": "Qg2ebVwU2hHJOq-DDBleUriL_HW69Qzp",
+          "audio_updated_at": 1688291557,
+          "image": "48QK3o0sB1T3SQ3doVlQHl-DBHYsUyDi",
+          "image_updated_at": 1689159261,
+          "text": "near",
+          "phonetic": ""
+        },
+        {
+          "key": "pKUwAiactdEclPO876abyC9kb0mnYMCZ",
+          "audio_updated_at": 1688291558,
+          "image": "Neu9bLb9cNAIQV919n9c5g4U74SXCQDx",
+          "image_updated_at": 1689159261,
+          "text": "high",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645255,
+      "lesson": 1703,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 18392,
+      "alternates": [18348],
+      "tokens": [
+        {
+          "key": "tFtKrOkzYJd",
+          "text": "safest",
+          "raw": { "text": "safest", "location": 12, "length": 6 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tMuc0vNZORx",
+          "text": "This",
+          "raw": { "text": "This", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tYI_XNMy0fY",
+          "text": "is",
+          "raw": { "text": "is", "location": 5, "length": 2 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tVbR_Mz5OM8",
+          "text": "in",
+          "raw": { "text": "in", "location": 26, "length": 2 },
+          "prefix": { "text": "", "location": 26, "length": 0 },
+          "suffix": { "text": "", "location": 28, "length": 0 },
+          "linker": { "text": " ", "location": 25, "length": 1 }
+        },
+        {
+          "key": "tcPbUVueXGB",
+          "text": "city.",
+          "raw": { "text": "city", "location": 33, "length": 4 },
+          "prefix": { "text": "", "location": 33, "length": 0 },
+          "suffix": { "text": ".", "location": 37, "length": 1 },
+          "linker": { "text": " ", "location": 32, "length": 1 }
+        },
+        {
+          "key": "tokK0uBj6Cl",
+          "text": "street",
+          "raw": { "text": "street", "location": 19, "length": 6 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 25, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "t4Q1RwRV-CP",
+          "text": "the",
+          "raw": { "text": "the", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tD7h65Vbhsc",
+          "text": "the",
+          "raw": { "text": "the", "location": 29, "length": 3 },
+          "prefix": { "text": "", "location": 29, "length": 0 },
+          "suffix": { "text": "", "location": 32, "length": 0 },
+          "linker": { "text": " ", "location": 28, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tMuc0vNZORx",
+        "tYI_XNMy0fY",
+        "t4Q1RwRV-CP",
+        "tFtKrOkzYJd",
+        "tokK0uBj6Cl",
+        "tVbR_Mz5OM8",
+        "tD7h65Vbhsc",
+        "tcPbUVueXGB"
+      ],
+      "completeToken": "tFtKrOkzYJd",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "EIdxYN_f91IjhQMFa62WY0jIWp9AitGr",
+          "audio_updated_at": 1543440686,
+          "text": "هذا الشارع الأكثر أمانًا في المدينة.",
+          "dictionary": [
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "This", "phonetic": "This" }
+              ]
+            },
+            {
+              "raw": "الشارع",
+              "translations": [
+                { "type": "dictionary", "text": "street", "phonetic": "street" }
+              ]
+            },
+            { "raw": "الأكثر", "translations": [] },
+            {
+              "raw": "أمانًا",
+              "translations": [
+                { "type": "dictionary", "text": "safest", "phonetic": "safest" }
+              ]
+            },
+            {
+              "raw": "في",
+              "translations": [
+                { "type": "dictionary", "text": "in", "phonetic": "in" }
+              ]
+            },
+            {
+              "raw": "المدينة",
+              "translations": [
+                { "type": "dictionary", "text": "city", "phonetic": "city" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هذا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "الشارع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الأكثر", "location": 11, "length": 6 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "أمانًا", "location": 18, "length": 6 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 24, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 25, "length": 2 },
+              "prefix": { "text": "", "location": 25, "length": 0 },
+              "suffix": { "text": "", "location": 27, "length": 0 },
+              "linker": { "text": " ", "location": 24, "length": 1 }
+            },
+            {
+              "raw": { "text": "المدينة", "location": 28, "length": 7 },
+              "prefix": { "text": "", "location": 28, "length": 0 },
+              "suffix": { "text": ".", "location": 35, "length": 1 },
+              "linker": { "text": " ", "location": 27, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "EIdxYN_f91IjhQMFa62WY0jIWp9AitGr",
+          "audio_updated_at": 1543440686,
+          "text": "This is the safest street in the city.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645256,
+      "lesson": 1703,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 24602,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t2huxFAJIRI",
+          "text": "سنصل",
+          "raw": { "text": "سنصل", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tNUmS8cGVLA",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tfJb3EKuuOd",
+          "text": "مترو؟",
+          "raw": { "text": "مترو", "location": 14, "length": 4 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "؟", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tCDBj7I1t3L",
+          "text": "الوقت؟",
+          "raw": { "text": "الوقت", "location": 12, "length": 5 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "؟", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tz4PIk5LOd0",
+          "text": "أقرب",
+          "raw": { "text": "أقرب", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t5iN4UN9IzN",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tUTLWtZk5ji",
+          "text": "محطة",
+          "raw": { "text": "محطة", "location": 9, "length": 4 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tXMK8vb_nBk",
+          "text": "على",
+          "raw": { "text": "على", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["t5iN4UN9IzN", "tz4PIk5LOd0", "tUTLWtZk5ji", "tfJb3EKuuOd"],
+      "sols": [
+        {
+          "key": "A9eEVDY_wZQIDGvJYa3uXKvJ5C5fh19W",
+          "audio_updated_at": 1688291566,
+          "text": "Where is the nearest underground station?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "nearest",
+              "translations": [
+                { "type": "dictionary", "text": "أقرب", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "underground",
+              "translations": [
+                { "type": "dictionary", "text": "مترو", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "station",
+              "translations": [
+                { "type": "dictionary", "text": "محطة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "nearest", "location": 13, "length": 7 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "underground", "location": 21, "length": 11 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "", "location": 32, "length": 0 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            },
+            {
+              "raw": { "text": "station", "location": 33, "length": 7 },
+              "prefix": { "text": "", "location": 33, "length": 0 },
+              "suffix": { "text": "?", "location": 40, "length": 1 },
+              "linker": { "text": " ", "location": 32, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "A9eEVDY_wZQIDGvJYa3uXKvJ5C5fh19W",
+          "audio_updated_at": 1688291566,
+          "text": "أين أقرب محطة مترو؟"
+        }
+      ]
+    },
+    {
+      "id": 645257,
+      "lesson": 1703,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 24601,
+      "alternates": [24595],
+      "tokens": [
+        {
+          "key": "tOL7QDxow4d",
+          "text": "is",
+          "raw": { "text": "is", "location": 5, "length": 2 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tfgYRQh9vs1",
+          "text": "highest",
+          "raw": { "text": "highest", "location": 12, "length": 7 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tn6q085hjzE",
+          "text": "building",
+          "raw": { "text": "building", "location": 20, "length": 8 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": "", "location": 28, "length": 0 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "t8L7ZCVEpBY",
+          "text": "the",
+          "raw": { "text": "the", "location": 32, "length": 3 },
+          "prefix": { "text": "", "location": 32, "length": 0 },
+          "suffix": { "text": "", "location": 35, "length": 0 },
+          "linker": { "text": " ", "location": 31, "length": 1 }
+        },
+        {
+          "key": "tpTJ6uN1iVu",
+          "text": "What",
+          "raw": { "text": "What", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tFXGy1Q_QrX",
+          "text": "in",
+          "raw": { "text": "in", "location": 29, "length": 2 },
+          "prefix": { "text": "", "location": 29, "length": 0 },
+          "suffix": { "text": "", "location": 31, "length": 0 },
+          "linker": { "text": " ", "location": 28, "length": 1 }
+        },
+        {
+          "key": "twaLVyA7sIj",
+          "text": "world?",
+          "raw": { "text": "world", "location": 36, "length": 5 },
+          "prefix": { "text": "", "location": 36, "length": 0 },
+          "suffix": { "text": "?", "location": 41, "length": 1 },
+          "linker": { "text": " ", "location": 35, "length": 1 }
+        },
+        {
+          "key": "tuxalYqTcfI",
+          "text": "the",
+          "raw": { "text": "the", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tpTJ6uN1iVu",
+        "tOL7QDxow4d",
+        "tuxalYqTcfI",
+        "tfgYRQh9vs1",
+        "tn6q085hjzE",
+        "tFXGy1Q_QrX",
+        "t8L7ZCVEpBY",
+        "twaLVyA7sIj"
+      ],
+      "completeToken": "tfgYRQh9vs1",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "K9BgIj2XYGQ3i_jTuEIhFkhDFBkz7jju",
+          "audio_updated_at": 1688291565,
+          "text": "ما هو أعلى مبنى في العالم؟",
+          "dictionary": [
+            {
+              "raw": "ما",
+              "translations": [
+                { "type": "dictionary", "text": "What", "phonetic": "What" }
+              ]
+            },
+            { "raw": "هو", "translations": [] },
+            { "raw": "أعلى", "translations": [] },
+            {
+              "raw": "مبنى",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "building",
+                  "phonetic": "building"
+                }
+              ]
+            },
+            {
+              "raw": "في",
+              "translations": [
+                { "type": "dictionary", "text": "in", "phonetic": "in" }
+              ]
+            },
+            {
+              "raw": "العالم",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the world",
+                  "phonetic": "the world"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "ما", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هو", "location": 3, "length": 2 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "أعلى", "location": 6, "length": 4 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "مبنى", "location": 11, "length": 4 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 16, "length": 2 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "العالم", "location": 19, "length": 6 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "؟", "location": 25, "length": 1 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "K9BgIj2XYGQ3i_jTuEIhFkhDFBkz7jju",
+          "audio_updated_at": 1688291565,
+          "text": "What is the highest building in the world?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645258,
+      "lesson": 1703,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 17465,
+      "alternates": [],
+      "tokens": [
+        { "key": "t0ZLVJjD1ig", "text": "o", "group": 0 },
+        { "key": "te3Gb6iwvV8", "text": "e", "group": 0 },
+        { "key": "t8kDmhpM-m8", "text": "l", "group": 0 },
+        { "key": "tqhJQMNvJca", "text": "h", "group": 0 },
+        { "key": "twFoTe9ZQKX", "text": "t", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tqhJQMNvJca",
+        "t0ZLVJjD1ig",
+        "twFoTe9ZQKX",
+        "te3Gb6iwvV8",
+        "t8kDmhpM-m8"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8",
+          "audio_updated_at": 1543437262,
+          "text": "فندق",
+          "dictionary": [
+            {
+              "raw": "فندق",
+              "translations": [
+                { "type": "dictionary", "text": "hotel", "phonetic": "hotel" }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "فندق", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8",
+          "audio_updated_at": 1543437262,
+          "text_tokens": [
+            {
+              "raw": { "text": "hotel", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "hotel",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "X8_-OKJrupuztdipWsdB_gX05vDakPHt",
+          "image_updated_at": 1689159063
+        }
+      ]
+    },
+    {
+      "id": 645259,
+      "lesson": 1703,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 24600,
+      "alternates": [24596, 18392],
+      "sols": [
+        {
+          "key": "9IyxqR9hZKs9UreABnDclHTU1tuPS3RE",
+          "audio_updated_at": 1688291564,
+          "text": "This is the best hotel in the city.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "This",
+              "translations": [
+                { "type": "dictionary", "text": "هذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "best",
+              "translations": [
+                { "type": "dictionary", "text": "أفضل", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "hotel",
+              "translations": [
+                { "type": "dictionary", "text": "فندق", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "in",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "city",
+              "translations": [
+                { "type": "dictionary", "text": "المدينة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "This", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 5, "length": 2 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "best", "location": 12, "length": 4 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "hotel", "location": 17, "length": 5 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "", "location": 22, "length": 0 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            },
+            {
+              "raw": { "text": "in", "location": 23, "length": 2 },
+              "prefix": { "text": "", "location": 23, "length": 0 },
+              "suffix": { "text": "", "location": 25, "length": 0 },
+              "linker": { "text": " ", "location": 22, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 26, "length": 3 },
+              "prefix": { "text": "", "location": 26, "length": 0 },
+              "suffix": { "text": "", "location": 29, "length": 0 },
+              "linker": { "text": " ", "location": 25, "length": 1 }
+            },
+            {
+              "raw": { "text": "city", "location": 30, "length": 4 },
+              "prefix": { "text": "", "location": 30, "length": 0 },
+              "suffix": { "text": ".", "location": 34, "length": 1 },
+              "linker": { "text": " ", "location": 29, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "EIdxYN_f91IjhQMFa62WY0jIWp9AitGr",
+          "text": "This is the safest street in the city.",
+          "phonetic": ""
+        },
+        {
+          "key": "tHJkCH6NbSerUiFFy5TFfAcu1nMMJfhP",
+          "text": "This is the worst hotel in the city.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "9IyxqR9hZKs9UreABnDclHTU1tuPS3RE",
+          "audio_updated_at": 1688291564,
+          "text": "هذا أفضل فندق في المدينة."
+        },
+        {
+          "key": "EIdxYN_f91IjhQMFa62WY0jIWp9AitGr",
+          "audio_updated_at": 1543440686,
+          "text": "هذا الشارع الأكثر أمانًا في المدينة."
+        },
+        {
+          "key": "tHJkCH6NbSerUiFFy5TFfAcu1nMMJfhP",
+          "audio_updated_at": 1688291559,
+          "text": "هذا أسوأ فندق في المدينة."
+        }
+      ]
+    },
+    {
+      "id": 645260,
+      "lesson": 1703,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 24596,
+      "alternates": [17465],
+      "tokens": [
+        { "key": "tCCKg7KSUvf", "text": "l", "group": 4 },
+        { "key": "tCXRdA0azVx", "text": "h", "group": 4 },
+        { "key": "txWWdV_Nd6F", "text": "o", "group": 4 },
+        { "key": "toRheFldaPv", "text": "t", "group": 4 },
+        { "key": "t8ML5yk4Vnp", "text": "e", "group": 4 },
+        { "key": "tAhh7wWmpe8", "text": " ", "specialChar": true }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tAhh7wWmpe8",
+        "tCXRdA0azVx",
+        "txWWdV_Nd6F",
+        "toRheFldaPv",
+        "t8ML5yk4Vnp",
+        "tCCKg7KSUvf"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "tHJkCH6NbSerUiFFy5TFfAcu1nMMJfhP",
+          "audio_updated_at": 1688291559,
+          "text": "هذا أسوأ فندق في المدينة.",
+          "dictionary": [
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "This", "phonetic": "This" }
+              ]
+            },
+            {
+              "raw": "أسوأ",
+              "translations": [
+                { "type": "dictionary", "text": "worst", "phonetic": "worst" }
+              ]
+            },
+            {
+              "raw": "فندق",
+              "translations": [
+                { "type": "dictionary", "text": "hotel", "phonetic": "hotel" }
+              ]
+            },
+            {
+              "raw": "في",
+              "translations": [
+                { "type": "dictionary", "text": "in", "phonetic": "in" }
+              ]
+            },
+            {
+              "raw": "المدينة",
+              "translations": [
+                { "type": "dictionary", "text": "city", "phonetic": "city" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هذا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أسوأ", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "فندق", "location": 9, "length": 4 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 14, "length": 2 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "المدينة", "location": 17, "length": 7 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": ".", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "tHJkCH6NbSerUiFFy5TFfAcu1nMMJfhP",
+          "audio_updated_at": 1688291559,
+          "text_tokens": [
+            {
+              "raw": { "text": "This", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 5, "length": 2 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "worst", "location": 12, "length": 5 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "hotel", "location": 18, "length": 5 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "in", "location": 24, "length": 2 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "", "location": 26, "length": 0 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 27, "length": 3 },
+              "prefix": { "text": "", "location": 27, "length": 0 },
+              "suffix": { "text": "", "location": 30, "length": 0 },
+              "linker": { "text": " ", "location": 26, "length": 1 }
+            },
+            {
+              "raw": { "text": "city", "location": 31, "length": 4 },
+              "prefix": { "text": "", "location": 31, "length": 0 },
+              "suffix": { "text": ".", "location": 35, "length": 1 },
+              "linker": { "text": " ", "location": 30, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "This is the worst hotel in the city.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645261,
+      "lesson": 1703,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 23669,
+      "alternates": [18348, 24595],
+      "sols": [
+        {
+          "key": "o-3V0CUNe8PWO9o9ZZagqV72bKkUJqxh",
+          "audio_updated_at": 1688290515,
+          "text": "interesting",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "interesting",
+              "translations": [
+                { "type": "dictionary", "text": "مشوق", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "interesting", "location": 0, "length": 11 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "OI0Jbmm412jhaZJhUEulJqMoUSEB3rUC",
+          "text": "safe",
+          "phonetic": ""
+        },
+        {
+          "key": "pKUwAiactdEclPO876abyC9kb0mnYMCZ",
+          "text": "high",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "o-3V0CUNe8PWO9o9ZZagqV72bKkUJqxh",
+          "audio_updated_at": 1688290515,
+          "text": "مشوق"
+        },
+        {
+          "key": "OI0Jbmm412jhaZJhUEulJqMoUSEB3rUC",
+          "audio_updated_at": 1543436724,
+          "text": "آمن"
+        },
+        {
+          "key": "pKUwAiactdEclPO876abyC9kb0mnYMCZ",
+          "audio_updated_at": 1688291558,
+          "text": "عالي"
+        }
+      ]
+    },
+    {
+      "id": 645262,
+      "lesson": 1703,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24598,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t4SP_lEDo56",
+          "text": "visit",
+          "raw": { "text": "visit", "location": 38, "length": 5 },
+          "prefix": { "text": "", "location": 38, "length": 0 },
+          "suffix": { "text": "", "location": 43, "length": 0 },
+          "linker": { "text": " ", "location": 37, "length": 1 }
+        },
+        {
+          "key": "tIpkK-jb-7m",
+          "text": "interesting",
+          "raw": { "text": "interesting", "location": 17, "length": 11 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "", "location": 28, "length": 0 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "tnaJ7ccKqbr",
+          "text": "place",
+          "raw": { "text": "place", "location": 29, "length": 5 },
+          "prefix": { "text": "", "location": 29, "length": 0 },
+          "suffix": { "text": "", "location": 34, "length": 0 },
+          "linker": { "text": " ", "location": 28, "length": 1 }
+        },
+        {
+          "key": "t2lRqKG6T-x",
+          "text": "What",
+          "raw": { "text": "What", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t7gQYbFgv_0",
+          "text": "to",
+          "raw": { "text": "to", "location": 35, "length": 2 },
+          "prefix": { "text": "", "location": 35, "length": 0 },
+          "suffix": { "text": "", "location": 37, "length": 0 },
+          "linker": { "text": " ", "location": 34, "length": 1 }
+        },
+        {
+          "key": "tYqTGlfAeDA",
+          "text": "most",
+          "raw": { "text": "most", "location": 12, "length": 4 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tdMlYk9ujq8",
+          "text": "here?",
+          "raw": { "text": "here", "location": 44, "length": 4 },
+          "prefix": { "text": "", "location": 44, "length": 0 },
+          "suffix": { "text": "?", "location": 48, "length": 1 },
+          "linker": { "text": " ", "location": 43, "length": 1 }
+        },
+        {
+          "key": "tsHkRw6kbZh",
+          "text": "is",
+          "raw": { "text": "is", "location": 5, "length": 2 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "twxqjUBjdcP",
+          "text": "the",
+          "raw": { "text": "the", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t2lRqKG6T-x",
+        "tsHkRw6kbZh",
+        "twxqjUBjdcP",
+        "tYqTGlfAeDA",
+        "tIpkK-jb-7m",
+        "tnaJ7ccKqbr",
+        "t7gQYbFgv_0",
+        "t4SP_lEDo56",
+        "tdMlYk9ujq8"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "aICzEBqWd7YjPHIIXyL4sgBAULfNfAs9",
+          "audio_updated_at": 1688291562,
+          "text": "ما أكثر مكان مشوق للزيارة هنا؟",
+          "dictionary": [
+            {
+              "raw": "ما",
+              "translations": [
+                { "type": "dictionary", "text": "What", "phonetic": "What" }
+              ]
+            },
+            { "raw": "أكثر", "translations": [] },
+            {
+              "raw": "مكان",
+              "translations": [
+                { "type": "dictionary", "text": "place", "phonetic": "place" }
+              ]
+            },
+            {
+              "raw": "مشوق",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "interesting",
+                  "phonetic": "interesting"
+                }
+              ]
+            },
+            {
+              "raw": "للزيارة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "to visit",
+                  "phonetic": "to visit"
+                }
+              ]
+            },
+            {
+              "raw": "هنا",
+              "translations": [
+                { "type": "dictionary", "text": "here", "phonetic": "here" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "ما", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أكثر", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "مكان", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "مشوق", "location": 13, "length": 4 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "للزيارة", "location": 18, "length": 7 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 25, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "هنا", "location": 26, "length": 3 },
+              "prefix": { "text": "", "location": 26, "length": 0 },
+              "suffix": { "text": "؟", "location": 29, "length": 1 },
+              "linker": { "text": " ", "location": 25, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "aICzEBqWd7YjPHIIXyL4sgBAULfNfAs9",
+          "audio_updated_at": 1688291562,
+          "text": "What is the most interesting place to visit here?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645263,
+      "lesson": 1703,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 24599,
+      "alternates": [24598, 24601],
+      "sols": [
+        {
+          "key": "_AIadMjM_0rbQ2VfXvHsAfa6jcPkJVO_",
+          "audio_updated_at": 1688291563,
+          "text": "ما أجمل مكان للزيارة هنا؟",
+          "dictionary": [
+            {
+              "raw": "ما",
+              "translations": [
+                { "type": "dictionary", "text": "What", "phonetic": "What" }
+              ]
+            },
+            {
+              "raw": "أجمل",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the most beautiful",
+                  "phonetic": "the most beautiful"
+                }
+              ]
+            },
+            {
+              "raw": "مكان",
+              "translations": [
+                { "type": "dictionary", "text": "place", "phonetic": "place" }
+              ]
+            },
+            {
+              "raw": "للزيارة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "to visit",
+                  "phonetic": "to visit"
+                }
+              ]
+            },
+            {
+              "raw": "هنا",
+              "translations": [
+                { "type": "dictionary", "text": "here", "phonetic": "here" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "ما", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أجمل", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "مكان", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "للزيارة", "location": 13, "length": 7 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "هنا", "location": 21, "length": 3 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "؟", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "aICzEBqWd7YjPHIIXyL4sgBAULfNfAs9",
+          "text": "ما أكثر مكان مشوق للزيارة هنا؟"
+        },
+        {
+          "key": "K9BgIj2XYGQ3i_jTuEIhFkhDFBkz7jju",
+          "text": "ما هو أعلى مبنى في العالم؟"
+        }
+      ],
+      "alts": [
+        {
+          "key": "_AIadMjM_0rbQ2VfXvHsAfa6jcPkJVO_",
+          "audio_updated_at": 1688291563,
+          "text": "What is the most beautiful place to visit here?",
+          "phonetic": ""
+        },
+        {
+          "key": "aICzEBqWd7YjPHIIXyL4sgBAULfNfAs9",
+          "audio_updated_at": 1688291562,
+          "text": "What is the most interesting place to visit here?",
+          "phonetic": ""
+        },
+        {
+          "key": "K9BgIj2XYGQ3i_jTuEIhFkhDFBkz7jju",
+          "audio_updated_at": 1688291565,
+          "text": "What is the highest building in the world?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645264,
+      "lesson": 1703,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 24597,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tBCWc193Fnn",
+          "text": "هذا",
+          "raw": { "text": "هذا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t_mOrYT3RFh",
+          "text": "محطة",
+          "raw": { "text": "محطة", "location": 9, "length": 4 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tcJEWP1EV6f",
+          "text": "أجمل",
+          "raw": { "text": "أجمل", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tPypG6fRWMM",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tXH00ybB_hC",
+          "text": "في",
+          "raw": { "text": "في", "location": 15, "length": 2 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tUN5qYm2Ds6",
+          "text": "أقرب",
+          "raw": { "text": "أقرب", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tBnyk1o1P6N",
+          "text": "المدينة.",
+          "raw": { "text": "المدينة", "location": 18, "length": 7 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": ".", "location": 25, "length": 1 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "tT8e9nuxMhj",
+          "text": "متنزه",
+          "raw": { "text": "متنزه", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tBCWc193Fnn",
+        "tcJEWP1EV6f",
+        "tT8e9nuxMhj",
+        "tXH00ybB_hC",
+        "tBnyk1o1P6N"
+      ],
+      "sols": [
+        {
+          "key": "Za8VZMoC7pJn6D_Rp-pcK2QhaxScXwtG",
+          "audio_updated_at": 1688291561,
+          "text": "This is the most beautiful park in the city.",
+          "phonetic": ""
+        },
+        {
+          "key": "Za8VZMoC7pJn6D_Rp-pcK2QhaxScXwtG",
+          "audio_updated_at": 1688291561,
+          "text": "هذا أجمل متنزه في المدينة."
+        }
+      ]
+    },
+    {
+      "id": 645265,
+      "lesson": 1703,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 18348,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t6MBU7dnsrv",
+          "text": "man",
+          "raw": { "text": "man", "location": 2, "length": 3 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tC58CbK095O",
+          "text": "with",
+          "raw": { "text": "with", "location": 6, "length": 4 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tuqpJp5i1mL",
+          "text": "safe",
+          "raw": { "text": "safe", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tnCIToN9pKs",
+          "text": "A",
+          "raw": { "text": "A", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t-dVKddeqow",
+          "text": "a",
+          "raw": { "text": "a", "location": 11, "length": 1 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "to8qPGxEc_m",
+          "text": "gun.",
+          "raw": { "text": "gun", "location": 13, "length": 3 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tuqpJp5i1mL"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "OI0Jbmm412jhaZJhUEulJqMoUSEB3rUC",
+          "audio_updated_at": 1543436724,
+          "text": "آمن",
+          "dictionary": [
+            {
+              "raw": "آمن",
+              "translations": [
+                { "type": "dictionary", "text": "safe", "phonetic": "safe" }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "آمن", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "OI0Jbmm412jhaZJhUEulJqMoUSEB3rUC",
+          "audio_updated_at": 1543436724,
+          "text": "safe",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645266,
+      "lesson": 1703,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 18392,
+      "alternates": [24596, 24600],
+      "sols": [
+        {
+          "key": "EIdxYN_f91IjhQMFa62WY0jIWp9AitGr",
+          "audio_updated_at": 1543440686,
+          "text": "هذا الشارع الأكثر أمانًا في المدينة.",
+          "dictionary": [
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "This", "phonetic": "This" }
+              ]
+            },
+            {
+              "raw": "الشارع",
+              "translations": [
+                { "type": "dictionary", "text": "street", "phonetic": "street" }
+              ]
+            },
+            { "raw": "الأكثر", "translations": [] },
+            {
+              "raw": "أمانًا",
+              "translations": [
+                { "type": "dictionary", "text": "safest", "phonetic": "safest" }
+              ]
+            },
+            {
+              "raw": "في",
+              "translations": [
+                { "type": "dictionary", "text": "in", "phonetic": "in" }
+              ]
+            },
+            {
+              "raw": "المدينة",
+              "translations": [
+                { "type": "dictionary", "text": "city", "phonetic": "city" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هذا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "الشارع", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الأكثر", "location": 11, "length": 6 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "أمانًا", "location": 18, "length": 6 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 24, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 25, "length": 2 },
+              "prefix": { "text": "", "location": 25, "length": 0 },
+              "suffix": { "text": "", "location": 27, "length": 0 },
+              "linker": { "text": " ", "location": 24, "length": 1 }
+            },
+            {
+              "raw": { "text": "المدينة", "location": 28, "length": 7 },
+              "prefix": { "text": "", "location": 28, "length": 0 },
+              "suffix": { "text": ".", "location": 35, "length": 1 },
+              "linker": { "text": " ", "location": 27, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "9IyxqR9hZKs9UreABnDclHTU1tuPS3RE",
+          "text": "هذا أفضل فندق في المدينة."
+        },
+        {
+          "key": "tHJkCH6NbSerUiFFy5TFfAcu1nMMJfhP",
+          "text": "هذا أسوأ فندق في المدينة."
+        }
+      ],
+      "alts": [
+        {
+          "key": "EIdxYN_f91IjhQMFa62WY0jIWp9AitGr",
+          "audio_updated_at": 1543440686,
+          "text": "This is the safest street in the city.",
+          "phonetic": ""
+        },
+        {
+          "key": "9IyxqR9hZKs9UreABnDclHTU1tuPS3RE",
+          "audio_updated_at": 1688291564,
+          "text": "This is the best hotel in the city.",
+          "phonetic": ""
+        },
+        {
+          "key": "tHJkCH6NbSerUiFFy5TFfAcu1nMMJfhP",
+          "audio_updated_at": 1688291559,
+          "text": "This is the worst hotel in the city.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645267,
+      "lesson": 1703,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 24594,
+      "alternates": [24595, 18348],
+      "sols": [
+        {
+          "key": "Qg2ebVwU2hHJOq-DDBleUriL_HW69Qzp",
+          "audio_updated_at": 1688291557,
+          "text": "near",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "near",
+              "translations": [
+                { "type": "dictionary", "text": "قريب", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "near", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "pKUwAiactdEclPO876abyC9kb0mnYMCZ",
+          "text": "high",
+          "phonetic": ""
+        },
+        {
+          "key": "OI0Jbmm412jhaZJhUEulJqMoUSEB3rUC",
+          "text": "safe",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "Qg2ebVwU2hHJOq-DDBleUriL_HW69Qzp",
+          "audio_updated_at": 1688291557,
+          "text": "قريب"
+        },
+        {
+          "key": "pKUwAiactdEclPO876abyC9kb0mnYMCZ",
+          "audio_updated_at": 1688291558,
+          "text": "عالي"
+        },
+        {
+          "key": "OI0Jbmm412jhaZJhUEulJqMoUSEB3rUC",
+          "audio_updated_at": 1543436724,
+          "text": "آمن"
+        }
+      ]
+    },
+    {
+      "id": 645268,
+      "lesson": 1703,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24602,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t7P8IKN2KJl",
+          "text": "is",
+          "raw": { "text": "is", "location": 6, "length": 2 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "t0_vu-vKr_7",
+          "text": "nearest",
+          "raw": { "text": "nearest", "location": 13, "length": 7 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tq1aVbOFnMV",
+          "text": "underground",
+          "raw": { "text": "underground", "location": 21, "length": 11 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "", "location": 32, "length": 0 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "tdgQNoJ8Noz",
+          "text": "station?",
+          "raw": { "text": "station", "location": 33, "length": 7 },
+          "prefix": { "text": "", "location": 33, "length": 0 },
+          "suffix": { "text": "?", "location": 40, "length": 1 },
+          "linker": { "text": " ", "location": 32, "length": 1 }
+        },
+        {
+          "key": "tXsRNjB4KeJ",
+          "text": "the",
+          "raw": { "text": "the", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tMk154Nwhqt",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tyuBbCDvI1o",
+          "text": "think",
+          "raw": { "text": "think", "location": 2, "length": 5 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tyEoYOeRL4s",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tMk154Nwhqt",
+        "t7P8IKN2KJl",
+        "tXsRNjB4KeJ",
+        "t0_vu-vKr_7",
+        "tq1aVbOFnMV",
+        "tdgQNoJ8Noz"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "A9eEVDY_wZQIDGvJYa3uXKvJ5C5fh19W",
+          "audio_updated_at": 1688291566,
+          "text": "أين أقرب محطة مترو؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            { "raw": "أقرب", "translations": [] },
+            {
+              "raw": "محطة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "station",
+                  "phonetic": "station"
+                }
+              ]
+            },
+            {
+              "raw": "مترو",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "underground",
+                  "phonetic": "underground"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أقرب", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "محطة", "location": 9, "length": 4 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "مترو", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "؟", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "A9eEVDY_wZQIDGvJYa3uXKvJ5C5fh19W",
+          "audio_updated_at": 1688291566,
+          "text": "Where is the nearest underground station?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645269,
+      "lesson": 1703,
+      "type": "T2",
+      "modifiers": 60,
+      "wordID": 24600,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "9IyxqR9hZKs9UreABnDclHTU1tuPS3RE",
+          "audio_updated_at": 1688291564,
+          "text": "This is the best hotel in the city.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "This",
+              "translations": [
+                { "type": "dictionary", "text": "هذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "best",
+              "translations": [
+                { "type": "dictionary", "text": "أفضل", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "hotel",
+              "translations": [
+                { "type": "dictionary", "text": "فندق", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "in",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "city",
+              "translations": [
+                { "type": "dictionary", "text": "المدينة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "This", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 5, "length": 2 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "best", "location": 12, "length": 4 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "hotel", "location": 17, "length": 5 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "", "location": 22, "length": 0 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            },
+            {
+              "raw": { "text": "in", "location": 23, "length": 2 },
+              "prefix": { "text": "", "location": 23, "length": 0 },
+              "suffix": { "text": "", "location": 25, "length": 0 },
+              "linker": { "text": " ", "location": 22, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 26, "length": 3 },
+              "prefix": { "text": "", "location": 26, "length": 0 },
+              "suffix": { "text": "", "location": 29, "length": 0 },
+              "linker": { "text": " ", "location": 25, "length": 1 }
+            },
+            {
+              "raw": { "text": "city", "location": 30, "length": 4 },
+              "prefix": { "text": "", "location": 30, "length": 0 },
+              "suffix": { "text": ".", "location": 34, "length": 1 },
+              "linker": { "text": " ", "location": 29, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "9IyxqR9hZKs9UreABnDclHTU1tuPS3RE",
+          "audio_updated_at": 1688291564,
+          "text": "هذا أفضل فندق في المدينة."
+        }
+      ]
+    },
+    {
+      "id": 645270,
+      "lesson": 1703,
+      "type": "T2b",
+      "modifiers": 92,
+      "wordID": 24596,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "tHJkCH6NbSerUiFFy5TFfAcu1nMMJfhP",
+          "audio_updated_at": 1688291559,
+          "text": "هذا أسوأ فندق في المدينة.",
+          "dictionary": [
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "This", "phonetic": "This" }
+              ]
+            },
+            {
+              "raw": "أسوأ",
+              "translations": [
+                { "type": "dictionary", "text": "worst", "phonetic": "worst" }
+              ]
+            },
+            {
+              "raw": "فندق",
+              "translations": [
+                { "type": "dictionary", "text": "hotel", "phonetic": "hotel" }
+              ]
+            },
+            {
+              "raw": "في",
+              "translations": [
+                { "type": "dictionary", "text": "in", "phonetic": "in" }
+              ]
+            },
+            {
+              "raw": "المدينة",
+              "translations": [
+                { "type": "dictionary", "text": "city", "phonetic": "city" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هذا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أسوأ", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "فندق", "location": 9, "length": 4 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 14, "length": 2 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "المدينة", "location": 17, "length": 7 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": ".", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "tHJkCH6NbSerUiFFy5TFfAcu1nMMJfhP",
+          "audio_updated_at": 1688291559,
+          "text": "This is the worst hotel in the city.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 645271,
+      "lesson": 1703,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 24601,
+      "alternates": [24599, 24598],
+      "sols": [
+        {
+          "key": "K9BgIj2XYGQ3i_jTuEIhFkhDFBkz7jju",
+          "audio_updated_at": 1688291565,
+          "text": "ما هو أعلى مبنى في العالم؟",
+          "dictionary": [
+            {
+              "raw": "ما",
+              "translations": [
+                { "type": "dictionary", "text": "What", "phonetic": "What" }
+              ]
+            },
+            { "raw": "هو", "translations": [] },
+            { "raw": "أعلى", "translations": [] },
+            {
+              "raw": "مبنى",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "building",
+                  "phonetic": "building"
+                }
+              ]
+            },
+            {
+              "raw": "في",
+              "translations": [
+                { "type": "dictionary", "text": "in", "phonetic": "in" }
+              ]
+            },
+            {
+              "raw": "العالم",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the world",
+                  "phonetic": "the world"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "ما", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هو", "location": 3, "length": 2 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "أعلى", "location": 6, "length": 4 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "مبنى", "location": 11, "length": 4 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 16, "length": 2 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "العالم", "location": 19, "length": 6 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "؟", "location": 25, "length": 1 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "_AIadMjM_0rbQ2VfXvHsAfa6jcPkJVO_",
+          "text": "ما أجمل مكان للزيارة هنا؟"
+        },
+        {
+          "key": "aICzEBqWd7YjPHIIXyL4sgBAULfNfAs9",
+          "text": "ما أكثر مكان مشوق للزيارة هنا؟"
+        }
+      ],
+      "alts": [
+        {
+          "key": "K9BgIj2XYGQ3i_jTuEIhFkhDFBkz7jju",
+          "audio_updated_at": 1688291565,
+          "text": "What is the highest building in the world?",
+          "phonetic": ""
+        },
+        {
+          "key": "_AIadMjM_0rbQ2VfXvHsAfa6jcPkJVO_",
+          "audio_updated_at": 1688291563,
+          "text": "What is the most beautiful place to visit here?",
+          "phonetic": ""
+        },
+        {
+          "key": "aICzEBqWd7YjPHIIXyL4sgBAULfNfAs9",
+          "audio_updated_at": 1688291562,
+          "text": "What is the most interesting place to visit here?",
+          "phonetic": ""
+        }
+      ]
+    }
+  ]
+}

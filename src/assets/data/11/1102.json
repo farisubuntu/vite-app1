@@ -1,0 +1,3957 @@
+{
+  "lesson": {
+    "id": 1102,
+    "index": 2,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 11,
+    "categoryID": 11,
+    "name": "الحيوانات الأليفة 1",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 24,
+    "countWords": 16,
+    "countPhrases": 6,
+    "countDone": 0,
+    "quizzes": [
+      657566, 657567, 657568, 657569, 657570, 657571, 657572, 657573, 657574,
+      657575, 657576, 657577, 657578, 657579, 657580, 657581, 657582, 657583,
+      657584, 657585, 657586, 657587, 657588, 657589
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 657566,
+      "lesson": 1102,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 23771,
+      "alternates": [17945],
+      "sols": [
+        {
+          "key": "mxdzfUuhAMlCGa3o501ykzB_GoUgNtl5",
+          "audio_updated_at": 1688290632,
+          "text": "يحب"
+        },
+        {
+          "key": "x3VZIbNqo8a_iD3t-cR-aCQopygaHF4M",
+          "audio_updated_at": 1543436427,
+          "text": "حيوان"
+        }
+      ],
+      "alts": [
+        {
+          "key": "mxdzfUuhAMlCGa3o501ykzB_GoUgNtl5",
+          "audio_updated_at": 1688290632,
+          "text": "to love",
+          "phonetic": "",
+          "image": "rYe35M3eFQqQDFqtdG1viNRH9zfiEXQ7",
+          "image_updated_at": 1689159213
+        },
+        {
+          "key": "x3VZIbNqo8a_iD3t-cR-aCQopygaHF4M",
+          "audio_updated_at": 1543436427,
+          "image": "ZPsYfR1ViH5rRFHXsve6fRdV6RiQJK2M",
+          "image_updated_at": 1689159095,
+          "text": "animal",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657567,
+      "lesson": 1102,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 18111,
+      "alternates": [17945, 23771],
+      "tokens": [
+        {
+          "key": "t7m5Del3LyI",
+          "text": "cold.",
+          "raw": { "text": "cold", "location": 6, "length": 4 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": ".", "location": 10, "length": 1 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tMI3OmDPNlo",
+          "text": "It",
+          "raw": { "text": "It", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tSy1dAiUEvM",
+          "text": "love",
+          "raw": { "text": "love", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tdTGlnYjDnK",
+          "text": "animals.",
+          "raw": { "text": "animals", "location": 7, "length": 7 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "txIMmAGW5Lt",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "taA-zIojm_-",
+          "text": "is",
+          "raw": { "text": "is", "location": 3, "length": 2 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["txIMmAGW5Lt", "tSy1dAiUEvM", "tdTGlnYjDnK"],
+      "completeToken": "tdTGlnYjDnK",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "TrxtN4kh9WZkog_QT9Sedz_5ttSDY3dv",
+          "audio_updated_at": 1543439933,
+          "text": "أنا أحب الحيوانات.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحب",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I love",
+                  "phonetic": "I love"
+                },
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "الحيوانات",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "animals",
+                  "phonetic": "animals"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحب", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الحيوانات", "location": 8, "length": 9 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "TrxtN4kh9WZkog_QT9Sedz_5ttSDY3dv",
+          "audio_updated_at": 1543439933,
+          "text": "I love animals.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657568,
+      "lesson": 1102,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 18091,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tpFPchzCmCz",
+          "text": "ترى",
+          "raw": { "text": "ترى", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tH8PkFgBV1i",
+          "text": "كلب؟",
+          "raw": { "text": "كلب", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "؟", "location": 11, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "t3HuqjLDOXx",
+          "text": "لديك",
+          "raw": { "text": "لديك", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "typrLM9gZGv",
+          "text": "ذاك",
+          "raw": { "text": "ذاك", "location": 7, "length": 3 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tDy0VZsa9Mo",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tr8SvJI98Fu",
+          "text": "النهر؟",
+          "raw": { "text": "النهر", "location": 11, "length": 5 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "؟", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tDy0VZsa9Mo", "t3HuqjLDOXx", "tH8PkFgBV1i"],
+      "sols": [
+        {
+          "key": "B3jUJi8x2fGw4m0C3juCCVBGnLxkeObS",
+          "audio_updated_at": 1543435304,
+          "text": "Do you have a dog?",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Do", "translations": [] },
+            { "raw": "you", "translations": [] },
+            {
+              "raw": "have",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "dog",
+              "translations": [
+                { "type": "dictionary", "text": "كلب", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Do", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "you", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "have", "location": 7, "length": 4 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 12, "length": 1 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "dog", "location": 14, "length": 3 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "?", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "B3jUJi8x2fGw4m0C3juCCVBGnLxkeObS",
+          "audio_updated_at": 1543435304,
+          "text": "هل لديك كلب؟"
+        }
+      ]
+    },
+    {
+      "id": 657569,
+      "lesson": 1102,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 13630,
+      "alternates": [19232],
+      "sols": [
+        {
+          "key": "8wBBav97BsG0L8IWIbQSW6COBJIkKQoi",
+          "audio_updated_at": 1543436679,
+          "text": "جميل"
+        },
+        {
+          "key": "59sI4Ppf2jP-reNFOwi_yv8B1pK1-75d",
+          "audio_updated_at": 1639519640,
+          "text": "يعض"
+        }
+      ],
+      "alts": [
+        {
+          "key": "8wBBav97BsG0L8IWIbQSW6COBJIkKQoi",
+          "audio_updated_at": 1543436679,
+          "image": "kFR_RCcVgM3vJe5OnNq8W712n_H7jAmY",
+          "image_updated_at": 1689159187,
+          "text": "beautiful",
+          "phonetic": ""
+        },
+        {
+          "key": "59sI4Ppf2jP-reNFOwi_yv8B1pK1-75d",
+          "audio_updated_at": 1639519640,
+          "text": "to bite",
+          "phonetic": null,
+          "image": "L2B_4f-0bg4Xtvzs1AkNLAmii5Jcihlu",
+          "image_updated_at": 1689158966
+        }
+      ]
+    },
+    {
+      "id": 657570,
+      "lesson": 1102,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 18098,
+      "alternates": [13630],
+      "tokens": [
+        {
+          "key": "tJ27EqRDyCb",
+          "text": "He",
+          "raw": { "text": "He", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tGI3F9sep17",
+          "text": "dog",
+          "raw": { "text": "dog", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t9XYnPaw7UM",
+          "text": "children.",
+          "raw": { "text": "children", "location": 9, "length": 8 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "txUrcL7XWau",
+          "text": "your",
+          "raw": { "text": "your", "location": 5, "length": 4 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "ti-9647zdCM",
+          "text": "bite?",
+          "raw": { "text": "bite", "location": 14, "length": 4 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "?", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "ttH9kFz38PX",
+          "text": "loves",
+          "raw": { "text": "loves", "location": 3, "length": 5 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tckvFy-Yk6Q",
+          "text": "Does",
+          "raw": { "text": "Does", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tckvFy-Yk6Q", "txUrcL7XWau", "tGI3F9sep17", "ti-9647zdCM"],
+      "completeToken": "ti-9647zdCM",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "JeHCSiWCp4CFDDHElWzAdSlG_fk42z_N",
+          "audio_updated_at": 1543439926,
+          "text": "هل كلبك يعض؟",
+          "dictionary": [
+            { "raw": "هل", "translations": [] },
+            {
+              "raw": "كلبك",
+              "translations": [
+                { "type": "dictionary", "text": "your", "phonetic": "your" }
+              ]
+            },
+            {
+              "raw": "يعض",
+              "translations": [
+                { "type": "dictionary", "text": "bite", "phonetic": "bite" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "كلبك", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "يعض", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "؟", "location": 11, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "JeHCSiWCp4CFDDHElWzAdSlG_fk42z_N",
+          "audio_updated_at": 1543439926,
+          "text": "Does your dog bite?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657571,
+      "lesson": 1102,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 18153,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tPc-dfxMTkY",
+          "text": "يا",
+          "raw": { "text": "يا", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tbg-C1eyfpY",
+          "text": "له",
+          "raw": { "text": "له", "location": 3, "length": 2 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tPx2N_8fA2Z",
+          "text": "أسود.",
+          "raw": { "text": "أسود", "location": 6, "length": 4 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": ".", "location": 10, "length": 1 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tLHAPR6SjsD",
+          "text": "جميل!",
+          "raw": { "text": "جميل", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "!", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tRIC45E0wyH",
+          "text": "الفحم",
+          "raw": { "text": "الفحم", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tm8o0Rd1AE-",
+          "text": "من",
+          "raw": { "text": "من", "location": 6, "length": 2 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tkR6HoIikq0",
+          "text": "كلب",
+          "raw": { "text": "كلب", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tPc-dfxMTkY",
+        "tbg-C1eyfpY",
+        "tm8o0Rd1AE-",
+        "tkR6HoIikq0",
+        "tLHAPR6SjsD"
+      ],
+      "sols": [
+        {
+          "key": "hXx8VpNMcULvwoJ_akvDViCuyIF5LL0N",
+          "audio_updated_at": 1543439937,
+          "text": "What a beautiful dog!",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "What", "translations": [] },
+            {
+              "raw": "a",
+              "translations": [
+                { "type": "dictionary", "text": "من", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "beautiful",
+              "translations": [
+                { "type": "dictionary", "text": "جميل", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "dog",
+              "translations": [
+                { "type": "dictionary", "text": "كلب", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "What", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "a", "location": 5, "length": 1 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "beautiful", "location": 7, "length": 9 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "dog", "location": 17, "length": 3 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "!", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "hXx8VpNMcULvwoJ_akvDViCuyIF5LL0N",
+          "audio_updated_at": 1543439937,
+          "text": "يا له من كلب جميل!"
+        }
+      ]
+    },
+    {
+      "id": 657572,
+      "lesson": 1102,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 18090,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tcwcDne2m-j",
+          "text": "river?",
+          "raw": { "text": "river", "location": 16, "length": 5 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "?", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tvS3h3hkX89",
+          "text": "have",
+          "raw": { "text": "have", "location": 7, "length": 4 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tqGyr7ttqkP",
+          "text": "see",
+          "raw": { "text": "see", "location": 7, "length": 3 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tVt2KzWvNUv",
+          "text": "cat?",
+          "raw": { "text": "cat", "location": 14, "length": 3 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "?", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tLl4fZuyPvc",
+          "text": "that",
+          "raw": { "text": "that", "location": 11, "length": 4 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tIgFxN84FT4",
+          "text": "a",
+          "raw": { "text": "a", "location": 12, "length": 1 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "ti5wHefrFkA",
+          "text": "you",
+          "raw": { "text": "you", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t5GihlqY4TA",
+          "text": "Do",
+          "raw": { "text": "Do", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t5GihlqY4TA",
+        "ti5wHefrFkA",
+        "tvS3h3hkX89",
+        "tIgFxN84FT4",
+        "tVt2KzWvNUv"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "gBOp79x4qBFrz-AXcDy5XDcx7agYpDvF",
+          "audio_updated_at": 1543435306,
+          "text": "هل لديك قطة؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Do you", "phonetic": "Do you" }
+              ]
+            },
+            {
+              "raw": "لديك",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "you have",
+                  "phonetic": "you have"
+                }
+              ]
+            },
+            {
+              "raw": "قطة",
+              "translations": [
+                { "type": "dictionary", "text": "cat", "phonetic": "cat" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لديك", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "قطة", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "؟", "location": 11, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "gBOp79x4qBFrz-AXcDy5XDcx7agYpDvF",
+          "audio_updated_at": 1543435306,
+          "text": "Do you have a cat?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657573,
+      "lesson": 1102,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 18152,
+      "alternates": [19232],
+      "tokens": [
+        {
+          "key": "tHAMRJ6iTUM",
+          "text": "beautiful",
+          "raw": { "text": "beautiful", "location": 7, "length": 9 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tizKyS9rg8L",
+          "text": "a",
+          "raw": { "text": "a", "location": 5, "length": 1 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tVQuMMmxUVw",
+          "text": "What",
+          "raw": { "text": "What", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tWtTqq-MWg_",
+          "text": "cat!",
+          "raw": { "text": "cat", "location": 17, "length": 3 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "!", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "tC9uOZEXqKF",
+          "text": "dog!",
+          "raw": { "text": "dog", "location": 17, "length": 3 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "!", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tVQuMMmxUVw", "tizKyS9rg8L", "tHAMRJ6iTUM", "tWtTqq-MWg_"],
+      "completeToken": "tHAMRJ6iTUM",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "1qqtKSBobgzTckMWtoqVv0-lvBLNSYuN",
+          "audio_updated_at": 1543439938,
+          "text": "يا لها من قطة جميلة!",
+          "dictionary": [
+            { "raw": "يا", "translations": [] },
+            { "raw": "لها", "translations": [] },
+            { "raw": "من", "translations": [] },
+            {
+              "raw": "قطة",
+              "translations": [
+                { "type": "dictionary", "text": "cat", "phonetic": "cat" }
+              ]
+            },
+            {
+              "raw": "جميلة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "beautiful",
+                  "phonetic": "beautiful"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "يا", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لها", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "من", "location": 7, "length": 2 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "قطة", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "جميلة", "location": 14, "length": 5 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "!", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "1qqtKSBobgzTckMWtoqVv0-lvBLNSYuN",
+          "audio_updated_at": 1543439938,
+          "text": "What a beautiful cat!",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657574,
+      "lesson": 1102,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 17945,
+      "alternates": [],
+      "tokens": [
+        { "key": "t35bCoH0ICF", "text": "a", "group": 0 },
+        { "key": "t2gwAtIitrA", "text": "i", "group": 0 },
+        { "key": "twFN7tyvhpK", "text": "n", "group": 0 },
+        { "key": "tvya1BQ4afS", "text": "m", "group": 0 },
+        { "key": "tSQZxn75NAb", "text": "a", "group": 0 },
+        { "key": "t7l_oxAMM2a", "text": "l", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t35bCoH0ICF",
+        "twFN7tyvhpK",
+        "t2gwAtIitrA",
+        "tvya1BQ4afS",
+        "tSQZxn75NAb",
+        "t7l_oxAMM2a"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "x3VZIbNqo8a_iD3t-cR-aCQopygaHF4M",
+          "audio_updated_at": 1543436427,
+          "text": "حيوان",
+          "dictionary": [
+            {
+              "raw": "حيوان",
+              "translations": [
+                { "type": "dictionary", "text": "animal", "phonetic": "animal" }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "حيوان", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "x3VZIbNqo8a_iD3t-cR-aCQopygaHF4M",
+          "audio_updated_at": 1543436427,
+          "text_tokens": [
+            {
+              "raw": { "text": "animal", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "animal",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": "",
+          "image": "ZPsYfR1ViH5rRFHXsve6fRdV6RiQJK2M",
+          "image_updated_at": 1689159095
+        }
+      ]
+    },
+    {
+      "id": 657575,
+      "lesson": 1102,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 18111,
+      "alternates": [17945, 23771],
+      "tokens": [
+        { "key": "twJe0lc9h5R", "text": "i", "group": 2 },
+        { "key": "tH8jos66PrX", "text": "a", "group": 2 },
+        { "key": "tm9_q3E383h", "text": ".", "specialChar": true },
+        { "key": "tp0CQuLHj38", "text": " ", "specialChar": true },
+        { "key": "tQvTKLB5_7r", "text": "a", "group": 2 },
+        { "key": "t922_RL4CXH", "text": "n", "group": 2 },
+        { "key": "t0cS-U_Wizo", "text": "s", "group": 2 },
+        { "key": "tpTsjMqeU0_", "text": "m", "group": 2 },
+        { "key": "t_Z6TZuwBL2", "text": "l", "group": 2 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tp0CQuLHj38",
+        "tQvTKLB5_7r",
+        "t922_RL4CXH",
+        "twJe0lc9h5R",
+        "tpTsjMqeU0_",
+        "tH8jos66PrX",
+        "t_Z6TZuwBL2",
+        "t0cS-U_Wizo",
+        "tm9_q3E383h"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "TrxtN4kh9WZkog_QT9Sedz_5ttSDY3dv",
+          "audio_updated_at": 1543439933,
+          "text": "أنا أحب الحيوانات.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحب",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I love",
+                  "phonetic": "I love"
+                },
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "الحيوانات",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "animals",
+                  "phonetic": "animals"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحب", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الحيوانات", "location": 8, "length": 9 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "TrxtN4kh9WZkog_QT9Sedz_5ttSDY3dv",
+          "audio_updated_at": 1543439933,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "love", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "animals", "location": 7, "length": 7 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "I love animals.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657576,
+      "lesson": 1102,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 18091,
+      "alternates": [18111, 18098],
+      "sols": [
+        {
+          "key": "B3jUJi8x2fGw4m0C3juCCVBGnLxkeObS",
+          "audio_updated_at": 1543435304,
+          "text": "هل لديك كلب؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Do you", "phonetic": "Do you" }
+              ]
+            },
+            {
+              "raw": "لديك",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "you have",
+                  "phonetic": "you have"
+                }
+              ]
+            },
+            {
+              "raw": "كلب",
+              "translations": [
+                { "type": "dictionary", "text": "Do", "phonetic": "Do" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لديك", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "كلب", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "؟", "location": 11, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        { "key": "JeHCSiWCp4CFDDHElWzAdSlG_fk42z_N", "text": "هل كلبك يعض؟" },
+        {
+          "key": "TrxtN4kh9WZkog_QT9Sedz_5ttSDY3dv",
+          "text": "أنا أحب الحيوانات."
+        }
+      ],
+      "alts": [
+        {
+          "key": "B3jUJi8x2fGw4m0C3juCCVBGnLxkeObS",
+          "audio_updated_at": 1543435304,
+          "text": "Do you have a dog?",
+          "phonetic": ""
+        },
+        {
+          "key": "JeHCSiWCp4CFDDHElWzAdSlG_fk42z_N",
+          "audio_updated_at": 1543439926,
+          "text": "Does your dog bite?",
+          "phonetic": ""
+        },
+        {
+          "key": "TrxtN4kh9WZkog_QT9Sedz_5ttSDY3dv",
+          "audio_updated_at": 1543439933,
+          "text": "I love animals.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657577,
+      "lesson": 1102,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 13630,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tjchMGyBVng",
+          "text": "We",
+          "raw": { "text": "We", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tpCP5l3jgq8",
+          "text": "bring",
+          "raw": { "text": "bring", "location": 3, "length": 5 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tK6ZX7VIapi",
+          "text": "bite",
+          "raw": { "text": "bite", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tSIjWk9qP9Q",
+          "text": "to",
+          "raw": { "text": "to", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tSIjWk9qP9Q", "tK6ZX7VIapi"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "59sI4Ppf2jP-reNFOwi_yv8B1pK1-75d",
+          "audio_updated_at": 1639519640,
+          "text": "يعض",
+          "dictionary": [
+            {
+              "raw": "يعض",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "to bite",
+                  "phonetic": "to bite"
+                }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "يعض", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "59sI4Ppf2jP-reNFOwi_yv8B1pK1-75d",
+          "audio_updated_at": 1639519640,
+          "text": "to bite",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657578,
+      "lesson": 1102,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 18098,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t1R45TDfXbK",
+          "text": "يعض؟",
+          "raw": { "text": "يعض", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "؟", "location": 11, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tIi9WLiLE8n",
+          "text": "كلبك",
+          "raw": { "text": "كلبك", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tyZSvVes7f1",
+          "text": "الجديد.",
+          "raw": { "text": "الجديد", "location": 21, "length": 6 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": ".", "location": 27, "length": 1 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "tx1MEj0UAAF",
+          "text": "تعجب",
+          "raw": { "text": "تعجب", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tpbPMpXIx_G",
+          "text": "بهذا",
+          "raw": { "text": "بهذا", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tbG2i8DK7nU",
+          "text": "المتنزه",
+          "raw": { "text": "المتنزه", "location": 13, "length": 7 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "t3ERcmpxnXX",
+          "text": "هي",
+          "raw": { "text": "هي", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tHSw1W_fgv3",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tHSw1W_fgv3", "tIi9WLiLE8n", "t1R45TDfXbK"],
+      "sols": [
+        {
+          "key": "JeHCSiWCp4CFDDHElWzAdSlG_fk42z_N",
+          "audio_updated_at": 1543439926,
+          "text": "Does your dog bite?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Does",
+              "translations": [
+                { "type": "dictionary", "text": "هل", "phonetic": null }
+              ]
+            },
+            { "raw": "your", "translations": [] },
+            {
+              "raw": "dog",
+              "translations": [
+                { "type": "dictionary", "text": "كلبك", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "bite",
+              "translations": [
+                { "type": "dictionary", "text": "يعض", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Does", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "your", "location": 5, "length": 4 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "dog", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "bite", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "?", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "JeHCSiWCp4CFDDHElWzAdSlG_fk42z_N",
+          "audio_updated_at": 1543439926,
+          "text": "هل كلبك يعض؟"
+        }
+      ]
+    },
+    {
+      "id": 657579,
+      "lesson": 1102,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 18153,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tBtVj_ZnrcX",
+          "text": "grey.",
+          "raw": { "text": "grey", "location": 15, "length": 4 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tnUx8lB3ASb",
+          "text": "clouds",
+          "raw": { "text": "clouds", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tsj6U04NCJM",
+          "text": "What",
+          "raw": { "text": "What", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tRaBCiR0_85",
+          "text": "dog!",
+          "raw": { "text": "dog", "location": 17, "length": 3 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "!", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "t8X-a1ooPSG",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tYg9KVmBUSr",
+          "text": "beautiful",
+          "raw": { "text": "beautiful", "location": 7, "length": 9 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tDUJ_ugIqA_",
+          "text": "are",
+          "raw": { "text": "are", "location": 11, "length": 3 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tsSC3a40zR1",
+          "text": "a",
+          "raw": { "text": "a", "location": 5, "length": 1 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tsj6U04NCJM", "tsSC3a40zR1", "tYg9KVmBUSr", "tRaBCiR0_85"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "hXx8VpNMcULvwoJ_akvDViCuyIF5LL0N",
+          "audio_updated_at": 1543439937,
+          "text": "يا له من كلب جميل!",
+          "dictionary": [
+            { "raw": "يا", "translations": [] },
+            { "raw": "له", "translations": [] },
+            { "raw": "من", "translations": [] },
+            {
+              "raw": "كلب",
+              "translations": [
+                { "type": "dictionary", "text": "dog", "phonetic": "dog" }
+              ]
+            },
+            {
+              "raw": "جميل",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "beautiful",
+                  "phonetic": "beautiful"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "يا", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "له", "location": 3, "length": 2 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "من", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "كلب", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "جميل", "location": 13, "length": 4 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "!", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "hXx8VpNMcULvwoJ_akvDViCuyIF5LL0N",
+          "audio_updated_at": 1543439937,
+          "text": "What a beautiful dog!",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657580,
+      "lesson": 1102,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 18090,
+      "alternates": [18153, 18098],
+      "sols": [
+        {
+          "key": "gBOp79x4qBFrz-AXcDy5XDcx7agYpDvF",
+          "audio_updated_at": 1543435306,
+          "text": "Do you have a cat?",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Do", "translations": [] },
+            { "raw": "you", "translations": [] },
+            {
+              "raw": "have",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to have",
+                    "m": "يملك",
+                    "phonetic": "to have"
+                  },
+                  "id": 41,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "WmSZqTKo-_o5RtKD-mwV2G_acFW-F34Q",
+                          "text": "I have",
+                          "phonetic": "",
+                          "audio_updated_at": 1607004543
+                        },
+                        "m": { "text": "أنا أملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "aw44XhnwP0JceNrsfUrHKEuBFIreErtv",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438164
+                        },
+                        "m": { "text": "أنت تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lgew3al3-8rue9D5RdldqlPjoGJGSrMJ",
+                          "text": "He has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438165
+                        },
+                        "m": { "text": "هو يملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZruOva-9kANdTg4kdZHO1PMJJuVsZabq",
+                          "text": "She has",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438166
+                        },
+                        "m": { "text": "هي تملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "x-KgGOuh3_voLTut04udlrhvsUndQf9I",
+                          "text": "We have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438167
+                        },
+                        "m": { "text": "نحن نملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "dxmbMMENycdOaAYWfoNWN_fZPBcdol1Z",
+                          "text": "You have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438169
+                        },
+                        "m": { "text": "أنتم تملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1IdFupywX9ZMtvTtVQfWYShiy73vvHZu",
+                          "text": "They have",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438170
+                        },
+                        "m": { "text": "هم يملكون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "3GUAn14DMU_Cvhv2Rg0WnxgM7oFtUfva",
+                          "text": "I had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547508
+                        },
+                        "m": { "text": "أنا ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "mJQ6bUW_iYH18vcgsm4ypM7xob-0eBHk",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547509
+                        },
+                        "m": { "text": "أنت ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jw_rykOgGk0Dn0RW4b-BQEqbD7y9jSBk",
+                          "text": "He had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547510
+                        },
+                        "m": { "text": "هو ملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "O3OqMF8YjOMi28Sz_0g4O_vcNzx0sunN",
+                          "text": "She had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547511
+                        },
+                        "m": { "text": "هي ملكت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C4vR9tsGLFTzZ4_68IA0m7FBrM2VM7Lb",
+                          "text": "We had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547513
+                        },
+                        "m": { "text": "نحن ملكنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "9ulonOWXfZ4finqSOTbzK5xGEfudExjn",
+                          "text": "You had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547514
+                        },
+                        "m": { "text": "أنتم ملكتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "hpMw0vsijyXt1hYLIDkC9C_DRkavmtRR",
+                          "text": "They had",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547515
+                        },
+                        "m": { "text": "هم ملكوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "o2MCjU-F54Gp3N4yAfKQYKxOBgqRBU_3",
+                          "text": "I will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547516
+                        },
+                        "m": { "text": "أنا سأملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGhTnIUcFl-S6wWkE7IFyFbMyLH04sS7",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547517
+                        },
+                        "m": { "text": "أنت ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "GrCDY2MAlsq2fBemGJ91xg1SGhoEQU2D",
+                          "text": "He will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547518
+                        },
+                        "m": { "text": "هو سيملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "fR_Tr8tPnb8_BPKAXClcITeO-jsYw2o3",
+                          "text": "She will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547519
+                        },
+                        "m": { "text": "هي ستملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "-12QdOgvZwvOi58jSSixqeLwMtfkdnq-",
+                          "text": "We will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547521
+                        },
+                        "m": { "text": "نحن سنملك" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9AIBujM_9nedDezrEHbEQ_FkiCmSCsA",
+                          "text": "You will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547522
+                        },
+                        "m": { "text": "أنتم ستملكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqNvVOCI-P7_nBBNvD1nehhasosfvdOE",
+                          "text": "They will have",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547523
+                        },
+                        "m": { "text": "هم سيملكون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "cat",
+              "translations": [
+                { "type": "dictionary", "text": "قطة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Do", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "you", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "have", "location": 7, "length": 4 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 12, "length": 1 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "cat", "location": 14, "length": 3 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "?", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "JeHCSiWCp4CFDDHElWzAdSlG_fk42z_N",
+          "text": "Does your dog bite?",
+          "phonetic": ""
+        },
+        {
+          "key": "hXx8VpNMcULvwoJ_akvDViCuyIF5LL0N",
+          "text": "What a beautiful dog!",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "gBOp79x4qBFrz-AXcDy5XDcx7agYpDvF",
+          "audio_updated_at": 1543435306,
+          "text": "هل لديك قطة؟"
+        },
+        {
+          "key": "JeHCSiWCp4CFDDHElWzAdSlG_fk42z_N",
+          "audio_updated_at": 1543439926,
+          "text": "هل كلبك يعض؟"
+        },
+        {
+          "key": "hXx8VpNMcULvwoJ_akvDViCuyIF5LL0N",
+          "audio_updated_at": 1543439937,
+          "text": "يا له من كلب جميل!"
+        }
+      ]
+    },
+    {
+      "id": 657581,
+      "lesson": 1102,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 19232,
+      "alternates": [17945, 23771],
+      "sols": [
+        {
+          "key": "8wBBav97BsG0L8IWIbQSW6COBJIkKQoi",
+          "audio_updated_at": 1543436679,
+          "text": "جميل",
+          "dictionary": [
+            {
+              "raw": "جميل",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "beautiful",
+                  "phonetic": "beautiful"
+                }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "جميل", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        { "key": "mxdzfUuhAMlCGa3o501ykzB_GoUgNtl5", "text": "يحب" },
+        { "key": "x3VZIbNqo8a_iD3t-cR-aCQopygaHF4M", "text": "حيوان" }
+      ],
+      "alts": [
+        {
+          "key": "8wBBav97BsG0L8IWIbQSW6COBJIkKQoi",
+          "audio_updated_at": 1543436679,
+          "text": "beautiful",
+          "phonetic": ""
+        },
+        {
+          "key": "mxdzfUuhAMlCGa3o501ykzB_GoUgNtl5",
+          "audio_updated_at": 1688290632,
+          "text": "to love",
+          "phonetic": ""
+        },
+        {
+          "key": "x3VZIbNqo8a_iD3t-cR-aCQopygaHF4M",
+          "audio_updated_at": 1543436427,
+          "text": "animal",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657582,
+      "lesson": 1102,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 18152,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t7cmgfmUzGI",
+          "text": "bear",
+          "raw": { "text": "bear", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tX0-DdiZFv2",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tqcKnRJRlJb",
+          "text": "What",
+          "raw": { "text": "What", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tNctPx4r0HQ",
+          "text": "beautiful",
+          "raw": { "text": "beautiful", "location": 7, "length": 9 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "t_sggP6qHp_",
+          "text": "brown.",
+          "raw": { "text": "brown", "location": 12, "length": 5 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tGcsmovLGxf",
+          "text": "a",
+          "raw": { "text": "a", "location": 5, "length": 1 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tZPneUl_X9e",
+          "text": "cat!",
+          "raw": { "text": "cat", "location": 17, "length": 3 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "!", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "tLAEwpI9gju",
+          "text": "is",
+          "raw": { "text": "is", "location": 9, "length": 2 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tqcKnRJRlJb", "tGcsmovLGxf", "tNctPx4r0HQ", "tZPneUl_X9e"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "1qqtKSBobgzTckMWtoqVv0-lvBLNSYuN",
+          "audio_updated_at": 1543439938,
+          "text": "يا لها من قطة جميلة!",
+          "dictionary": [
+            { "raw": "يا", "translations": [] },
+            { "raw": "لها", "translations": [] },
+            { "raw": "من", "translations": [] },
+            {
+              "raw": "قطة",
+              "translations": [
+                { "type": "dictionary", "text": "cat", "phonetic": "cat" }
+              ]
+            },
+            {
+              "raw": "جميلة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "beautiful",
+                  "phonetic": "beautiful"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "يا", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لها", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "من", "location": 7, "length": 2 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "قطة", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "جميلة", "location": 14, "length": 5 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "!", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "1qqtKSBobgzTckMWtoqVv0-lvBLNSYuN",
+          "audio_updated_at": 1543439938,
+          "text": "What a beautiful cat!",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657583,
+      "lesson": 1102,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 23771,
+      "alternates": [13630, 17945],
+      "sols": [
+        {
+          "key": "mxdzfUuhAMlCGa3o501ykzB_GoUgNtl5",
+          "audio_updated_at": 1688290632,
+          "text": "to love",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "love",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "to", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "love", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "59sI4Ppf2jP-reNFOwi_yv8B1pK1-75d",
+          "text": "to bite",
+          "phonetic": ""
+        },
+        {
+          "key": "x3VZIbNqo8a_iD3t-cR-aCQopygaHF4M",
+          "text": "animal",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "mxdzfUuhAMlCGa3o501ykzB_GoUgNtl5",
+          "audio_updated_at": 1688290632,
+          "text": "يحب"
+        },
+        {
+          "key": "59sI4Ppf2jP-reNFOwi_yv8B1pK1-75d",
+          "audio_updated_at": 1639519640,
+          "text": "يعض"
+        },
+        {
+          "key": "x3VZIbNqo8a_iD3t-cR-aCQopygaHF4M",
+          "audio_updated_at": 1543436427,
+          "text": "حيوان"
+        }
+      ]
+    },
+    {
+      "id": 657584,
+      "lesson": 1102,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 18111,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tKUEjL7G5MH",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tFQSR_nfYe1",
+          "text": "الجو",
+          "raw": { "text": "الجو", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tqwlY-9mz5m",
+          "text": "أحب",
+          "raw": { "text": "أحب", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tzUUwy8fsOq",
+          "text": "صافٍ.",
+          "raw": { "text": "صافٍ", "location": 5, "length": 4 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": ".", "location": 9, "length": 1 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tRc38T-e-rE",
+          "text": "الحيوانات.",
+          "raw": { "text": "الحيوانات", "location": 8, "length": 9 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tKUEjL7G5MH", "tqwlY-9mz5m", "tRc38T-e-rE"],
+      "sols": [
+        {
+          "key": "TrxtN4kh9WZkog_QT9Sedz_5ttSDY3dv",
+          "audio_updated_at": 1543439933,
+          "text": "I love animals.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "love",
+              "translations": [
+                { "type": "dictionary", "text": "أحب", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "animals",
+              "translations": [
+                { "type": "dictionary", "text": "الحيوانات", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "love", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "animals", "location": 7, "length": 7 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "TrxtN4kh9WZkog_QT9Sedz_5ttSDY3dv",
+          "audio_updated_at": 1543439933,
+          "text": "أنا أحب الحيوانات."
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "tIxxJRlMXJq",
+            "text": "اليوم.",
+            "raw": { "text": "اليوم", "location": 10, "length": 5 },
+            "prefix": { "text": "", "location": 10, "length": 0 },
+            "suffix": { "text": ".", "location": 15, "length": 1 },
+            "linker": { "text": " ", "location": 9, "length": 1 }
+          },
+          {
+            "key": "tC2M5dIkyaA",
+            "text": "الجو",
+            "raw": { "text": "الجو", "location": 0, "length": 4 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 4, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tyVWWeEqtOi",
+            "text": "أنا",
+            "raw": { "text": "أنا", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tj7PT8xceQc",
+            "text": "بارد",
+            "raw": { "text": "بارد", "location": 5, "length": 4 },
+            "prefix": { "text": "", "location": 5, "length": 0 },
+            "suffix": { "text": "", "location": 9, "length": 0 },
+            "linker": { "text": " ", "location": 4, "length": 1 }
+          },
+          {
+            "key": "tW2pf74n89s",
+            "text": "أحب",
+            "raw": { "text": "أحب", "location": 4, "length": 3 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 7, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "t29REcaV_Kv",
+            "text": "الحيوانات.",
+            "raw": { "text": "الحيوانات", "location": 8, "length": 9 },
+            "prefix": { "text": "", "location": 8, "length": 0 },
+            "suffix": { "text": ".", "location": 17, "length": 1 },
+            "linker": { "text": " ", "location": 7, "length": 1 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": ["tyVWWeEqtOi", "tW2pf74n89s", "t29REcaV_Kv"],
+        "sols": [
+          {
+            "key": "TrxtN4kh9WZkog_QT9Sedz_5ttSDY3dv",
+            "audio_updated_at": 1543439933,
+            "text": "I love animals.",
+            "phonetic": "",
+            "dictionary": [
+              {
+                "raw": "I",
+                "translations": [
+                  { "type": "dictionary", "text": "أنا", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "love",
+                "translations": [
+                  { "type": "dictionary", "text": "أحب", "phonetic": null },
+                  {
+                    "type": "verb",
+                    "name": {
+                      "t": "to love",
+                      "m": "يحب",
+                      "phonetic": "to love"
+                    },
+                    "id": 58,
+                    "tenseNames": {
+                      "pr": "الحاضر",
+                      "pa": "ماضي",
+                      "fu": "مستقبل"
+                    },
+                    "conj": {
+                      "pr": [
+                        {
+                          "t": {
+                            "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                            "text": "I love",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438307
+                          },
+                          "m": { "text": "أنا أحب" }
+                        },
+                        {
+                          "t": {
+                            "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                            "text": "You love",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438308
+                          },
+                          "m": { "text": "أنت تحب" }
+                        },
+                        {
+                          "t": {
+                            "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                            "text": "He loves",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438309
+                          },
+                          "m": { "text": "هو يحب" }
+                        },
+                        {
+                          "t": {
+                            "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                            "text": "She loves",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438310
+                          },
+                          "m": { "text": "هي تحب" }
+                        },
+                        {
+                          "t": {
+                            "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                            "text": "We love",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438312
+                          },
+                          "m": { "text": "نحن نحب" }
+                        },
+                        {
+                          "t": {
+                            "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                            "text": "You love",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547931
+                          },
+                          "m": { "text": "أنتم تحبون" }
+                        },
+                        {
+                          "t": {
+                            "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                            "text": "They love",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438313
+                          },
+                          "m": { "text": "هم يحبون" }
+                        }
+                      ],
+                      "pa": [
+                        {
+                          "t": {
+                            "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                            "text": "I loved",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547934
+                          },
+                          "m": { "text": "أنا أحببت" }
+                        },
+                        {
+                          "t": {
+                            "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                            "text": "You loved",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547935
+                          },
+                          "m": { "text": "أنت أحببت" }
+                        },
+                        {
+                          "t": {
+                            "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                            "text": "He loved",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547936
+                          },
+                          "m": { "text": "هو أحب" }
+                        },
+                        {
+                          "t": {
+                            "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                            "text": "She loved",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547937
+                          },
+                          "m": { "text": "هي أحبت" }
+                        },
+                        {
+                          "t": {
+                            "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                            "text": "We loved",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547939
+                          },
+                          "m": { "text": "نحن أحببنا" }
+                        },
+                        {
+                          "t": {
+                            "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                            "text": "You loved",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547940
+                          },
+                          "m": { "text": "أنتم أحببتم" }
+                        },
+                        {
+                          "t": {
+                            "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                            "text": "They loved",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547941
+                          },
+                          "m": { "text": "هم أحبوا" }
+                        }
+                      ],
+                      "fu": [
+                        {
+                          "t": {
+                            "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                            "text": "I will love",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547942
+                          },
+                          "m": { "text": "أنا سأحب" }
+                        },
+                        {
+                          "t": {
+                            "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                            "text": "You will love",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547943
+                          },
+                          "m": { "text": "أنت ستحب" }
+                        },
+                        {
+                          "t": {
+                            "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                            "text": "He will love",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547944
+                          },
+                          "m": { "text": "هو سيحب" }
+                        },
+                        {
+                          "t": {
+                            "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                            "text": "She will love",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547945
+                          },
+                          "m": { "text": "هي ستحب" }
+                        },
+                        {
+                          "t": {
+                            "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                            "text": "We will love",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547947
+                          },
+                          "m": { "text": "نحن سنحب" }
+                        },
+                        {
+                          "t": {
+                            "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                            "text": "You will love",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547948
+                          },
+                          "m": { "text": "أنتم ستحبون" }
+                        },
+                        {
+                          "t": {
+                            "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                            "text": "They will love",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547949
+                          },
+                          "m": { "text": "هم سيحبون" }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "raw": "animals",
+                "translations": [
+                  {
+                    "type": "dictionary",
+                    "text": "الحيوانات",
+                    "phonetic": null
+                  }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "I", "location": 0, "length": 1 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 1, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "love", "location": 2, "length": 4 },
+                "prefix": { "text": "", "location": 2, "length": 0 },
+                "suffix": { "text": "", "location": 6, "length": 0 },
+                "linker": { "text": " ", "location": 1, "length": 1 }
+              },
+              {
+                "raw": { "text": "animals", "location": 7, "length": 7 },
+                "prefix": { "text": "", "location": 7, "length": 0 },
+                "suffix": { "text": ".", "location": 14, "length": 1 },
+                "linker": { "text": " ", "location": 6, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "TrxtN4kh9WZkog_QT9Sedz_5ttSDY3dv",
+            "audio_updated_at": 1543439933,
+            "text": "أنا أحب الحيوانات."
+          }
+        ]
+      }
+    },
+    {
+      "id": 657585,
+      "lesson": 1102,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 18091,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t34HuCM1qZC",
+          "text": "القرية؟",
+          "raw": { "text": "القرية", "location": 11, "length": 6 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "؟", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tFlh_kz9W_J",
+          "text": "لديك",
+          "raw": { "text": "لديك", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tvxhex5VFra",
+          "text": "تلك",
+          "raw": { "text": "تلك", "location": 7, "length": 3 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "t9NK-ACrbji",
+          "text": "كلب؟",
+          "raw": { "text": "كلب", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "؟", "location": 11, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tDy8gOjf0y3",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tJbilPsX_Iy",
+          "text": "ترى",
+          "raw": { "text": "ترى", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tDy8gOjf0y3", "tFlh_kz9W_J", "t9NK-ACrbji"],
+      "sols": [
+        {
+          "key": "B3jUJi8x2fGw4m0C3juCCVBGnLxkeObS",
+          "audio_updated_at": 1543435304,
+          "text": "Do you have a dog?",
+          "phonetic": ""
+        },
+        {
+          "key": "B3jUJi8x2fGw4m0C3juCCVBGnLxkeObS",
+          "audio_updated_at": 1543435304,
+          "text": "هل لديك كلب؟"
+        }
+      ]
+    },
+    {
+      "id": 657586,
+      "lesson": 1102,
+      "type": "T2",
+      "modifiers": 60,
+      "wordID": 18098,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "JeHCSiWCp4CFDDHElWzAdSlG_fk42z_N",
+          "audio_updated_at": 1543439926,
+          "text": "Does your dog bite?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Does",
+              "translations": [
+                { "type": "dictionary", "text": "هل", "phonetic": null }
+              ]
+            },
+            { "raw": "your", "translations": [] },
+            {
+              "raw": "dog",
+              "translations": [
+                { "type": "dictionary", "text": "كلبك", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "bite",
+              "translations": [
+                { "type": "dictionary", "text": "يعض", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Does", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "your", "location": 5, "length": 4 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "dog", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "bite", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "?", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "JeHCSiWCp4CFDDHElWzAdSlG_fk42z_N",
+          "audio_updated_at": 1543439926,
+          "text": "هل كلبك يعض؟"
+        }
+      ]
+    },
+    {
+      "id": 657587,
+      "lesson": 1102,
+      "type": "T2b",
+      "modifiers": 92,
+      "wordID": 18153,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "hXx8VpNMcULvwoJ_akvDViCuyIF5LL0N",
+          "audio_updated_at": 1543439937,
+          "text": "يا له من كلب جميل!",
+          "dictionary": [
+            { "raw": "يا", "translations": [] },
+            { "raw": "له", "translations": [] },
+            { "raw": "من", "translations": [] },
+            {
+              "raw": "كلب",
+              "translations": [
+                { "type": "dictionary", "text": "dog", "phonetic": "dog" }
+              ]
+            },
+            {
+              "raw": "جميل",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "beautiful",
+                  "phonetic": "beautiful"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "يا", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "له", "location": 3, "length": 2 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "من", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "كلب", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "جميل", "location": 13, "length": 4 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "!", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "hXx8VpNMcULvwoJ_akvDViCuyIF5LL0N",
+          "audio_updated_at": 1543439937,
+          "text": "What a beautiful dog!",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657588,
+      "lesson": 1102,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 18090,
+      "alternates": [18098, 18153],
+      "sols": [
+        {
+          "key": "gBOp79x4qBFrz-AXcDy5XDcx7agYpDvF",
+          "audio_updated_at": 1543435306,
+          "text": "هل لديك قطة؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Do you", "phonetic": "Do you" }
+              ]
+            },
+            {
+              "raw": "لديك",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "you have",
+                  "phonetic": "you have"
+                }
+              ]
+            },
+            {
+              "raw": "قطة",
+              "translations": [
+                { "type": "dictionary", "text": "cat", "phonetic": "cat" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "لديك", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "قطة", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "؟", "location": 11, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "hXx8VpNMcULvwoJ_akvDViCuyIF5LL0N",
+          "text": "يا له من كلب جميل!"
+        },
+        { "key": "JeHCSiWCp4CFDDHElWzAdSlG_fk42z_N", "text": "هل كلبك يعض؟" }
+      ],
+      "alts": [
+        {
+          "key": "gBOp79x4qBFrz-AXcDy5XDcx7agYpDvF",
+          "audio_updated_at": 1543435306,
+          "text": "Do you have a cat?",
+          "phonetic": ""
+        },
+        {
+          "key": "hXx8VpNMcULvwoJ_akvDViCuyIF5LL0N",
+          "audio_updated_at": 1543439937,
+          "text": "What a beautiful dog!",
+          "phonetic": ""
+        },
+        {
+          "key": "JeHCSiWCp4CFDDHElWzAdSlG_fk42z_N",
+          "audio_updated_at": 1543439926,
+          "text": "Does your dog bite?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 657589,
+      "lesson": 1102,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 18152,
+      "alternates": [18153, 18111],
+      "sols": [
+        {
+          "key": "1qqtKSBobgzTckMWtoqVv0-lvBLNSYuN",
+          "audio_updated_at": 1543439938,
+          "text": "What a beautiful cat!",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "What", "translations": [] },
+            {
+              "raw": "a",
+              "translations": [
+                { "type": "dictionary", "text": "من", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "beautiful",
+              "translations": [
+                { "type": "dictionary", "text": "جميلة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "cat",
+              "translations": [
+                { "type": "dictionary", "text": "قطة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "What", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "a", "location": 5, "length": 1 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "beautiful", "location": 7, "length": 9 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "cat", "location": 17, "length": 3 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "!", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "TrxtN4kh9WZkog_QT9Sedz_5ttSDY3dv",
+          "text": "I love animals.",
+          "phonetic": ""
+        },
+        {
+          "key": "hXx8VpNMcULvwoJ_akvDViCuyIF5LL0N",
+          "text": "What a beautiful dog!",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "1qqtKSBobgzTckMWtoqVv0-lvBLNSYuN",
+          "audio_updated_at": 1543439938,
+          "text": "يا لها من قطة جميلة!"
+        },
+        {
+          "key": "TrxtN4kh9WZkog_QT9Sedz_5ttSDY3dv",
+          "audio_updated_at": 1543439933,
+          "text": "أنا أحب الحيوانات."
+        },
+        {
+          "key": "hXx8VpNMcULvwoJ_akvDViCuyIF5LL0N",
+          "audio_updated_at": 1543439937,
+          "text": "يا له من كلب جميل!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4160 @@
+{
+  "lesson": {
+    "id": 8803,
+    "index": 3,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 88,
+    "categoryID": 88,
+    "name": "الأجهزة",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 24,
+    "countWords": 16,
+    "countPhrases": 6,
+    "countDone": 0,
+    "quizzes": [
+      607850, 607851, 607852, 607853, 607854, 607855, 607856, 607857, 607858,
+      607859, 607860, 607861, 607862, 607863, 607864, 607865, 607866, 607867,
+      607868, 607869, 607870, 607871, 607872, 607873
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 607850,
+      "lesson": 8803,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 16293,
+      "alternates": [23618, 23617, 16382],
+      "sols": [
+        {
+          "key": "9oIm520Z2oVXSRrCG0pwQYZn22zcTEm3",
+          "audio_updated_at": 1688290451,
+          "text": "حاسوب محمول"
+        },
+        {
+          "key": "Z2qyF5JOGQ8sfbiXRqeDApQRRTnWXrHy",
+          "audio_updated_at": 1543437574,
+          "text": "هاتف محمول"
+        },
+        {
+          "key": "MlJJW0agTSyRqixakRxBf_oag5O0C6T7",
+          "audio_updated_at": 1688290452,
+          "text": "شاحن"
+        },
+        {
+          "key": "cL3oVlrf_Ej8OCMD73cYPhtFd-PW6QGF",
+          "audio_updated_at": 1543437265,
+          "text": "الة تصوير"
+        }
+      ],
+      "alts": [
+        {
+          "key": "9oIm520Z2oVXSRrCG0pwQYZn22zcTEm3",
+          "audio_updated_at": 1688290451,
+          "image": "ZB29TYeY4wNR8_O8OQ1F3fSpQya4yjrH",
+          "image_updated_at": 1689159206,
+          "text": "laptop",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "Z2qyF5JOGQ8sfbiXRqeDApQRRTnWXrHy",
+          "audio_updated_at": 1543437574,
+          "text": "mobile phone",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "ZinrqcUgtAtjsLWCzo_OxIdGYgfHUpz0",
+          "image_updated_at": 1689158998
+        },
+        {
+          "key": "MlJJW0agTSyRqixakRxBf_oag5O0C6T7",
+          "audio_updated_at": 1688290452,
+          "image": "_RK6ylqrAgcKToruMRM5UhPVQIiOd6HA",
+          "image_updated_at": 1689159206,
+          "text": "charger",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "cL3oVlrf_Ej8OCMD73cYPhtFd-PW6QGF",
+          "audio_updated_at": 1543437265,
+          "image": "jY6mlhP40Jq-VO9J_XGeo9XB53E0nhtj",
+          "image_updated_at": 1689159010,
+          "text": "camera",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 607851,
+      "lesson": 8803,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 23619,
+      "alternates": [16293],
+      "tokens": [
+        {
+          "key": "tg-WQI-pV9D",
+          "text": "mobile",
+          "raw": { "text": "mobile", "location": 11, "length": 6 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "t5_y2p8p3DD",
+          "text": "on",
+          "raw": { "text": "on", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tsxiL5hDsjD",
+          "text": "is",
+          "raw": { "text": "is", "location": 5, "length": 2 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tNER1qFay1H",
+          "text": "phone.",
+          "raw": { "text": "phone", "location": 18, "length": 5 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": ".", "location": 23, "length": 1 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "t1aDAZftyWK",
+          "text": "This",
+          "raw": { "text": "This", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tT5n9utTsbo",
+          "text": "my",
+          "raw": { "text": "my", "location": 8, "length": 2 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tG3L26nqjz_",
+          "text": "the",
+          "raw": { "text": "the", "location": 16, "length": 3 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "t-cFGaMLq3q",
+          "text": "laptop",
+          "raw": { "text": "laptop", "location": 3, "length": 6 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t1aDAZftyWK",
+        "tsxiL5hDsjD",
+        "tT5n9utTsbo",
+        "tg-WQI-pV9D",
+        "tNER1qFay1H"
+      ],
+      "completeToken": "tg-WQI-pV9D",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "0jFtQHAsmSYUMAYDDaK27t5-aKNqzUnl",
+          "audio_updated_at": 1688290453,
+          "text": "هذا هاتفي المحمول.",
+          "dictionary": [
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "This", "phonetic": "This" }
+              ]
+            },
+            {
+              "raw": "هاتفي",
+              "translations": [
+                { "type": "dictionary", "text": "phone", "phonetic": "phone" }
+              ]
+            },
+            {
+              "raw": "المحمول",
+              "translations": [
+                { "type": "dictionary", "text": "mobile", "phonetic": "mobile" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هذا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هاتفي", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "المحمول", "location": 10, "length": 7 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "0jFtQHAsmSYUMAYDDaK27t5-aKNqzUnl",
+          "audio_updated_at": 1688290453,
+          "text": "This is my mobile phone.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 607852,
+      "lesson": 8803,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 16382,
+      "alternates": [16293, 23618, 23617],
+      "sols": [
+        {
+          "key": "cL3oVlrf_Ej8OCMD73cYPhtFd-PW6QGF",
+          "audio_updated_at": 1543437265,
+          "text": "الة تصوير"
+        },
+        { "key": "9oIm520Z2oVXSRrCG0pwQYZn22zcTEm3", "text": "حاسوب محمول" },
+        { "key": "MlJJW0agTSyRqixakRxBf_oag5O0C6T7", "text": "شاحن" },
+        { "key": "Z2qyF5JOGQ8sfbiXRqeDApQRRTnWXrHy", "text": "هاتف محمول" }
+      ],
+      "alts": [
+        {
+          "key": "cL3oVlrf_Ej8OCMD73cYPhtFd-PW6QGF",
+          "audio_updated_at": 1543437265,
+          "text": "camera",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "jY6mlhP40Jq-VO9J_XGeo9XB53E0nhtj",
+          "image_updated_at": 1689159010
+        },
+        {
+          "key": "9oIm520Z2oVXSRrCG0pwQYZn22zcTEm3",
+          "audio_updated_at": 1688290451,
+          "text": "laptop",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "ZB29TYeY4wNR8_O8OQ1F3fSpQya4yjrH",
+          "image_updated_at": 1689159206
+        },
+        {
+          "key": "MlJJW0agTSyRqixakRxBf_oag5O0C6T7",
+          "audio_updated_at": 1688290452,
+          "text": "charger",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "_RK6ylqrAgcKToruMRM5UhPVQIiOd6HA",
+          "image_updated_at": 1689159206
+        },
+        {
+          "key": "Z2qyF5JOGQ8sfbiXRqeDApQRRTnWXrHy",
+          "audio_updated_at": 1543437574,
+          "text": "mobile phone",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "ZinrqcUgtAtjsLWCzo_OxIdGYgfHUpz0",
+          "image_updated_at": 1689158998
+        }
+      ]
+    },
+    {
+      "id": 607853,
+      "lesson": 8803,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 23620,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t2rOBL_d1GZ",
+          "text": "تصويرها.",
+          "raw": { "text": "تصويرها", "location": 8, "length": 7 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tVHuJnGvv2b",
+          "text": "زرقاء.",
+          "raw": { "text": "زرقاء", "location": 14, "length": 5 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t9utzHwp80T",
+          "text": "الرصاص",
+          "raw": { "text": "الرصاص", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "t_gVdeObTJ_",
+          "text": "آلة",
+          "raw": { "text": "آلة", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t7tYAitbK-E",
+          "text": "هذه",
+          "raw": { "text": "هذه", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tbZRpSJCFJl",
+          "text": "أقلامي",
+          "raw": { "text": "أقلامي", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["t7tYAitbK-E", "t_gVdeObTJ_", "t2rOBL_d1GZ"],
+      "sols": [
+        {
+          "key": "fHk2F-Xr4x2Rt3XrIJ667tfB6_kS5f24",
+          "audio_updated_at": 1688290454,
+          "text": "This is her camera.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "This",
+              "translations": [
+                { "type": "dictionary", "text": "هذه", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "her", "translations": [] },
+            { "raw": "camera", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "This", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 5, "length": 2 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "her", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "camera", "location": 12, "length": 6 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": ".", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "fHk2F-Xr4x2Rt3XrIJ667tfB6_kS5f24",
+          "audio_updated_at": 1688290454,
+          "text": "هذه آلة تصويرها."
+        }
+      ]
+    },
+    {
+      "id": 607854,
+      "lesson": 8803,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 23617,
+      "alternates": [23618, 16293, 16382],
+      "sols": [
+        {
+          "key": "9oIm520Z2oVXSRrCG0pwQYZn22zcTEm3",
+          "audio_updated_at": 1688290451,
+          "text": "حاسوب محمول"
+        },
+        { "key": "MlJJW0agTSyRqixakRxBf_oag5O0C6T7", "text": "شاحن" },
+        { "key": "Z2qyF5JOGQ8sfbiXRqeDApQRRTnWXrHy", "text": "هاتف محمول" },
+        { "key": "cL3oVlrf_Ej8OCMD73cYPhtFd-PW6QGF", "text": "الة تصوير" }
+      ],
+      "alts": [
+        {
+          "key": "9oIm520Z2oVXSRrCG0pwQYZn22zcTEm3",
+          "audio_updated_at": 1688290451,
+          "text": "laptop",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "ZB29TYeY4wNR8_O8OQ1F3fSpQya4yjrH",
+          "image_updated_at": 1689159206
+        },
+        {
+          "key": "MlJJW0agTSyRqixakRxBf_oag5O0C6T7",
+          "audio_updated_at": 1688290452,
+          "text": "charger",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "_RK6ylqrAgcKToruMRM5UhPVQIiOd6HA",
+          "image_updated_at": 1689159206
+        },
+        {
+          "key": "Z2qyF5JOGQ8sfbiXRqeDApQRRTnWXrHy",
+          "audio_updated_at": 1543437574,
+          "text": "mobile phone",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "ZinrqcUgtAtjsLWCzo_OxIdGYgfHUpz0",
+          "image_updated_at": 1689158998
+        },
+        {
+          "key": "cL3oVlrf_Ej8OCMD73cYPhtFd-PW6QGF",
+          "audio_updated_at": 1543437265,
+          "text": "camera",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "jY6mlhP40Jq-VO9J_XGeo9XB53E0nhtj",
+          "image_updated_at": 1689159010
+        }
+      ]
+    },
+    {
+      "id": 607855,
+      "lesson": 8803,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 23621,
+      "alternates": [23617],
+      "tokens": [
+        {
+          "key": "t1d0mwBuiAe",
+          "text": "your",
+          "raw": { "text": "your", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tWuXiG_OP5X",
+          "text": "pens",
+          "raw": { "text": "pens", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t2PONk6Pimu",
+          "text": "are",
+          "raw": { "text": "are", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "txJBw-lrPcQ",
+          "text": "this",
+          "raw": { "text": "this", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t7dD9aUgqx0",
+          "text": "My",
+          "raw": { "text": "My", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tGYtqiIHAXK",
+          "text": "Is",
+          "raw": { "text": "Is", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "td5z4ZBv0F1",
+          "text": "laptop?",
+          "raw": { "text": "laptop", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "?", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "thKiHsQOpx7",
+          "text": "red.",
+          "raw": { "text": "red", "location": 12, "length": 3 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tGYtqiIHAXK", "txJBw-lrPcQ", "t1d0mwBuiAe", "td5z4ZBv0F1"],
+      "completeToken": "td5z4ZBv0F1",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "Hd3Gx1CfbRk8hRRyyWFEvmD8ly-ejJMq",
+          "audio_updated_at": 1688290455,
+          "text": "هل هذا حاسوبك المحمول؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Is", "phonetic": "Is" }
+              ]
+            },
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "this", "phonetic": "this" }
+              ]
+            },
+            { "raw": "حاسوبك", "translations": [] },
+            { "raw": "المحمول", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هذا", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "حاسوبك", "location": 7, "length": 6 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "المحمول", "location": 14, "length": 7 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "؟", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "Hd3Gx1CfbRk8hRRyyWFEvmD8ly-ejJMq",
+          "audio_updated_at": 1688290455,
+          "text": "Is this your laptop?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 607856,
+      "lesson": 8803,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 23622,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tbxvhNE2hZ6",
+          "text": "أقلامك",
+          "raw": { "text": "أقلامك", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "ta5U_dn_1a1",
+          "text": "حاسوبي",
+          "raw": { "text": "حاسوبي", "location": 8, "length": 6 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "trAQNmfT5dM",
+          "text": "الرصاص؟",
+          "raw": { "text": "الرصاص", "location": 14, "length": 6 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "؟", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t_N9ZMPtdl1",
+          "text": "هذه",
+          "raw": { "text": "هذه", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t-OuNvRyfqz",
+          "text": "هذا",
+          "raw": { "text": "هذا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tZbnXUDbEeO",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tXI5lgh8DUN",
+          "text": "ليس",
+          "raw": { "text": "ليس", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tl6tWEXQTM8",
+          "text": "المحمول.",
+          "raw": { "text": "المحمول", "location": 15, "length": 7 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": ".", "location": 22, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["t-OuNvRyfqz", "tXI5lgh8DUN", "ta5U_dn_1a1", "tl6tWEXQTM8"],
+      "sols": [
+        {
+          "key": "mx72zFI9kT-W4zuxEJPDov5UEdEHqrBd",
+          "audio_updated_at": 1688290456,
+          "text": "This is not my laptop.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "This",
+              "translations": [
+                { "type": "dictionary", "text": "هذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "not",
+              "translations": [
+                { "type": "dictionary", "text": "ليس", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "my",
+              "translations": [
+                { "type": "dictionary", "text": "ليس", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "laptop",
+              "translations": [
+                { "type": "dictionary", "text": "المحمول", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "This", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 5, "length": 2 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "not", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "my", "location": 12, "length": 2 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "laptop", "location": 15, "length": 6 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "mx72zFI9kT-W4zuxEJPDov5UEdEHqrBd",
+          "audio_updated_at": 1688290456,
+          "text": "هذا ليس حاسوبي المحمول."
+        }
+      ]
+    },
+    {
+      "id": 607857,
+      "lesson": 8803,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23623,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tzMlefJhKU3",
+          "text": "these",
+          "raw": { "text": "these", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tH2Qb-UMUxB",
+          "text": "My",
+          "raw": { "text": "My", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "ti9B4SusmGZ",
+          "text": "the",
+          "raw": { "text": "the", "location": 16, "length": 3 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tBLQ4sFAfBJ",
+          "text": "laptop",
+          "raw": { "text": "laptop", "location": 3, "length": 6 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tIarEgF63FP",
+          "text": "on",
+          "raw": { "text": "on", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "t6jUphymism",
+          "text": "desk.",
+          "raw": { "text": "desk", "location": 20, "length": 4 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": ".", "location": 24, "length": 1 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "txii-Sl1kGL",
+          "text": "is",
+          "raw": { "text": "is", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tWYB-NLAb85",
+          "text": "Are",
+          "raw": { "text": "Are", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tH2Qb-UMUxB",
+        "tBLQ4sFAfBJ",
+        "txii-Sl1kGL",
+        "tIarEgF63FP",
+        "ti9B4SusmGZ",
+        "t6jUphymism"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "lkYIv6PQm09OmxDemmeNnPR5mM9WUUtF",
+          "audio_updated_at": 1688290457,
+          "text": "حاسوبي المحمول على المكتب.",
+          "dictionary": [
+            { "raw": "حاسوبي", "translations": [] },
+            { "raw": "المحمول", "translations": [] },
+            {
+              "raw": "على",
+              "translations": [
+                { "type": "dictionary", "text": "on", "phonetic": "on" }
+              ]
+            },
+            {
+              "raw": "المكتب",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the desk",
+                  "phonetic": "the desk"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "حاسوبي", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "المحمول", "location": 7, "length": 7 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "على", "location": 15, "length": 3 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            },
+            {
+              "raw": { "text": "المكتب", "location": 19, "length": 6 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": ".", "location": 25, "length": 1 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "lkYIv6PQm09OmxDemmeNnPR5mM9WUUtF",
+          "audio_updated_at": 1688290457,
+          "text": "My laptop is on the desk.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 607858,
+      "lesson": 8803,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 23618,
+      "alternates": [18562],
+      "sols": [
+        {
+          "key": "fAf8tZFrxetu-SjPFdAgrNIB5tZHYvED",
+          "audio_updated_at": 1688290356,
+          "text": "حقيبة يد"
+        },
+        {
+          "key": "MlJJW0agTSyRqixakRxBf_oag5O0C6T7",
+          "audio_updated_at": 1688290452,
+          "text": "شاحن"
+        }
+      ],
+      "alts": [
+        {
+          "key": "fAf8tZFrxetu-SjPFdAgrNIB5tZHYvED",
+          "audio_updated_at": 1688290356,
+          "image": "thqROXCQINIcLpACOlBfN4a4jgqtqOP3",
+          "image_updated_at": 1689159153,
+          "text": "handbag",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "MlJJW0agTSyRqixakRxBf_oag5O0C6T7",
+          "audio_updated_at": 1688290452,
+          "text": "charger",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "_RK6ylqrAgcKToruMRM5UhPVQIiOd6HA",
+          "image_updated_at": 1689159206
+        }
+      ]
+    },
+    {
+      "id": 607859,
+      "lesson": 8803,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 23624,
+      "alternates": [18562],
+      "tokens": [
+        {
+          "key": "tiE6puO2Hud",
+          "text": "handbag.",
+          "raw": { "text": "handbag", "location": 21, "length": 7 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": ".", "location": 28, "length": 1 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "tVQdisaM1Xg",
+          "text": "is",
+          "raw": { "text": "is", "location": 11, "length": 2 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "trsjvZCN77G",
+          "text": "charger",
+          "raw": { "text": "charger", "location": 3, "length": 7 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tEWCBxiJVRF",
+          "text": "have",
+          "raw": { "text": "have", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tIFlGXlaZaw",
+          "text": "in",
+          "raw": { "text": "in", "location": 14, "length": 2 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t8J6bbUYQSs",
+          "text": "My",
+          "raw": { "text": "My", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tOZpk9Ruxz4",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tC0H5WM4zPQ",
+          "text": "her",
+          "raw": { "text": "her", "location": 17, "length": 3 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t8J6bbUYQSs",
+        "trsjvZCN77G",
+        "tVQdisaM1Xg",
+        "tIFlGXlaZaw",
+        "tC0H5WM4zPQ",
+        "tiE6puO2Hud"
+      ],
+      "completeToken": "tiE6puO2Hud",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "BfLMt-IPN3CVkp3bGJV0LV6ZtqBtXzcy",
+          "audio_updated_at": 1688290458,
+          "text": "شاحني في حقيبة يدها.",
+          "dictionary": [
+            { "raw": "شاحني", "translations": [] },
+            {
+              "raw": "في",
+              "translations": [
+                { "type": "dictionary", "text": "in", "phonetic": "in" }
+              ]
+            },
+            { "raw": "حقيبة", "translations": [] },
+            { "raw": "يدها", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "شاحني", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "في", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "حقيبة", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "يدها", "location": 15, "length": 4 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "BfLMt-IPN3CVkp3bGJV0LV6ZtqBtXzcy",
+          "audio_updated_at": 1688290458,
+          "text": "My charger is in her handbag.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 607860,
+      "lesson": 8803,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 16293,
+      "alternates": [23617, 16382],
+      "sols": [
+        {
+          "key": "Z2qyF5JOGQ8sfbiXRqeDApQRRTnWXrHy",
+          "audio_updated_at": 1543437574,
+          "text": "هاتف محمول",
+          "dictionary": [
+            {
+              "raw": "هاتف",
+              "translations": [
+                { "type": "dictionary", "text": "phone", "phonetic": "phone" }
+              ]
+            },
+            { "raw": "محمول", "translations": [] }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "هاتف", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "محمول", "location": 5, "length": 5 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            }
+          ]
+        },
+        { "key": "9oIm520Z2oVXSRrCG0pwQYZn22zcTEm3", "text": "حاسوب محمول" },
+        { "key": "cL3oVlrf_Ej8OCMD73cYPhtFd-PW6QGF", "text": "الة تصوير" }
+      ],
+      "alts": [
+        {
+          "key": "Z2qyF5JOGQ8sfbiXRqeDApQRRTnWXrHy",
+          "audio_updated_at": 1543437574,
+          "text": "mobile phone",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "9oIm520Z2oVXSRrCG0pwQYZn22zcTEm3",
+          "audio_updated_at": 1688290451,
+          "text": "laptop",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "cL3oVlrf_Ej8OCMD73cYPhtFd-PW6QGF",
+          "audio_updated_at": 1543437265,
+          "text": "camera",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 607861,
+      "lesson": 8803,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 23619,
+      "alternates": [16293],
+      "tokens": [
+        { "key": "tMPFGk3bJqu", "text": "i", "group": 3 },
+        { "key": "tscFR41ZAie", "text": "l", "group": 3 },
+        { "key": "tzdu5yvcnDc", "text": "o", "group": 3 },
+        { "key": "tvcmniv60u1", "text": " ", "specialChar": true },
+        { "key": "tcpBIRIaf3o", "text": "b", "group": 3 },
+        { "key": "tZSmOL9wXnK", "text": "e", "group": 3 },
+        { "key": "tJMyrniCV9z", "text": "m", "group": 3 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tvcmniv60u1",
+        "tJMyrniCV9z",
+        "tzdu5yvcnDc",
+        "tcpBIRIaf3o",
+        "tMPFGk3bJqu",
+        "tscFR41ZAie",
+        "tZSmOL9wXnK"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "0jFtQHAsmSYUMAYDDaK27t5-aKNqzUnl",
+          "audio_updated_at": 1688290453,
+          "text": "هذا هاتفي المحمول.",
+          "dictionary": [
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "This", "phonetic": "This" }
+              ]
+            },
+            {
+              "raw": "هاتفي",
+              "translations": [
+                { "type": "dictionary", "text": "phone", "phonetic": "phone" }
+              ]
+            },
+            {
+              "raw": "المحمول",
+              "translations": [
+                { "type": "dictionary", "text": "mobile", "phonetic": "mobile" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هذا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هاتفي", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "المحمول", "location": 10, "length": 7 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "0jFtQHAsmSYUMAYDDaK27t5-aKNqzUnl",
+          "audio_updated_at": 1688290453,
+          "text_tokens": [
+            {
+              "raw": { "text": "This", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 5, "length": 2 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "my", "location": 8, "length": 2 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "mobile", "location": 11, "length": 6 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "phone", "location": 18, "length": 5 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": ".", "location": 23, "length": 1 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "This is my mobile phone.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 607862,
+      "lesson": 8803,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 23620,
+      "alternates": [23619, 23622],
+      "sols": [
+        {
+          "key": "fHk2F-Xr4x2Rt3XrIJ667tfB6_kS5f24",
+          "audio_updated_at": 1688290454,
+          "text": "هذه آلة تصويرها.",
+          "dictionary": [
+            {
+              "raw": "هذه",
+              "translations": [
+                { "type": "dictionary", "text": "This", "phonetic": "This" }
+              ]
+            },
+            { "raw": "آلة", "translations": [] },
+            { "raw": "تصويرها", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هذه", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "آلة", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "تصويرها", "location": 8, "length": 7 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "0jFtQHAsmSYUMAYDDaK27t5-aKNqzUnl",
+          "text": "هذا هاتفي المحمول."
+        },
+        {
+          "key": "mx72zFI9kT-W4zuxEJPDov5UEdEHqrBd",
+          "text": "هذا ليس حاسوبي المحمول."
+        }
+      ],
+      "alts": [
+        {
+          "key": "fHk2F-Xr4x2Rt3XrIJ667tfB6_kS5f24",
+          "audio_updated_at": 1688290454,
+          "text": "This is her camera.",
+          "phonetic": ""
+        },
+        {
+          "key": "0jFtQHAsmSYUMAYDDaK27t5-aKNqzUnl",
+          "audio_updated_at": 1688290453,
+          "text": "This is my mobile phone.",
+          "phonetic": ""
+        },
+        {
+          "key": "mx72zFI9kT-W4zuxEJPDov5UEdEHqrBd",
+          "audio_updated_at": 1688290456,
+          "text": "This is not my laptop.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 607863,
+      "lesson": 8803,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 23621,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tkOOEYJAlUT",
+          "text": "أقلامي",
+          "raw": { "text": "أقلامي", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tu2QUVOLdkm",
+          "text": "حاسوبك",
+          "raw": { "text": "حاسوبك", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tK517Mjz89E",
+          "text": "هذا",
+          "raw": { "text": "هذا", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tzk4buNFzPH",
+          "text": "المحمول؟",
+          "raw": { "text": "المحمول", "location": 14, "length": 7 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "؟", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t84p4LIPVK9",
+          "text": "الرصاص",
+          "raw": { "text": "الرصاص", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "taqyVB9RxZl",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tbUWOHIe6Mm",
+          "text": "زرقاء.",
+          "raw": { "text": "زرقاء", "location": 14, "length": 5 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["taqyVB9RxZl", "tK517Mjz89E", "tu2QUVOLdkm", "tzk4buNFzPH"],
+      "sols": [
+        {
+          "key": "Hd3Gx1CfbRk8hRRyyWFEvmD8ly-ejJMq",
+          "audio_updated_at": 1688290455,
+          "text": "Is this your laptop?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "this",
+              "translations": [
+                { "type": "dictionary", "text": "هذا", "phonetic": null }
+              ]
+            },
+            { "raw": "your", "translations": [] },
+            {
+              "raw": "laptop",
+              "translations": [
+                { "type": "dictionary", "text": "المحمول", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Is", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "this", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "your", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "laptop", "location": 13, "length": 6 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "?", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "Hd3Gx1CfbRk8hRRyyWFEvmD8ly-ejJMq",
+          "audio_updated_at": 1688290455,
+          "text": "هل هذا حاسوبك المحمول؟"
+        }
+      ]
+    },
+    {
+      "id": 607864,
+      "lesson": 8803,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23622,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tyypFlS_TkX",
+          "text": "my",
+          "raw": { "text": "my", "location": 12, "length": 2 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "trPqvKqDDyk",
+          "text": "is",
+          "raw": { "text": "is", "location": 5, "length": 2 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tlQHzn8Y_X-",
+          "text": "not",
+          "raw": { "text": "not", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "t_pGEESShbE",
+          "text": "laptop.",
+          "raw": { "text": "laptop", "location": 15, "length": 6 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": ".", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tpw9sgpuhif",
+          "text": "in",
+          "raw": { "text": "in", "location": 14, "length": 2 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tSaSBnJ6Pai",
+          "text": "her",
+          "raw": { "text": "her", "location": 17, "length": 3 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "tRxkmJs3bl4",
+          "text": "charger",
+          "raw": { "text": "charger", "location": 3, "length": 7 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tNkWQza1vzB",
+          "text": "This",
+          "raw": { "text": "This", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tNkWQza1vzB",
+        "trPqvKqDDyk",
+        "tlQHzn8Y_X-",
+        "tyypFlS_TkX",
+        "t_pGEESShbE"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "mx72zFI9kT-W4zuxEJPDov5UEdEHqrBd",
+          "audio_updated_at": 1688290456,
+          "text": "هذا ليس حاسوبي المحمول.",
+          "dictionary": [
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "This", "phonetic": "This" }
+              ]
+            },
+            {
+              "raw": "ليس",
+              "translations": [
+                { "type": "dictionary", "text": "not", "phonetic": "not" }
+              ]
+            },
+            { "raw": "حاسوبي", "translations": [] },
+            { "raw": "المحمول", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هذا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "ليس", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "حاسوبي", "location": 8, "length": 6 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "المحمول", "location": 15, "length": 7 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 22, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "mx72zFI9kT-W4zuxEJPDov5UEdEHqrBd",
+          "audio_updated_at": 1688290456,
+          "text": "This is not my laptop.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 607865,
+      "lesson": 8803,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 23623,
+      "alternates": [23622, 23624],
+      "sols": [
+        {
+          "key": "lkYIv6PQm09OmxDemmeNnPR5mM9WUUtF",
+          "audio_updated_at": 1688290457,
+          "text": "My laptop is on the desk.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "My",
+              "translations": [
+                { "type": "dictionary", "text": "على", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "laptop",
+              "translations": [
+                { "type": "dictionary", "text": "المحمول", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "on",
+              "translations": [
+                { "type": "dictionary", "text": "على", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "على", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "desk",
+              "translations": [
+                { "type": "dictionary", "text": "المكتب", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "My", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "laptop", "location": 3, "length": 6 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "is", "location": 10, "length": 2 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "on", "location": 13, "length": 2 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 16, "length": 3 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "desk", "location": 20, "length": 4 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": ".", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "mx72zFI9kT-W4zuxEJPDov5UEdEHqrBd",
+          "text": "This is not my laptop.",
+          "phonetic": ""
+        },
+        {
+          "key": "BfLMt-IPN3CVkp3bGJV0LV6ZtqBtXzcy",
+          "text": "My charger is in her handbag.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "lkYIv6PQm09OmxDemmeNnPR5mM9WUUtF",
+          "audio_updated_at": 1688290457,
+          "text": "حاسوبي المحمول على المكتب."
+        },
+        {
+          "key": "mx72zFI9kT-W4zuxEJPDov5UEdEHqrBd",
+          "audio_updated_at": 1688290456,
+          "text": "هذا ليس حاسوبي المحمول."
+        },
+        {
+          "key": "BfLMt-IPN3CVkp3bGJV0LV6ZtqBtXzcy",
+          "audio_updated_at": 1688290458,
+          "text": "شاحني في حقيبة يدها."
+        }
+      ]
+    },
+    {
+      "id": 607866,
+      "lesson": 8803,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 18562,
+      "alternates": [],
+      "tokens": [
+        { "key": "t4DNeBkcfCc", "text": "a", "group": 0 },
+        { "key": "tl4e-IIgMCB", "text": "h", "group": 0 },
+        { "key": "tO-y2H5q9O-", "text": "a", "group": 0 },
+        { "key": "tJZ2YXHP8F5", "text": "n", "group": 0 },
+        { "key": "t7RP6V7gpFO", "text": "g", "group": 0 },
+        { "key": "thQdJdZwoK9", "text": "b", "group": 0 },
+        { "key": "tLaOCEllDMx", "text": "d", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tl4e-IIgMCB",
+        "tO-y2H5q9O-",
+        "tJZ2YXHP8F5",
+        "tLaOCEllDMx",
+        "thQdJdZwoK9",
+        "t4DNeBkcfCc",
+        "t7RP6V7gpFO"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "fAf8tZFrxetu-SjPFdAgrNIB5tZHYvED",
+          "audio_updated_at": 1688290356,
+          "text": "حقيبة يد",
+          "dictionary": [
+            { "raw": "حقيبة", "translations": [] },
+            {
+              "raw": "يد",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "handbag",
+                  "phonetic": "handbag"
+                }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "حقيبة", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "يد", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "fAf8tZFrxetu-SjPFdAgrNIB5tZHYvED",
+          "audio_updated_at": 1688290356,
+          "text_tokens": [
+            {
+              "raw": { "text": "handbag", "location": 0, "length": 7 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "handbag",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "thqROXCQINIcLpACOlBfN4a4jgqtqOP3",
+          "image_updated_at": 1689159153
+        }
+      ]
+    },
+    {
+      "id": 607867,
+      "lesson": 8803,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23624,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t5UsEsyxuKR",
+          "text": "in",
+          "raw": { "text": "in", "location": 14, "length": 2 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tRhQNJ9Sltt",
+          "text": "are",
+          "raw": { "text": "are", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tIqff-yyXij",
+          "text": "charger",
+          "raw": { "text": "charger", "location": 3, "length": 7 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tBB5B866Ntt",
+          "text": "is",
+          "raw": { "text": "is", "location": 11, "length": 2 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tJSHHnTilAt",
+          "text": "pens",
+          "raw": { "text": "pens", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tBFzxu5jRh-",
+          "text": "handbag.",
+          "raw": { "text": "handbag", "location": 21, "length": 7 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": ".", "location": 28, "length": 1 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "tHC8UStIaQ9",
+          "text": "My",
+          "raw": { "text": "My", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tnFz7s8766F",
+          "text": "her",
+          "raw": { "text": "her", "location": 17, "length": 3 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tHC8UStIaQ9",
+        "tIqff-yyXij",
+        "tBB5B866Ntt",
+        "t5UsEsyxuKR",
+        "tnFz7s8766F",
+        "tBFzxu5jRh-"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "BfLMt-IPN3CVkp3bGJV0LV6ZtqBtXzcy",
+          "audio_updated_at": 1688290458,
+          "text": "شاحني في حقيبة يدها.",
+          "dictionary": [
+            { "raw": "شاحني", "translations": [] },
+            {
+              "raw": "في",
+              "translations": [
+                { "type": "dictionary", "text": "in", "phonetic": "in" }
+              ]
+            },
+            { "raw": "حقيبة", "translations": [] },
+            { "raw": "يدها", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "شاحني", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "في", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "حقيبة", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "يدها", "location": 15, "length": 4 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "BfLMt-IPN3CVkp3bGJV0LV6ZtqBtXzcy",
+          "audio_updated_at": 1688290458,
+          "text": "My charger is in her handbag.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 607868,
+      "lesson": 8803,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 23619,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "trhZA2l3lUQ",
+          "text": "المحمول.",
+          "raw": { "text": "المحمول", "location": 10, "length": 7 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tF4U___dCIe",
+          "text": "أقلامي",
+          "raw": { "text": "أقلامي", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tJ1MRy-dilV",
+          "text": "زرقاء.",
+          "raw": { "text": "زرقاء", "location": 14, "length": 5 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "ty6h2ZNTNd7",
+          "text": "هاتفي",
+          "raw": { "text": "هاتفي", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tZdc0PrWNmv",
+          "text": "هذا",
+          "raw": { "text": "هذا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tJrIieg2kee",
+          "text": "الرصاص",
+          "raw": { "text": "الرصاص", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tZdc0PrWNmv", "ty6h2ZNTNd7", "trhZA2l3lUQ"],
+      "sols": [
+        {
+          "key": "0jFtQHAsmSYUMAYDDaK27t5-aKNqzUnl",
+          "audio_updated_at": 1688290453,
+          "text": "This is my mobile phone.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "This",
+              "translations": [
+                { "type": "dictionary", "text": "هذا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "my", "translations": [] },
+            {
+              "raw": "mobile",
+              "translations": [
+                { "type": "dictionary", "text": "المحمول", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "phone",
+              "translations": [
+                { "type": "dictionary", "text": "هاتفي", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "This", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 5, "length": 2 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "my", "location": 8, "length": 2 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "mobile", "location": 11, "length": 6 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "phone", "location": 18, "length": 5 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": ".", "location": 23, "length": 1 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "0jFtQHAsmSYUMAYDDaK27t5-aKNqzUnl",
+          "audio_updated_at": 1688290453,
+          "text": "هذا هاتفي المحمول."
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "tpwJ-QBVKt5",
+            "text": "هاتفي",
+            "raw": { "text": "هاتفي", "location": 4, "length": 5 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 9, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "t_xDMjJzFxf",
+            "text": "في",
+            "raw": { "text": "في", "location": 6, "length": 2 },
+            "prefix": { "text": "", "location": 6, "length": 0 },
+            "suffix": { "text": "", "location": 8, "length": 0 },
+            "linker": { "text": " ", "location": 5, "length": 1 }
+          },
+          {
+            "key": "t0PZsmi0DZD",
+            "text": "شاحني",
+            "raw": { "text": "شاحني", "location": 0, "length": 5 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 5, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tRAKq20NRue",
+            "text": "يدها.",
+            "raw": { "text": "يدها", "location": 15, "length": 4 },
+            "prefix": { "text": "", "location": 15, "length": 0 },
+            "suffix": { "text": ".", "location": 19, "length": 1 },
+            "linker": { "text": " ", "location": 14, "length": 1 }
+          },
+          {
+            "key": "to4KD_0lioo",
+            "text": "المحمول.",
+            "raw": { "text": "المحمول", "location": 10, "length": 7 },
+            "prefix": { "text": "", "location": 10, "length": 0 },
+            "suffix": { "text": ".", "location": 17, "length": 1 },
+            "linker": { "text": " ", "location": 9, "length": 1 }
+          },
+          {
+            "key": "tvpU9e22fG4",
+            "text": "حقيبة",
+            "raw": { "text": "حقيبة", "location": 9, "length": 5 },
+            "prefix": { "text": "", "location": 9, "length": 0 },
+            "suffix": { "text": "", "location": 14, "length": 0 },
+            "linker": { "text": " ", "location": 8, "length": 1 }
+          },
+          {
+            "key": "tOpZQ94JzYa",
+            "text": "هذا",
+            "raw": { "text": "هذا", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": ["tOpZQ94JzYa", "tpwJ-QBVKt5", "to4KD_0lioo"],
+        "sols": [
+          {
+            "key": "0jFtQHAsmSYUMAYDDaK27t5-aKNqzUnl",
+            "audio_updated_at": 1688290453,
+            "text": "This is my mobile phone.",
+            "phonetic": "",
+            "dictionary": [
+              {
+                "raw": "This",
+                "translations": [
+                  { "type": "dictionary", "text": "هذا", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "is",
+                "translations": [
+                  {
+                    "type": "verb",
+                    "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                    "id": 6,
+                    "tenseNames": {
+                      "pr": "الحاضر",
+                      "pa": "ماضي",
+                      "fu": "مستقبل"
+                    },
+                    "conj": {
+                      "pr": [
+                        {
+                          "t": {
+                            "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                            "text": "I am",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437947
+                          },
+                          "m": { "text": "أنا أكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                            "text": "You are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437948
+                          },
+                          "m": { "text": "أنت تكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                            "text": "He is",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437949
+                          },
+                          "m": { "text": "هو يكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                            "text": "She is",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437951
+                          },
+                          "m": { "text": "هي تكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                            "text": "We are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437953
+                          },
+                          "m": { "text": "نحن نكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                            "text": "You are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437954
+                          },
+                          "m": { "text": "أنتم تكونون" }
+                        },
+                        {
+                          "t": {
+                            "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                            "text": "They are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437956
+                          },
+                          "m": { "text": "هم يكونون" }
+                        }
+                      ],
+                      "pa": [
+                        {
+                          "t": {
+                            "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                            "text": "I was",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437957
+                          },
+                          "m": { "text": "أنا كنت" }
+                        },
+                        {
+                          "t": {
+                            "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                            "text": "You were",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437958
+                          },
+                          "m": { "text": "أنت كنت" }
+                        },
+                        {
+                          "t": {
+                            "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                            "text": "He was",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437960
+                          },
+                          "m": { "text": "هو كان" }
+                        },
+                        {
+                          "t": {
+                            "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                            "text": "She was",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546648
+                          },
+                          "m": { "text": "هي كانت" }
+                        },
+                        {
+                          "t": {
+                            "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                            "text": "We were",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437961
+                          },
+                          "m": { "text": "نحن كنا" }
+                        },
+                        {
+                          "t": {
+                            "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                            "text": "You were",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546651
+                          },
+                          "m": { "text": "أنتم كنتم" }
+                        },
+                        {
+                          "t": {
+                            "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                            "text": "They were",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437962
+                          },
+                          "m": { "text": "هم كانوا" }
+                        }
+                      ],
+                      "fu": [
+                        {
+                          "t": {
+                            "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                            "text": "I will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546653
+                          },
+                          "m": { "text": "أنا سأكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                            "text": "You will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546654
+                          },
+                          "m": { "text": "أنت ستكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                            "text": "He will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546655
+                          },
+                          "m": { "text": "هو سيكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                            "text": "She will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546656
+                          },
+                          "m": { "text": "هي ستكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                            "text": "We will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546658
+                          },
+                          "m": { "text": "نحن سنكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                            "text": "You will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546659
+                          },
+                          "m": { "text": "أنتم ستكونون" }
+                        },
+                        {
+                          "t": {
+                            "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                            "text": "They will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546660
+                          },
+                          "m": { "text": "هم سيكونون" }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              { "raw": "my", "translations": [] },
+              {
+                "raw": "mobile",
+                "translations": [
+                  { "type": "dictionary", "text": "المحمول", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "phone",
+                "translations": [
+                  { "type": "dictionary", "text": "هاتفي", "phonetic": null }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "This", "location": 0, "length": 4 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 4, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "is", "location": 5, "length": 2 },
+                "prefix": { "text": "", "location": 5, "length": 0 },
+                "suffix": { "text": "", "location": 7, "length": 0 },
+                "linker": { "text": " ", "location": 4, "length": 1 }
+              },
+              {
+                "raw": { "text": "my", "location": 8, "length": 2 },
+                "prefix": { "text": "", "location": 8, "length": 0 },
+                "suffix": { "text": "", "location": 10, "length": 0 },
+                "linker": { "text": " ", "location": 7, "length": 1 }
+              },
+              {
+                "raw": { "text": "mobile", "location": 11, "length": 6 },
+                "prefix": { "text": "", "location": 11, "length": 0 },
+                "suffix": { "text": "", "location": 17, "length": 0 },
+                "linker": { "text": " ", "location": 10, "length": 1 }
+              },
+              {
+                "raw": { "text": "phone", "location": 18, "length": 5 },
+                "prefix": { "text": "", "location": 18, "length": 0 },
+                "suffix": { "text": ".", "location": 23, "length": 1 },
+                "linker": { "text": " ", "location": 17, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "0jFtQHAsmSYUMAYDDaK27t5-aKNqzUnl",
+            "audio_updated_at": 1688290453,
+            "text": "هذا هاتفي المحمول."
+          }
+        ]
+      }
+    },
+    {
+      "id": 607869,
+      "lesson": 8803,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 23620,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "ttyL0Sk-9Ks",
+          "text": "تصويرها.",
+          "raw": { "text": "تصويرها", "location": 8, "length": 7 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tzje2Dn18au",
+          "text": "الرصاص؟",
+          "raw": { "text": "الرصاص", "location": 14, "length": 6 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "؟", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tFfGy1n5XWq",
+          "text": "آلة",
+          "raw": { "text": "آلة", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tAKRxFNf49o",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tOdaXAuSpPV",
+          "text": "أقلامك",
+          "raw": { "text": "أقلامك", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tULG4iM6m71",
+          "text": "هذه",
+          "raw": { "text": "هذه", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tULG4iM6m71", "tFfGy1n5XWq", "ttyL0Sk-9Ks"],
+      "sols": [
+        {
+          "key": "fHk2F-Xr4x2Rt3XrIJ667tfB6_kS5f24",
+          "audio_updated_at": 1688290454,
+          "text": "This is her camera.",
+          "phonetic": ""
+        },
+        {
+          "key": "fHk2F-Xr4x2Rt3XrIJ667tfB6_kS5f24",
+          "audio_updated_at": 1688290454,
+          "text": "هذه آلة تصويرها."
+        }
+      ]
+    },
+    {
+      "id": 607870,
+      "lesson": 8803,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23621,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t3IG-xAhCK9",
+          "text": "are",
+          "raw": { "text": "are", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tFCT7k9e-w3",
+          "text": "your",
+          "raw": { "text": "your", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tOht8OhUQ_r",
+          "text": "this",
+          "raw": { "text": "this", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t0rP1Etwq84",
+          "text": "books",
+          "raw": { "text": "books", "location": 3, "length": 5 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tPxs-tP_YZu",
+          "text": "My",
+          "raw": { "text": "My", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tkbkNmnWpAP",
+          "text": "in",
+          "raw": { "text": "in", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "t9npYW8rVCL",
+          "text": "Is",
+          "raw": { "text": "Is", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t78TVKYhxN2",
+          "text": "laptop?",
+          "raw": { "text": "laptop", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "?", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t9npYW8rVCL", "tOht8OhUQ_r", "tFCT7k9e-w3", "t78TVKYhxN2"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "Hd3Gx1CfbRk8hRRyyWFEvmD8ly-ejJMq",
+          "audio_updated_at": 1688290455,
+          "text": "هل هذا حاسوبك المحمول؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Is", "phonetic": "Is" }
+              ]
+            },
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "this", "phonetic": "this" }
+              ]
+            },
+            { "raw": "حاسوبك", "translations": [] },
+            { "raw": "المحمول", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هذا", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "حاسوبك", "location": 7, "length": 6 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "المحمول", "location": 14, "length": 7 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "؟", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "Hd3Gx1CfbRk8hRRyyWFEvmD8ly-ejJMq",
+          "audio_updated_at": 1688290455,
+          "text": "Is this your laptop?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 607871,
+      "lesson": 8803,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 23622,
+      "alternates": [23620, 23619],
+      "sols": [
+        {
+          "key": "mx72zFI9kT-W4zuxEJPDov5UEdEHqrBd",
+          "audio_updated_at": 1688290456,
+          "text": "هذا ليس حاسوبي المحمول.",
+          "dictionary": [
+            {
+              "raw": "هذا",
+              "translations": [
+                { "type": "dictionary", "text": "This", "phonetic": "This" }
+              ]
+            },
+            {
+              "raw": "ليس",
+              "translations": [
+                { "type": "dictionary", "text": "not", "phonetic": "not" }
+              ]
+            },
+            { "raw": "حاسوبي", "translations": [] },
+            { "raw": "المحمول", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هذا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "ليس", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "حاسوبي", "location": 8, "length": 6 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "المحمول", "location": 15, "length": 7 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 22, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "0jFtQHAsmSYUMAYDDaK27t5-aKNqzUnl",
+          "text": "هذا هاتفي المحمول."
+        },
+        {
+          "key": "fHk2F-Xr4x2Rt3XrIJ667tfB6_kS5f24",
+          "text": "هذه آلة تصويرها."
+        }
+      ],
+      "alts": [
+        {
+          "key": "mx72zFI9kT-W4zuxEJPDov5UEdEHqrBd",
+          "audio_updated_at": 1688290456,
+          "text": "This is not my laptop.",
+          "phonetic": ""
+        },
+        {
+          "key": "0jFtQHAsmSYUMAYDDaK27t5-aKNqzUnl",
+          "audio_updated_at": 1688290453,
+          "text": "This is my mobile phone.",
+          "phonetic": ""
+        },
+        {
+          "key": "fHk2F-Xr4x2Rt3XrIJ667tfB6_kS5f24",
+          "audio_updated_at": 1688290454,
+          "text": "This is her camera.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 607872,
+      "lesson": 8803,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 23623,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tU-NT6PnBsw",
+          "text": "ليست",
+          "raw": { "text": "ليست", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tasQm5iLG1Y",
+          "text": "حاسوبي",
+          "raw": { "text": "حاسوبي", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t_c6tI2s2or",
+          "text": "هذه",
+          "raw": { "text": "هذه", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tAUrcBZdfYA",
+          "text": "المحمول",
+          "raw": { "text": "المحمول", "location": 7, "length": 7 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tkmNqqA485q",
+          "text": "مفكراتي.",
+          "raw": { "text": "مفكراتي", "location": 9, "length": 7 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tBvqPGgsSBI",
+          "text": "المكتب.",
+          "raw": { "text": "المكتب", "location": 19, "length": 6 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": ".", "location": 25, "length": 1 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tAPP93fsjyp",
+          "text": "على",
+          "raw": { "text": "على", "location": 15, "length": 3 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tasQm5iLG1Y", "tAUrcBZdfYA", "tAPP93fsjyp", "tBvqPGgsSBI"],
+      "sols": [
+        {
+          "key": "lkYIv6PQm09OmxDemmeNnPR5mM9WUUtF",
+          "audio_updated_at": 1688290457,
+          "text": "My laptop is on the desk.",
+          "phonetic": ""
+        },
+        {
+          "key": "lkYIv6PQm09OmxDemmeNnPR5mM9WUUtF",
+          "audio_updated_at": 1688290457,
+          "text": "حاسوبي المحمول على المكتب."
+        }
+      ]
+    },
+    {
+      "id": 607873,
+      "lesson": 8803,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 23624,
+      "alternates": [23622, 23623],
+      "sols": [
+        {
+          "key": "BfLMt-IPN3CVkp3bGJV0LV6ZtqBtXzcy",
+          "audio_updated_at": 1688290458,
+          "text": "My charger is in her handbag.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "My", "translations": [] },
+            {
+              "raw": "charger",
+              "translations": [
+                { "type": "dictionary", "text": "شاحني", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "in",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            { "raw": "her", "translations": [] },
+            {
+              "raw": "handbag",
+              "translations": [
+                { "type": "dictionary", "text": "حقيبة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "My", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "charger", "location": 3, "length": 7 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "is", "location": 11, "length": 2 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "in", "location": 14, "length": 2 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "her", "location": 17, "length": 3 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            },
+            {
+              "raw": { "text": "handbag", "location": 21, "length": 7 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": ".", "location": 28, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "mx72zFI9kT-W4zuxEJPDov5UEdEHqrBd",
+          "text": "This is not my laptop.",
+          "phonetic": ""
+        },
+        {
+          "key": "lkYIv6PQm09OmxDemmeNnPR5mM9WUUtF",
+          "text": "My laptop is on the desk.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "BfLMt-IPN3CVkp3bGJV0LV6ZtqBtXzcy",
+          "audio_updated_at": 1688290458,
+          "text": "شاحني في حقيبة يدها."
+        },
+        {
+          "key": "mx72zFI9kT-W4zuxEJPDov5UEdEHqrBd",
+          "audio_updated_at": 1688290456,
+          "text": "هذا ليس حاسوبي المحمول."
+        },
+        {
+          "key": "lkYIv6PQm09OmxDemmeNnPR5mM9WUUtF",
+          "audio_updated_at": 1688290457,
+          "text": "حاسوبي المحمول على المكتب."
+        }
+      ]
+    }
+  ]
+}

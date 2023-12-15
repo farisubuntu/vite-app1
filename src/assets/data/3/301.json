@@ -1,0 +1,2127 @@
+{
+  "lesson": {
+    "id": 301,
+    "index": 1,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 3,
+    "categoryID": 3,
+    "name": "اللغات 1",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 22,
+    "countWords": 7,
+    "countPhrases": 9,
+    "countDone": 0,
+    "quizzes": [
+      654211, 654212, 654213, 654214, 654215, 654216, 654217, 654218, 654219,
+      654220, 654221, 654222, 654223, 654224, 654225, 654226, 654227, 654228,
+      654229, 654230, 654231, 654232
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 654211,
+      "lesson": 301,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 14886,
+      "alternates": [23553, 23552, 23551],
+      "sols": [
+        {
+          "key": "b8wn0bBZ_V8oetEYxDAcV4USh-0nVKt7",
+          "audio_updated_at": 1688290376,
+          "text": "الصينية"
+        },
+        {
+          "key": "alwuyZCTqwgU8MZSFWMA-Ksc71e5tyK6",
+          "audio_updated_at": 1688290373,
+          "text": "الإنجليزية"
+        },
+        {
+          "key": "k0wUr_a2GzjlYquye60KkGDiT_KcbUZN",
+          "audio_updated_at": 1639520123,
+          "text": "يتحدث"
+        },
+        {
+          "key": "CxVOgMfvO3M7_-FS9IP4yQ1nyDnoFzyF",
+          "audio_updated_at": 1688290375,
+          "text": "الإسبانية"
+        }
+      ],
+      "alts": [
+        {
+          "key": "b8wn0bBZ_V8oetEYxDAcV4USh-0nVKt7",
+          "audio_updated_at": 1688290376,
+          "image": "nQNdjavL2yqzDoI3q2WXM5QyK1r7EgsA",
+          "image_updated_at": 1689159201,
+          "text": "Chinese",
+          "phonetic": ""
+        },
+        {
+          "key": "alwuyZCTqwgU8MZSFWMA-Ksc71e5tyK6",
+          "audio_updated_at": 1688290373,
+          "image": "2KlFDX6RJmDSyZ3Wv68UUOpZAZCRvtT2",
+          "image_updated_at": 1689159201,
+          "text": "English",
+          "phonetic": ""
+        },
+        {
+          "key": "k0wUr_a2GzjlYquye60KkGDiT_KcbUZN",
+          "audio_updated_at": 1639520123,
+          "text": "to speak",
+          "phonetic": null,
+          "image": "2zeCn-x-5WVUUXtClp_eXl39r6-4WDe9",
+          "image_updated_at": 1689158977
+        },
+        {
+          "key": "CxVOgMfvO3M7_-FS9IP4yQ1nyDnoFzyF",
+          "audio_updated_at": 1688290375,
+          "image": "tsJ2kKFcvM0OLwUGTI8N0dkanPYcqay4",
+          "image_updated_at": 1689159201,
+          "text": "Spanish",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654212,
+      "lesson": 301,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 18485,
+      "alternates": [23551],
+      "tokens": [
+        {
+          "key": "tmzi_da_PD6",
+          "text": "English.",
+          "raw": { "text": "English", "location": 8, "length": 7 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tNbq858tzCD",
+          "text": "a",
+          "raw": { "text": "a", "location": 8, "length": 1 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "t4NXvErBVQb",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t5vRzr7sNs8",
+          "text": "book.",
+          "raw": { "text": "book", "location": 10, "length": 4 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tHwACwwydXE",
+          "text": "write",
+          "raw": { "text": "write", "location": 2, "length": 5 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tAHJ973nbsh",
+          "text": "speak",
+          "raw": { "text": "speak", "location": 2, "length": 5 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t4NXvErBVQb", "tAHJ973nbsh", "tmzi_da_PD6"],
+      "completeToken": "tmzi_da_PD6",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "RuU0NUo9djEPb9HIrKAiaX9uFoRkd36-",
+          "audio_updated_at": 1593553700,
+          "text": "أنا أتحدث الإنجليزية.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أتحدث",
+              "translations": [
+                { "type": "dictionary", "text": "speak", "phonetic": "speak" }
+              ]
+            },
+            {
+              "raw": "الإنجليزية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "English",
+                  "phonetic": "English"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أتحدث", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الإنجليزية", "location": 10, "length": 10 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "RuU0NUo9djEPb9HIrKAiaX9uFoRkd36-",
+          "audio_updated_at": 1593553700,
+          "text": "I speak English.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654213,
+      "lesson": 301,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 23552,
+      "alternates": [23553],
+      "sols": [
+        {
+          "key": "b8wn0bBZ_V8oetEYxDAcV4USh-0nVKt7",
+          "audio_updated_at": 1688290376,
+          "text": "الصينية"
+        },
+        {
+          "key": "CxVOgMfvO3M7_-FS9IP4yQ1nyDnoFzyF",
+          "audio_updated_at": 1688290375,
+          "text": "الإسبانية"
+        }
+      ],
+      "alts": [
+        {
+          "key": "b8wn0bBZ_V8oetEYxDAcV4USh-0nVKt7",
+          "audio_updated_at": 1688290376,
+          "image": "nQNdjavL2yqzDoI3q2WXM5QyK1r7EgsA",
+          "image_updated_at": 1689159201,
+          "text": "Chinese",
+          "phonetic": ""
+        },
+        {
+          "key": "CxVOgMfvO3M7_-FS9IP4yQ1nyDnoFzyF",
+          "audio_updated_at": 1688290375,
+          "text": "Spanish",
+          "phonetic": "",
+          "image": "tsJ2kKFcvM0OLwUGTI8N0dkanPYcqay4",
+          "image_updated_at": 1689159201
+        }
+      ]
+    },
+    {
+      "id": 654214,
+      "lesson": 301,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 23554,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tSkl_NzL_69",
+          "text": "تتحدث",
+          "raw": { "text": "تتحدث", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tQZXmobVQKx",
+          "text": "الإسبانية.",
+          "raw": { "text": "الإسبانية", "location": 10, "length": 9 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t7KpjLEjzLl",
+          "text": "أتحدث",
+          "raw": { "text": "أتحدث", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tHr3TXtU6_o",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tzYJAXHcfwR",
+          "text": "أنت",
+          "raw": { "text": "أنت", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tbc9uTM4yTD",
+          "text": "الإنجليزية.",
+          "raw": { "text": "الإنجليزية", "location": 10, "length": 10 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tHr3TXtU6_o", "t7KpjLEjzLl", "tQZXmobVQKx"],
+      "sols": [
+        {
+          "key": "NLcxjOVNVUn7vV96fckS_KUU6nZQuITE",
+          "audio_updated_at": 1688290377,
+          "text": "I speak Spanish.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "speak",
+              "translations": [
+                { "type": "dictionary", "text": "أتحدث", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "Spanish",
+              "translations": [
+                { "type": "dictionary", "text": "الإسبانية", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "speak", "location": 2, "length": 5 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "Spanish", "location": 8, "length": 7 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "NLcxjOVNVUn7vV96fckS_KUU6nZQuITE",
+          "audio_updated_at": 1688290377,
+          "text": "أنا أتحدث الإسبانية."
+        }
+      ]
+    },
+    {
+      "id": 654215,
+      "lesson": 301,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 23555,
+      "alternates": [23553],
+      "tokens": [
+        {
+          "key": "tDwD2tTYOVR",
+          "text": "Japanese",
+          "raw": { "text": "Japanese", "location": 0, "length": 8 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tDxKpIf2MzU",
+          "text": "Chinese.",
+          "raw": { "text": "Chinese", "location": 8, "length": 7 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tWuSYATmFiS",
+          "text": "speak",
+          "raw": { "text": "speak", "location": 2, "length": 5 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tU159otdo8P",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tU159otdo8P", "tWuSYATmFiS", "tDxKpIf2MzU"],
+      "completeToken": "tDxKpIf2MzU",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "qdAQss4eJEfBHw9wYEXRRXywJa5d2YqO",
+          "audio_updated_at": 1688290379,
+          "text": "أنا أتحدث الصينية.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أتحدث",
+              "translations": [
+                { "type": "dictionary", "text": "speak", "phonetic": "speak" }
+              ]
+            },
+            {
+              "raw": "الصينية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "Chinese",
+                  "phonetic": "Chinese"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أتحدث", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الصينية", "location": 10, "length": 7 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "qdAQss4eJEfBHw9wYEXRRXywJa5d2YqO",
+          "audio_updated_at": 1688290379,
+          "text": "I speak Chinese.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654216,
+      "lesson": 301,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 14886,
+      "alternates": [23552, 23551, 23553],
+      "sols": [
+        {
+          "key": "k0wUr_a2GzjlYquye60KkGDiT_KcbUZN",
+          "audio_updated_at": 1639520123,
+          "text": "يتحدث"
+        },
+        { "key": "b8wn0bBZ_V8oetEYxDAcV4USh-0nVKt7", "text": "الصينية" },
+        { "key": "CxVOgMfvO3M7_-FS9IP4yQ1nyDnoFzyF", "text": "الإسبانية" },
+        { "key": "alwuyZCTqwgU8MZSFWMA-Ksc71e5tyK6", "text": "الإنجليزية" }
+      ],
+      "alts": [
+        {
+          "key": "k0wUr_a2GzjlYquye60KkGDiT_KcbUZN",
+          "audio_updated_at": 1639520123,
+          "text": "to speak",
+          "phonetic": "",
+          "image": "2zeCn-x-5WVUUXtClp_eXl39r6-4WDe9",
+          "image_updated_at": 1689158977
+        },
+        {
+          "key": "b8wn0bBZ_V8oetEYxDAcV4USh-0nVKt7",
+          "audio_updated_at": 1688290376,
+          "text": "Chinese",
+          "phonetic": "",
+          "image": "nQNdjavL2yqzDoI3q2WXM5QyK1r7EgsA",
+          "image_updated_at": 1689159201
+        },
+        {
+          "key": "CxVOgMfvO3M7_-FS9IP4yQ1nyDnoFzyF",
+          "audio_updated_at": 1688290375,
+          "text": "Spanish",
+          "phonetic": "",
+          "image": "tsJ2kKFcvM0OLwUGTI8N0dkanPYcqay4",
+          "image_updated_at": 1689159201
+        },
+        {
+          "key": "alwuyZCTqwgU8MZSFWMA-Ksc71e5tyK6",
+          "audio_updated_at": 1688290373,
+          "text": "English",
+          "phonetic": "",
+          "image": "2KlFDX6RJmDSyZ3Wv68UUOpZAZCRvtT2",
+          "image_updated_at": 1689159201
+        }
+      ]
+    },
+    {
+      "id": 654217,
+      "lesson": 301,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 23556,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tHofo_00Ux-",
+          "text": "الألمانية.",
+          "raw": { "text": "الألمانية", "location": 10, "length": 9 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t_1o-ZmbU1f",
+          "text": "أتحدث",
+          "raw": { "text": "أتحدث", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t89DZwb5uwX",
+          "text": "تتحدث",
+          "raw": { "text": "تتحدث", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tfh-vNql9Cb",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tMVJQQB_DMQ",
+          "text": "أنت",
+          "raw": { "text": "أنت", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tw4ZZkJHi8w",
+          "text": "الإنجليزية.",
+          "raw": { "text": "الإنجليزية", "location": 10, "length": 10 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tMVJQQB_DMQ", "t89DZwb5uwX", "tw4ZZkJHi8w"],
+      "sols": [
+        {
+          "key": "fObRIldPXjGcEytlEbRZnCCfCEiEDxbi",
+          "audio_updated_at": 1688290380,
+          "text": "You speak English.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "You",
+              "translations": [
+                { "type": "dictionary", "text": "أنت", "phonetic": null }
+              ]
+            },
+            { "raw": "speak", "translations": [] },
+            {
+              "raw": "English",
+              "translations": [
+                { "type": "dictionary", "text": "الإنجليزية", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "You", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "speak", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "English", "location": 10, "length": 7 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "fObRIldPXjGcEytlEbRZnCCfCEiEDxbi",
+          "audio_updated_at": 1688290380,
+          "text": "أنت تتحدث الإنجليزية."
+        }
+      ]
+    },
+    {
+      "id": 654218,
+      "lesson": 301,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 18520,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tmFQcI1CZH-",
+          "text": "You",
+          "raw": { "text": "You", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tZRTkRfce1S",
+          "text": "Spanish.",
+          "raw": { "text": "Spanish", "location": 10, "length": 7 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tlV71y2whXl",
+          "text": "speak",
+          "raw": { "text": "speak", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tXqYH9Pv2_i",
+          "text": "learn",
+          "raw": { "text": "learn", "location": 13, "length": 5 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "ttRcnQweHYo",
+          "text": "students",
+          "raw": { "text": "students", "location": 4, "length": 8 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tXR_nqjPLP3",
+          "text": "a",
+          "raw": { "text": "a", "location": 19, "length": 1 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tzdidYV7nSL",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tbNRA9sxMdv",
+          "text": "little.",
+          "raw": { "text": "little", "location": 21, "length": 6 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": ".", "location": 27, "length": 1 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tmFQcI1CZH-", "tlV71y2whXl", "tZRTkRfce1S"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "rpSa2cQQQbF9-8_0SBbaXI-pjdK5ijpL",
+          "audio_updated_at": 1593553709,
+          "text": "أنت تتحدث الإسبانية.",
+          "dictionary": [
+            {
+              "raw": "أنت",
+              "translations": [
+                { "type": "dictionary", "text": "You", "phonetic": "You" }
+              ]
+            },
+            { "raw": "تتحدث", "translations": [] },
+            {
+              "raw": "الإسبانية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "Spanish",
+                  "phonetic": "Spanish"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنت", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تتحدث", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الإسبانية", "location": 10, "length": 9 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "rpSa2cQQQbF9-8_0SBbaXI-pjdK5ijpL",
+          "audio_updated_at": 1593553709,
+          "text": "You speak Spanish.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654219,
+      "lesson": 301,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 23557,
+      "alternates": [23553],
+      "tokens": [
+        {
+          "key": "tFsKiwWOZbv",
+          "text": "You",
+          "raw": { "text": "You", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tMwyqVXspZz",
+          "text": "Chinese.",
+          "raw": { "text": "Chinese", "location": 10, "length": 7 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tAZHBC0JJKA",
+          "text": "speak",
+          "raw": { "text": "speak", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t9l2WBD8XSt",
+          "text": "German",
+          "raw": { "text": "German", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tFsKiwWOZbv", "tAZHBC0JJKA", "tMwyqVXspZz"],
+      "completeToken": "tMwyqVXspZz",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "MxDBmynIcefxioPtRGA6Pl7W6TUfNJwM",
+          "audio_updated_at": 1688290381,
+          "text": "أنت تتحدث الصينية.",
+          "dictionary": [
+            {
+              "raw": "أنت",
+              "translations": [
+                { "type": "dictionary", "text": "You", "phonetic": "You" }
+              ]
+            },
+            { "raw": "تتحدث", "translations": [] },
+            {
+              "raw": "الصينية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "Chinese",
+                  "phonetic": "Chinese"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنت", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تتحدث", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الصينية", "location": 10, "length": 7 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "MxDBmynIcefxioPtRGA6Pl7W6TUfNJwM",
+          "audio_updated_at": 1688290381,
+          "text": "You speak Chinese.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654220,
+      "lesson": 301,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 23551,
+      "alternates": [],
+      "tokens": [
+        { "key": "tfTbsvnHP31", "text": "g", "group": 0 },
+        { "key": "tPV_20Yt7IT", "text": "E", "group": 0 },
+        { "key": "t57jvN6M9HG", "text": "l", "group": 0 },
+        { "key": "tM0OZQRSlb6", "text": "i", "group": 0 },
+        { "key": "to2_vJrBCS3", "text": "h", "group": 0 },
+        { "key": "tdmkUZq0JSY", "text": "s", "group": 0 },
+        { "key": "tH0pcRUxsB3", "text": "n", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tPV_20Yt7IT",
+        "tH0pcRUxsB3",
+        "tfTbsvnHP31",
+        "t57jvN6M9HG",
+        "tM0OZQRSlb6",
+        "tdmkUZq0JSY",
+        "to2_vJrBCS3"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "alwuyZCTqwgU8MZSFWMA-Ksc71e5tyK6",
+          "audio_updated_at": 1688290373,
+          "text": "الإنجليزية",
+          "dictionary": [
+            {
+              "raw": "الإنجليزية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "English",
+                  "phonetic": "English"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "الإنجليزية", "location": 0, "length": 10 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "alwuyZCTqwgU8MZSFWMA-Ksc71e5tyK6",
+          "audio_updated_at": 1688290373,
+          "text_tokens": [
+            {
+              "raw": { "text": "English", "location": 0, "length": 7 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "English",
+          "phonetic": "",
+          "image": "2KlFDX6RJmDSyZ3Wv68UUOpZAZCRvtT2",
+          "image_updated_at": 1689159201
+        }
+      ]
+    },
+    {
+      "id": 654221,
+      "lesson": 301,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 18485,
+      "alternates": [23551],
+      "tokens": [
+        { "key": "tYKJPpZ_yPe", "text": "E", "group": 2 },
+        { "key": "tGPp2QLidVF", "text": ".", "specialChar": true },
+        { "key": "tNScR5xryCv", "text": " ", "specialChar": true },
+        { "key": "tbM8L-tG7dt", "text": "h", "group": 2 },
+        { "key": "tFexhWT6ymX", "text": "g", "group": 2 },
+        { "key": "trR7gLFSd4O", "text": "i", "group": 2 },
+        { "key": "t2_IPI3UCDa", "text": "s", "group": 2 },
+        { "key": "tSvTzYu3LZ_", "text": "l", "group": 2 },
+        { "key": "tDio6MpY0_T", "text": "n", "group": 2 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tNScR5xryCv",
+        "tYKJPpZ_yPe",
+        "tDio6MpY0_T",
+        "tFexhWT6ymX",
+        "tSvTzYu3LZ_",
+        "trR7gLFSd4O",
+        "t2_IPI3UCDa",
+        "tbM8L-tG7dt",
+        "tGPp2QLidVF"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "RuU0NUo9djEPb9HIrKAiaX9uFoRkd36-",
+          "audio_updated_at": 1593553700,
+          "text": "أنا أتحدث الإنجليزية.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أتحدث",
+              "translations": [
+                { "type": "dictionary", "text": "speak", "phonetic": "speak" }
+              ]
+            },
+            {
+              "raw": "الإنجليزية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "English",
+                  "phonetic": "English"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أتحدث", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الإنجليزية", "location": 10, "length": 10 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "RuU0NUo9djEPb9HIrKAiaX9uFoRkd36-",
+          "audio_updated_at": 1593553700,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "speak", "location": 2, "length": 5 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "English", "location": 8, "length": 7 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "I speak English.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654222,
+      "lesson": 301,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 23554,
+      "alternates": [23555, 18520],
+      "sols": [
+        {
+          "key": "NLcxjOVNVUn7vV96fckS_KUU6nZQuITE",
+          "audio_updated_at": 1688290377,
+          "text": "أنا أتحدث الإسبانية.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أتحدث",
+              "translations": [
+                { "type": "dictionary", "text": "speak", "phonetic": "speak" }
+              ]
+            },
+            {
+              "raw": "الإسبانية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "Spanish",
+                  "phonetic": "Spanish"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أتحدث", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الإسبانية", "location": 10, "length": 9 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "qdAQss4eJEfBHw9wYEXRRXywJa5d2YqO",
+          "text": "أنا أتحدث الصينية."
+        },
+        {
+          "key": "rpSa2cQQQbF9-8_0SBbaXI-pjdK5ijpL",
+          "text": "أنت تتحدث الإسبانية."
+        }
+      ],
+      "alts": [
+        {
+          "key": "NLcxjOVNVUn7vV96fckS_KUU6nZQuITE",
+          "audio_updated_at": 1688290377,
+          "text": "I speak Spanish.",
+          "phonetic": ""
+        },
+        {
+          "key": "qdAQss4eJEfBHw9wYEXRRXywJa5d2YqO",
+          "audio_updated_at": 1688290379,
+          "text": "I speak Chinese.",
+          "phonetic": ""
+        },
+        {
+          "key": "rpSa2cQQQbF9-8_0SBbaXI-pjdK5ijpL",
+          "audio_updated_at": 1593553709,
+          "text": "You speak Spanish.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654223,
+      "lesson": 301,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 23555,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tFNRigzFx-0",
+          "text": "أتحدث",
+          "raw": { "text": "أتحدث", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tMq4Jdf83db",
+          "text": "اليابانية.",
+          "raw": { "text": "اليابانية", "location": 10, "length": 9 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "txDNxdscMNZ",
+          "text": "الصينية.",
+          "raw": { "text": "الصينية", "location": 10, "length": 7 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tnXHyRHchaM",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tnXHyRHchaM", "tFNRigzFx-0", "txDNxdscMNZ"],
+      "sols": [
+        {
+          "key": "qdAQss4eJEfBHw9wYEXRRXywJa5d2YqO",
+          "audio_updated_at": 1688290379,
+          "text": "I speak Chinese.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "speak",
+              "translations": [
+                { "type": "dictionary", "text": "أتحدث", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "Chinese",
+              "translations": [
+                { "type": "dictionary", "text": "الصينية", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "speak", "location": 2, "length": 5 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "Chinese", "location": 8, "length": 7 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "qdAQss4eJEfBHw9wYEXRRXywJa5d2YqO",
+          "audio_updated_at": 1688290379,
+          "text": "أنا أتحدث الصينية."
+        }
+      ]
+    },
+    {
+      "id": 654224,
+      "lesson": 301,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23556,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tPRb_7O8CBm",
+          "text": "You",
+          "raw": { "text": "You", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tgXq04-mnPV",
+          "text": "speak",
+          "raw": { "text": "speak", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tdELAKQqxi3",
+          "text": "English.",
+          "raw": { "text": "English", "location": 10, "length": 7 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t58qTvzSgLW",
+          "text": "German?",
+          "raw": { "text": "German", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "?", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tB_io0WM3N1",
+          "text": "Do",
+          "raw": { "text": "Do", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tPRb_7O8CBm", "tgXq04-mnPV", "tdELAKQqxi3"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "fObRIldPXjGcEytlEbRZnCCfCEiEDxbi",
+          "audio_updated_at": 1688290380,
+          "text": "أنت تتحدث الإنجليزية.",
+          "dictionary": [
+            {
+              "raw": "أنت",
+              "translations": [
+                { "type": "dictionary", "text": "You", "phonetic": "You" }
+              ]
+            },
+            { "raw": "تتحدث", "translations": [] },
+            {
+              "raw": "الإنجليزية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "English",
+                  "phonetic": "English"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنت", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تتحدث", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الإنجليزية", "location": 10, "length": 10 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "fObRIldPXjGcEytlEbRZnCCfCEiEDxbi",
+          "audio_updated_at": 1688290380,
+          "text": "You speak English.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654225,
+      "lesson": 301,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 18520,
+      "alternates": [23556, 23555],
+      "sols": [
+        {
+          "key": "rpSa2cQQQbF9-8_0SBbaXI-pjdK5ijpL",
+          "audio_updated_at": 1593553709,
+          "text": "You speak Spanish.",
+          "phonetic": null,
+          "dictionary": [
+            {
+              "raw": "You",
+              "translations": [
+                { "type": "dictionary", "text": "أنت", "phonetic": null }
+              ]
+            },
+            { "raw": "speak", "translations": [] },
+            {
+              "raw": "Spanish",
+              "translations": [
+                { "type": "dictionary", "text": "الإسبانية", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "You", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "speak", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "Spanish", "location": 10, "length": 7 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "fObRIldPXjGcEytlEbRZnCCfCEiEDxbi",
+          "text": "You speak English.",
+          "phonetic": ""
+        },
+        {
+          "key": "qdAQss4eJEfBHw9wYEXRRXywJa5d2YqO",
+          "text": "I speak Chinese.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "rpSa2cQQQbF9-8_0SBbaXI-pjdK5ijpL",
+          "audio_updated_at": 1593553709,
+          "text": "أنت تتحدث الإسبانية."
+        },
+        {
+          "key": "fObRIldPXjGcEytlEbRZnCCfCEiEDxbi",
+          "audio_updated_at": 1688290380,
+          "text": "أنت تتحدث الإنجليزية."
+        },
+        {
+          "key": "qdAQss4eJEfBHw9wYEXRRXywJa5d2YqO",
+          "audio_updated_at": 1688290379,
+          "text": "أنا أتحدث الصينية."
+        }
+      ]
+    },
+    {
+      "id": 654226,
+      "lesson": 301,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23557,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t2L7aR8TpbZ",
+          "text": "Do",
+          "raw": { "text": "Do", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t8Ovb_79JPe",
+          "text": "You",
+          "raw": { "text": "You", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tnmJBqG2rVk",
+          "text": "German?",
+          "raw": { "text": "German", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "?", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tMU60IHjXRD",
+          "text": "Chinese.",
+          "raw": { "text": "Chinese", "location": 10, "length": 7 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t2k1s2bctsq",
+          "text": "speak",
+          "raw": { "text": "speak", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t8Ovb_79JPe", "t2k1s2bctsq", "tMU60IHjXRD"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "MxDBmynIcefxioPtRGA6Pl7W6TUfNJwM",
+          "audio_updated_at": 1688290381,
+          "text": "أنت تتحدث الصينية.",
+          "dictionary": [
+            {
+              "raw": "أنت",
+              "translations": [
+                { "type": "dictionary", "text": "You", "phonetic": "You" }
+              ]
+            },
+            { "raw": "تتحدث", "translations": [] },
+            {
+              "raw": "الصينية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "Chinese",
+                  "phonetic": "Chinese"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنت", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تتحدث", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الصينية", "location": 10, "length": 7 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "MxDBmynIcefxioPtRGA6Pl7W6TUfNJwM",
+          "audio_updated_at": 1688290381,
+          "text": "You speak Chinese.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654227,
+      "lesson": 301,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 18485,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tlcnmxBptUS",
+          "text": "الإنجليزية.",
+          "raw": { "text": "الإنجليزية", "location": 10, "length": 10 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t68k24WOOtv",
+          "text": "سأكتب",
+          "raw": { "text": "سأكتب", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "td67xjx46YN",
+          "text": "أتحدث",
+          "raw": { "text": "أتحدث", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t0zd6UN8uRn",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t7pyqGfQ-TD",
+          "text": "كتاب",
+          "raw": { "text": "كتاب", "location": 10, "length": 4 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tegdM0OcR8Z",
+          "text": "عنك.",
+          "raw": { "text": "عنك", "location": 15, "length": 3 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": ".", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["t0zd6UN8uRn", "td67xjx46YN", "tlcnmxBptUS"],
+      "sols": [
+        {
+          "key": "RuU0NUo9djEPb9HIrKAiaX9uFoRkd36-",
+          "audio_updated_at": 1593553700,
+          "text": "I speak English.",
+          "phonetic": null,
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "speak",
+              "translations": [
+                { "type": "dictionary", "text": "أتحدث", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "English",
+              "translations": [
+                { "type": "dictionary", "text": "الإنجليزية", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "speak", "location": 2, "length": 5 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "English", "location": 8, "length": 7 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "RuU0NUo9djEPb9HIrKAiaX9uFoRkd36-",
+          "audio_updated_at": 1593553700,
+          "text": "أنا أتحدث الإنجليزية."
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "tYPlUsi_zWT",
+            "text": "أعتقد",
+            "raw": { "text": "أعتقد", "location": 4, "length": 5 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 9, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "tXzDM2VgX0q",
+            "text": "أنا",
+            "raw": { "text": "أنا", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tWX74gAMPyP",
+            "text": "إنها",
+            "raw": { "text": "إنها", "location": 10, "length": 4 },
+            "prefix": { "text": "", "location": 10, "length": 0 },
+            "suffix": { "text": "", "location": 14, "length": 0 },
+            "linker": { "text": " ", "location": 9, "length": 1 }
+          },
+          {
+            "key": "t1YLnTQ_uo5",
+            "text": "ممتعة.",
+            "raw": { "text": "ممتعة", "location": 15, "length": 5 },
+            "prefix": { "text": "", "location": 15, "length": 0 },
+            "suffix": { "text": ".", "location": 20, "length": 1 },
+            "linker": { "text": " ", "location": 14, "length": 1 }
+          },
+          {
+            "key": "tev2lZ4vlQL",
+            "text": "أتحدث",
+            "raw": { "text": "أتحدث", "location": 4, "length": 5 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 9, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "tnT9VOVChp8",
+            "text": "الإنجليزية.",
+            "raw": { "text": "الإنجليزية", "location": 10, "length": 10 },
+            "prefix": { "text": "", "location": 10, "length": 0 },
+            "suffix": { "text": ".", "location": 20, "length": 1 },
+            "linker": { "text": " ", "location": 9, "length": 1 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": ["tXzDM2VgX0q", "tev2lZ4vlQL", "tnT9VOVChp8"],
+        "sols": [
+          {
+            "key": "RuU0NUo9djEPb9HIrKAiaX9uFoRkd36-",
+            "audio_updated_at": 1593553700,
+            "text": "I speak English.",
+            "phonetic": null,
+            "dictionary": [
+              {
+                "raw": "I",
+                "translations": [
+                  { "type": "dictionary", "text": "أنا", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "speak",
+                "translations": [
+                  { "type": "dictionary", "text": "أتحدث", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "English",
+                "translations": [
+                  {
+                    "type": "dictionary",
+                    "text": "الإنجليزية",
+                    "phonetic": null
+                  }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "I", "location": 0, "length": 1 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 1, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "speak", "location": 2, "length": 5 },
+                "prefix": { "text": "", "location": 2, "length": 0 },
+                "suffix": { "text": "", "location": 7, "length": 0 },
+                "linker": { "text": " ", "location": 1, "length": 1 }
+              },
+              {
+                "raw": { "text": "English", "location": 8, "length": 7 },
+                "prefix": { "text": "", "location": 8, "length": 0 },
+                "suffix": { "text": ".", "location": 15, "length": 1 },
+                "linker": { "text": " ", "location": 7, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "RuU0NUo9djEPb9HIrKAiaX9uFoRkd36-",
+            "audio_updated_at": 1593553700,
+            "text": "أنا أتحدث الإنجليزية."
+          }
+        ]
+      }
+    },
+    {
+      "id": 654228,
+      "lesson": 301,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 23554,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tAzj4Rzk1Jc",
+          "text": "الإسبانية.",
+          "raw": { "text": "الإسبانية", "location": 10, "length": 9 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tJW895NluzC",
+          "text": "الألمانية.",
+          "raw": { "text": "الألمانية", "location": 10, "length": 9 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tVoe38x4Zfn",
+          "text": "أتحدث",
+          "raw": { "text": "أتحدث", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "twfrpF4rR7V",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["twfrpF4rR7V", "tVoe38x4Zfn", "tAzj4Rzk1Jc"],
+      "sols": [
+        {
+          "key": "NLcxjOVNVUn7vV96fckS_KUU6nZQuITE",
+          "audio_updated_at": 1688290377,
+          "text": "I speak Spanish.",
+          "phonetic": ""
+        },
+        {
+          "key": "NLcxjOVNVUn7vV96fckS_KUU6nZQuITE",
+          "audio_updated_at": 1688290377,
+          "text": "أنا أتحدث الإسبانية."
+        }
+      ]
+    },
+    {
+      "id": 654229,
+      "lesson": 301,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 23555,
+      "alternates": [18485, 23554],
+      "sols": [
+        {
+          "key": "qdAQss4eJEfBHw9wYEXRRXywJa5d2YqO",
+          "audio_updated_at": 1688290379,
+          "text": "I speak Chinese.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "speak",
+              "translations": [
+                { "type": "dictionary", "text": "أتحدث", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "Chinese",
+              "translations": [
+                { "type": "dictionary", "text": "الصينية", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "speak", "location": 2, "length": 5 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "Chinese", "location": 8, "length": 7 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "RuU0NUo9djEPb9HIrKAiaX9uFoRkd36-",
+          "text": "I speak English.",
+          "phonetic": ""
+        },
+        {
+          "key": "NLcxjOVNVUn7vV96fckS_KUU6nZQuITE",
+          "text": "I speak Spanish.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "qdAQss4eJEfBHw9wYEXRRXywJa5d2YqO",
+          "audio_updated_at": 1688290379,
+          "text": "أنا أتحدث الصينية."
+        },
+        {
+          "key": "RuU0NUo9djEPb9HIrKAiaX9uFoRkd36-",
+          "audio_updated_at": 1593553700,
+          "text": "أنا أتحدث الإنجليزية."
+        },
+        {
+          "key": "NLcxjOVNVUn7vV96fckS_KUU6nZQuITE",
+          "audio_updated_at": 1688290377,
+          "text": "أنا أتحدث الإسبانية."
+        }
+      ]
+    },
+    {
+      "id": 654230,
+      "lesson": 301,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 23556,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tjbRCG4a0YD",
+          "text": "تتحدث",
+          "raw": { "text": "تتحدث", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tRsMBjAIfgQ",
+          "text": "أنت",
+          "raw": { "text": "أنت", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tz5vk848Jyn",
+          "text": "الإنجليزية.",
+          "raw": { "text": "الإنجليزية", "location": 10, "length": 10 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tKvxwS4L_eX",
+          "text": "اليابانية",
+          "raw": { "text": "اليابانية", "location": 0, "length": 9 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tRsMBjAIfgQ", "tjbRCG4a0YD", "tz5vk848Jyn"],
+      "sols": [
+        {
+          "key": "fObRIldPXjGcEytlEbRZnCCfCEiEDxbi",
+          "audio_updated_at": 1688290380,
+          "text": "You speak English.",
+          "phonetic": ""
+        },
+        {
+          "key": "fObRIldPXjGcEytlEbRZnCCfCEiEDxbi",
+          "audio_updated_at": 1688290380,
+          "text": "أنت تتحدث الإنجليزية."
+        }
+      ]
+    },
+    {
+      "id": 654231,
+      "lesson": 301,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 18520,
+      "alternates": [23554, 23556],
+      "sols": [
+        {
+          "key": "rpSa2cQQQbF9-8_0SBbaXI-pjdK5ijpL",
+          "audio_updated_at": 1593553709,
+          "text": "أنت تتحدث الإسبانية.",
+          "dictionary": [
+            {
+              "raw": "أنت",
+              "translations": [
+                { "type": "dictionary", "text": "You", "phonetic": "You" }
+              ]
+            },
+            { "raw": "تتحدث", "translations": [] },
+            {
+              "raw": "الإسبانية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "Spanish",
+                  "phonetic": "Spanish"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنت", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تتحدث", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الإسبانية", "location": 10, "length": 9 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "NLcxjOVNVUn7vV96fckS_KUU6nZQuITE",
+          "text": "أنا أتحدث الإسبانية."
+        },
+        {
+          "key": "fObRIldPXjGcEytlEbRZnCCfCEiEDxbi",
+          "text": "أنت تتحدث الإنجليزية."
+        }
+      ],
+      "alts": [
+        {
+          "key": "rpSa2cQQQbF9-8_0SBbaXI-pjdK5ijpL",
+          "audio_updated_at": 1593553709,
+          "text": "You speak Spanish.",
+          "phonetic": ""
+        },
+        {
+          "key": "NLcxjOVNVUn7vV96fckS_KUU6nZQuITE",
+          "audio_updated_at": 1688290377,
+          "text": "I speak Spanish.",
+          "phonetic": ""
+        },
+        {
+          "key": "fObRIldPXjGcEytlEbRZnCCfCEiEDxbi",
+          "audio_updated_at": 1688290380,
+          "text": "You speak English.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654232,
+      "lesson": 301,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 23557,
+      "alternates": [18520, 23556],
+      "sols": [
+        {
+          "key": "MxDBmynIcefxioPtRGA6Pl7W6TUfNJwM",
+          "audio_updated_at": 1688290381,
+          "text": "You speak Chinese.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "You",
+              "translations": [
+                { "type": "dictionary", "text": "أنت", "phonetic": null }
+              ]
+            },
+            { "raw": "speak", "translations": [] },
+            {
+              "raw": "Chinese",
+              "translations": [
+                { "type": "dictionary", "text": "الصينية", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "You", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "speak", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "Chinese", "location": 10, "length": 7 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "fObRIldPXjGcEytlEbRZnCCfCEiEDxbi",
+          "text": "You speak English.",
+          "phonetic": ""
+        },
+        {
+          "key": "rpSa2cQQQbF9-8_0SBbaXI-pjdK5ijpL",
+          "text": "You speak Spanish.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "MxDBmynIcefxioPtRGA6Pl7W6TUfNJwM",
+          "audio_updated_at": 1688290381,
+          "text": "أنت تتحدث الصينية."
+        },
+        {
+          "key": "fObRIldPXjGcEytlEbRZnCCfCEiEDxbi",
+          "audio_updated_at": 1688290380,
+          "text": "أنت تتحدث الإنجليزية."
+        },
+        {
+          "key": "rpSa2cQQQbF9-8_0SBbaXI-pjdK5ijpL",
+          "audio_updated_at": 1593553709,
+          "text": "أنت تتحدث الإسبانية."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3995 @@
+{
+  "lesson": {
+    "id": 1301,
+    "index": 1,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 13,
+    "categoryID": 13,
+    "name": "المحلات",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 22,
+    "countWords": 12,
+    "countPhrases": 6,
+    "countDone": 0,
+    "quizzes": [
+      654560, 654561, 654562, 654563, 654564, 654565, 654566, 654567, 654568,
+      654569, 654570, 654571, 654572, 654573, 654574, 654575, 654576, 654577,
+      654578, 654579, 654580, 654581
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 654560,
+      "lesson": 1301,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 17254,
+      "alternates": [24036, 16401, 16427],
+      "sols": [
+        {
+          "key": "DQr1GRVD8V00h5JKk29_5m7Xq0wEvzyP",
+          "audio_updated_at": 1543436515,
+          "text": "سوق"
+        },
+        {
+          "key": "m7eVKOx7fyyP76s0BwEw4MgvXIo2gh1c",
+          "audio_updated_at": 1543437044,
+          "text": "صيدلية"
+        },
+        {
+          "key": "jo0ay1jTrGw6SqmRmBHSXryo63TSvC2q",
+          "audio_updated_at": 1688290932,
+          "text": "مركز تسوق"
+        },
+        {
+          "key": "cHqg-AmhCBff6XgqobRfEJCL1PocSbqx",
+          "audio_updated_at": 1543436531,
+          "text": "سوبر ماركت"
+        }
+      ],
+      "alts": [
+        {
+          "key": "DQr1GRVD8V00h5JKk29_5m7Xq0wEvzyP",
+          "audio_updated_at": 1543436515,
+          "image": "xoG79tFJSpIEreMnZLFpKAtXcQEiYLay",
+          "image_updated_at": 1689159013,
+          "text": "market",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "m7eVKOx7fyyP76s0BwEw4MgvXIo2gh1c",
+          "audio_updated_at": 1543437044,
+          "text": "pharmacy",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "yXvyOwrxTgsGFkPK6ruWvr-4qRfc2mBt",
+          "image_updated_at": 1689159058
+        },
+        {
+          "key": "jo0ay1jTrGw6SqmRmBHSXryo63TSvC2q",
+          "audio_updated_at": 1688290932,
+          "image": "ipRZZXgmkvG9IxBnu-tF_85Qo7dmhjqN",
+          "image_updated_at": 1689159232,
+          "text": "shopping centre",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "cHqg-AmhCBff6XgqobRfEJCL1PocSbqx",
+          "audio_updated_at": 1543436531,
+          "image": "RH75Z2MXfANh3wYTLG0bgj90pFA3oe0M",
+          "image_updated_at": 1689159017,
+          "text": "supermarket",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654561,
+      "lesson": 1301,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 16610,
+      "alternates": [17254],
+      "tokens": [
+        {
+          "key": "tL1uuW191ie",
+          "text": "pharmacy?",
+          "raw": { "text": "pharmacy", "location": 13, "length": 8 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "?", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tJrIHlCwhc-",
+          "text": "the",
+          "raw": { "text": "the", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tBv3fzoFxYj",
+          "text": "zoo?",
+          "raw": { "text": "zoo", "location": 13, "length": 3 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "?", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tIlLvZmCH2H",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t9URWHFqa0k",
+          "text": "is",
+          "raw": { "text": "is", "location": 6, "length": 2 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tIlLvZmCH2H", "t9URWHFqa0k", "tJrIHlCwhc-", "tL1uuW191ie"],
+      "completeToken": "tL1uuW191ie",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "E-nNdMCN3fM4j0jO8DPSPtjClRYGtj9h",
+          "audio_updated_at": 1543440336,
+          "text": "أين الصيدلية؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            {
+              "raw": "الصيدلية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "pharmacy",
+                  "phonetic": "pharmacy"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "الصيدلية", "location": 4, "length": 8 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "؟", "location": 12, "length": 1 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "E-nNdMCN3fM4j0jO8DPSPtjClRYGtj9h",
+          "audio_updated_at": 1543440336,
+          "text": "Where is the pharmacy?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654562,
+      "lesson": 1301,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 16427,
+      "alternates": [16401],
+      "sols": [
+        {
+          "key": "DQr1GRVD8V00h5JKk29_5m7Xq0wEvzyP",
+          "audio_updated_at": 1543436515,
+          "text": "سوق"
+        },
+        {
+          "key": "cHqg-AmhCBff6XgqobRfEJCL1PocSbqx",
+          "audio_updated_at": 1543436531,
+          "text": "سوبر ماركت"
+        }
+      ],
+      "alts": [
+        {
+          "key": "DQr1GRVD8V00h5JKk29_5m7Xq0wEvzyP",
+          "audio_updated_at": 1543436515,
+          "image": "xoG79tFJSpIEreMnZLFpKAtXcQEiYLay",
+          "image_updated_at": 1689159013,
+          "text": "market",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "cHqg-AmhCBff6XgqobRfEJCL1PocSbqx",
+          "audio_updated_at": 1543436531,
+          "text": "supermarket",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "RH75Z2MXfANh3wYTLG0bgj90pFA3oe0M",
+          "image_updated_at": 1689159017
+        }
+      ]
+    },
+    {
+      "id": 654563,
+      "lesson": 1301,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 16613,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tG89S0pYetp",
+          "text": "القطار؟",
+          "raw": { "text": "القطار", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "؟", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "t_fdHy3zACQ",
+          "text": "السوبر",
+          "raw": { "text": "السوبر", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "to6nQPAzd3K",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tcICCs-UMQ2",
+          "text": "محطة",
+          "raw": { "text": "محطة", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tQoQ6fn4ztp",
+          "text": "ماركت؟",
+          "raw": { "text": "ماركت", "location": 11, "length": 5 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "؟", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["to6nQPAzd3K", "t_fdHy3zACQ", "tQoQ6fn4ztp"],
+      "sols": [
+        {
+          "key": "yzSBs-5V6vXXC8M2u62MbmotmU0Lji4F",
+          "audio_updated_at": 1543435237,
+          "text": "Where is the supermarket?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "supermarket",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "السوبر ماركت",
+                  "phonetic": null
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "supermarket", "location": 13, "length": 11 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "?", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "yzSBs-5V6vXXC8M2u62MbmotmU0Lji4F",
+          "audio_updated_at": 1543435237,
+          "text": "أين السوبر ماركت؟"
+        }
+      ]
+    },
+    {
+      "id": 654564,
+      "lesson": 1301,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 16608,
+      "alternates": [16401],
+      "tokens": [
+        {
+          "key": "tHyYdwVcPQX",
+          "text": "market?",
+          "raw": { "text": "market", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "?", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "to6x3hIgPRT",
+          "text": "underground?",
+          "raw": { "text": "underground", "location": 13, "length": 11 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "?", "location": 24, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tH9P86kVHHW",
+          "text": "is",
+          "raw": { "text": "is", "location": 6, "length": 2 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tUTbicuIVLN",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tAUfWEW6hD1",
+          "text": "the",
+          "raw": { "text": "the", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tUTbicuIVLN", "tH9P86kVHHW", "tAUfWEW6hD1", "tHyYdwVcPQX"],
+      "completeToken": "tHyYdwVcPQX",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "rNaOMAD3lAQEczSv3FhRPusbHwXiACDd",
+          "audio_updated_at": 1543435628,
+          "text": "أين السوق؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            {
+              "raw": "السوق",
+              "translations": [
+                { "type": "dictionary", "text": "market", "phonetic": "market" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "السوق", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "؟", "location": 9, "length": 1 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "rNaOMAD3lAQEczSv3FhRPusbHwXiACDd",
+          "audio_updated_at": 1543435628,
+          "text": "Where is the market?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654565,
+      "lesson": 1301,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 24036,
+      "alternates": [16401, 16427, 17254],
+      "sols": [
+        {
+          "key": "jo0ay1jTrGw6SqmRmBHSXryo63TSvC2q",
+          "audio_updated_at": 1688290932,
+          "text": "مركز تسوق"
+        },
+        { "key": "m7eVKOx7fyyP76s0BwEw4MgvXIo2gh1c", "text": "صيدلية" },
+        { "key": "DQr1GRVD8V00h5JKk29_5m7Xq0wEvzyP", "text": "سوق" },
+        { "key": "cHqg-AmhCBff6XgqobRfEJCL1PocSbqx", "text": "سوبر ماركت" }
+      ],
+      "alts": [
+        {
+          "key": "jo0ay1jTrGw6SqmRmBHSXryo63TSvC2q",
+          "audio_updated_at": 1688290932,
+          "text": "shopping centre",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "ipRZZXgmkvG9IxBnu-tF_85Qo7dmhjqN",
+          "image_updated_at": 1689159232
+        },
+        {
+          "key": "m7eVKOx7fyyP76s0BwEw4MgvXIo2gh1c",
+          "audio_updated_at": 1543437044,
+          "text": "pharmacy",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "yXvyOwrxTgsGFkPK6ruWvr-4qRfc2mBt",
+          "image_updated_at": 1689159058
+        },
+        {
+          "key": "DQr1GRVD8V00h5JKk29_5m7Xq0wEvzyP",
+          "audio_updated_at": 1543436515,
+          "text": "market",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "xoG79tFJSpIEreMnZLFpKAtXcQEiYLay",
+          "image_updated_at": 1689159013
+        },
+        {
+          "key": "cHqg-AmhCBff6XgqobRfEJCL1PocSbqx",
+          "audio_updated_at": 1543436531,
+          "text": "supermarket",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "RH75Z2MXfANh3wYTLG0bgj90pFA3oe0M",
+          "image_updated_at": 1689159017
+        }
+      ]
+    },
+    {
+      "id": 654566,
+      "lesson": 1301,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 24037,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tXdrxAoAt6b",
+          "text": "تغيير",
+          "raw": { "text": "تغيير", "location": 5, "length": 5 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tls6JH5a_Gd",
+          "text": "الملابس",
+          "raw": { "text": "الملابس", "location": 11, "length": 7 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "t5q-jUhj8am",
+          "text": "مركز",
+          "raw": { "text": "مركز", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tlNO2e-e-iW",
+          "text": "التسوق؟",
+          "raw": { "text": "التسوق", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "؟", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tBslRpDMJtF",
+          "text": "غرفة",
+          "raw": { "text": "غرفة", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "toQlkseNwXL",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["toQlkseNwXL", "t5q-jUhj8am", "tlNO2e-e-iW"],
+      "sols": [
+        {
+          "key": "IGSG_a-kyejNr8p87ouU-jpxzmAqoqYs",
+          "audio_updated_at": 1688290933,
+          "text": "Where is the shopping centre?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "shopping",
+              "translations": [
+                { "type": "dictionary", "text": "التسوق", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "centre",
+              "translations": [
+                { "type": "dictionary", "text": "مركز", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "shopping", "location": 13, "length": 8 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 21, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "centre", "location": 22, "length": 6 },
+              "prefix": { "text": "", "location": 22, "length": 0 },
+              "suffix": { "text": "?", "location": 28, "length": 1 },
+              "linker": { "text": " ", "location": 21, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "IGSG_a-kyejNr8p87ouU-jpxzmAqoqYs",
+          "audio_updated_at": 1688290933,
+          "text": "أين مركز التسوق؟"
+        }
+      ]
+    },
+    {
+      "id": 654567,
+      "lesson": 1301,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24038,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tNHhsMiG3Lm",
+          "text": "model",
+          "raw": { "text": "model", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t-E375CJxRd",
+          "text": "corner.",
+          "raw": { "text": "corner", "location": 34, "length": 6 },
+          "prefix": { "text": "", "location": 34, "length": 0 },
+          "suffix": { "text": ".", "location": 40, "length": 1 },
+          "linker": { "text": " ", "location": 33, "length": 1 }
+        },
+        {
+          "key": "txndtqC5yRC",
+          "text": "centre",
+          "raw": { "text": "centre", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tsyshx37hKs",
+          "text": "around",
+          "raw": { "text": "around", "location": 23, "length": 6 },
+          "prefix": { "text": "", "location": 23, "length": 0 },
+          "suffix": { "text": "", "location": 29, "length": 0 },
+          "linker": { "text": " ", "location": 22, "length": 1 }
+        },
+        {
+          "key": "t33NgebE0bP",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t6MrICDU3pp",
+          "text": "is",
+          "raw": { "text": "is", "location": 20, "length": 2 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": "", "location": 22, "length": 0 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "t218Ghw3bIc",
+          "text": "the",
+          "raw": { "text": "the", "location": 30, "length": 3 },
+          "prefix": { "text": "", "location": 30, "length": 0 },
+          "suffix": { "text": "", "location": 33, "length": 0 },
+          "linker": { "text": " ", "location": 29, "length": 1 }
+        },
+        {
+          "key": "tGVOJ24Nvgn",
+          "text": "shopping",
+          "raw": { "text": "shopping", "location": 4, "length": 8 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t33NgebE0bP",
+        "tGVOJ24Nvgn",
+        "txndtqC5yRC",
+        "t6MrICDU3pp",
+        "tsyshx37hKs",
+        "t218Ghw3bIc",
+        "t-E375CJxRd"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "Ob2Pm499wkuSrY-cCrRUrN6K6YaJnmcR",
+          "audio_updated_at": 1688290934,
+          "text": "مركز التسوق عند الزاوية.",
+          "dictionary": [
+            {
+              "raw": "مركز",
+              "translations": [
+                { "type": "dictionary", "text": "centre", "phonetic": "centre" }
+              ]
+            },
+            {
+              "raw": "التسوق",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "The shopping",
+                  "phonetic": "The shopping"
+                }
+              ]
+            },
+            { "raw": "عند", "translations": [] },
+            {
+              "raw": "الزاوية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the corner",
+                  "phonetic": "the corner"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "مركز", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "التسوق", "location": 5, "length": 6 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "عند", "location": 12, "length": 3 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "الزاوية", "location": 16, "length": 7 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": ".", "location": 23, "length": 1 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "Ob2Pm499wkuSrY-cCrRUrN6K6YaJnmcR",
+          "audio_updated_at": 1688290934,
+          "text": "The shopping centre is around the corner.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654568,
+      "lesson": 1301,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 24039,
+      "alternates": [17254],
+      "tokens": [
+        {
+          "key": "tVS9gjl3FfF",
+          "text": "market.",
+          "raw": { "text": "market", "location": 28, "length": 6 },
+          "prefix": { "text": "", "location": 28, "length": 0 },
+          "suffix": { "text": ".", "location": 34, "length": 1 },
+          "linker": { "text": " ", "location": 27, "length": 1 }
+        },
+        {
+          "key": "t4iKlVma_Bn",
+          "text": "pharmacy",
+          "raw": { "text": "pharmacy", "location": 4, "length": 8 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "ts2PAJ4nIDA",
+          "text": "to",
+          "raw": { "text": "to", "location": 21, "length": 2 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "t18ahzrgMgg",
+          "text": "is",
+          "raw": { "text": "is", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tSqaxAnaZMD",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t3gXnRVL_lw",
+          "text": "next",
+          "raw": { "text": "next", "location": 16, "length": 4 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tWjIoNt7WmU",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tGfGCSNlYt6",
+          "text": "the",
+          "raw": { "text": "the", "location": 24, "length": 3 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "", "location": 27, "length": 0 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tWjIoNt7WmU",
+        "t4iKlVma_Bn",
+        "t18ahzrgMgg",
+        "t3gXnRVL_lw",
+        "ts2PAJ4nIDA",
+        "tGfGCSNlYt6",
+        "tVS9gjl3FfF"
+      ],
+      "completeToken": "t4iKlVma_Bn",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "nXBK9ybaKV3WhhnRMItCEjoh01U3xzDl",
+          "audio_updated_at": 1688290935,
+          "text": "الصيدلية بجانب السوق.",
+          "dictionary": [
+            {
+              "raw": "الصيدلية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "pharmacy",
+                  "phonetic": "pharmacy"
+                }
+              ]
+            },
+            {
+              "raw": "بجانب",
+              "translations": [
+                { "type": "dictionary", "text": "next", "phonetic": "next" }
+              ]
+            },
+            {
+              "raw": "السوق",
+              "translations": [
+                { "type": "dictionary", "text": "market", "phonetic": "market" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "الصيدلية", "location": 0, "length": 8 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "بجانب", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "السوق", "location": 15, "length": 5 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "nXBK9ybaKV3WhhnRMItCEjoh01U3xzDl",
+          "audio_updated_at": 1688290935,
+          "text": "The pharmacy is next to the market.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654569,
+      "lesson": 1301,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 17254,
+      "alternates": [],
+      "tokens": [
+        { "key": "tG_7ZmYXohH", "text": "r", "group": 0 },
+        { "key": "t6depCVtBnu", "text": "y", "group": 0 },
+        { "key": "t0d3v0oMzfI", "text": "p", "group": 0 },
+        { "key": "tyWfaGCHf_a", "text": "a", "group": 0 },
+        { "key": "tdRbjergooa", "text": "m", "group": 0 },
+        { "key": "tBAlXmrZz0B", "text": "h", "group": 0 },
+        { "key": "tTqvW_GjbAm", "text": "a", "group": 0 },
+        { "key": "taBtfaM1vN0", "text": "c", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t0d3v0oMzfI",
+        "tBAlXmrZz0B",
+        "tyWfaGCHf_a",
+        "tG_7ZmYXohH",
+        "tdRbjergooa",
+        "tTqvW_GjbAm",
+        "taBtfaM1vN0",
+        "t6depCVtBnu"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "m7eVKOx7fyyP76s0BwEw4MgvXIo2gh1c",
+          "audio_updated_at": 1543437044,
+          "text": "صيدلية",
+          "dictionary": [
+            {
+              "raw": "صيدلية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "pharmacy",
+                  "phonetic": "pharmacy"
+                }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "صيدلية", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "m7eVKOx7fyyP76s0BwEw4MgvXIo2gh1c",
+          "audio_updated_at": 1543437044,
+          "text_tokens": [
+            {
+              "raw": { "text": "pharmacy", "location": 0, "length": 8 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "pharmacy",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "yXvyOwrxTgsGFkPK6ruWvr-4qRfc2mBt",
+          "image_updated_at": 1689159058
+        }
+      ]
+    },
+    {
+      "id": 654570,
+      "lesson": 1301,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 16610,
+      "alternates": [17254],
+      "tokens": [
+        { "key": "t2R5mU0fWB4", "text": "r", "group": 3 },
+        { "key": "tgOReSyLwel", "text": "m", "group": 3 },
+        { "key": "trE9YAzxu5c", "text": "h", "group": 3 },
+        { "key": "tKqFzanqH8i", "text": "p", "group": 3 },
+        { "key": "ti5NN11DLrC", "text": "y", "group": 3 },
+        { "key": "thv-q5vUZCH", "text": "c", "group": 3 },
+        { "key": "txRAD_acddP", "text": " ", "specialChar": true },
+        { "key": "tcX7zJl4TMS", "text": "a", "group": 3 },
+        { "key": "tAv9uC-k-CO", "text": "a", "group": 3 },
+        { "key": "tq3VZ1KTLza", "text": "?", "specialChar": true }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "txRAD_acddP",
+        "tKqFzanqH8i",
+        "trE9YAzxu5c",
+        "tAv9uC-k-CO",
+        "t2R5mU0fWB4",
+        "tgOReSyLwel",
+        "tcX7zJl4TMS",
+        "thv-q5vUZCH",
+        "ti5NN11DLrC",
+        "tq3VZ1KTLza"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "E-nNdMCN3fM4j0jO8DPSPtjClRYGtj9h",
+          "audio_updated_at": 1543440336,
+          "text": "أين الصيدلية؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            {
+              "raw": "الصيدلية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "pharmacy",
+                  "phonetic": "pharmacy"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "الصيدلية", "location": 4, "length": 8 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "؟", "location": 12, "length": 1 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "E-nNdMCN3fM4j0jO8DPSPtjClRYGtj9h",
+          "audio_updated_at": 1543440336,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "pharmacy", "location": 13, "length": 8 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "?", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "Where is the pharmacy?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654571,
+      "lesson": 1301,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 16613,
+      "alternates": [16608, 16610],
+      "sols": [
+        {
+          "key": "yzSBs-5V6vXXC8M2u62MbmotmU0Lji4F",
+          "audio_updated_at": 1543435237,
+          "text": "أين السوبر ماركت؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            { "raw": "السوبر", "translations": [] },
+            {
+              "raw": "ماركت",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "supermarket",
+                  "phonetic": "supermarket"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "السوبر", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "ماركت", "location": 11, "length": 5 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "؟", "location": 16, "length": 1 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            }
+          ]
+        },
+        { "key": "E-nNdMCN3fM4j0jO8DPSPtjClRYGtj9h", "text": "أين الصيدلية؟" },
+        { "key": "rNaOMAD3lAQEczSv3FhRPusbHwXiACDd", "text": "أين السوق؟" }
+      ],
+      "alts": [
+        {
+          "key": "yzSBs-5V6vXXC8M2u62MbmotmU0Lji4F",
+          "audio_updated_at": 1543435237,
+          "text": "Where is the supermarket?",
+          "phonetic": ""
+        },
+        {
+          "key": "E-nNdMCN3fM4j0jO8DPSPtjClRYGtj9h",
+          "audio_updated_at": 1543440336,
+          "text": "Where is the pharmacy?",
+          "phonetic": ""
+        },
+        {
+          "key": "rNaOMAD3lAQEczSv3FhRPusbHwXiACDd",
+          "audio_updated_at": 1543435628,
+          "text": "Where is the market?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654572,
+      "lesson": 1301,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 16608,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tyc-BHLiUES",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tDYOY4tDVI_",
+          "text": "الصيدلية؟",
+          "raw": { "text": "الصيدلية", "location": 4, "length": 8 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "؟", "location": 12, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tNSEJUaOiOf",
+          "text": "السوق؟",
+          "raw": { "text": "السوق", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "؟", "location": 9, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tyc-BHLiUES", "tNSEJUaOiOf"],
+      "sols": [
+        {
+          "key": "rNaOMAD3lAQEczSv3FhRPusbHwXiACDd",
+          "audio_updated_at": 1543435628,
+          "text": "Where is the market?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "market",
+              "translations": [
+                { "type": "dictionary", "text": "السوق", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "market", "location": 13, "length": 6 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "?", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "rNaOMAD3lAQEczSv3FhRPusbHwXiACDd",
+          "audio_updated_at": 1543435628,
+          "text": "أين السوق؟"
+        }
+      ]
+    },
+    {
+      "id": 654573,
+      "lesson": 1301,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24037,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tSy4d3wn03G",
+          "text": "the",
+          "raw": { "text": "the", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "t28vjdDrGAS",
+          "text": "shopping",
+          "raw": { "text": "shopping", "location": 13, "length": 8 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 21, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tZHsho3_VU-",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tM7VOTUVEhR",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t2UfTiPWAzc",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "t8g-XwGC4Df",
+          "text": "need",
+          "raw": { "text": "need", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tde_ZPwGTam",
+          "text": "is",
+          "raw": { "text": "is", "location": 6, "length": 2 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "t4OFHmkdeYI",
+          "text": "centre?",
+          "raw": { "text": "centre", "location": 22, "length": 6 },
+          "prefix": { "text": "", "location": 22, "length": 0 },
+          "suffix": { "text": "?", "location": 28, "length": 1 },
+          "linker": { "text": " ", "location": 21, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tM7VOTUVEhR",
+        "tde_ZPwGTam",
+        "tSy4d3wn03G",
+        "t28vjdDrGAS",
+        "t4OFHmkdeYI"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "IGSG_a-kyejNr8p87ouU-jpxzmAqoqYs",
+          "audio_updated_at": 1688290933,
+          "text": "أين مركز التسوق؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            {
+              "raw": "مركز",
+              "translations": [
+                { "type": "dictionary", "text": "centre", "phonetic": "centre" }
+              ]
+            },
+            {
+              "raw": "التسوق",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the shopping",
+                  "phonetic": "the shopping"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "مركز", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "التسوق", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "؟", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "IGSG_a-kyejNr8p87ouU-jpxzmAqoqYs",
+          "audio_updated_at": 1688290933,
+          "text": "Where is the shopping centre?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654574,
+      "lesson": 1301,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 24038,
+      "alternates": [24037, 24039],
+      "sols": [
+        {
+          "key": "Ob2Pm499wkuSrY-cCrRUrN6K6YaJnmcR",
+          "audio_updated_at": 1688290934,
+          "text": "The shopping centre is around the corner.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "The", "translations": [] },
+            {
+              "raw": "shopping",
+              "translations": [
+                { "type": "dictionary", "text": "التسوق", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "centre",
+              "translations": [
+                { "type": "dictionary", "text": "مركز", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "around", "translations": [] },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "corner",
+              "translations": [
+                { "type": "dictionary", "text": "الزاوية", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "The", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "shopping", "location": 4, "length": 8 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "centre", "location": 13, "length": 6 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "is", "location": 20, "length": 2 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": "", "location": 22, "length": 0 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            },
+            {
+              "raw": { "text": "around", "location": 23, "length": 6 },
+              "prefix": { "text": "", "location": 23, "length": 0 },
+              "suffix": { "text": "", "location": 29, "length": 0 },
+              "linker": { "text": " ", "location": 22, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 30, "length": 3 },
+              "prefix": { "text": "", "location": 30, "length": 0 },
+              "suffix": { "text": "", "location": 33, "length": 0 },
+              "linker": { "text": " ", "location": 29, "length": 1 }
+            },
+            {
+              "raw": { "text": "corner", "location": 34, "length": 6 },
+              "prefix": { "text": "", "location": 34, "length": 0 },
+              "suffix": { "text": ".", "location": 40, "length": 1 },
+              "linker": { "text": " ", "location": 33, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "IGSG_a-kyejNr8p87ouU-jpxzmAqoqYs",
+          "text": "Where is the shopping centre?",
+          "phonetic": ""
+        },
+        {
+          "key": "nXBK9ybaKV3WhhnRMItCEjoh01U3xzDl",
+          "text": "The pharmacy is next to the market.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "Ob2Pm499wkuSrY-cCrRUrN6K6YaJnmcR",
+          "audio_updated_at": 1688290934,
+          "text": "مركز التسوق عند الزاوية."
+        },
+        {
+          "key": "IGSG_a-kyejNr8p87ouU-jpxzmAqoqYs",
+          "audio_updated_at": 1688290933,
+          "text": "أين مركز التسوق؟"
+        },
+        {
+          "key": "nXBK9ybaKV3WhhnRMItCEjoh01U3xzDl",
+          "audio_updated_at": 1688290935,
+          "text": "الصيدلية بجانب السوق."
+        }
+      ]
+    },
+    {
+      "id": 654575,
+      "lesson": 1301,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24039,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tQ5sgrJ_iR2",
+          "text": "the",
+          "raw": { "text": "the", "location": 24, "length": 3 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "", "location": 27, "length": 0 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tzS4SehgChz",
+          "text": "to",
+          "raw": { "text": "to", "location": 21, "length": 2 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "tXgnO4srR9v",
+          "text": "is",
+          "raw": { "text": "is", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tWDYmDBGlq6",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tCgjIUvXDo8",
+          "text": "next",
+          "raw": { "text": "next", "location": 16, "length": 4 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "t_5M4tjFzha",
+          "text": "model",
+          "raw": { "text": "model", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t121T7vrd1F",
+          "text": "market.",
+          "raw": { "text": "market", "location": 28, "length": 6 },
+          "prefix": { "text": "", "location": 28, "length": 0 },
+          "suffix": { "text": ".", "location": 34, "length": 1 },
+          "linker": { "text": " ", "location": 27, "length": 1 }
+        },
+        {
+          "key": "tcaAiQuY-vc",
+          "text": "pharmacy",
+          "raw": { "text": "pharmacy", "location": 4, "length": 8 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tWDYmDBGlq6",
+        "tcaAiQuY-vc",
+        "tXgnO4srR9v",
+        "tCgjIUvXDo8",
+        "tzS4SehgChz",
+        "tQ5sgrJ_iR2",
+        "t121T7vrd1F"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "nXBK9ybaKV3WhhnRMItCEjoh01U3xzDl",
+          "audio_updated_at": 1688290935,
+          "text": "الصيدلية بجانب السوق.",
+          "dictionary": [
+            {
+              "raw": "الصيدلية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "pharmacy",
+                  "phonetic": "pharmacy"
+                }
+              ]
+            },
+            {
+              "raw": "بجانب",
+              "translations": [
+                { "type": "dictionary", "text": "next", "phonetic": "next" }
+              ]
+            },
+            {
+              "raw": "السوق",
+              "translations": [
+                { "type": "dictionary", "text": "market", "phonetic": "market" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "الصيدلية", "location": 0, "length": 8 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "بجانب", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "السوق", "location": 15, "length": 5 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "nXBK9ybaKV3WhhnRMItCEjoh01U3xzDl",
+          "audio_updated_at": 1688290935,
+          "text": "The pharmacy is next to the market.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654576,
+      "lesson": 1301,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 16610,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tOaS7rJnVcS",
+          "text": "من",
+          "raw": { "text": "من", "location": 1, "length": 2 },
+          "prefix": { "text": "", "location": 1, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 1, "length": 0 }
+        },
+        {
+          "key": "t02J8MX6hK4",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t3suCNLM5oc",
+          "text": "الصيدلية؟",
+          "raw": { "text": "الصيدلية", "location": 4, "length": 8 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "؟", "location": 12, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "toNw4p2SuY_",
+          "text": "بنى",
+          "raw": { "text": "بنى", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tG4plljGZpk",
+          "text": "المبنى",
+          "raw": { "text": "المبنى", "location": 8, "length": 6 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["t02J8MX6hK4", "t3suCNLM5oc"],
+      "sols": [
+        {
+          "key": "E-nNdMCN3fM4j0jO8DPSPtjClRYGtj9h",
+          "audio_updated_at": 1543440336,
+          "text": "Where is the pharmacy?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "pharmacy",
+              "translations": [
+                { "type": "dictionary", "text": "الصيدلية", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "pharmacy", "location": 13, "length": 8 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "?", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "E-nNdMCN3fM4j0jO8DPSPtjClRYGtj9h",
+          "audio_updated_at": 1543440336,
+          "text": "أين الصيدلية؟"
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "t_Ob-dHnfQO",
+            "text": "أين",
+            "raw": { "text": "أين", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tslzWSQfSeP",
+            "text": "حديقة",
+            "raw": { "text": "حديقة", "location": 4, "length": 5 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 9, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "tOR22aYvvWi",
+            "text": "الصيدلية؟",
+            "raw": { "text": "الصيدلية", "location": 4, "length": 8 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "؟", "location": 12, "length": 1 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "tYZt5Fi0Ft0",
+            "text": "الحيوانات؟",
+            "raw": { "text": "الحيوانات", "location": 10, "length": 9 },
+            "prefix": { "text": "", "location": 10, "length": 0 },
+            "suffix": { "text": "؟", "location": 19, "length": 1 },
+            "linker": { "text": " ", "location": 9, "length": 1 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": ["t_Ob-dHnfQO", "tOR22aYvvWi"],
+        "sols": [
+          {
+            "key": "E-nNdMCN3fM4j0jO8DPSPtjClRYGtj9h",
+            "audio_updated_at": 1543440336,
+            "text": "Where is the pharmacy?",
+            "phonetic": "",
+            "dictionary": [
+              {
+                "raw": "Where",
+                "translations": [
+                  { "type": "dictionary", "text": "أين", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "is",
+                "translations": [
+                  {
+                    "type": "verb",
+                    "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                    "id": 6,
+                    "tenseNames": {
+                      "pr": "الحاضر",
+                      "pa": "ماضي",
+                      "fu": "مستقبل"
+                    },
+                    "conj": {
+                      "pr": [
+                        {
+                          "t": {
+                            "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                            "text": "I am",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437947
+                          },
+                          "m": { "text": "أنا أكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                            "text": "You are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437948
+                          },
+                          "m": { "text": "أنت تكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                            "text": "He is",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437949
+                          },
+                          "m": { "text": "هو يكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                            "text": "She is",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437951
+                          },
+                          "m": { "text": "هي تكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                            "text": "We are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437953
+                          },
+                          "m": { "text": "نحن نكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                            "text": "You are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437954
+                          },
+                          "m": { "text": "أنتم تكونون" }
+                        },
+                        {
+                          "t": {
+                            "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                            "text": "They are",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437956
+                          },
+                          "m": { "text": "هم يكونون" }
+                        }
+                      ],
+                      "pa": [
+                        {
+                          "t": {
+                            "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                            "text": "I was",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437957
+                          },
+                          "m": { "text": "أنا كنت" }
+                        },
+                        {
+                          "t": {
+                            "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                            "text": "You were",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437958
+                          },
+                          "m": { "text": "أنت كنت" }
+                        },
+                        {
+                          "t": {
+                            "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                            "text": "He was",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437960
+                          },
+                          "m": { "text": "هو كان" }
+                        },
+                        {
+                          "t": {
+                            "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                            "text": "She was",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546648
+                          },
+                          "m": { "text": "هي كانت" }
+                        },
+                        {
+                          "t": {
+                            "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                            "text": "We were",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437961
+                          },
+                          "m": { "text": "نحن كنا" }
+                        },
+                        {
+                          "t": {
+                            "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                            "text": "You were",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546651
+                          },
+                          "m": { "text": "أنتم كنتم" }
+                        },
+                        {
+                          "t": {
+                            "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                            "text": "They were",
+                            "phonetic": "",
+                            "audio_updated_at": 1543437962
+                          },
+                          "m": { "text": "هم كانوا" }
+                        }
+                      ],
+                      "fu": [
+                        {
+                          "t": {
+                            "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                            "text": "I will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546653
+                          },
+                          "m": { "text": "أنا سأكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                            "text": "You will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546654
+                          },
+                          "m": { "text": "أنت ستكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                            "text": "He will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546655
+                          },
+                          "m": { "text": "هو سيكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                            "text": "She will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546656
+                          },
+                          "m": { "text": "هي ستكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                            "text": "We will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546658
+                          },
+                          "m": { "text": "نحن سنكون" }
+                        },
+                        {
+                          "t": {
+                            "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                            "text": "You will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546659
+                          },
+                          "m": { "text": "أنتم ستكونون" }
+                        },
+                        {
+                          "t": {
+                            "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                            "text": "They will be",
+                            "phonetic": "",
+                            "audio_updated_at": 1541546660
+                          },
+                          "m": { "text": "هم سيكونون" }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              { "raw": "the", "translations": [] },
+              {
+                "raw": "pharmacy",
+                "translations": [
+                  { "type": "dictionary", "text": "الصيدلية", "phonetic": null }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "Where", "location": 0, "length": 5 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 5, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "is", "location": 6, "length": 2 },
+                "prefix": { "text": "", "location": 6, "length": 0 },
+                "suffix": { "text": "", "location": 8, "length": 0 },
+                "linker": { "text": " ", "location": 5, "length": 1 }
+              },
+              {
+                "raw": { "text": "the", "location": 9, "length": 3 },
+                "prefix": { "text": "", "location": 9, "length": 0 },
+                "suffix": { "text": "", "location": 12, "length": 0 },
+                "linker": { "text": " ", "location": 8, "length": 1 }
+              },
+              {
+                "raw": { "text": "pharmacy", "location": 13, "length": 8 },
+                "prefix": { "text": "", "location": 13, "length": 0 },
+                "suffix": { "text": "?", "location": 21, "length": 1 },
+                "linker": { "text": " ", "location": 12, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "E-nNdMCN3fM4j0jO8DPSPtjClRYGtj9h",
+            "audio_updated_at": 1543440336,
+            "text": "أين الصيدلية؟"
+          }
+        ]
+      }
+    },
+    {
+      "id": 654577,
+      "lesson": 1301,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 16613,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tmP6MQjdQ7H",
+          "text": "المترو؟",
+          "raw": { "text": "المترو", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "؟", "location": 10, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tPupEouXSCV",
+          "text": "السوبر",
+          "raw": { "text": "السوبر", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tvJ8MD3M2xJ",
+          "text": "ماركت؟",
+          "raw": { "text": "ماركت", "location": 11, "length": 5 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "؟", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tGlZtR5S7QH",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tGlZtR5S7QH", "tPupEouXSCV", "tvJ8MD3M2xJ"],
+      "sols": [
+        {
+          "key": "yzSBs-5V6vXXC8M2u62MbmotmU0Lji4F",
+          "audio_updated_at": 1543435237,
+          "text": "Where is the supermarket?",
+          "phonetic": ""
+        },
+        {
+          "key": "yzSBs-5V6vXXC8M2u62MbmotmU0Lji4F",
+          "audio_updated_at": 1543435237,
+          "text": "أين السوبر ماركت؟"
+        }
+      ]
+    },
+    {
+      "id": 654578,
+      "lesson": 1301,
+      "type": "T2",
+      "modifiers": 60,
+      "wordID": 16608,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "rNaOMAD3lAQEczSv3FhRPusbHwXiACDd",
+          "audio_updated_at": 1543435628,
+          "text": "Where is the market?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Where",
+              "translations": [
+                { "type": "dictionary", "text": "أين", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "market",
+              "translations": [
+                { "type": "dictionary", "text": "السوق", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Where", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "is", "location": 6, "length": 2 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "market", "location": 13, "length": 6 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "?", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "rNaOMAD3lAQEczSv3FhRPusbHwXiACDd",
+          "audio_updated_at": 1543435628,
+          "text": "أين السوق؟"
+        }
+      ]
+    },
+    {
+      "id": 654579,
+      "lesson": 1301,
+      "type": "T2b",
+      "modifiers": 92,
+      "wordID": 24037,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "IGSG_a-kyejNr8p87ouU-jpxzmAqoqYs",
+          "audio_updated_at": 1688290933,
+          "text": "أين مركز التسوق؟",
+          "dictionary": [
+            {
+              "raw": "أين",
+              "translations": [
+                { "type": "dictionary", "text": "Where", "phonetic": "Where" }
+              ]
+            },
+            {
+              "raw": "مركز",
+              "translations": [
+                { "type": "dictionary", "text": "centre", "phonetic": "centre" }
+              ]
+            },
+            {
+              "raw": "التسوق",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the shopping",
+                  "phonetic": "the shopping"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أين", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "مركز", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "التسوق", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "؟", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "IGSG_a-kyejNr8p87ouU-jpxzmAqoqYs",
+          "audio_updated_at": 1688290933,
+          "text": "Where is the shopping centre?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654580,
+      "lesson": 1301,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 24038,
+      "alternates": [24039, 24037],
+      "sols": [
+        {
+          "key": "Ob2Pm499wkuSrY-cCrRUrN6K6YaJnmcR",
+          "audio_updated_at": 1688290934,
+          "text": "مركز التسوق عند الزاوية.",
+          "dictionary": [
+            {
+              "raw": "مركز",
+              "translations": [
+                { "type": "dictionary", "text": "centre", "phonetic": "centre" }
+              ]
+            },
+            {
+              "raw": "التسوق",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "The shopping",
+                  "phonetic": "The shopping"
+                }
+              ]
+            },
+            { "raw": "عند", "translations": [] },
+            {
+              "raw": "الزاوية",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the corner",
+                  "phonetic": "the corner"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "مركز", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "التسوق", "location": 5, "length": 6 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "عند", "location": 12, "length": 3 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "الزاوية", "location": 16, "length": 7 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": ".", "location": 23, "length": 1 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "nXBK9ybaKV3WhhnRMItCEjoh01U3xzDl",
+          "text": "الصيدلية بجانب السوق."
+        },
+        {
+          "key": "IGSG_a-kyejNr8p87ouU-jpxzmAqoqYs",
+          "text": "أين مركز التسوق؟"
+        }
+      ],
+      "alts": [
+        {
+          "key": "Ob2Pm499wkuSrY-cCrRUrN6K6YaJnmcR",
+          "audio_updated_at": 1688290934,
+          "text": "The shopping centre is around the corner.",
+          "phonetic": ""
+        },
+        {
+          "key": "nXBK9ybaKV3WhhnRMItCEjoh01U3xzDl",
+          "audio_updated_at": 1688290935,
+          "text": "The pharmacy is next to the market.",
+          "phonetic": ""
+        },
+        {
+          "key": "IGSG_a-kyejNr8p87ouU-jpxzmAqoqYs",
+          "audio_updated_at": 1688290933,
+          "text": "Where is the shopping centre?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 654581,
+      "lesson": 1301,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 24039,
+      "alternates": [24038, 16610],
+      "sols": [
+        {
+          "key": "nXBK9ybaKV3WhhnRMItCEjoh01U3xzDl",
+          "audio_updated_at": 1688290935,
+          "text": "The pharmacy is next to the market.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "The", "translations": [] },
+            {
+              "raw": "pharmacy",
+              "translations": [
+                { "type": "dictionary", "text": "الصيدلية", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "next",
+              "translations": [
+                { "type": "dictionary", "text": "بجانب", "phonetic": null }
+              ]
+            },
+            { "raw": "to", "translations": [] },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "market",
+              "translations": [
+                { "type": "dictionary", "text": "السوق", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "The", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "pharmacy", "location": 4, "length": 8 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "is", "location": 13, "length": 2 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "next", "location": 16, "length": 4 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "to", "location": 21, "length": 2 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 24, "length": 3 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "", "location": 27, "length": 0 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            },
+            {
+              "raw": { "text": "market", "location": 28, "length": 6 },
+              "prefix": { "text": "", "location": 28, "length": 0 },
+              "suffix": { "text": ".", "location": 34, "length": 1 },
+              "linker": { "text": " ", "location": 27, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "Ob2Pm499wkuSrY-cCrRUrN6K6YaJnmcR",
+          "text": "The shopping centre is around the corner.",
+          "phonetic": ""
+        },
+        {
+          "key": "E-nNdMCN3fM4j0jO8DPSPtjClRYGtj9h",
+          "text": "Where is the pharmacy?",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "nXBK9ybaKV3WhhnRMItCEjoh01U3xzDl",
+          "audio_updated_at": 1688290935,
+          "text": "الصيدلية بجانب السوق."
+        },
+        {
+          "key": "Ob2Pm499wkuSrY-cCrRUrN6K6YaJnmcR",
+          "audio_updated_at": 1688290934,
+          "text": "مركز التسوق عند الزاوية."
+        },
+        {
+          "key": "E-nNdMCN3fM4j0jO8DPSPtjClRYGtj9h",
+          "audio_updated_at": 1543440336,
+          "text": "أين الصيدلية؟"
+        }
+      ]
+    }
+  ]
+}
