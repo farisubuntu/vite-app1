@@ -4,7 +4,6 @@ import courseIndex from "./assets/data/all.json";
 
 import {
  Header,
- Hero,
  Footer,
  Lesson,
  Vocabulary,
@@ -23,7 +22,7 @@ function App() {
     <>
      <Category key={i} category={x.category}>
       <Lesson lessons={x.lessons}>
-       
+
         <div className="table-footer">
         {
         x.dialogues.map((e,i)=> {
@@ -42,13 +41,13 @@ function App() {
        {
         x.vocabularies.map((v)=>{
          return(
-          
+
           <div key={v.id} className="vocabularies-col">
            <p className="col-title">Vocabularies</p>
            <div>id: {v.id}</div>
            <div>Remote Url: {`https://www.modyly.com/v2/vocabularies/${v.id.toString()[0]}/${v.id}.json`}</div>
           </div>
-          
+
          )
         })
        }
