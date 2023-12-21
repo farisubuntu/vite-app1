@@ -1,24 +1,32 @@
 body{
-  background-color: steelblue;
+  padding:1rem;
+}
+*{
+  padding-right:0.1rem;
 }
 
-.cats{
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  column-gap: 1rem;
-  row-gap: 1rem;
-}
-.card{
-  border:2px solid white;
-  color:white;
-}
-.card:hover{
-  font-size:x-large;
-  background-color: white;
-  color:steelblue;
-}
 
-.cat-header{
+.table-footer{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  direction: rtl;
+
+}
+.dialogues-col{
+border:1px solid green;
+}
+.vocabularies-col{
+border: 1px solid green;
+
+}
+
+.dialogues-col,.vocabularies-col{
+  flex:1;
+  direction: rtl;  
+}
+
+p.col-title{
+  text-align: center;
+  color:white!important;
+  background-color: steelblue;
 }

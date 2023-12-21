@@ -1,335 +1,389 @@
 {
-  "vocabulary": {
-    "id": 3401,
-    "index": 1,
-    "category": 34,
-    "categoryID": 34,
-    "isCourse": false,
-    "name": null,
-    "disabled": false,
-    "done": false,
-    "stars": false,
-    "countItem": 10,
-    "countWords": 13,
-    "countPhrases": 0,
-    "countDone": 0,
-    "vItems": [9755, 9756, 9757, 9758, 9759, 9760, 9761, 9762, 9763, 9764]
-  },
-  "vItems": [
-    {
-      "id": 9755,
-      "vocabulary": 3401,
-      "wordID": 23940,
-      "key": "a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x",
-      "sols": [
-        {
-          "key": "a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x",
-          "text": "جولة",
-          "dictionary": [{ "raw": "جولة", "translations": [] }]
-        },
-        {
-          "key": "a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x",
-          "text": "tour",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "tour",
-              "translations": [
-                { "type": "dictionary", "text": "جولة", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1688290823
+    "vocabulary": {
+        "id": 3401,
+        "index": 1,
+        "category": 34,
+        "categoryID": 34,
+        "isCourse": false,
+        "name": null,
+        "disabled": false,
+        "done": false,
+        "stars": false,
+        "countItem": 10,
+        "countWords": 18,
+        "countPhrases": 0,
+        "countDone": 0,
+        "vItems": [
+            9755,
+            9756,
+            9757,
+            9758,
+            9759,
+            9760,
+            9761,
+            9762,
+            9763,
+            9764
+        ]
     },
-    {
-      "id": 9756,
-      "vocabulary": 3401,
-      "wordID": 24144,
-      "key": "_cqFwwaOMex1ahAuitRjdt_6ScjSbzaK",
-      "sols": [
-        {
-          "key": "_cqFwwaOMex1ahAuitRjdt_6ScjSbzaK",
-          "text": "موقف سيارات الأجرة",
-          "dictionary": [
-            { "raw": "موقف", "translations": [] },
-            { "raw": "سيارات", "translations": [] },
-            { "raw": "الأجرة", "translations": [] }
-          ]
-        },
-        {
-          "key": "_cqFwwaOMex1ahAuitRjdt_6ScjSbzaK",
-          "text": "taxi rank",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "taxi",
-              "translations": [
+    "vItems": [{
+            "id": 9755,
+            "vocabulary": 3401,
+            "wordID": 23940,
+            "key": "wGw5q-B5m8a183EVEPU38ZkGr_ge1nmn",
+            "sols": [{
+                    "key": "wGw5q-B5m8a183EVEPU38ZkGr_ge1nmn",
+                    "text": "جولة",
+                    "dictionary": [{
+                        "raw": "جولة",
+                        "translations": []
+                    }]
+                },
                 {
-                  "type": "dictionary",
-                  "text": "سيارات الأجرة",
-                  "phonetic": null
+                    "key": "wGw5q-B5m8a183EVEPU38ZkGr_ge1nmn",
+                    "text": "دورہ",
+                    "phonetic": "doura",
+                    "dictionary": [{
+                        "raw": "دورہ",
+                        "translations": []
+                    }]
                 }
-              ]
-            },
-            { "raw": "rank", "translations": [] }
-          ]
-        }
-      ],
-      "audio_updated_at": 1688291051
-    },
-    {
-      "id": 9757,
-      "vocabulary": 3401,
-      "wordID": 16119,
-      "key": "qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4",
-      "sols": [
-        {
-          "key": "qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4",
-          "text": "مطار",
-          "dictionary": [{ "raw": "مطار", "translations": [] }]
+            ],
+            "audio_updated_at": 1688822577
         },
         {
-          "key": "qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4",
-          "text": "airport",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "airport",
-              "translations": [
-                { "type": "dictionary", "text": "مطار", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543436969
-    },
-    {
-      "id": 9758,
-      "vocabulary": 3401,
-      "wordID": 16434,
-      "key": "mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_",
-      "sols": [
-        {
-          "key": "mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_",
-          "text": "محطة قطار",
-          "dictionary": [
-            { "raw": "محطة", "translations": [] },
-            { "raw": "قطار", "translations": [] }
-          ]
+            "id": 9756,
+            "vocabulary": 3401,
+            "wordID": 24144,
+            "key": "shB_0zKc6-1S20Qb7ukP1NuwX8OXZ2rK",
+            "sols": [{
+                    "key": "shB_0zKc6-1S20Qb7ukP1NuwX8OXZ2rK",
+                    "text": "موقف سيارات الأجرة",
+                    "dictionary": [{
+                            "raw": "موقف",
+                            "translations": []
+                        },
+                        {
+                            "raw": "سيارات",
+                            "translations": []
+                        },
+                        {
+                            "raw": "الأجرة",
+                            "translations": []
+                        }
+                    ]
+                },
+                {
+                    "key": "shB_0zKc6-1S20Qb7ukP1NuwX8OXZ2rK",
+                    "text": "ٹیکسی سٹینڈ",
+                    "phonetic": "taxi stand",
+                    "dictionary": [{
+                            "raw": "ٹیکسی",
+                            "translations": []
+                        },
+                        {
+                            "raw": "سٹینڈ",
+                            "translations": []
+                        }
+                    ]
+                }
+            ],
+            "audio_updated_at": 1688822837
         },
         {
-          "key": "mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_",
-          "text": "train station",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "train",
-              "translations": [
-                { "type": "dictionary", "text": "قطار", "phonetic": null }
-              ]
-            },
-            {
-              "raw": "station",
-              "translations": [
-                { "type": "dictionary", "text": "محطة", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543436982
-    },
-    {
-      "id": 9759,
-      "vocabulary": 3401,
-      "wordID": 16411,
-      "key": "4GqJXN0u195uAnyKiNVUiVmB1502gyd1",
-      "sols": [
-        {
-          "key": "4GqJXN0u195uAnyKiNVUiVmB1502gyd1",
-          "text": "مركز شرطة",
-          "dictionary": [
-            { "raw": "مركز", "translations": [] },
-            { "raw": "شرطة", "translations": [] }
-          ]
+            "id": 9757,
+            "vocabulary": 3401,
+            "wordID": 16119,
+            "key": "sDiJ5vIfrmdWz76wQY5GubbG_CDNx4fD",
+            "sols": [{
+                    "key": "sDiJ5vIfrmdWz76wQY5GubbG_CDNx4fD",
+                    "text": "مطار",
+                    "dictionary": [{
+                        "raw": "مطار",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "sDiJ5vIfrmdWz76wQY5GubbG_CDNx4fD",
+                    "text": "ہوائی اڈہ",
+                    "phonetic": "hawai adda",
+                    "dictionary": [{
+                            "raw": "ہوائی",
+                            "translations": []
+                        },
+                        {
+                            "raw": "اڈہ",
+                            "translations": []
+                        }
+                    ]
+                }
+            ],
+            "audio_updated_at": 1580690663
         },
         {
-          "key": "4GqJXN0u195uAnyKiNVUiVmB1502gyd1",
-          "text": "police station",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "police",
-              "translations": [
-                { "type": "dictionary", "text": "شرطة", "phonetic": null }
-              ]
-            },
-            {
-              "raw": "station",
-              "translations": [
-                { "type": "dictionary", "text": "مركز", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543436521
-    },
-    {
-      "id": 9760,
-      "vocabulary": 3401,
-      "wordID": 24157,
-      "key": "RJj--hBqZZrl0s9GcCvBPrtTv9gFvf_B",
-      "sols": [
-        {
-          "key": "RJj--hBqZZrl0s9GcCvBPrtTv9gFvf_B",
-          "text": "خريطة طريق",
-          "dictionary": [
-            { "raw": "خريطة", "translations": [] },
-            { "raw": "طريق", "translations": [] }
-          ]
+            "id": 9758,
+            "vocabulary": 3401,
+            "wordID": 16434,
+            "key": "X5UtgNTENFiqfELw6xZItXK07YTv1PuM",
+            "sols": [{
+                    "key": "X5UtgNTENFiqfELw6xZItXK07YTv1PuM",
+                    "text": "محطة قطار",
+                    "dictionary": [{
+                            "raw": "محطة",
+                            "translations": []
+                        },
+                        {
+                            "raw": "قطار",
+                            "translations": []
+                        }
+                    ]
+                },
+                {
+                    "key": "X5UtgNTENFiqfELw6xZItXK07YTv1PuM",
+                    "text": "ریلوے اسٹیشن",
+                    "phonetic": "railway stashan",
+                    "dictionary": [{
+                            "raw": "ریلوے",
+                            "translations": []
+                        },
+                        {
+                            "raw": "اسٹیشن",
+                            "translations": [{
+                                "type": "dictionary",
+                                "text": "محطة",
+                                "phonetic": null
+                            }]
+                        }
+                    ]
+                }
+            ],
+            "audio_updated_at": 1580690696
         },
         {
-          "key": "RJj--hBqZZrl0s9GcCvBPrtTv9gFvf_B",
-          "text": "road map",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "road",
-              "translations": [
-                { "type": "dictionary", "text": "طريق", "phonetic": null }
-              ]
-            },
-            {
-              "raw": "map",
-              "translations": [
-                { "type": "dictionary", "text": "خريطة", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1688291065
-    },
-    {
-      "id": 9761,
-      "vocabulary": 3401,
-      "wordID": 24156,
-      "key": "un-Hrel6uwmo22Vl45dH_7lWiLLM0HOE",
-      "sols": [
-        {
-          "key": "un-Hrel6uwmo22Vl45dH_7lWiLLM0HOE",
-          "text": "خريطة المدينة",
-          "dictionary": [
-            { "raw": "خريطة", "translations": [] },
-            { "raw": "المدينة", "translations": [] }
-          ]
+            "id": 9759,
+            "vocabulary": 3401,
+            "wordID": 16411,
+            "key": "aVJ-kQQ4PcRajVLd9db2c4Job-cWLY9D",
+            "sols": [{
+                    "key": "aVJ-kQQ4PcRajVLd9db2c4Job-cWLY9D",
+                    "text": "مركز شرطة",
+                    "dictionary": [{
+                            "raw": "مركز",
+                            "translations": []
+                        },
+                        {
+                            "raw": "شرطة",
+                            "translations": []
+                        }
+                    ]
+                },
+                {
+                    "key": "aVJ-kQQ4PcRajVLd9db2c4Job-cWLY9D",
+                    "text": "پولیس سٹیشن",
+                    "phonetic": "polees stashan",
+                    "dictionary": [{
+                            "raw": "پولیس",
+                            "translations": [{
+                                "type": "dictionary",
+                                "text": "شرطة",
+                                "phonetic": null
+                            }]
+                        },
+                        {
+                            "raw": "سٹیشن",
+                            "translations": []
+                        }
+                    ]
+                }
+            ],
+            "audio_updated_at": 1688820358
         },
         {
-          "key": "un-Hrel6uwmo22Vl45dH_7lWiLLM0HOE",
-          "text": "city map",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "city",
-              "translations": [
-                { "type": "dictionary", "text": "المدينة", "phonetic": null }
-              ]
-            },
-            {
-              "raw": "map",
-              "translations": [
-                { "type": "dictionary", "text": "خريطة", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1688291064
-    },
-    {
-      "id": 9762,
-      "vocabulary": 3401,
-      "wordID": 16405,
-      "key": "2vGRo9iJPR8t5TqffwtT6O01hY4DKyqQ",
-      "sols": [
-        {
-          "key": "2vGRo9iJPR8t5TqffwtT6O01hY4DKyqQ",
-          "text": "متحف",
-          "dictionary": [{ "raw": "متحف", "translations": [] }]
+            "id": 9760,
+            "vocabulary": 3401,
+            "wordID": 24157,
+            "key": "ICCC4jJ0rr82kIJOsaN2NKzOyDtBgOZ-",
+            "sols": [{
+                    "key": "ICCC4jJ0rr82kIJOsaN2NKzOyDtBgOZ-",
+                    "text": "خريطة طريق",
+                    "dictionary": [{
+                            "raw": "خريطة",
+                            "translations": []
+                        },
+                        {
+                            "raw": "طريق",
+                            "translations": []
+                        }
+                    ]
+                },
+                {
+                    "key": "ICCC4jJ0rr82kIJOsaN2NKzOyDtBgOZ-",
+                    "text": "سڑک کا نقشہ",
+                    "phonetic": "sarhak ka naqsha",
+                    "dictionary": [{
+                            "raw": "سڑک",
+                            "translations": [{
+                                "type": "dictionary",
+                                "text": "طريق",
+                                "phonetic": null
+                            }]
+                        },
+                        {
+                            "raw": "کا",
+                            "translations": []
+                        },
+                        {
+                            "raw": "نقشہ",
+                            "translations": [{
+                                "type": "dictionary",
+                                "text": "خريطة",
+                                "phonetic": null
+                            }]
+                        }
+                    ]
+                }
+            ],
+            "audio_updated_at": 1688822853
         },
         {
-          "key": "2vGRo9iJPR8t5TqffwtT6O01hY4DKyqQ",
-          "text": "museum",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "museum",
-              "translations": [
-                { "type": "dictionary", "text": "متحف", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543437247
-    },
-    {
-      "id": 9763,
-      "vocabulary": 3401,
-      "wordID": 17745,
-      "key": "OzpFcoXxj807ODKonaVC3UHatjiCMmQ9",
-      "sols": [
-        {
-          "key": "OzpFcoXxj807ODKonaVC3UHatjiCMmQ9",
-          "text": "نحت",
-          "dictionary": [{ "raw": "نحت", "translations": [] }]
+            "id": 9761,
+            "vocabulary": 3401,
+            "wordID": 24156,
+            "key": "6NDrGOIgv-oXf54ZvkrXAY62rMPzXnIA",
+            "sols": [{
+                    "key": "6NDrGOIgv-oXf54ZvkrXAY62rMPzXnIA",
+                    "text": "خريطة المدينة",
+                    "dictionary": [{
+                            "raw": "خريطة",
+                            "translations": []
+                        },
+                        {
+                            "raw": "المدينة",
+                            "translations": []
+                        }
+                    ]
+                },
+                {
+                    "key": "6NDrGOIgv-oXf54ZvkrXAY62rMPzXnIA",
+                    "text": "شہر کا نقشہ",
+                    "phonetic": "shehar ka naqsha",
+                    "dictionary": [{
+                            "raw": "شہر",
+                            "translations": [{
+                                "type": "dictionary",
+                                "text": "المدينة",
+                                "phonetic": null
+                            }]
+                        },
+                        {
+                            "raw": "کا",
+                            "translations": []
+                        },
+                        {
+                            "raw": "نقشہ",
+                            "translations": [{
+                                "type": "dictionary",
+                                "text": "خريطة",
+                                "phonetic": null
+                            }]
+                        }
+                    ]
+                }
+            ],
+            "audio_updated_at": 1688822852
         },
         {
-          "key": "OzpFcoXxj807ODKonaVC3UHatjiCMmQ9",
-          "text": "sculpture",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "sculpture",
-              "translations": [
-                { "type": "dictionary", "text": "نحت", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543436480
-    },
-    {
-      "id": 9764,
-      "vocabulary": 3401,
-      "wordID": 23952,
-      "key": "LWk_1-sFxvGumnoUGYaXyAU4IqwTOt-g",
-      "sols": [
-        {
-          "key": "LWk_1-sFxvGumnoUGYaXyAU4IqwTOt-g",
-          "text": "معرض",
-          "dictionary": [{ "raw": "معرض", "translations": [] }]
+            "id": 9762,
+            "vocabulary": 3401,
+            "wordID": 16405,
+            "key": "-5vc0W6_3FBDgiQ1Na7VNQkDM-bD-6B3",
+            "sols": [{
+                    "key": "-5vc0W6_3FBDgiQ1Na7VNQkDM-bD-6B3",
+                    "text": "متحف",
+                    "dictionary": [{
+                        "raw": "متحف",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "-5vc0W6_3FBDgiQ1Na7VNQkDM-bD-6B3",
+                    "text": "عجائب گھر",
+                    "phonetic": "ajaaib ghar",
+                    "dictionary": [{
+                            "raw": "عجائب",
+                            "translations": []
+                        },
+                        {
+                            "raw": "گھر",
+                            "translations": []
+                        }
+                    ]
+                }
+            ],
+            "audio_updated_at": 1580691283
         },
         {
-          "key": "LWk_1-sFxvGumnoUGYaXyAU4IqwTOt-g",
-          "text": "exhibition",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "exhibition",
-              "translations": [
-                { "type": "dictionary", "text": "معرض", "phonetic": null }
-              ]
-            }
-          ]
+            "id": 9763,
+            "vocabulary": 3401,
+            "wordID": 17745,
+            "key": "0faIvrjDfZqZ4sAAJkE8o90swhaQ8KvX",
+            "sols": [{
+                    "key": "0faIvrjDfZqZ4sAAJkE8o90swhaQ8KvX",
+                    "text": "نحت",
+                    "dictionary": [{
+                        "raw": "نحت",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "0faIvrjDfZqZ4sAAJkE8o90swhaQ8KvX",
+                    "text": "مجسمہ سازی",
+                    "phonetic": "mujasma sazi",
+                    "dictionary": [{
+                            "raw": "مجسمہ",
+                            "translations": [{
+                                "type": "dictionary",
+                                "text": "نحت",
+                                "phonetic": null
+                            }]
+                        },
+                        {
+                            "raw": "سازی",
+                            "translations": []
+                        }
+                    ]
+                }
+            ],
+            "audio_updated_at": 1688821860
+        },
+        {
+            "id": 9764,
+            "vocabulary": 3401,
+            "wordID": 23952,
+            "key": "YEIovfVvSB9VRZnKmL_5_nB4LPCm-Agk",
+            "sols": [{
+                    "key": "YEIovfVvSB9VRZnKmL_5_nB4LPCm-Agk",
+                    "text": "معرض",
+                    "dictionary": [{
+                        "raw": "معرض",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "YEIovfVvSB9VRZnKmL_5_nB4LPCm-Agk",
+                    "text": "نمائش",
+                    "phonetic": "numaish",
+                    "dictionary": [{
+                        "raw": "نمائش",
+                        "translations": [{
+                            "type": "dictionary",
+                            "text": "معرض",
+                            "phonetic": null
+                        }]
+                    }]
+                }
+            ],
+            "audio_updated_at": 1688822593
         }
-      ],
-      "audio_updated_at": 1688290837
-    }
-  ]
+    ]
 }

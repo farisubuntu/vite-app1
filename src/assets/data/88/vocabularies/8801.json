@@ -1,292 +1,320 @@
 {
-  "vocabulary": {
-    "id": 8801,
-    "index": 1,
-    "category": 88,
-    "categoryID": 88,
-    "isCourse": false,
-    "name": null,
-    "disabled": false,
-    "done": false,
-    "stars": false,
-    "countItem": 10,
-    "countWords": 10,
-    "countPhrases": 0,
-    "countDone": 0,
-    "vItems": [
-      10603, 10604, 10605, 10606, 10607, 10608, 10609, 10610, 10611, 10612
+    "vocabulary": {
+        "id": 8801,
+        "index": 1,
+        "category": 88,
+        "categoryID": 88,
+        "isCourse": false,
+        "name": null,
+        "disabled": false,
+        "done": true,
+        "stars": 2,
+        "countItem": 10,
+        "countWords": 10,
+        "countPhrases": 0,
+        "countDone": 3,
+        "vItems": [
+            10603,
+            10604,
+            10605,
+            10606,
+            10607,
+            10608,
+            10609,
+            10610,
+            10611,
+            10612
+        ]
+    },
+    "vItems": [{
+            "id": 10603,
+            "vocabulary": 8801,
+            "wordID": 19348,
+            "key": "TSZprz7n1OFUeftozynO3LjqBkk_QWCX",
+            "sols": [{
+                    "key": "TSZprz7n1OFUeftozynO3LjqBkk_QWCX",
+                    "text": "واحد",
+                    "dictionary": [{
+                        "raw": "واحد",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "TSZprz7n1OFUeftozynO3LjqBkk_QWCX",
+                    "text": "ایک",
+                    "phonetic": "aik",
+                    "dictionary": [{
+                        "raw": "ایک",
+                        "translations": [{
+                            "type": "dictionary",
+                            "text": "واحد",
+                            "phonetic": null
+                        }]
+                    }]
+                }
+            ],
+            "audio_updated_at": 1580691591
+        },
+        {
+            "id": 10604,
+            "vocabulary": 8801,
+            "wordID": 19349,
+            "key": "v9MyEiDSmN-Dsg7hBzPI-GAdb8g_1Q4L",
+            "sols": [{
+                    "key": "v9MyEiDSmN-Dsg7hBzPI-GAdb8g_1Q4L",
+                    "text": "اثنان",
+                    "dictionary": [{
+                        "raw": "اثنان",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "v9MyEiDSmN-Dsg7hBzPI-GAdb8g_1Q4L",
+                    "text": "دو",
+                    "phonetic": "do",
+                    "dictionary": [{
+                        "raw": "دو",
+                        "translations": [{
+                            "type": "dictionary",
+                            "text": "اثنان",
+                            "phonetic": null
+                        }]
+                    }]
+                }
+            ],
+            "audio_updated_at": 1580691629
+        },
+        {
+            "id": 10605,
+            "vocabulary": 8801,
+            "wordID": 19350,
+            "key": "R-rezvvJdRCHGUTn7ZD4KaGN_e2mjH-D",
+            "sols": [{
+                    "key": "R-rezvvJdRCHGUTn7ZD4KaGN_e2mjH-D",
+                    "text": "ثلاثة",
+                    "dictionary": [{
+                        "raw": "ثلاثة",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "R-rezvvJdRCHGUTn7ZD4KaGN_e2mjH-D",
+                    "text": "تین",
+                    "phonetic": "teen",
+                    "dictionary": [{
+                        "raw": "تین",
+                        "translations": [{
+                            "type": "dictionary",
+                            "text": "ثلاثة",
+                            "phonetic": null
+                        }]
+                    }]
+                }
+            ],
+            "audio_updated_at": 1580691609
+        },
+        {
+            "id": 10606,
+            "vocabulary": 8801,
+            "wordID": 19351,
+            "key": "aXhWDYRiiHbxvG9nLj1KVvC7fiYsUxq8",
+            "sols": [{
+                    "key": "aXhWDYRiiHbxvG9nLj1KVvC7fiYsUxq8",
+                    "text": "أربعة",
+                    "dictionary": [{
+                        "raw": "أربعة",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "aXhWDYRiiHbxvG9nLj1KVvC7fiYsUxq8",
+                    "text": "چار",
+                    "phonetic": "chaar",
+                    "dictionary": [{
+                        "raw": "چار",
+                        "translations": [{
+                            "type": "dictionary",
+                            "text": "أربعة",
+                            "phonetic": null
+                        }]
+                    }]
+                }
+            ],
+            "audio_updated_at": 1580691581
+        },
+        {
+            "id": 10607,
+            "vocabulary": 8801,
+            "wordID": 19352,
+            "key": "M2MMejeTXeqoYZVD3jypfF4dsumV4byN",
+            "sols": [{
+                    "key": "M2MMejeTXeqoYZVD3jypfF4dsumV4byN",
+                    "text": "خمسة",
+                    "dictionary": [{
+                        "raw": "خمسة",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "M2MMejeTXeqoYZVD3jypfF4dsumV4byN",
+                    "text": "پانچ",
+                    "phonetic": "paanch",
+                    "dictionary": [{
+                        "raw": "پانچ",
+                        "translations": [{
+                            "type": "dictionary",
+                            "text": "خمسة",
+                            "phonetic": null
+                        }]
+                    }]
+                }
+            ],
+            "audio_updated_at": 1580691577
+        },
+        {
+            "id": 10608,
+            "vocabulary": 8801,
+            "wordID": 19353,
+            "key": "_kZiQWnMijzPfbgmNpVgBgGyN4eNk54t",
+            "sols": [{
+                    "key": "_kZiQWnMijzPfbgmNpVgBgGyN4eNk54t",
+                    "text": "ستة",
+                    "dictionary": [{
+                        "raw": "ستة",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "_kZiQWnMijzPfbgmNpVgBgGyN4eNk54t",
+                    "text": "چھ",
+                    "phonetic": "chhey",
+                    "dictionary": [{
+                        "raw": "چھ",
+                        "translations": [{
+                            "type": "dictionary",
+                            "text": "ستة",
+                            "phonetic": null
+                        }]
+                    }]
+                }
+            ],
+            "audio_updated_at": 1580691598
+        },
+        {
+            "id": 10609,
+            "vocabulary": 8801,
+            "wordID": 19354,
+            "key": "C_s2JcDEsDHuGaFS4lPgXOBOH4F5yXbh",
+            "sols": [{
+                    "key": "C_s2JcDEsDHuGaFS4lPgXOBOH4F5yXbh",
+                    "text": "سبعة",
+                    "dictionary": [{
+                        "raw": "سبعة",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "C_s2JcDEsDHuGaFS4lPgXOBOH4F5yXbh",
+                    "text": "سات",
+                    "phonetic": "saat",
+                    "dictionary": [{
+                        "raw": "سات",
+                        "translations": [{
+                            "type": "dictionary",
+                            "text": "سبعة",
+                            "phonetic": null
+                        }]
+                    }]
+                }
+            ],
+            "audio_updated_at": 1580691592
+        },
+        {
+            "id": 10610,
+            "vocabulary": 8801,
+            "wordID": 19355,
+            "key": "Cf6hZ3N3WCXKrM_3N_kDDxkt0JNyzmW6",
+            "sols": [{
+                    "key": "Cf6hZ3N3WCXKrM_3N_kDDxkt0JNyzmW6",
+                    "text": "ثمانية",
+                    "dictionary": [{
+                        "raw": "ثمانية",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "Cf6hZ3N3WCXKrM_3N_kDDxkt0JNyzmW6",
+                    "text": "آٹھ",
+                    "phonetic": "aath",
+                    "dictionary": [{
+                        "raw": "آٹھ",
+                        "translations": [{
+                            "type": "dictionary",
+                            "text": "ثمانية",
+                            "phonetic": null
+                        }]
+                    }]
+                }
+            ],
+            "audio_updated_at": 1580691569
+        },
+        {
+            "id": 10611,
+            "vocabulary": 8801,
+            "wordID": 19356,
+            "key": "cL4BJrdReY6xtkEtEEdxzgHStEV0tpfi",
+            "sols": [{
+                    "key": "cL4BJrdReY6xtkEtEEdxzgHStEV0tpfi",
+                    "text": "تسعة",
+                    "dictionary": [{
+                        "raw": "تسعة",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "cL4BJrdReY6xtkEtEEdxzgHStEV0tpfi",
+                    "text": "نو",
+                    "phonetic": "no",
+                    "dictionary": [{
+                        "raw": "نو",
+                        "translations": [{
+                            "type": "dictionary",
+                            "text": "تسعة",
+                            "phonetic": null
+                        }]
+                    }]
+                }
+            ],
+            "audio_updated_at": 1580691586
+        },
+        {
+            "id": 10612,
+            "vocabulary": 8801,
+            "wordID": 19357,
+            "key": "d3PSETtC0FSmQGIBT8FBTrD6kRZKlFfg",
+            "sols": [{
+                    "key": "d3PSETtC0FSmQGIBT8FBTrD6kRZKlFfg",
+                    "text": "عشرة",
+                    "dictionary": [{
+                        "raw": "عشرة",
+                        "translations": []
+                    }]
+                },
+                {
+                    "key": "d3PSETtC0FSmQGIBT8FBTrD6kRZKlFfg",
+                    "text": "دس",
+                    "phonetic": "das",
+                    "dictionary": [{
+                        "raw": "دس",
+                        "translations": [{
+                            "type": "dictionary",
+                            "text": "عشرة",
+                            "phonetic": null
+                        }]
+                    }]
+                }
+            ],
+            "audio_updated_at": 1580691604
+        }
     ]
-  },
-  "vItems": [
-    {
-      "id": 10603,
-      "vocabulary": 8801,
-      "wordID": 19348,
-      "key": "zeADIZ_HuwHRMSTT3qwRIiSyofeLFOC0",
-      "sols": [
-        {
-          "key": "zeADIZ_HuwHRMSTT3qwRIiSyofeLFOC0",
-          "text": "واحد",
-          "dictionary": [{ "raw": "واحد", "translations": [] }]
-        },
-        {
-          "key": "zeADIZ_HuwHRMSTT3qwRIiSyofeLFOC0",
-          "text": "one",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "one",
-              "translations": [
-                { "type": "dictionary", "text": "واحد", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543437365
-    },
-    {
-      "id": 10604,
-      "vocabulary": 8801,
-      "wordID": 19349,
-      "key": "mqYJ9P6c7xzKB7JRykEoKWoCzB3XmwcV",
-      "sols": [
-        {
-          "key": "mqYJ9P6c7xzKB7JRykEoKWoCzB3XmwcV",
-          "text": "اثنان",
-          "dictionary": [{ "raw": "اثنان", "translations": [] }]
-        },
-        {
-          "key": "mqYJ9P6c7xzKB7JRykEoKWoCzB3XmwcV",
-          "text": "two",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "two",
-              "translations": [
-                { "type": "dictionary", "text": "اثنان", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543437378
-    },
-    {
-      "id": 10605,
-      "vocabulary": 8801,
-      "wordID": 19350,
-      "key": "fcKyqO8XojQqqMzZ5Rx1cBJKuV-XDwmB",
-      "sols": [
-        {
-          "key": "fcKyqO8XojQqqMzZ5Rx1cBJKuV-XDwmB",
-          "text": "ثلاثة",
-          "dictionary": [{ "raw": "ثلاثة", "translations": [] }]
-        },
-        {
-          "key": "fcKyqO8XojQqqMzZ5Rx1cBJKuV-XDwmB",
-          "text": "three",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "three",
-              "translations": [
-                { "type": "dictionary", "text": "ثلاثة", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543437374
-    },
-    {
-      "id": 10606,
-      "vocabulary": 8801,
-      "wordID": 19351,
-      "key": "hewLaB8rhSbYEtO7_sw9w5svC-7JBaZu",
-      "sols": [
-        {
-          "key": "hewLaB8rhSbYEtO7_sw9w5svC-7JBaZu",
-          "text": "أربعة",
-          "dictionary": [{ "raw": "أربعة", "translations": [] }]
-        },
-        {
-          "key": "hewLaB8rhSbYEtO7_sw9w5svC-7JBaZu",
-          "text": "four",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "four",
-              "translations": [
-                { "type": "dictionary", "text": "أربعة", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543437357
-    },
-    {
-      "id": 10607,
-      "vocabulary": 8801,
-      "wordID": 19352,
-      "key": "d7aWsRRyoWG1FEinDMtDWZXVeRzLJVWF",
-      "sols": [
-        {
-          "key": "d7aWsRRyoWG1FEinDMtDWZXVeRzLJVWF",
-          "text": "خمسة",
-          "dictionary": [{ "raw": "خمسة", "translations": [] }]
-        },
-        {
-          "key": "d7aWsRRyoWG1FEinDMtDWZXVeRzLJVWF",
-          "text": "five",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "five",
-              "translations": [
-                { "type": "dictionary", "text": "خمسة", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543437356
-    },
-    {
-      "id": 10608,
-      "vocabulary": 8801,
-      "wordID": 19353,
-      "key": "nWGFMVXVkAk9silgp8l3VcnTZSSbO_-2",
-      "sols": [
-        {
-          "key": "nWGFMVXVkAk9silgp8l3VcnTZSSbO_-2",
-          "text": "ستة",
-          "dictionary": [{ "raw": "ستة", "translations": [] }]
-        },
-        {
-          "key": "nWGFMVXVkAk9silgp8l3VcnTZSSbO_-2",
-          "text": "six",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "six",
-              "translations": [
-                { "type": "dictionary", "text": "ستة", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543437369
-    },
-    {
-      "id": 10609,
-      "vocabulary": 8801,
-      "wordID": 19354,
-      "key": "_3N-OMOPg6MgQrNrNyrQw3ex25CIegXj",
-      "sols": [
-        {
-          "key": "_3N-OMOPg6MgQrNrNyrQw3ex25CIegXj",
-          "text": "سبعة",
-          "dictionary": [{ "raw": "سبعة", "translations": [] }]
-        },
-        {
-          "key": "_3N-OMOPg6MgQrNrNyrQw3ex25CIegXj",
-          "text": "seven",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "seven",
-              "translations": [
-                { "type": "dictionary", "text": "سبعة", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543437366
-    },
-    {
-      "id": 10610,
-      "vocabulary": 8801,
-      "wordID": 19355,
-      "key": "rdub6_hC3M4000FImhg8X57fVWa4x68m",
-      "sols": [
-        {
-          "key": "rdub6_hC3M4000FImhg8X57fVWa4x68m",
-          "text": "ثمانية",
-          "dictionary": [{ "raw": "ثمانية", "translations": [] }]
-        },
-        {
-          "key": "rdub6_hC3M4000FImhg8X57fVWa4x68m",
-          "text": "eight",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "eight",
-              "translations": [
-                { "type": "dictionary", "text": "ثمانية", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543437349
-    },
-    {
-      "id": 10611,
-      "vocabulary": 8801,
-      "wordID": 19356,
-      "key": "U3_2vklPngCUne6wWQk5cHMkScfNf_n8",
-      "sols": [
-        {
-          "key": "U3_2vklPngCUne6wWQk5cHMkScfNf_n8",
-          "text": "تسعة",
-          "dictionary": [{ "raw": "تسعة", "translations": [] }]
-        },
-        {
-          "key": "U3_2vklPngCUne6wWQk5cHMkScfNf_n8",
-          "text": "nine",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "nine",
-              "translations": [
-                { "type": "dictionary", "text": "تسعة", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543437361
-    },
-    {
-      "id": 10612,
-      "vocabulary": 8801,
-      "wordID": 19357,
-      "key": "pvYPEM7pXRltsMBFh6T16_bwFXlL579G",
-      "sols": [
-        {
-          "key": "pvYPEM7pXRltsMBFh6T16_bwFXlL579G",
-          "text": "عشرة",
-          "dictionary": [{ "raw": "عشرة", "translations": [] }]
-        },
-        {
-          "key": "pvYPEM7pXRltsMBFh6T16_bwFXlL579G",
-          "text": "ten",
-          "phonetic": "",
-          "dictionary": [
-            {
-              "raw": "ten",
-              "translations": [
-                { "type": "dictionary", "text": "عشرة", "phonetic": null }
-              ]
-            }
-          ]
-        }
-      ],
-      "audio_updated_at": 1543437372
-    }
-  ]
 }
